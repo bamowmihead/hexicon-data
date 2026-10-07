@@ -58,7 +58,7 @@
       "file": "locations.json",
       "group": "World",
       "label": "Locations",
-      "rows": 43,
+      "rows": 44,
       "table": "locations"
     },
     {
@@ -408,7 +408,7 @@
       "file": "roster_instances.json",
       "group": "Roster",
       "label": "Roster bodies",
-      "rows": 36,
+      "rows": 37,
       "table": "roster_instances"
     },
     {
