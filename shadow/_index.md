@@ -1,0 +1,1137 @@
+---
+title: Shadow index
+type: root
+last-verified: 2026-10-07
+source: snapshot
+hub: true
+---
+
+# Shadow index
+
+Rebuilt from the snapshot of 2026-10-07. 1001 derived files, 20 inferred files.
+Hubs (15+ links, or a session) load but do not expand; see the contract, section 5.
+
+## Hubs
+
+- [[biomes/deep-amber]] · biome · 32 links
+- [[biomes/amberwood]] · biome · 29 links
+- [[biomes/wetland]] · biome · 25 links
+- [[paints/water]] · ground-paint · 22 links
+- [[locations/big-hill]] · location · 20 links
+- [[locations/flooded-hovel]] · location · 20 links
+- [[locations/verdant-watch]] · location · 20 links
+- [[locations/black-stone]] · location · 19 links
+- [[locations/ironwood-hovel-ruins]] · location · 19 links
+- [[locations/ferry-landing]] · location · 16 links
+- [[locations/the-cackler-lair]] · location · 15 links
+- [[locations/timber-knot-hovel]] · location · 15 links
+- [[locations/wet-flower-field]] · location · 15 links
+- [[retinues/the-party]] · retinue-template · 15 links
+- [[trees/moss]] · tree · 15 links
+
+## Inferred layer (Atlas and Codex, migrated)
+
+- [[concepts/attunement]] · concept · Attunement
+- [[concepts/berserker]] · concept · Berserker
+- [[concepts/berserker-2-0-design]] · concept · Berserker 2.0 — Design (not released)
+- [[concepts/ranger]] · concept · Ranger
+- [[concepts/ranger-2-0-design]] · concept · Ranger 2.0 — Design (not released)
+- [[concepts/soul-energy-and-channeler-design-canon-2026-09-27]] · concept · Soul Energy & Channeler — Design Canon (2026-09-27)
+- [[systems/01-effects-engine]] · system · 01 · Effects Engine
+- [[systems/02-inventory-and-carrying]] · system · 02 · Inventory & Carrying
+- [[systems/03-items-materials-and-economy]] · system · 03 · Items, Materials & Economy
+- [[systems/04-combat-and-resolution]] · system · 04 · Combat & Resolution
+- [[systems/05-magic-and-the-artes]] · system · 05 · Magic & the Artes
+- [[systems/06-vocations-and-progression]] · system · 06 · Vocations & Progression
+- [[systems/07-species-and-bestiary]] · system · 07 · Species & Bestiary
+- [[systems/08-ecology-engine-and-hex-profiles]] · system · 08 · Ecology Engine & Hex Profiles
+- [[systems/09-political-engine-and-factions]] · system · 09 · Political Engine & Factions
+- [[systems/10-companions-houses-and-pcs]] · system · 10 · Companions, Houses & PCs
+- [[systems/11-world-and-cosmology]] · system · 11 · World & Cosmology
+- [[systems/12-session-play-and-gm-tools]] · system · 12 · Session Play & GM Tools
+- [[systems/13-hexicon-app]] · system · 13 · Hexicon App
+- [[systems/14-the-claude-brain]] · system · 14 · The Claude Brain
+
+## Derived files by kind
+
+### abilities (262)
+
+- [[abilities/acid-spit]]
+- [[abilities/acid-spit-2]]
+- [[abilities/acid-spit-3]]
+- [[abilities/acid-spray]]
+- [[abilities/acid-spray-devastating]]
+- [[abilities/acid-spray-heavy]]
+- [[abilities/acid-spray-weak]]
+- [[abilities/acid-vial-coating]]
+- [[abilities/acid-vial-thrown]]
+- [[abilities/anaconda-strike]]
+- [[abilities/anti-air-hammer-swing]]
+- [[abilities/arbalest-shot]]
+- [[abilities/arming-sword-slash]]
+- [[abilities/artillery-reload]]
+- [[abilities/artillery-shell]]
+- [[abilities/batkin-bite]]
+- [[abilities/batkin-claws]]
+- [[abilities/battle-axe-slash]]
+- [[abilities/berserk-tincture]]
+- [[abilities/bite]]
+- [[abilities/bite-2]]
+- [[abilities/bite-3]]
+- [[abilities/bite-4]]
+- [[abilities/bite-5]]
+- [[abilities/bite-6]]
+- [[abilities/blood-suck]]
+- [[abilities/blood-tendril-grab]]
+- [[abilities/blunderbuss-blast]]
+- [[abilities/blunderbuss-reload]]
+- [[abilities/body-slam]]
+- [[abilities/bog-stalker-bite]]
+- [[abilities/bola-throw]]
+- [[abilities/brood-ball-launch]]
+- [[abilities/buckler-bash]]
+- [[abilities/cackling]]
+- [[abilities/camouflage]]
+- [[abilities/canopy-drop]]
+- [[abilities/casque-strike]]
+- [[abilities/cattlepos-stomp]]
+- [[abilities/cestus-punch]]
+- [[abilities/charge]]
+- [[abilities/claws]]
+- [[abilities/claws-10]]
+- [[abilities/claws-11]]
+- [[abilities/claws-2]]
+- [[abilities/claws-3]]
+- [[abilities/claws-4]]
+- [[abilities/claws-5]]
+- [[abilities/claws-6]]
+- [[abilities/claws-7]]
+- [[abilities/claws-8]]
+- [[abilities/claws-9]]
+- [[abilities/claymore-slash]]
+- [[abilities/cleaving-claws]]
+- [[abilities/climb-grab]]
+- [[abilities/coil]]
+- [[abilities/command]]
+- [[abilities/company-reload]]
+- [[abilities/composite-bow-shot]]
+- [[abilities/constrict]]
+- [[abilities/corrosive-tongue]]
+- [[abilities/cosh-strike]]
+- [[abilities/crossbow-reload]]
+- [[abilities/crown-ram]]
+- [[abilities/crown-ram-devastating]]
+- [[abilities/crown-ram-heavy]]
+- [[abilities/crown-ram-small]]
+- [[abilities/crushing-bite]]
+- [[abilities/crushing-claw]]
+- [[abilities/crushing-claw-devastating]]
+- [[abilities/crushing-claw-heavy]]
+- [[abilities/crushing-leap]]
+- [[abilities/crushing-maw]]
+- [[abilities/cudgel-arm]]
+- [[abilities/cudgel-strike]]
+- [[abilities/dagger-claw-kick]]
+- [[abilities/dagger-slash]]
+- [[abilities/death-roll]]
+- [[abilities/defensive-curl]]
+- [[abilities/detonate-powder-keg]]
+- [[abilities/digestive-proboscis]]
+- [[abilities/digging-claw-grab]]
+- [[abilities/digging-claw-grab-devastating]]
+- [[abilities/digging-claw-grab-heavy]]
+- [[abilities/disgusting-claws]]
+- [[abilities/dive-strike]]
+- [[abilities/dodge]]
+- [[abilities/double-firing-crossbow-shot]]
+- [[abilities/drag-under]]
+- [[abilities/dropped-rock]]
+- [[abilities/dust-kick]]
+- [[abilities/elder-charge]]
+- [[abilities/elder-dive-strike]]
+- [[abilities/elder-stomp]]
+- [[abilities/ember-ignition]]
+- [[abilities/engulf]]
+- [[abilities/exploding-arrow-burst]]
+- [[abilities/field-stabilise]]
+- [[abilities/fire-blast]]
+- [[abilities/fire-stick-cone]]
+- [[abilities/fire-stick-line]]
+- [[abilities/fire-whip-lash]]
+- [[abilities/firebolt]]
+- [[abilities/flanged-mace-strike]]
+- [[abilities/flat-bow-shot]]
+- [[abilities/flee]]
+- [[abilities/frog-bite]]
+- [[abilities/gauntlets-punch]]
+- [[abilities/glaive-slash]]
+- [[abilities/glue-excretion]]
+- [[abilities/goblin-glass-arrow-detonation]]
+- [[abilities/goblin-glass-arrowhead]]
+- [[abilities/goblin-glass-gauntlets-punch]]
+- [[abilities/goblin-glass-grip]]
+- [[abilities/goblin-glass-heater-bash]]
+- [[abilities/goblin-glass-javelin-throw]]
+- [[abilities/goblin-glass-longbow-shot]]
+- [[abilities/goblin-glass-mattock-strike]]
+- [[abilities/goblin-glass-morning-star-strike]]
+- [[abilities/goblin-glass-smoke-cloud]]
+- [[abilities/goblin-glass-spear-thrust]]
+- [[abilities/goblin-healing-tincture]]
+- [[abilities/goblin-seed-oil]]
+- [[abilities/gore]]
+- [[abilities/hand-axe-chop]]
+- [[abilities/hand-crossbow-shot]]
+- [[abilities/hand-pick-strike]]
+- [[abilities/headbutt]]
+- [[abilities/heal]]
+- [[abilities/heater-bash]]
+- [[abilities/heavy-crossbow-shot]]
+- [[abilities/horn-charge]]
+- [[abilities/horn-charge-2]]
+- [[abilities/horn-charge-3]]
+- [[abilities/howler-claw]]
+- [[abilities/ikwa-throw]]
+- [[abilities/infrasound-boom]]
+- [[abilities/infusion]]
+- [[abilities/insectivore-formation]]
+- [[abilities/javelin-throw]]
+- [[abilities/javelin-throw-heavy]]
+- [[abilities/khopesh-slash]]
+- [[abilities/kick]]
+- [[abilities/kindling-axe-chop]]
+- [[abilities/kite-bash]]
+- [[abilities/kukri-slash]]
+- [[abilities/labium-strike]]
+- [[abilities/latch]]
+- [[abilities/leg-sweep-charge]]
+- [[abilities/light-crossbow-shot]]
+- [[abilities/lockjaw-curl]]
+- [[abilities/long-bow-shot]]
+- [[abilities/long-sword-slash]]
+- [[abilities/lumber-axe-chop]]
+- [[abilities/mace-chain-strike]]
+- [[abilities/mace-strike]]
+- [[abilities/mace-tail]]
+- [[abilities/mace-tail-2]]
+- [[abilities/man-catcher-grab]]
+- [[abilities/mandible-crush]]
+- [[abilities/marshals-command]]
+- [[abilities/marshals-formation]]
+- [[abilities/matchlock-blunderbuss-fire]]
+- [[abilities/matchlock-musket-fire]]
+- [[abilities/matchlock-pistol-fire]]
+- [[abilities/matchlock-reload]]
+- [[abilities/matchlock-speargun-fire]]
+- [[abilities/mattock-strike]]
+- [[abilities/maul-strike]]
+- [[abilities/metal-knuckles-punch]]
+- [[abilities/metal-torch-strike]]
+- [[abilities/meteor-hammer-strike]]
+- [[abilities/morning-star-chain-strike]]
+- [[abilities/morning-star-strike]]
+- [[abilities/moss-camouflage]]
+- [[abilities/mounted-gun-fire]]
+- [[abilities/mounted-gun-reload]]
+- [[abilities/net-throw]]
+- [[abilities/onos-stomp]]
+- [[abilities/partisan-thrust]]
+- [[abilities/pavise-bash]]
+- [[abilities/peck]]
+- [[abilities/peck-small]]
+- [[abilities/pick-axe-strike]]
+- [[abilities/pike-drive]]
+- [[abilities/pike-impale]]
+- [[abilities/pike-stab]]
+- [[abilities/pike-thrust]]
+- [[abilities/pinch]]
+- [[abilities/pole-hammer-strike]]
+- [[abilities/proboscis-drain]]
+- [[abilities/pseudopod-slash]]
+- [[abilities/psionic-walnut-scout]]
+- [[abilities/psionic-walnut-send]]
+- [[abilities/punch]]
+- [[abilities/quarter-staff-strike]]
+- [[abilities/razor-scales]]
+- [[abilities/rear-kick]]
+- [[abilities/recurve-bow-shot]]
+- [[abilities/rope-dart-strike]]
+- [[abilities/set-mining-charge]]
+- [[abilities/set-timed-charge]]
+- [[abilities/set-tree-ripper-charge]]
+- [[abilities/shield-bash]]
+- [[abilities/shield-block]]
+- [[abilities/short-bow-shot]]
+- [[abilities/short-spear-thrust]]
+- [[abilities/shovel-claw]]
+- [[abilities/skull-bash]]
+- [[abilities/sling-shot]]
+- [[abilities/snotling-bite]]
+- [[abilities/snotling-dodge]]
+- [[abilities/snotling-scratch]]
+- [[abilities/sting]]
+- [[abilities/submerge]]
+- [[abilities/swallow-whole]]
+- [[abilities/swarm-nip]]
+- [[abilities/tail-compaction-slap]]
+- [[abilities/tail-compaction-slap-devastating]]
+- [[abilities/tail-compaction-slap-heavy]]
+- [[abilities/tail-fan-slap]]
+- [[abilities/tail-sweep]]
+- [[abilities/tail-swipe]]
+- [[abilities/talon-pin]]
+- [[abilities/targe-bash]]
+- [[abilities/tendril-wrap]]
+- [[abilities/tentacle-grab]]
+- [[abilities/tetsubo-strike]]
+- [[abilities/throw-frag-grenade]]
+- [[abilities/throw-impact-frag-grenade]]
+- [[abilities/throw-sticky-frag-grenade]]
+- [[abilities/throwing-axe-throw]]
+- [[abilities/throwing-knife-throw]]
+- [[abilities/tinkerers-bow-shot]]
+- [[abilities/tongue-drain]]
+- [[abilities/tongue-grapple]]
+- [[abilities/tongue-grapple-2]]
+- [[abilities/tongue-lash-weak]]
+- [[abilities/tongue-liquefy]]
+- [[abilities/torpor-bite]]
+- [[abilities/tower-bash]]
+- [[abilities/toxic-tongue]]
+- [[abilities/toxic-tongue-2]]
+- [[abilities/tunnel-charge]]
+- [[abilities/tusk-cleave]]
+- [[abilities/tusk-cleave-2]]
+- [[abilities/tusk-gore]]
+- [[abilities/tusk-gore-2]]
+- [[abilities/tusk-ram]]
+- [[abilities/venom-bite]]
+- [[abilities/venom-bite-2]]
+- [[abilities/venomous-pincer]]
+- [[abilities/vine-grab]]
+- [[abilities/war-axe-slash]]
+- [[abilities/war-pick-strike]]
+- [[abilities/warg-bite]]
+- [[abilities/warg-claws]]
+- [[abilities/warhammer-strike]]
+- [[abilities/whip-crack]]
+- [[abilities/wing-clap]]
+- [[abilities/wing-clap-2]]
+- [[abilities/wooden-torch-strike]]
+
+### biomes (11)
+
+- [[biomes/amber-shoreline]]
+- [[biomes/amber-undergrove]] — **Sound:** Creaking and groaning of living roots shifting under the weight of the forest above.
+- [[biomes/amberwood]] — **Sound:** Constant rustling in the bushes and understory trees day & night.
+- [[biomes/deep-amber]] — **Sound:** Howls, chirps, rattles, & clicks ever present in the day.
+- [[biomes/dry-caverns]] — **Sound:** Daytime — flapping, clicking, occasional hissing, even deafening.
+- [[biomes/eel-waters]]
+- [[biomes/fungal-caverns]] — **Sound:** Sound does not echo.
+- [[biomes/highlands]]
+- [[biomes/jungle-caverns]] — **Sound:** Only the underground river.
+- [[biomes/wetland]] — **Sound:** The Wetlands are silent day & night — only moving water, and an occasional rustle in brush or splash in the water.
+- [[biomes/wetland-shoreline]]
+
+### branches (6)
+
+- [[branches/companies]]
+- [[branches/grafted]]
+- [[branches/hermit]]
+- [[branches/houses]]
+- [[branches/steward]]
+- [[branches/trades]]
+
+### companies (1)
+
+- [[companies/the-company]]
+
+### companions (4)
+
+- [[companions/beast]]
+- [[companions/companion]]
+- [[companions/living-armor]]
+- [[companions/spirit]]
+
+### conditions (46)
+
+- [[conditions/adrenaline]]
+- [[conditions/aether-deviation]]
+- [[conditions/anima-deviation]]
+- [[conditions/bleeding]] — Bleeding freely — 5 Endurance at the end of every round until it is stopped.
+- [[conditions/blinded]] — Target cannot see; auto-misses sight-based attacks.
+- [[conditions/charmed]] — Target perceives the caster as a friend; cannot harm them.
+- [[conditions/coagulants]]
+- [[conditions/concussed]] — Mental haze; -2 to mental attribute checks.
+- [[conditions/cursed]] — Persistent magical affliction; specific effect varies by curse.
+- [[conditions/cytotoxins]]
+- [[conditions/deafened]] — Target cannot hear; auto-fails hearing-based checks.
+- [[conditions/disarmed]] — Target drops what they're wielding.
+- [[conditions/diseased]] — Persistent affliction; specific effect varies by disease.
+- [[conditions/drunkenness]]
+- [[conditions/encased]] — Hardened by umbra to Speed 0: encased, suffocating over minutes.
+- [[conditions/exhaustion]]
+- [[conditions/food-poisoning]]
+- [[conditions/fractured]] — Persistent injury reducing movement / accuracy until healed.
+- [[conditions/frightened]] — Target must flee; disadvantage on attacks vs source.
+- [[conditions/grappled]] — Target's movement reduced to 1; tier 1 of the grapple escalation.
+- [[conditions/guttering]] — Endurance drained to 0 by a siphon: it stays at 0, speed is halved, and any damage wounds.
+- [[conditions/heavy-bleeding]] — A big wound bleeding hard, though no major artery — 10 Endurance at the end of every round until it is stopped.
+- [[conditions/hemorrhage]] — A major artery is open.
+- [[conditions/hemotoxins]]
+- [[conditions/hunger]]
+- [[conditions/ichor-deviation]]
+- [[conditions/invisible]] — Target cannot be seen; attacks against gain disadvantage.
+- [[conditions/knocked-back]] — Target hurled away from the source.
+- [[conditions/knocked-prone]] — Target is on the ground; melee attackers gain advantage.
+- [[conditions/lifted]] — Target raised into the air; falling damage on release.
+- [[conditions/light-bleeding]] — Bleeding from a shallow wound — 2 Endurance at the end of every round until it is stopped.
+- [[conditions/metabolic-poison]]
+- [[conditions/nerve-agents]]
+- [[conditions/neurotoxins]]
+- [[conditions/paralyzed]] — Target cannot move or act; auto-fails physical saves.
+- [[conditions/pinned]] — Target cannot move; tier 2.
+- [[conditions/pulled]] — Target pulled toward the source.
+- [[conditions/radiation]]
+- [[conditions/restrained]] — Target cannot move OR take physical actions; tier 3.
+- [[conditions/rooted]] — Acting through a root clone: the body roots in place (Speed 0) until the last clone is gone.
+- [[conditions/shoved]] — Target pushed away from the source.
+- [[conditions/slowed]] — Target's speed halved.
+- [[conditions/staggered]] — Target loses next reaction; flat-footed for 1 round.
+- [[conditions/stunned]] — Target loses next turn entirely.
+- [[conditions/thirst]]
+- [[conditions/umbra-deviation]]
+
+### creatures (190)
+
+- [[creatures/academy-rep]] — [STUB]
+- [[creatures/amos]] — Loyal-to-a-fault sociopath — athletic, agile, and leashed.
+- [[creatures/angler-squid]] — Translucent.
+- [[creatures/ash-grove-grunt]] — Rank-and-file Circle hand on the Amberwood cull.
+- [[creatures/axe-crown]] — Large solitary ground bird.
+- [[creatures/black-company-crossbowman]] — Light crossbow, and the drill to reload it inside one action.
+- [[creatures/black-company-pikeman]] — Partisan and nothing else.
+- [[creatures/black-guard]] — Mixed ex-faction crew, leashed by the prison tattoo, armed with firebolts.
+- [[creatures/bledger]]
+- [[creatures/blood-badger]] — Honey-badger berserkers who hunt in a trance-fueled pack.
+- [[creatures/blood-worms]] — Pale wormy things latching onto your legs the moment you wade in.
+- [[creatures/bog-stalker]] — Low-slung, broad-jawed, slick-skinned.
+- [[creatures/bore-weasels-swarm]] — Rat-sized weasels with dull brown-black fur.
+- [[creatures/bowling-beetle]] — Small beetle with a broad armored head plate and a dark metallic sheen.
+- [[creatures/briar]] — Vine ranger, loyal to a fault.
+- [[creatures/cackarina]]
+- [[creatures/cackler]] — Dog-sized, matted dark fur, stinks of rot.
+- [[creatures/cackler-matriarch]] — Horse-sized pack heart.
+- [[creatures/cackler-pup]]
+- [[creatures/canopy-clutch]] — Looks exactly like Leanda's Hair hanging from the canopy.
+- [[creatures/captain-jack-black]] — The hidden hand of the Black Company — plays dumb, cuts sharp.
+- [[creatures/captain-mandy]] — The Red Bands' captain, hired muscle keeping the reckless scholars alive.
+- [[creatures/carni-batkin]]
+- [[creatures/carni-batkin-blunderbuss]] — Flight 10 m · walk 6 m · 4 endurance per turn airborne.
+- [[creatures/carni-batkin-long-spear]] — Flight 10 m · walk 6 m · 4 endurance per turn airborne.
+- [[creatures/carni-batkin-tank]] — Flight 10 m · walk 6 m · 4 endurance per turn airborne.
+- [[creatures/cattlepos]] — A massive nearly elephant-sized creature with thick matted fur.
+- [[creatures/cattlepos-eating-anaconda]] — Longer than a fallen tree.
+- [[creatures/cave-webs]] — A white sticky lichen with long dread-like strands
+- [[creatures/church-rep]] — [STUB]
+- [[creatures/circle-elder]] — [STUB] A Druidic Circle elder trying to stop a Circle-Guild war.
+- [[creatures/circle-rep]] — [STUB]
+- [[creatures/columbo]] — Fletcher's lieutenant determined to protect the apex.
+- [[creatures/crushers-giant-frog]] — Bigger than a grizzly bear.
+- [[creatures/dalenar]] — The Geomancer who raises the research structure and walkways from the earth itself.
+- [[creatures/decrepit-lichen-sentry]] — Brown Lichen covering stone body.
+- [[creatures/decrepit-lichen-sentry-sentinel]] — Largest golem in the tower at 10ft tall.
+- [[creatures/decrepit-lichen-sentry-warden]] — 8ft tall stone golem with massive shield arm.
+- [[creatures/dehvehk]]
+- [[creatures/donny]]
+- [[creatures/dragonfly]] — It wasn't chasing you.
+- [[creatures/dragonfly-adult]] — It wasn't chasing you.
+- [[creatures/dragonfly-emergent]] — A split husk at the waterline, still wet.
+- [[creatures/dragonfly-hatchling-swarm]] — The water moves wrong.
+- [[creatures/dragonfly-juvenile-swarm]] — Don't trail your hands.
+- [[creatures/dragonfly-nymph]] — Something moved beneath the boat.
+- [[creatures/ember-vine]] — A rapidly growing orange vine which releases a sweet-smelling resin
+- [[creatures/eska]] — Tree ranger and camp-mom canary — grew the sandbox town.
+- [[creatures/eternal-chapter-grunt]] — [STUB]
+- [[creatures/eternal-chapter-sensate]] — [STUB]
+- [[creatures/example-entry]]
+- [[creatures/exiled-chapter-grunt]] — Foot soldier of the husk-heresy church.
+- [[creatures/fenn]] — A well-trained page riding with the Iron Band.
+- [[creatures/filter-fungus]] — A giant deep blue-red fungus with a swiss-cheese fruiting body
+- [[creatures/fishing-batkin]]
+- [[creatures/fishing-batkin-anti-air]] — Flight 15 m level, 20 m diving · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/fishing-batkin-bomber]] — Flight 15 m level, 20 m diving · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/fishing-batkin-dropper]] — Flight 15 m level, 20 m diving · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/fishing-batkin-sniper]] — Flight 15 m level, 20 m diving · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/flash-fungus]] — A small purple fungus with glowing pods releasing blue light
+- [[creatures/fletchers-co-op-squad]] — Disciplined hobbit harvesters with twice-firing crossbows.
+- [[creatures/fruit-batkin]]
+- [[creatures/fruit-batkin-battle]] — Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/fruit-batkin-carrier]] — Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/galedrial]] — Inquisitor dragged into the Chapter — the lever.
+- [[creatures/galium]]
+- [[creatures/galium-2]]
+- [[creatures/gimler]] — Tall as a human at the shoulder, most of that height in the legs.
+- [[creatures/gimler-adolescent]] — Dog-sized with disproportionately long legs.
+- [[creatures/gimler-adult]] — Tall as a human at the shoulder, most of that height in the legs.
+- [[creatures/gimler-elder]] — Taller than a horse and lean as a spear.
+- [[creatures/gimler-young]] — A spindly thing barely the size of a squirrel.
+- [[creatures/goblin-fingers]] — A snot-colored vine which grows rapidly towards metallic objects
+- [[creatures/grackle]] — Page
+- [[creatures/guild-apprentice]] — Academy note-takers documenting the fungal anomaly at close, dangerous range.
+- [[creatures/guild-merc]] — Elite professional muscle of the Iron Band.
+- [[creatures/guild-mercenary]] — Elite professional muscle of the Iron Band.
+- [[creatures/guild-rep]] — [STUB]
+- [[creatures/heilmind]] — The mycelial engine of the dead — colonized flesh blooming a flower-field that climbs toward the anomaly.
+- [[creatures/howlers]] — Small marsupial with a belly pouch and grasping hands.
+- [[creatures/human]] — Guild-adjacent mercenaries from Riftstone.
+- [[creatures/humble]] — The true-believer hulk who leads the Iron Band's hunt.
+- [[creatures/inquisitor-needs-name]]
+- [[creatures/insectivore-batkin]]
+- [[creatures/insectivore-batkin-commander]] — Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/insectivore-batkin-rifle]] — Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/insectivore-batkin-slinger]] — Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/insectivore-batkin-spear-buckler]] — Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/iron-band-grunt]] — Untrained levy used as flesh-shields.
+- [[creatures/jeckil]] — The anxious Aeromancer whose air-bubble keeps the spores at bay.
+- [[creatures/jimothy]] — Laborer
+- [[creatures/keethee]] — Arborist shaman of the Keethee — telekinesis and telepathy, riding an elder gimler.
+- [[creatures/keethee-arborist]] — Gimler-mounted arborist goblin of the shared Keethee mind.
+- [[creatures/korven]]
+- [[creatures/leanda]]
+- [[creatures/leanda-2]]
+- [[creatures/leandas-hair]] — A hanging verdant vine looking oddly like the hair of a scholar you know
+- [[creatures/leela]] — The decoy artificer — a canary, not a fighter.
+- [[creatures/lily-snatcher]] — Lily pads with tendrils underneath.
+- [[creatures/lily-snatcher-blood]] — Mature Lily Snatchers.
+- [[creatures/loggerhead]] — Thigh-high barrel-bodied animal, as wide as it is tall.
+- [[creatures/master-craftsman-needs-name]]
+- [[creatures/mole-cricket]] — Wolf-sized armored cricket.
+- [[creatures/moly-poly]] — Dog-sized armored isopod.
+- [[creatures/mordant]] — Sensate lead of the Exiled Chapter — husk heresy, both arts.
+- [[creatures/moss-python]] — Forearm-length snakes draped on branches and roots.
+- [[creatures/mud-skipper]] — Broad flat fish the size of a large dog.
+- [[creatures/mudback-goblin-zombie]] — A small body dragged back to its feet by fungus.
+- [[creatures/mycelial-undead]] — A body taken by the fungus.
+- [[creatures/necromech-cattlepos]]
+- [[creatures/newt]] — Company medic.
+- [[creatures/ngehm]]
+- [[creatures/oasis-maw]] — You don't see this creature.
+- [[creatures/oldin]] — Black Company.
+- [[creatures/onos]] — Broad as a cart and built like a living barricade.
+- [[creatures/onos-adolescent]] — Waist-high and wide as a barrel.
+- [[creatures/onos-adult]] — Broad as a cart and built like a living barricade.
+- [[creatures/onos-elder]] — Fills a large chamber doorway crown-edge to crown-edge.
+- [[creatures/onos-young]] — A stocky low-slung creature no bigger than a dog.
+- [[creatures/ork]]
+- [[creatures/ork-berserker]] — Hammer and axe.
+- [[creatures/ork-pack-leader]] — Long sword and warhammer, and a third swing.
+- [[creatures/ork-piker]] — Long spear and buckler.
+- [[creatures/ork-pyromancer]] — Firebolt, Fire Blast and a Fire Whip.
+- [[creatures/ork-skirmisher]] — Blade and shield.
+- [[creatures/ork-sniper]] — Long bow.
+- [[creatures/ork-zombie]] — A dead ork still swinging.
+- [[creatures/page]] — Page
+- [[creatures/palen]] — Inquisitor husker and hoarder who barely fights.
+- [[creatures/phteve]]
+- [[creatures/pillow-moss]] — A plushy dark green moss as soft as a pillow
+- [[creatures/pygmy-hog]] — Knee-high hogs in packs of a dozen or more.
+- [[creatures/pygmy-hog-swarm]] — A massive feeding herd acting as one aggressive body.
+- [[creatures/quetzalittle]] — Small flying reptiles with iridescent scales.
+- [[creatures/quilled-vole]] — Root-chewing prey whose gut spins raw iron into rusty quills — the co-op's living iron harvest.
+- [[creatures/rathos]] — The regal, centuries-old revenant of the collapsed tower — an ally of convenience first, a future antagonist after.
+- [[creatures/red-band]] — Red Bands merc goons in hazmat robes, spears and bows ready.
+- [[creatures/rock-shell]] — Chest-high and long as a cart.
+- [[creatures/rock-shell-adolescent]] — Knee-high and long as a dog.
+- [[creatures/rock-shell-adult]] — Chest-high and long as a cart.
+- [[creatures/rock-shell-elder]] — Wagon-sized crawdad.
+- [[creatures/rock-shell-young]] — Cat-sized crawdad.
+- [[creatures/rock-vine]] — A thick inflexible vine which grows cracked grey bark as hard as stone
+- [[creatures/rot-hornets]] — Angry black hornets swarming from hollowed rotten logs.
+- [[creatures/ruffian]] — Guild-adjacent mercenaries from Riftstone.
+- [[creatures/sandbox-tree]] — A spiky tree with explosive fragmentation nuts
+- [[creatures/scribe]] — Academy note-takers documenting the fungal anomaly at close, dangerous range.
+- [[creatures/semille]]
+- [[creatures/sennick]] — Druid lead who burns a hex to seed a new biome — ends justify the means.
+- [[creatures/sentry]] — Brown Lichen covering stone body.
+- [[creatures/silfrena]] — The Lector who leads the expedition and would never dirty her hands with combat.
+- [[creatures/skar]] — The biggest Blood Badger, who talked the pack into killing the guilders.
+- [[creatures/skitter-worm]] — A centipede as long as a tall human and thick as a thigh.
+- [[creatures/slime-eels]] — The water's surface has a thick opalescent sheen.
+- [[creatures/snot-pots]] — An orange pitcher plant containing green sticky caustic liquid
+- [[creatures/snotling]] — Wears bone armor.
+- [[creatures/snotling-archer]] — Wears camouflage.
+- [[creatures/snotling-piker]] — Wears bone armor.
+- [[creatures/snotling-stalker]] — Wears dark clothing with hood.
+- [[creatures/soren]] — The Iron Band's doctor and conscience, sick of patching flesh-shield grunts.
+- [[creatures/sparkle-berry-bush]] — A short bush growing prismatic sparkling red berries
+- [[creatures/stalker-bat]] — Eagle-sized bat with dark fur that vanishes against the night canopy.
+- [[creatures/stinky]] — A massive nearly elephant-sized creature with thick matted fur.
+- [[creatures/stinky-2]]
+- [[creatures/sunstone-ooze]] — An amorphous translucent mass the size of a horse.
+- [[creatures/tent-maker-batkin]]
+- [[creatures/tent-maker-batkin-artillery]] — Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/tent-maker-batkin-mounted-gun]] — Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/tent-maker-batkin-trap-ambusher]] — Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
+- [[creatures/terry]] — The thicc hobbit rep who runs Fletcher's Co-op by vote.
+- [[creatures/the-company-cart]]
+- [[creatures/trapper]]
+- [[creatures/trapper-2]]
+- [[creatures/trunk-devil]] — Tall, spindly, bark-textured legs like tree trunks.
+- [[creatures/trunk-devil-larva]] — Forearm-sized grubs burrowed into amber fir bark.
+- [[creatures/val]]
+- [[creatures/vampiric-batkin]]
+- [[creatures/vampiric-batkin-assassin]] — Flight 10 m · walk 6 m · 4 endurance per turn airborne.
+- [[creatures/vampiric-batkin-grappler]] — Flight 10 m · walk 6 m · 4 endurance per turn airborne.
+- [[creatures/vampiric-batkin-thrower]] — Flight 10 m · walk 6 m · 4 endurance per turn airborne.
+- [[creatures/verdant]]
+- [[creatures/verdant-2]]
+- [[creatures/verdant-goats]] — Horse-sized goat with thick fur patterned to match the local foliage.
+- [[creatures/walker]]
+- [[creatures/warg]] — Quadruped.
+- [[creatures/wheeler]]
+- [[creatures/wheeler-2]]
+- [[creatures/zinther]]
+- [[creatures/zinther-2]]
+- [[creatures/zomb]]
+
+### encounters (12)
+
+- [[encounters/amberwood-day-rest]]
+- [[encounters/amberwood-day-travel]]
+- [[encounters/amberwood-night-rest]]
+- [[encounters/amberwood-night-travel]]
+- [[encounters/deep-amber-day-rest]]
+- [[encounters/deep-amber-day-travel]]
+- [[encounters/deep-amber-night-rest]]
+- [[encounters/deep-amber-night-travel]]
+- [[encounters/wetland-day-rest]]
+- [[encounters/wetland-day-travel]]
+- [[encounters/wetland-night-rest]]
+- [[encounters/wetland-night-travel]]
+
+### factions (5)
+
+- [[factions/the-druidic-circle]]
+- [[factions/the-guild]]
+- [[factions/the-runites]]
+- [[factions/the-sensates]]
+- [[factions/the-underworld]]
+
+### foci (7)
+
+- [[foci/untitled]]
+- [[foci/untitled-2]]
+- [[foci/untitled-3]]
+- [[foci/untitled-4]]
+- [[foci/untitled-5]]
+- [[foci/untitled-6]]
+- [[foci/untitled-7]]
+
+### houses (4)
+
+- [[houses/gallia]]
+- [[houses/jarraxus]]
+- [[houses/serenity]]
+- [[houses/shawnanigans]]
+
+### items (255)
+
+- [[items/acid-vial]] — 2 AP thrown: 2d6 acid, 2 m radius, range 7 + Might m.
+- [[items/alchemists-kit]] — The working kit for brewing — required for base-crafting like rendering tar.
+- [[items/amulet]] — A worn foci.
+- [[items/anti-air-hammer]] — A long two-handed hammer for swatting things out of the air.
+- [[items/arbalest]]
+- [[items/arming-sword]]
+- [[items/armor-plating]] — Cart: +3 Defense (3 → 6).
+- [[items/arrows]] — Standard arrows for bows.
+- [[items/artificers-gem-tattoo-tools]] — An artificer's kit for inking and gem-setting heat-exchange tattoos.
+- [[items/baggie-of-cocaine]] — A large bag of cocaine
+- [[items/barding-cattlepos]] — +2 Defense · +2 saddlebag slots.
+- [[items/barding-horse]] — +2 Defense · +2 saddlebag slots.
+- [[items/basal-stone]]
+- [[items/basic-saddle-cattlepos]] — +2 passengers · +2 saddlebag slots.
+- [[items/basic-saddle-horse]] — +1 passenger · +2 saddlebag slots.
+- [[items/batkin-artillery]] — Indirect fire at three hundred metres.
+- [[items/battle-axe]]
+- [[items/beast-gear-cattlepos]] — Armor worked from cattlepos beast hide.
+- [[items/belt]]
+- [[items/berserk-tincture]] — 1 AP to drink.
+- [[items/bio-rope]]
+- [[items/blackthorn]] — Garden crop (ingredient).
+- [[items/blood-red-armband]] — A blood-red armband — the Red Bands' identifier.
+- [[items/bodkin-bolts]] — Armor-piercing crossbow bolts (bodkin tips).
+- [[items/bola]]
+- [[items/bolts]] — Standard bolts for crossbows.
+- [[items/bone]]
+- [[items/bone-ash-bricks]]
+- [[items/brigandine]]
+- [[items/buckler]]
+- [[items/bulls-eye-lantern]] — Fuel: Oil.
+- [[items/calcinated-bones]]
+- [[items/canopy-platform-saddle]] — +4 passengers · +4 saddlebag slots · −2 Speed.
+- [[items/cargo-canopy]] — Cart: cargo shelter Open → Covered (protects cargo from weather).
+- [[items/cartridge-box]] — Required for Matchlock Firearms
+- [[items/cave-sight-brew]] — Alchemical brew granting sight in the dark (cave sight).
+- [[items/cave-webs-spores]] — Plant from the Cultivation tab — sprouts a Cave Webs.
+- [[items/cestus]]
+- [[items/chiseled-chitin]]
+- [[items/chitin]]
+- [[items/claymore]]
+- [[items/composite-bow]]
+- [[items/cosh]]
+- [[items/cudgel]]
+- [[items/cuirass]]
+- [[items/dagger]]
+- [[items/dimmable-lantern]] — A lantern with adjustable brightness — dim to a sliver or open full.
+- [[items/double-firing-crossbow]] — A custom crossbow that fires TWICE before reloading.
+- [[items/dried-moss-salad]] — Acts as rations.
+- [[items/dropped-rock]] — A rock, carried up and let go of.
+- [[items/elixir-base]] — Brew base for Elixirs — requires acid; some can be made from saltpeter.
+- [[items/ember-vine-seed]] — Plant from the Cultivation tab — sprouts a Ember Vine.
+- [[items/empty-containment-unit]] — A 'pokeball'-type vessel that holds a creature as large as a Cattlepos alive and unharmed.
+- [[items/endurance-tincture]] — Restores 6 Endurance (Blackthorn).
+- [[items/expedition-pack]]
+- [[items/exploding-arrows]] — Special ammo.
+- [[items/extra-scabbard]] — Equip an extra versatile or 1-Hand weapon or two Light weapons
+- [[items/filter-fungus-spores]] — Plant from the Cultivation tab — sprouts a Filter Fungus.
+- [[items/fire-stick]] — 2 AP: a 3 m cone OR a 6 m x 1 m line, 2d6 fire.
+- [[items/fire-whip]] — A five-metre lash of fire.
+- [[items/firebolt-tattoo]] — Banks heat from a fire into a gem, then releases a heat wave that flashes oxygen-rich air to flame.
+- [[items/firewood]]
+- [[items/flanged-mace]]
+- [[items/flash-fungus-spores]] — Plant from the Cultivation tab — sprouts a Flash Fungus.
+- [[items/flat-bow]]
+- [[items/flint-kit]]
+- [[items/frag-grenade]] — 2 AP to throw (draw, light, throw), range 4 + Might×2 m.
+- [[items/fresh-rations]] — Lasts 3 days.
+- [[items/full-plate]]
+- [[items/gambeson]]
+- [[items/gauntlets]]
+- [[items/gem-jewelry]] — Gem-set jewelry an elementalist seeds elementals through (air bubble, filtration).
+- [[items/glaive]]
+- [[items/glove]] — A worn foci.
+- [[items/glow-vine-sap]] — Garden crop (topical agent).
+- [[items/goblin-fingers-seed]] — Plant from the Cultivation tab — sprouts a Goblin Fingers.
+- [[items/goblin-glass-arrows]] — Arrows inlaid with goblin glass.
+- [[items/goblin-glass-gauntlets]] — Goblin-forged gauntlets inlaid with goblin glass.
+- [[items/goblin-glass-heater]] — A heater shield inlaid with goblin glass.
+- [[items/goblin-glass-javelin]] — A javelin inlaid with goblin glass.
+- [[items/goblin-glass-longbow]] — A longbow inlaid with goblin glass.
+- [[items/goblin-glass-mattock]] — A mattock inlaid with goblin glass.
+- [[items/goblin-glass-morning-star]] — A morning star inlaid with goblin glass.
+- [[items/goblin-glass-skull]] — A strange skull, inlaid with goblin glass.
+- [[items/goblin-glass-spear]] — Fine goblin steel inlaid with goblin glass, like gemstones.
+- [[items/goblin-healing-tincture]] — Goblin-brewed.
+- [[items/goblin-seed-oil]] — 1 AP to use, then 1 AP to cultivate.
+- [[items/gorilla-soul]] — An off-world trance soul — a gorilla
+- [[items/grave-gem]] — Solid ichor holding anima.
+- [[items/growth-oil]] — Topical — makes plants grow (Glow Vine Sap + Tallow Bloom oil base).
+- [[items/half-plate]]
+- [[items/hand-axe]]
+- [[items/hand-crossbow]]
+- [[items/hand-pick]]
+- [[items/hazmat-robes]] — Head-to-toe hooded & cowled robes, gloves, heavy boots — shields the wearer from spores/hazards.
+- [[items/heat-exchange-tattoo]] — Jack Black's discipline — relocate heat (the basis of his whole arsenal).
+- [[items/heat-siphon-tattoo]] — Lieutenant's tattoo — pull heat from a grappled target (cryo) to charge an inlaid gem.
+- [[items/heater]]
+- [[items/heavy-crossbow]]
+- [[items/hemotoxic-oil]] — Blood-toxin weapon coating.
+- [[items/hip-pouch]]
+- [[items/hooded-lantern]] — Fuel: Oil.
+- [[items/huge-blunderbuss]] — A bell-mouthed gun built for arms the size of a Carni's.
+- [[items/ichor-vial]] — Holds refined ichor.
+- [[items/ikwa]]
+- [[items/impact-frag-grenade]] — 2 AP to throw (draw, light, throw), range 4 + Might×2 m.
+- [[items/infused-rations]] — Lasts 3 days.
+- [[items/iron-banding]] — Cart: removes the Splitting weakness · +5 Durability.
+- [[items/javelin]]
+- [[items/khopesh]]
+- [[items/kindling-axe]]
+- [[items/kite]]
+- [[items/kudzu-seed]] — An off-world cultivar — an aggressive, smothering vine that local ecology won't expect.
+- [[items/kukri]]
+- [[items/lamellar]]
+- [[items/lantern-hook]] — Equip one Lantern in this slot
+- [[items/large-bones]]
+- [[items/leandas-hair-seed]] — Plant from the Cultivation tab — sprouts a Leanda's Hair.
+- [[items/lifting-harness-cattlepos]] — Rigging: the mount can be lifted by block & tackle.
+- [[items/lifting-harness-horse]] — Rigging: the mount can be lifted by block & tackle.
+- [[items/light-crossbow]]
+- [[items/logs]]
+- [[items/long-bow]]
+- [[items/long-sword]]
+- [[items/lumber]]
+- [[items/lumber-axe]]
+- [[items/mace]]
+- [[items/mace-chain]]
+- [[items/man-catcher]]
+- [[items/matchbox]]
+- [[items/matchlock-balls]] — Standard shot for matchlock firearms.
+- [[items/matchlock-blunderbuss]]
+- [[items/matchlock-musket]]
+- [[items/matchlock-pistol]]
+- [[items/matchlock-speargun]]
+- [[items/mattock]]
+- [[items/maul]]
+- [[items/medkit]] — A field medical kit for treating wounds during/after combat.
+- [[items/metal-knuckles]]
+- [[items/metal-torch]]
+- [[items/meteor-hammer]]
+- [[items/might-tattoo]] — Soul-Force tattoo — spend to enhance Might (1 use/combat).
+- [[items/mineral-gem]] — Holds aether, inert while inside.
+- [[items/mining-charge]] — Placed only (2 full rounds to set up), blows in 5 rounds: 4d4 Force/Psionic in 5 m (ignores Defense) plus 15 fragments of 1d4 Pick scattered over 10 m, each mee…
+- [[items/morning-star]]
+- [[items/morning-star-chain]]
+- [[items/mounted-gun]] — A crew-served gun, carried into the fight on something bigger.
+- [[items/nail]] — A shareable foci: a rechargeable spell slot a Channeler hands to another player to use themselves.
+- [[items/net]]
+- [[items/oil-base]] — Brew base for Oil coatings.
+- [[items/oil-flask]]
+- [[items/oil-lantern]] — Fuel: Oil.
+- [[items/partisan]]
+- [[items/passenger-bench]] — Cart: +2 passengers (2 → 4).
+- [[items/pavise]]
+- [[items/peace-weed-seed]] — An off-world cultivar with no Calderan analog.
+- [[items/phospher-torch]] — 7m radius light.
+- [[items/pick-axe]]
+- [[items/pike]]
+- [[items/pillow-moss]]
+- [[items/pillow-moss-seed]] — Plant from the Cultivation tab — sprouts a Pillow Moss.
+- [[items/pitch-rope]]
+- [[items/pole-hammer]]
+- [[items/porters-pack]]
+- [[items/powder-base]] — Brew base for Powder covers — made from clay, practically anywhere in the starting area.
+- [[items/powder-keg]] — Storage + bomb: holds 25 lb of powder.
+- [[items/prison-tattoo]] — Black Company leash tattoo across the entire back side — a 3-tier heat-theft punishment (punish / incapacitate / lethal).
+- [[items/psionic-walnut]] — A psychoactive tree nut.
+- [[items/quarried-stone]]
+- [[items/quarter-staff]]
+- [[items/quick-release-harness-cattlepos]] — Cart harness that releases the beast for 1 AP.
+- [[items/quick-release-harness-horse]] — Cart harness that releases the beast for 1 AP.
+- [[items/quipu]] — Quipu — a story item given by the goblins to prove the bearer is a friend of the goblins.
+- [[items/quiver]] — Required for Bows & Crossbows
+- [[items/quiver-2]]
+- [[items/rage-tincture]] — A tincture that sends the drinker into a combat rage.
+- [[items/raptor-soul]] — An off-world trance soul — a raptor
+- [[items/ration-bag]]
+- [[items/reagent-tool]]
+- [[items/recurve-bow]]
+- [[items/resin-oil]] — Standard fuel.
+- [[items/rock-vine-seed]] — Plant from the Cultivation tab — sprouts a Rock Vine.
+- [[items/roly-poly-salad]] — Fresh special ration.
+- [[items/rope-dart]]
+- [[items/rucksack]]
+- [[items/rudimentary-shelter]] — A crude shelter — improves rest and keeps the rain off.
+- [[items/saddlebag-cart]] — Cart-scale bag — fixed 50 lb (decoupled from the size formula).
+- [[items/saddlebag-cattlepos]] — Fills one saddle bag-slot.
+- [[items/saddlebag-horse]] — Fills one saddle bag-slot.
+- [[items/saddlebag-rack-i]] — Cart: +2 saddlebag slots (4 → 6).
+- [[items/saddlebag-rack-ii]] — Cart: +2 saddlebag slots (6 → 8).
+- [[items/salt-box]]
+- [[items/sand-base]] — Brew base for Sand covers — literally sand; find a river bed.
+- [[items/sandbox-tree-seed]] — Plant from the Cultivation tab — sprouts a Sandbox Tree.
+- [[items/satchel]]
+- [[items/scribes-canister]] — Scroll canister holding ink, quills, and scribing supplies.
+- [[items/seed-bag]] — A ranger's soft-sided pouch of labeled seed papers and spore vials.
+- [[items/seed-oil]] — Cheapest fuel.
+- [[items/separators-bench]] — Trays, a fine sieve and a great deal of patience.
+- [[items/shoes-cattlepos]] — Environmental protection for the hooves.
+- [[items/shoes-horse]] — Environmental protection for the hooves.
+- [[items/short-bow]]
+- [[items/short-spear]]
+- [[items/silk-rope]]
+- [[items/sinew]]
+- [[items/sinew-rope]]
+- [[items/sling]]
+- [[items/sling-stones]] — Standard stones for slings.
+- [[items/small-containment-unit-drone]] — A smaller containment vessel paired with a controllable flying drone.
+- [[items/smoked-rations]] — Lasts 7 days.
+- [[items/snot-pots-seed]] — Plant from the Cultivation tab — sprouts a Snot Pots.
+- [[items/soul-gem]]
+- [[items/sparkle-berry-bush-seed]] — Plant from the Cultivation tab — sprouts a Sparkle Berry Bush.
+- [[items/spike]] — A driven foci.
+- [[items/staff]] — A held foci.
+- [[items/stank-flank]] — Fire roasted pigmy Boar leg
+- [[items/stave]] — The great foci: five slots, three charges (the March kit).
+- [[items/sticks]]
+- [[items/sticky-frag-grenade]] — 2 AP to throw, range 4 + Might×2 m.
+- [[items/stones]]
+- [[items/strength-brew]] — Alchemical brew that temporarily strengthens the drinker.
+- [[items/tallow-bloom]] — Garden crop (base).
+- [[items/tallow-candle]] — 3m radius light.
+- [[items/tallow-oil]] — Premium fuel.
+- [[items/tar-base]] — Brew base for Tar coatings.
+- [[items/targe]]
+- [[items/test]]
+- [[items/test-consumable]]
+- [[items/tetsubo]]
+- [[items/throwing-axe]]
+- [[items/throwing-knives]]
+- [[items/tiger-balm]] — Tincture.
+- [[items/timed-charge]] — Placed (2 rounds to set up), fuse adjustable 5 rounds → 2 hours: 4d4 Force/Psionic in 5 m (ignores Defense) plus 15 fragments of 1d4 Shrapnel scattered over 10…
+- [[items/tin-lantern]] — Fuel: Candle.
+- [[items/tincture-base]] — Brew base for Tinctures.
+- [[items/tinkerers-bow]]
+- [[items/tinkerers-lantern]] — Fuel: Oil.
+- [[items/torch-staff]] — A torch mounted on a staff, made to be stabbed into the earthen floor to light an area.
+- [[items/tower]]
+- [[items/trance-elixir]] — Skar's elixir — while in trance it raises the drinker's max wound slots (+1).
+- [[items/tree-ripper-charge]] — Placed only (2 full rounds to set up), blows in 5 rounds: 4d4 Force/Psionic in 5 m (ignores Defense) plus 15 fragments of 1d4 Splitting scattered over 10 m, eac…
+- [[items/verdant-fungus]]
+- [[items/verdant-vine]]
+- [[items/wand]] — A held foci.
+- [[items/war-axe]]
+- [[items/war-pick]]
+- [[items/warhammer]]
+- [[items/waterskin]]
+- [[items/wax-candle]] — 1m radius light.
+- [[items/whip]]
+- [[items/wide-wheels]] — Cart: Soft-Ground Speed 2 → 4 (matches road speed; huge in wetland).
+- [[items/wooden-torch]]
+- [[items/wound-healing-elixir]] — Heals 2 wounds.
+- [[items/wound-healing-tincture]] — Heals 1 wound.
+- [[items/wound-recovery-tattoo]] — Soul-Force tattoo — spend to recover wounds (Exiled Chapter: 1-2 uses/combat).
+
+### locations (44)
+
+- [[locations/abandoned-mine]] — *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> The trees thin out and the ground underfoot goes hard.
+- [[locations/ancient-tower]] — *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> A hexagonal stone tower rises from the base of a cliff wall.
+- [[locations/arborist-tribe]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> *(To be written)* </details> <details> <summary>[ ] Callouts</summary…
+- [[locations/beached-corpse]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- *(To be written)* --- *(To be written)*
+- [[locations/big-hill]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> A hill rises beside the game trail, twice the size of a double wide a…
+- [[locations/black-stone]] — *** *First visited: Expedition #* * [ ] \[ ] <details open><summary>[ ] Scene</summary><p>The flowers thin out where the ground gets wet and willow trees take o…
+- [[locations/bog-stalker-ponds]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | The Go…
+- [[locations/bone-field]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | The Ro…
+- [[locations/bubble-pool]] — *** *First visited: Expedition #* * [ ] \[ ] *(To be written)* *** *(To be written)* *** | Destination | Biome | Path Type | | -------------------------- | ----…
+- [[locations/cattlepos-cavern]] — --- Where cattlepos congregate at night to feast and socialize.
+- [[locations/collapsed-tower]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> Broken stone juts from the earth — too square to be natural, too ruin…
+- [[locations/destroyed-golem]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | The Gi…
+- [[locations/ferry-landing]] — *First visited: Expedition #* * [x] \[x] A palisade of rough timber and a handful of tents on completely barren soil — not a single plant growing inside the per…
+- [[locations/flooded-hovel]] — *** *First visited: Expedition #* * [ ] \[ ] **Visit 1** <details open><summary>[ ] Scene</summary><p>The goblin path ends at the lip of a hole in the ground.</…
+- [[locations/flower-field]] — "What was once a field of flowers is now molded over.
+- [[locations/giant-fairy-light-tree]] — from a distance you can see a massive willow tree as thick as an elephant is wide.
+- [[locations/golden-tree]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | Bog St…
+- [[locations/great-verdant-pin-cushion]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | Snotli…
+- [[locations/ironwood-hovel-ruins]] — --- *First visited: Expedition #* - [x] **Visit 1** <details> <summary>[ ] Scene</summary> A massive fir dominates a small clearing, its dark green canopy close…
+- [[locations/large-amber-tree]] — *Needs description.* | The Bone Field | Deep Amber | Anaconda Path | | The Watcher's Post | Deep Amber | Anaconda Path |
+- [[locations/mudback-tribe]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> *(To be written)* </details> <details> <summary>[ ] Callouts</summary…
+- [[locations/pillow-moss-campsite]] — *** *First visited: Expedition #1* * [x] \[x] <details open><summary>[ ] Scene</summary><p>A field of thick plushy moss, dark green and soft enough to sink a ha…
+- [[locations/red-bog]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> The goblin path winds through thick wetland foliage.
+- [[locations/riftstone]] — PLACEHOLDER.
+- [[locations/rot-hornet-hive]]
+- [[locations/rotting-crevasse]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> A crack in the ground, wide enough to walk through, walls slick with…
+- [[locations/skipper-huddle]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | Arbori…
+- [[locations/snotling-tribe]] — --- *First visited: Expedition #* - [x] **Visit 1** <details> <summary>[ ] Scene</summary> The valley wall rises ahead.
+- [[locations/stalker-bat-sinkhole]] — *First visited: Expedition #* * [ ] \[ ] <details open><summary>[ ] Scene</summary><details open><summary>[ ] Callouts</summary><ul class="contains-task-list"><…
+- [[locations/stone-shell-field]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | Beache…
+- [[locations/subspace]] — so very kinky
+- [[locations/subspace-2]]
+- [[locations/sulfur-vent-field]]
+- [[locations/the-cackler-lair]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> The passage drops through roots and packed soil.
+- [[locations/the-circles-grove]]
+- [[locations/timber-knot-hovel]] — *First visited: Expedition #* * [ ] \[ ] <details open><summary>[ ] Scene</summary><p>A large fir dominates a clearing, its trunk covered in hardened amber grow…
+- [[locations/titan]] — *** *First visited: Expedition #* * [ ] \[ ] **Visit 1** *(To be written)* *** *(To be written)* *** | Destination | Biome | Path Type | | ---------------------…
+- [[locations/torn-clearing]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | Wet Fl…
+- [[locations/verdant-watch]] — --- *First visited: Expedition #* - [ ] **Visit 1 — Approach** <details> <summary>[ ] Scene</summary> Through the trees ahead, something solid runs across the f…
+- [[locations/watchers-post]] — --- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | Large…
+- [[locations/weeping-oasis]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> A wall of pale blue-green vines rises ahead through the trees.
+- [[locations/wet-flower-field]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> The flowers from the field continue here but the ground is soft and w…
+- [[locations/wet-sinkhole]] — The amber tree's open up into a muggy steamy marshland with willow trees, steaming water, and berry bushes hiding the ground in-between the various pools of wat…
+- [[locations/young-amber-fir-field]] — --- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> The path opens into a field of tall yellow ferns, waist-high and dens…
+
+### paints (13)
+
+- [[paints/blood]]
+- [[paints/deep-water]]
+- [[paints/fuck-off]]
+- [[paints/grass]]
+- [[paints/gravel]]
+- [[paints/podzol]]
+- [[paints/sand]]
+- [[paints/shallow-water]]
+- [[paints/slime]]
+- [[paints/tall-grass]]
+- [[paints/tyftola-grass]]
+- [[paints/water]]
+- [[paints/zz-draft-test]]
+
+### pcs (4)
+
+- [[pcs/bledger]]
+- [[pcs/korven]]
+- [[pcs/semille]]
+- [[pcs/verdant]]
+
+### places (4)
+
+- [[places/pillow-moss-campsite]]
+- [[places/pillow-moss-campsite-2]]
+- [[places/the-ferry-landing-market]]
+- [[places/the-ferry-walk-market]]
+
+### plants (11)
+
+- [[plants/cave-webs]]
+- [[plants/ember-vine]]
+- [[plants/filter-fungus]]
+- [[plants/flash-fungus]]
+- [[plants/goblin-fingers]]
+- [[plants/leandas-hair]]
+- [[plants/pillow-moss]]
+- [[plants/rock-vine]]
+- [[plants/sandbox-tree]]
+- [[plants/snot-pots]]
+- [[plants/sparkle-berry-bush]]
+
+### questions (1)
+
+- [[questions/why]] — Why?
+
+### retinues (17)
+
+- [[retinues/3q4t3]]
+- [[retinues/batkin-flight]] — The Batkin units.
+- [[retinues/cackarinas-pack]]
+- [[retinues/cackler-pack]]
+- [[retinues/fletchers-co-op]] — A democratic hobbit co-op harvesting vole-iron while trying to keep the apex alive.
+- [[retinues/keethee]] — Arborist goblins who share one telepathic identity, riding gimler mounts.
+- [[retinues/ork-warband]] — The ork units.
+- [[retinues/shtevein-his-devil]]
+- [[retinues/the-ash-grove-company]] — A Circle company that culls Amberwood by burning a hex to cultivate a new biome in its place.
+- [[retinues/the-black-company]] — The foil faction Knot — a leashed refuge whose cohesion is enforced by Captain Jack Black's prison tattoo.
+- [[retinues/the-blood-badgers]] — A honey-badger berserker pack aligned with the Druidic Circle.
+- [[retinues/the-cheese-collective]]
+- [[retinues/the-eternal-chapter]] — [STUB] A sanctioned body of Inquisitors, Channelers, and soldiers who arrive when the fungus goes vertical, to restrict the anomaly zone and tap its power.
+- [[retinues/the-exiled-chapter]] — A rogue church preaching husk heresy and fielding plant-grafted husks.
+- [[retinues/the-fungal-research-unit]] — The Academy/Runite fungal-ecology expedition — a reckless team of scholars, elementalists, and the Red Bands mercenaries hired to protect them while they study…
+- [[retinues/the-iron-band]] — Walker's Hall hunting party: the true-believer hulk Humble fronts four elite mercs and a mass of untrained grunts, with the doctor Soren (the conscience) and th…
+- [[retinues/the-party]]
+
+### rules (57)
+
+- [[rules/attributecost-curve]] — The locked attribute cost curve (06 · Vocations & Progression).
+- [[rules/companionbring-limit-base]] — See companion.bring_limit_divisor.
+- [[rules/companionbring-limit-divisor]] — Companions a PC may field = Charm ÷ this + base (the code's old Charm ÷ 3 + 1, now data).
+- [[rules/companiondeath-penalty-points]] — Points taken off a bond's ledger when its companion dies (Reece: 'subtract some points'; the amount is Claude's).
+- [[rules/companionfree-slots]] — Every vocation gets this many free slots for its vocational companion, outside the Charm cap (Reece, 9/28).
+- [[rules/companionrecurring-grant]] — Bond points granted at End Session for each companion that survived the session, unbroken.
+- [[rules/cultivation2accelerateovergrowth-per-level]] — Overgrowth spent to grow a plant one level now.
+- [[rules/cultivation2acceleratereagents-per-level]] — Reagents spent to grow a plant one level now.
+- [[rules/cultivation2biomecompatiblegrowth-mult]] — A compatible biome: growth this many times faster (the interval divided by it).
+- [[rules/cultivation2biomecompatibleyield-mult]] — A compatible biome: the plant's Overgrowth yield × this (handoff §2 'produces more').
+- [[rules/cultivation2biomehostilegrowth-mult]] — A hostile biome: growth this many times slower.
+- [[rules/cultivation2biomehostileyield-mult]] — A hostile biome: yield × this ('produces less').
+- [[rules/cultivation2growth-interval-rounds]] — A plant grows a level on its own every this many rounds (handoff §3).
+- [[rules/feralitybase]] — See ferality.per_willpower.
+- [[rules/feralitycompanion-hurt-gain]] — Ferality gained when a beast companion is injured (handoff §2).
+- [[rules/feralitycompanion-hurts-gain]] — Ferality gained when a beast companion hurts something.
+- [[rules/feralitydecay-per-round]] — Lost each combat round: the PC's Willpower (his working idea; a number also works here).
+- [[rules/feralityevisceration-gain]] — Ferality gained by Evisceration.
+- [[rules/feralityhunting-gain]] — Ferality gained by hunting, outside combat (handoff §2).
+- [[rules/feralityper-intuition]] — Ferality capacity = Intuition × this + base (2.0 handoff §2, 9/28: Intuition is the limit for every vocation's energy so it isn't a dump stat).
+- [[rules/feralityper-willpower]] — Retired 9/28: capacity is Intuition × ferality.per_intuition + base now.
+- [[rules/feralitypost-combat-drain-per-hour]] — Lost per hour after the drop to half.
+- [[rules/feralitypost-combat-hours-to-half]] — Hours after the last round before the pool drops to half capacity (Reece, 9/28).
+- [[rules/feralityrunaway-step-per-round]] — Berserk levels gained per round while ferality is at or past capacity (2.0 §4).
+- [[rules/gardenbase-capacity]] — Plots a House garden starts with; upgrades raise it.
+- [[rules/gardenyield-interval-hours]] — World hours between garden yields (a week).
+- [[rules/overgrowthbase]] — See overgrowth.per_intuition.
+- [[rules/overgrowthdecay-per-round]] — Lost each combat round: the PC's Willpower, as ferality (Reece 9/28: 'Overgrowth decays the same way as ferality').
+- [[rules/overgrowthforage-gain]] — Overgrowth gained by foraging (handoff §2).
+- [[rules/overgrowthout-of-combat-gain-per-hour]] — Gained per hour outside combat while at a base with a garden or with plants growing, up to half capacity (handoff §2).
+- [[rules/overgrowthper-intuition]] — Overgrowth cap = Intuition × this + base (2.0 handoff §2).
+- [[rules/overgrowthpost-combat-drain-per-hour]] — Lost per hour after the drop to half ('drains slowly').
+- [[rules/overgrowthpost-combat-hours-to-half]] — Hours after the last round before the pool drops to half capacity (handoff §2 re-sent 9/28: 'same shape as Berserker ferality').
+- [[rules/plantdestroyedovergrowth-loss]] — Overgrowth the Ranger loses when one of their plants is destroyed (Reece 9/28: 'lose overgrowth from ...
+- [[rules/root-cloneap-cost]] — AP to grow a root clone (handoff §4).
+- [[rules/root-clonedeathendurance-loss]] — Endurance the Ranger loses when a root clone dies (never a wound; 0 gutters only if the card says).
+- [[rules/root-clonedeathovergrowth-loss]] — Overgrowth the Ranger loses when a root clone dies (that it happens is canon, Reece 9/28; the number is his; 0 until ruled).
+- [[rules/root-clonedeathplant-levels-lost]] — Levels the source plant loses when its clone dies ('growth lowered').
+- [[rules/root-cloneovergrowth-cost]] — Overgrowth to grow a root clone, before the symbiote's discount.
+- [[rules/sessionattribute-points]] — Awarded to each PC playing when a session ends.
+- [[rules/sessionvocation-points]] — Awarded to each PC playing when a session ends.
+- [[rules/soulaether-die-cost-divisor]] — Aether infused from the Reserve costs die size ÷ this.
+- [[rules/soulanima-die-cost-divisor]] — Anima infused from the Reserve costs die size ÷ this (d4 = 2, d6 = 3).
+- [[rules/souldefault-die]] — No foci = d4 (Reece, 2026-09-28).
+- [[rules/soulencase-at-speed]] — Hardened by umbra to this Speed or below: Encased (chart Y).
+- [[rules/soulfortified-recovery-per-step]] — Endurance a body at a positive ichor step recovers at the end of each round, per step (chart Y names the effect, not the amount).
+- [[rules/soulichor-per-wound]] — Ichor delivered that closes one wound, no roll (chart M).
+- [[rules/soulreservebase]] — Reserve capacity = Intuition × per_intuition + this.
+- [[rules/soulreserveone-cap]] — One cap over anima and aether together (Reece, 9/28).
+- [[rules/soulreserveper-intuition]] — Reserve capacity = Intuition × this + base (Reece, 9/27: supersedes × 2 + 10).
+- [[rules/soulrunoff-fraction]] — How much aether a spend of anima leaves in the Reserve, and vice versa.
+- [[rules/soulsacrifice-endurance-rate]] — Endurance spent per anima when the body is the source (chart M).
+- [[rules/soulsiphon-return-divisor]] — Siphon returns what it dealt ÷ this, to Endurance or the Reserve.
+- [[rules/soulsources-at-level-one]] — One source = one die per AP until the reserve-plus-body node is earned (Reece, 9/27).
+- [[rules/soulstep-hours]] — Deviation ticks one step toward normal each pulse (12 h).
+- [[rules/soulsteps-per-capacity]] — Deviation step width = soul capacity ÷ this; the centre band is normal.
+- [[rules/soulwillpower-bonus-divisor]] — Willpower bonus per die = ⌊Willpower ÷ this⌋.
+
+### senses (5)
+
+- [[senses/blood-nostril]] — The Cackler's, at a mile — and the matriarch's, at six.
+- [[senses/color-vision]] — Ordinary sight.
+- [[senses/echolocation]] — Nineteen Batkin already have this at 30 m.
+- [[senses/scent]] — Smells reactive material — powder, and the charges built out of it.
+- [[senses/soul-sight]] — Reece, 2026-09-28: two nodes on the Channeler tree; starting out it lets them see the exact Endurance a creature has, for creatures within 5 m; as the branch pr…
+
+### tags (1)
+
+- [[tags/person]] — A people, not an animal.
+
+### traits (6)
+
+- [[traits/believer]]
+- [[traits/defector]]
+- [[traits/devotee]]
+- [[traits/ideologue]]
+- [[traits/mentor]]
+- [[traits/opportunist]]
+
+### trances (12)
+
+- [[trances/cattlepos]]
+- [[trances/cave-beetle]]
+- [[trances/cave-dragon]]
+- [[trances/finnic-fox]]
+- [[trances/flying-squirrel]]
+- [[trances/honey-badger]]
+- [[trances/raccoon]]
+- [[trances/razortusk]]
+- [[trances/scuttle-bat]]
+- [[trances/stalker-bat]]
+- [[trances/tree-frog]]
+- [[trances/warg]]
+
+### trees (17)
+
+- [[trees/aether]]
+- [[trees/algae]]
+- [[trees/anima]]
+- [[trees/aquatics]]
+- [[trees/arachnids]]
+- [[trees/avians]]
+- [[trees/channeler]]
+- [[trees/fungi]]
+- [[trees/ichor]]
+- [[trees/lichen]]
+- [[trees/mold]]
+- [[trees/moss]]
+- [[trees/quadrupeds]]
+- [[trees/trees-bushes]]
+- [[trees/umbra]]
+- [[trees/vines]]
+- [[trees/were-forms]]
+
+### vehicles (1)
+
+- [[vehicles/the-company-cart]] — A horse cart pulled by an elephant — first cart ever made here, imperfect by design.
+
+### vocations (5)
+
+- [[vocations/berserker]]
+- [[vocations/berserker-20]] — Unreleased.
+- [[vocations/channeler]]
+- [[vocations/ranger]]
+- [[vocations/ranger-20]] — Unreleased.
