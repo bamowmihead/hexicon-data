@@ -30,9 +30,34 @@ The channel from Claude back to Reece (Brain v3 contract §3).
       "raised_by": "claude"
     }
   ],
-  "ingested": ["id-of-a-resolved-row", "another"]
+  "ingested": ["id-of-a-resolved-row", "another"],
+  "replies": [
+    { "id": "4f1c2b9e-…", "text": "rt-b1bbd0 carries the attunement stars; rt-7cf25d carries the statline.",
+      "at": 1760003600, "proposed_answer": "Keep rt-b1bbd0 (Calderan, humanoid, Big)" }
+  ]
 }
 ```
+
+A question may also carry (Hexicon mig 393, 2026-10-07):
+
+| Field | Meaning |
+|-------|---------|
+| `question` | The **one-line ask** only. Lead with the question, not the evidence. |
+| `context` | The evidence — the fields, values and ids that make the question worth asking. Shown folded behind "why is this asked?". |
+| `choices` | Only for a genuine two-way (or three-way) conflict: the answers as **his own field values**, e.g. `["Keep rt-7cf25d (Goblinoid, quadruped, Huge)", "Keep rt-b1bbd0 (Calderan, humanoid, Big)"]`. The screen adds "other" itself. Leave it out when a question has no natural choices. |
+
+## Threads (mig 393)
+
+Every question is a small discussion. In `snapshot/questions.json` a row's
+`thread_json` is `[{who: "reece"|"claude", text, at}]` and `awaiting` is
+`"claude"` while Reece's latest message has no reply. **The pass (and any
+Claude asked to "answer the threads") answers every row with
+`awaiting = "claude"`** by adding to `replies`: the reply text, and
+`proposed_answer` when the reply amounts to a concrete resolution Reece could
+accept with one click (it becomes his `notes` and resolves the row). A reply
+whose text equals the thread's last Claude message is ignored on re-read, so
+the file is safe to read twice. Keep replies short and grounded in the
+snapshot and the shadow; never decide for him.
 
 Field by field:
 
