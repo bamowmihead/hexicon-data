@@ -13,6 +13,7 @@ Three folders, three writers. **Nobody writes in another's folder.**
 | `snapshot/`  | **Hexicon**, on save          | Claude's weekly pass           |
 | `questions/` | **Claude's weekly pass**      | Hexicon (ingest, step ②)       |
 | `shadow/`    | **Claude's weekly pass**      | Claude, in any session         |
+| `tools/`     | **Claude's weekly pass**      | the pass itself (`rebuild_shadow.py`) |
 
 Each folder's own README says what it holds.
 
@@ -23,6 +24,8 @@ Each folder's own README says what it holds.
 * The pass is never attached to the code repo (`bamowmihead/Hexicon`); it reads
   and writes this repo only.
 * Text only. The SQLite file itself never lands here.
+* The snapshot leaves out paint and structure chunks and the House PIN
+  (Hexicon branch `brain-v3-step3`, 2026-10-07).
 
 ## History is the archive
 
