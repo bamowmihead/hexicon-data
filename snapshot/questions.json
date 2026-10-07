@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "difficulty": 2,
+    "id": "q-dac4562c23d59d42",
+    "ingested_at": null,
+    "links_json": [
+      "pc-193c2a"
+    ],
+    "notes": "",
+    "question": "Why?",
+    "raised_at": 1791398547,
+    "raised_by": "reece",
+    "rank": null,
+    "resolved_at": 1791398570,
+    "shuffle_count": 0,
+    "status": "resolved",
+    "type": "canon-conflict"
+  }
+]

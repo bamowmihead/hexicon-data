@@ -429,7 +429,7 @@
       "file": "questions.json",
       "group": "Brain",
       "label": "Questions",
-      "rows": 0,
+      "rows": 1,
       "table": "questions"
     }
   ],
