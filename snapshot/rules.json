@@ -402,5 +402,19 @@
     "status": "pending",
     "updated_at": 1790562295,
     "value_json": 2
+  },
+  {
+    "key": "world.shear_m",
+    "note": "A world terrain change that differs by more than this many metres across a placed location's extent marks it sheared (WORLD_OWNERSHIP_SPEC §3.5, §8 — the number is Claude's until Reece has seen a place shear).",
+    "status": "canon",
+    "updated_at": 1791401178,
+    "value_json": 2
+  },
+  {
+    "key": "world.snapshots_kept",
+    "note": "Sculpt snapshots kept per location, newest first; older ones are swept (WORLD_OWNERSHIP_SPEC §3.5, §8).",
+    "status": "canon",
+    "updated_at": 1791401178,
+    "value_json": 5
   }
 ]

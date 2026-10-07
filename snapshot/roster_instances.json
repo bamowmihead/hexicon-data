@@ -22,6 +22,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 4,
+    "disturbed_at": null,
     "endurance": 20,
     "field_dressed_at_hours": null,
     "group_id": "rg-944069",
@@ -64,6 +65,10 @@
     "type_id": "rt-batkin-insect-spear",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -89,6 +94,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 7,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -131,6 +137,10 @@
     "type_id": "rt-bde164",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -156,6 +166,7 @@
     "death_location_id": 46,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 0,
     "field_dressed_at_hours": null,
     "group_id": "rg-2372c9",
@@ -214,6 +225,10 @@
     "type_id": null,
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 15
   },
   {
@@ -239,6 +254,7 @@
     "death_location_id": 66,
     "death_time": null,
     "def": 2,
+    "disturbed_at": null,
     "endurance": 0,
     "field_dressed_at_hours": null,
     "group_id": "rg-8a55c8",
@@ -281,6 +297,10 @@
     "type_id": "rt-670ef8",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": "caldera:dim-subspace",
+    "world_layer": 0,
+    "world_x": 0,
+    "world_y": 0,
     "wounds": 3
   },
   {
@@ -306,6 +326,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 1,
+    "disturbed_at": null,
     "endurance": 5,
     "field_dressed_at_hours": null,
     "group_id": "rg-2372c9",
@@ -348,6 +369,10 @@
     "type_id": null,
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 1
   },
   {
@@ -373,6 +398,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 3,
+    "disturbed_at": null,
     "endurance": 20,
     "field_dressed_at_hours": null,
     "group_id": "rg-944069",
@@ -415,6 +441,10 @@
     "type_id": "rt-batkin-insect-commander",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -440,6 +470,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 5,
+    "disturbed_at": null,
     "endurance": 9,
     "field_dressed_at_hours": null,
     "group_id": "rg-99b3f7",
@@ -482,6 +513,10 @@
     "type_id": "rt-batkin-carni-base",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 31
   },
   {
@@ -507,6 +542,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 9,
     "field_dressed_at_hours": null,
     "group_id": "rg-a56b49",
@@ -549,6 +585,10 @@
     "type_id": "rt-bb0be9",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -574,6 +614,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 20,
     "field_dressed_at_hours": null,
     "group_id": "rg-2372c9",
@@ -616,6 +657,10 @@
     "type_id": "rt-b89f34",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 3
   },
   {
@@ -641,6 +686,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 28,
     "field_dressed_at_hours": null,
     "group_id": "rg-d7c32b",
@@ -683,6 +729,10 @@
     "type_id": "rt-e03109",
     "vehicle_id": null,
     "voice_notes": "If You're reading this it worked\n",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -708,6 +758,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 7,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -750,6 +801,10 @@
     "type_id": "rt-7440a8",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -775,6 +830,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 18,
     "field_dressed_at_hours": null,
     "group_id": "rg-2372c9",
@@ -817,6 +873,10 @@
     "type_id": "rt-bc-pikeman",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -842,6 +902,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 8,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -884,6 +945,10 @@
     "type_id": "nc-b76037",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -909,6 +974,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 8,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -951,6 +1017,10 @@
     "type_id": "rt-bde164",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -976,6 +1046,7 @@
     "death_location_id": 66,
     "death_time": null,
     "def": 2,
+    "disturbed_at": null,
     "endurance": 16,
     "field_dressed_at_hours": null,
     "group_id": "rg-8a55c8",
@@ -1018,6 +1089,10 @@
     "type_id": "rt-670ef8",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": "caldera:dim-subspace",
+    "world_layer": 0,
+    "world_x": 0,
+    "world_y": 0,
     "wounds": 3
   },
   {
@@ -1043,6 +1118,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 1,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -1085,6 +1161,10 @@
     "type_id": "rt-06b087",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1110,6 +1190,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 3,
+    "disturbed_at": null,
     "endurance": 28,
     "field_dressed_at_hours": null,
     "group_id": "rg-fcfcb4",
@@ -1152,6 +1233,10 @@
     "type_id": "rt-ork-sniper",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 16
   },
   {
@@ -1177,6 +1262,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 12,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -1219,6 +1305,10 @@
     "type_id": "rt-7440a8",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1244,6 +1334,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 5,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -1286,6 +1377,10 @@
     "type_id": "rt-512fcf",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1311,6 +1406,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 5,
+    "disturbed_at": null,
     "endurance": 28,
     "field_dressed_at_hours": null,
     "group_id": "rg-fcfcb4",
@@ -1353,6 +1449,10 @@
     "type_id": "rt-ork-skirmisher",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1378,6 +1478,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 8,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -1420,6 +1521,10 @@
     "type_id": "rt-ab319f",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1445,6 +1550,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 3,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -1487,6 +1593,10 @@
     "type_id": "rt-7440a8",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1512,6 +1622,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 2,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -1554,6 +1665,10 @@
     "type_id": "nc-5a25bc",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1579,6 +1694,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 18,
     "field_dressed_at_hours": null,
     "group_id": "rg-2372c9",
@@ -1621,6 +1737,10 @@
     "type_id": "rt-bc-crossbowman",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1646,6 +1766,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 4,
+    "disturbed_at": null,
     "endurance": 20,
     "field_dressed_at_hours": null,
     "group_id": "rg-944069",
@@ -1688,6 +1809,10 @@
     "type_id": "rt-batkin-insect-spear",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1713,6 +1838,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 5,
+    "disturbed_at": null,
     "endurance": 6,
     "field_dressed_at_hours": null,
     "group_id": "rg-944069",
@@ -1755,6 +1881,10 @@
     "type_id": "rt-batkin-carni-blunderbuss",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1780,6 +1910,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 7,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -1822,6 +1953,10 @@
     "type_id": "nc-50fcf9",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1847,6 +1982,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 20,
     "field_dressed_at_hours": null,
     "group_id": "rg-a56b49",
@@ -1889,6 +2025,10 @@
     "type_id": "rt-bb0be9",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1914,6 +2054,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 4,
+    "disturbed_at": null,
     "endurance": 20,
     "field_dressed_at_hours": null,
     "group_id": "rg-944069",
@@ -1956,6 +2097,10 @@
     "type_id": "rt-batkin-insect-spear",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -1981,6 +2126,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 18,
     "field_dressed_at_hours": null,
     "group_id": "rg-a56b49",
@@ -2023,6 +2169,10 @@
     "type_id": "rt-bb0be9",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 1
   },
   {
@@ -2048,6 +2198,7 @@
     "death_location_id": 66,
     "death_time": null,
     "def": 2,
+    "disturbed_at": null,
     "endurance": 0,
     "field_dressed_at_hours": null,
     "group_id": "rg-8a55c8",
@@ -2090,6 +2241,10 @@
     "type_id": "rt-670ef8",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": "caldera:dim-subspace",
+    "world_layer": 0,
+    "world_x": 0,
+    "world_y": 0,
     "wounds": 3
   },
   {
@@ -2115,6 +2270,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 10,
     "field_dressed_at_hours": null,
     "group_id": "rg-a56b49",
@@ -2157,6 +2313,10 @@
     "type_id": "nc-f54b67",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -2182,6 +2342,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 4,
+    "disturbed_at": null,
     "endurance": 6,
     "field_dressed_at_hours": null,
     "group_id": "rg-944069",
@@ -2224,6 +2385,10 @@
     "type_id": "rt-batkin-insect-spear",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -2249,6 +2414,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 6,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -2291,6 +2457,10 @@
     "type_id": "rt-7440a8",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -2316,6 +2486,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 14,
     "field_dressed_at_hours": null,
     "group_id": "rg-a56b49",
@@ -2358,6 +2529,10 @@
     "type_id": "rt-bb0be9",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -2383,6 +2558,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 4,
+    "disturbed_at": null,
     "endurance": 1,
     "field_dressed_at_hours": null,
     "group_id": "rg-944069",
@@ -2425,6 +2601,10 @@
     "type_id": "rt-batkin-insect-spear",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   },
   {
@@ -2450,6 +2630,7 @@
     "death_location_id": null,
     "death_time": null,
     "def": 0,
+    "disturbed_at": null,
     "endurance": 4,
     "field_dressed_at_hours": null,
     "group_id": "rg-c59255",
@@ -2492,6 +2673,10 @@
     "type_id": "rt-06b087",
     "vehicle_id": null,
     "voice_notes": "",
+    "world_dim_key": null,
+    "world_layer": null,
+    "world_x": null,
+    "world_y": null,
     "wounds": 0
   }
 ]

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "machine": "THERIEGLBOP",
-  "schema": 390,
+  "schema": 392,
   "skipped_blob_columns": [],
   "source": "hexicon",
   "tables": [
@@ -247,7 +247,7 @@
       "file": "rules.json",
       "group": "Progression",
       "label": "Rules",
-      "rows": 57,
+      "rows": 59,
       "table": "rules"
     },
     {
