@@ -1,0 +1,22 @@
+[
+  {
+    "completion": "",
+    "content_key": "caldera:the-company",
+    "description": "",
+    "employees_json": [],
+    "id": "company-playtest",
+    "local_last_modified_at": 0,
+    "name": "the company",
+    "notion_last_synced_at": null,
+    "notion_page_id": null,
+    "pcs_json": [],
+    "player": "",
+    "salt_balance": null,
+    "sort_order": 0,
+    "stored_armaments_json": [],
+    "stored_consumables_json": [],
+    "stored_equipment_json": [],
+    "stored_gear_json": [],
+    "vehicles_json": []
+  }
+]

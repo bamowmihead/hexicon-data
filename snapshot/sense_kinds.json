@@ -1,0 +1,69 @@
+[
+  {
+    "content_key": "caldera:sense-blood-nostril",
+    "description": "The Cackler's, at a mile — and the matriarch's, at six. Catalogued so the vocabulary is complete; this engine resolves no signature for it yet.",
+    "id": "sense-blood-nostril",
+    "local_last_modified_at": 0,
+    "name": "Blood Nostril",
+    "radius_m": 1609.344,
+    "resolution": 0.35,
+    "reveals_json": [],
+    "sensitivity": 3,
+    "signature": "",
+    "unit": ""
+  },
+  {
+    "content_key": "caldera:sense-color-vision",
+    "description": "Ordinary sight. Reece, 2026-08-31: the senses are what grant a creature the ability to see, so a creature with no vision grant is blind — it is a lack of a sense, not a condition. 60 m is the standard grant; ranges are per-creature and relative (a bat sees poorly and is not blind), and the fuller vocabulary of vision kinds comes later.",
+    "id": "sense-color-vision",
+    "local_last_modified_at": 0,
+    "name": "Color Vision",
+    "radius_m": 60.0,
+    "resolution": 0.35,
+    "reveals_json": [],
+    "sensitivity": 2,
+    "signature": "",
+    "unit": ""
+  },
+  {
+    "content_key": "caldera:sense-echolocation",
+    "description": "Nineteen Batkin already have this at 30 m. Catalogued so the vocabulary is complete; this engine resolves no signature for it yet.",
+    "id": "sense-echolocation",
+    "local_last_modified_at": 0,
+    "name": "Echolocation",
+    "radius_m": 30.0,
+    "resolution": 0.35,
+    "reveals_json": [],
+    "sensitivity": 2,
+    "signature": "",
+    "unit": ""
+  },
+  {
+    "content_key": "caldera:sense-scent",
+    "description": "Smells reactive material — powder, and the charges built out of it. Reports HOW MUCH is within reach; how well it can say WHERE depends on how far it reaches, and a nose that carries far cannot name a square.",
+    "id": "sense-scent",
+    "local_last_modified_at": 0,
+    "name": "Scent",
+    "radius_m": 30.0,
+    "resolution": 0.35,
+    "reveals_json": [],
+    "sensitivity": 2,
+    "signature": "reactive",
+    "unit": "units"
+  },
+  {
+    "content_key": "caldera:sense-soul-sight",
+    "description": "Reece, 2026-09-28: two nodes on the Channeler tree; starting out it lets them see the exact Endurance a creature has, for creatures within 5 m; as the branch progresses they also see wounds, and at a much greater distance. The nodes carry the growth.",
+    "id": "sense-soul-sight",
+    "local_last_modified_at": 0,
+    "name": "Soul Sight",
+    "radius_m": 5.0,
+    "resolution": 1.0,
+    "reveals_json": [
+      "endurance"
+    ],
+    "sensitivity": 1,
+    "signature": "",
+    "unit": ""
+  }
+]

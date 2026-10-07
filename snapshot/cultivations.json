@@ -1,0 +1,367 @@
+[
+  {
+    "content_key": "caldera:rock-vine",
+    "costs_json": {
+      "act": {
+        "dies": false,
+        "max": 1,
+        "reagents": 5
+      },
+      "s1": {
+        "ap": 2,
+        "reagents": 5
+      },
+      "s2": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s3": {
+        "ap": 1,
+        "reagents": 5
+      }
+    },
+    "flavor": "A thick inflexible vine which grows cracked grey bark as hard as stone",
+    "id": "cult-01",
+    "ingredients": "Rock Bark — Increase Defense by 2 · Rock Cambium — Restores Durability by 10",
+    "max_one": 0,
+    "name": "Rock Vine",
+    "placements": "Creature · Ground",
+    "seed_item_id": "con-cult01",
+    "single_stage": 0,
+    "sort_order": 0,
+    "species": "Wild Calderan",
+    "stage1": "Creature: target gains +1 Defense. (Act.) Target Speed −3.\nGround: vines act as half cover for 2, up to 2m apart. (Act.) Thorns deal 2d4+Intellect to adjacent creatures every turn.\nActivation cannot be undone.",
+    "stage2": "Creature: +3 Defense. (Act.) Speed −6.\nGround: full cover for 3, up to 2m apart. (Act.) Thorns 2d6+Intellect per turn.",
+    "stage3": "Creature: +5 Defense. (Act.) Speed −9.\nGround: full cover for 4, up to 2m apart. (Act.) Thorns 2d8+Intellect per turn."
+  },
+  {
+    "content_key": "caldera:sandbox-tree",
+    "costs_json": {
+      "act": {
+        "dies": true,
+        "max": 1,
+        "reagents": 5
+      },
+      "s1": {
+        "ap": 1,
+        "reagents": 10
+      },
+      "s2": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s3": {
+        "ap": 1,
+        "reagents": 5
+      }
+    },
+    "flavor": "A spiky tree with explosive fragmentation nuts",
+    "id": "cult-02",
+    "ingredients": "Sandbox Nut — +3 Speed · Sandbox Sap — −3 Speed",
+    "max_one": 1,
+    "name": "Sandbox Tree",
+    "placements": "Ground",
+    "seed_item_id": "con-cult02",
+    "single_stage": 0,
+    "sort_order": 1,
+    "species": "Wild Calderan",
+    "stage1": "Roots & grows: half cover; mountable for 3m of height.\n(Act.) The tree FALLS in a chosen direction — half cover for 3 in a line, growth halts; crossing the cover deals 2d4+Intellect Stabbing. Once activated the tree dies.",
+    "stage2": "6m high; thorns are climbing footholds; full cover for 1.\n(Act.) Falls — half cover for 6 in a line; targets hit take 2d8+Intellect Stabbing; crossing deals 2d6+Intellect.",
+    "stage3": "9m high; climbing thorns; full cover for 2. 2d4 Sandbox Nuts grow at the top — throwable 5m+Might for 2d6+Intellect Stabbing; nuts expire at the next Pulse.\n(Act.) Falls — half cover for 9 in a line; landing on a target deals 2d8+Intellect Piercing + a 2m-radius explosion at 9m from the trunk dealing 2d6+Intellect Stabbing."
+  },
+  {
+    "content_key": "caldera:sparkle-berry-bush",
+    "costs_json": {
+      "act": {
+        "dies": false,
+        "max": 1,
+        "reagents": 5
+      },
+      "s1": {
+        "ap": 2,
+        "reagents": 5
+      },
+      "s2": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s3": {
+        "ap": 1,
+        "reagents": 5
+      }
+    },
+    "flavor": "A short bush growing prismatic sparkling red berries",
+    "id": "cult-03",
+    "ingredients": "Sparkle Berry — Restore 2d4 Endurance · Sparkle Berry Seed — negate the effect of 1 non-lethal wound",
+    "max_one": 0,
+    "name": "Sparkle Berry Bush",
+    "placements": "Ground",
+    "seed_item_id": "con-cult03",
+    "single_stage": 0,
+    "sort_order": 2,
+    "species": "Wild Calderan",
+    "stage1": "Grows 1d4 Sparkle Berries — consume for 1 AP or 1 Reaction to heal 2d4 Endurance. Berries rot in 5 minutes.\n(Act.) Berries turn red→green: deal 7 Poison damage, applicable to weapons/ammo with 1 AP, lasting 2 turns. Cannot be deactivated.",
+    "stage2": "+2d4 more berries (rot in 5 minutes).\n(Act.) Green berries deal 2d4 Poison; apply to weapons/ammo 1 AP, 2 turns.",
+    "stage3": "+2d4 more berries — these heal 3d4 Endurance AND negate 1 non-lethal wound; rot in 5 minutes.\n(Act.) Green berries 3d4 Poison; apply 1 AP, 2 turns."
+  },
+  {
+    "content_key": "caldera:pillow-moss",
+    "costs_json": {
+      "act": null,
+      "s1": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s2": null,
+      "s3": null
+    },
+    "flavor": "A plushy dark green moss as soft as a pillow",
+    "id": "cult-04",
+    "ingredients": "(Card prints Sparkle Berry's ingredients — copy-paste defect; Reece authors its own.)",
+    "max_one": 0,
+    "name": "Pillow Moss",
+    "placements": "Ground · Creature",
+    "seed_item_id": "con-cult04",
+    "single_stage": 1,
+    "sort_order": 3,
+    "species": "Wild Calderan",
+    "stage1": "Ground: 2m-radius plush patch — sleeping on it recovers +5 Endurance from rest; fall damage halved when landing on it.\nCreature: pillowy armor — resistance to stun damage, Speed −1.\nSingle-stage: no Rooting/Blooming, no activation.",
+    "stage2": "",
+    "stage3": ""
+  },
+  {
+    "content_key": "caldera:leanda-s-hair",
+    "costs_json": {
+      "act": null,
+      "s1": {
+        "ap": 2,
+        "reagents": 5
+      },
+      "s2": null,
+      "s3": null
+    },
+    "flavor": "A hanging verdant vine looking oddly like the hair of a scholar you know",
+    "id": "cult-05",
+    "ingredients": "(Card prints Sparkle Berry's ingredients — copy-paste defect; Reece authors its own.)",
+    "max_one": 0,
+    "name": "Leanda's Hair",
+    "placements": "Surface · Ground",
+    "seed_item_id": "con-cult05",
+    "single_stage": 1,
+    "sort_order": 4,
+    "species": "Wild Calderan",
+    "stage1": "Surface: clings hard and grows DOWNWARD — climbable up/down; can be cut & harvested into one 50m rope.\nGround: clings to its sprout surface and grows toward the Cultivator to 50m; harvestable into one 50m rope.\nSingle-stage. (Card cost conflict: header 2 AP vs body 1 AP — using 2.)",
+    "stage2": "",
+    "stage3": ""
+  },
+  {
+    "content_key": "caldera:flash-fungus",
+    "costs_json": {
+      "act": {
+        "dies": true,
+        "max": 1,
+        "reagents": 5
+      },
+      "s1": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s2": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s3": {
+        "ap": 1,
+        "reagents": 5
+      }
+    },
+    "flavor": "A small purple fungus with glowing pods releasing blue light",
+    "id": "cult-06",
+    "ingredients": "Glow Paste — target releases light · Flash Flesh — resistance to flash-based blinding",
+    "max_one": 1,
+    "name": "Flash Fungus",
+    "placements": "Surface",
+    "seed_item_id": "con-cult06",
+    "single_stage": 0,
+    "sort_order": 5,
+    "species": "Cavernoid",
+    "stage1": "1d4 Flash Fungi grow. Each: smear on a surface/armament = 3m-radius light for 1 Pulse, OR throw = bright flash blinding targets in a 3m radius (Fortitude Save = Caster Intellect).\n(Act.) All at once: smeared light glows twice as bright for 5 minutes then burns out; unthrown fungi also deal 2d4+Intellect Sonic when thrown. Destroys the plant.",
+    "stage2": "2d4 fungi; brighter; flash radius 5m.\n(Act.) As Sprouting.",
+    "stage3": "3d4 fungi; flash radius 7m; thrown fungi Blind & Deafen.\n(Act.) As Sprouting."
+  },
+  {
+    "content_key": "caldera:cave-webs",
+    "costs_json": {
+      "act": {
+        "dies": false,
+        "max": null,
+        "reagents": 5
+      },
+      "s1": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s2": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s3": {
+        "ap": 1,
+        "reagents": 5
+      }
+    },
+    "flavor": "A white sticky lichen with long dread-like strands",
+    "id": "cult-07",
+    "ingredients": "Web Dreads — makes 10m rope with 1 hour · Web Mucus — Climbing Speed = half normal",
+    "max_one": 0,
+    "name": "Cave Webs",
+    "placements": "Surface",
+    "seed_item_id": "con-cult07",
+    "single_stage": 0,
+    "sort_order": 6,
+    "species": "Cavernoid",
+    "stage1": "Grows a 2m-wide, 6m line in a chosen direction — can turn, climb walls, cross ceilings; climbable; creatures in it gain +5 effective Stealth.\nFLAMMABLE: 2d4+caster Intellect Fire for 2 turns to creatures in its area if ignited.\n(Act.) The surface turns sticky — grapples any creature passing through.",
+    "stage2": "+6m of growth; the caster can contract the lichen between two points — bridge/strand/wall within range.\n(Act.) Sticky grapple.",
+    "stage3": "+6m more and +1m wider.\n(Act.) Sticky grapple."
+  },
+  {
+    "content_key": "caldera:filter-fungus",
+    "costs_json": {
+      "act": {
+        "dies": false,
+        "max": 2,
+        "reagents": 5
+      },
+      "s1": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s2": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s3": {
+        "ap": 1,
+        "reagents": 5
+      }
+    },
+    "flavor": "A giant deep blue-red fungus with a swiss-cheese fruiting body",
+    "id": "cult-08",
+    "ingredients": "Filter Flesh — Poison Resistance · Filter Blood — 5 Poison Damage",
+    "max_one": 0,
+    "name": "Filter Fungus",
+    "placements": "Surface",
+    "seed_item_id": "con-cult08",
+    "single_stage": 0,
+    "sort_order": 7,
+    "species": "Cavernoid",
+    "stage1": "Scrubs the air — replaces non-breathable gasses/dusts with breathable air in a 3m radius. Blue ichor applied to weapons changes their damage type to Poison.\n(Act., usable TWICE) Launches poison gas in a 3m cone — 1d4+caster Intellect Poison — and redirects any absorbed effects into the cone.",
+    "stage2": "Radius 5m; coated armaments gain +1d4 Poison.\n(Act.) 5m cone, 2d4+Intellect Poison + absorbed effects.",
+    "stage3": "Radius 7m; coatings +2d4 Poison.\n(Act.) 7m cone, 3d4+Intellect Poison + absorbed effects."
+  },
+  {
+    "content_key": "caldera:ember-vine",
+    "costs_json": {
+      "act": {
+        "dies": true,
+        "max": 1,
+        "reagents": 10
+      },
+      "s1": {
+        "ap": 2,
+        "reagents": 5
+      },
+      "s2": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s3": {
+        "ap": 1,
+        "reagents": 5
+      }
+    },
+    "flavor": "A rapidly growing orange vine which releases a sweet-smelling resin",
+    "id": "cult-09",
+    "ingredients": "Ember Resin — 5 Fire Damage · Orange Vine — Restore & +5 max Endurance",
+    "max_one": 0,
+    "name": "Ember Vine",
+    "placements": "Equipment · Ground",
+    "seed_item_id": "con-cult09",
+    "single_stage": 0,
+    "sort_order": 8,
+    "species": "Goblinoid",
+    "stage1": "Equipment (1 AP to sprout there): strikes with the armament change damage type to Fire. (Act.) +2d4 Fire for 1 turn.\nGround (2 AP): vines spread 2m radius; fire attacks DETONATE them — 2d4+Intellect Fire in 2m. (Act.) Same explosion on demand.\nActivation costs 10 Reagents and KILLS the plant.",
+    "stage2": "Equipment: +1d4 Fire on strikes. (Act.) +3d4 Fire for 1 turn.\nGround: 3m radius; explosion 3d4+Intellect in 3m.",
+    "stage3": "Equipment: +2d4 Fire on strikes. (Act.) +4d4 Fire for 1 turn.\nGround: 4m radius; explosion 4d4+Intellect in 4m."
+  },
+  {
+    "content_key": "caldera:snot-pots",
+    "costs_json": {
+      "act": {
+        "dies": true,
+        "max": 1,
+        "reagents": 10
+      },
+      "s1": {
+        "ap": 2,
+        "reagents": 10
+      },
+      "s2": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s3": {
+        "ap": 1,
+        "reagents": 5
+      }
+    },
+    "flavor": "An orange pitcher plant containing green sticky caustic liquid",
+    "id": "cult-10",
+    "ingredients": "Pot Snot — 5 Acid Damage · Pot Flesh — Acid Resistance",
+    "max_one": 0,
+    "name": "Snot Pots",
+    "placements": "Ground · Structures · Vertical surfaces",
+    "seed_item_id": "con-cult10",
+    "single_stage": 0,
+    "sort_order": 9,
+    "species": "Goblinoid",
+    "stage1": "1d4 Snot Pots grow — grab & throw within 5m+Might: 1m-radius 2d4+Intellect Acid explosion; or apply to an armament (1 AP): damage type becomes Acid.\n(Act.) ALL pots explode (2d4+Intellect Acid, 1m each); acid-applied armaments deal +1d4 Acid for 1 turn; growth stops. 10 Reagents, kills the plant.",
+    "stage2": "2d4 pots; thrown same; armament application also +1d4 to strikes.\n(Act.) As Sprouting.",
+    "stage3": "(Card defect: LVL 3 text repeats LVL 2 verbatim — Reece to author the real Blooming.) 2d4 more pots; same numbers as Rooting."
+  },
+  {
+    "content_key": "caldera:goblin-fingers",
+    "costs_json": {
+      "act": {
+        "dies": false,
+        "max": null,
+        "reagents": 5
+      },
+      "s1": {
+        "ap": 2,
+        "reagents": 5
+      },
+      "s2": {
+        "ap": 1,
+        "reagents": 5
+      },
+      "s3": {
+        "ap": 1,
+        "reagents": 5
+      }
+    },
+    "flavor": "A snot-colored vine which grows rapidly towards metallic objects",
+    "id": "cult-11",
+    "ingredients": "Finger Bark — +4 against being Disarmed · Finger Cambium — +2 Might",
+    "max_one": 0,
+    "name": "Goblin Fingers",
+    "placements": "Ground · Armor",
+    "seed_item_id": "con-cult11",
+    "single_stage": 0,
+    "sort_order": 10,
+    "species": "Goblinoid",
+    "stage1": "Ground: burrows, 2m radius — creatures walking over it are DISARMED of metal armaments or GRAPPLED if wearing metal armor (Attribute Save = Caster Intelligence). (Act.) Vines harden: save DC +1.\nArmor: wraps the wearer's armor — catches arrows/bolts/slow metal missiles, half cover even while flanked; Speed −1. (Act.) Hardens: +1 Defense, Speed −1.\n(Card prints NO activation cost — using 5 Reagents until Reece prices it.)",
+    "stage2": "Ground: 3m radius; targets save each metre travelled. (Act.) Save DC +2.\nArmor: full cover even while flanked, Speed −2. (Act.) +2 Defense, Speed −2.",
+    "stage3": "Ground: 4m radius. (Act.) Save DC +3.\nArmor: works against fast projectiles like bullets, Speed −3. (Act.) +4 Defense, Speed −3."
+  }
+]

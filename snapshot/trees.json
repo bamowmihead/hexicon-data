@@ -1,0 +1,172 @@
+[
+  {
+    "description": "",
+    "id": "spec-bodyplan-aquatics",
+    "kind": "specialization",
+    "name": "Aquatics",
+    "owner_id": "voc-berserker-2",
+    "sort_order": 2,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-bodyplan-arachnids",
+    "kind": "specialization",
+    "name": "Arachnids",
+    "owner_id": "voc-berserker-2",
+    "sort_order": 4,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-bodyplan-avians",
+    "kind": "specialization",
+    "name": "Avians",
+    "owner_id": "voc-berserker-2",
+    "sort_order": 1,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-bodyplan-quadrupeds",
+    "kind": "specialization",
+    "name": "Quadrupeds",
+    "owner_id": "voc-berserker-2",
+    "sort_order": 3,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-bodyplan-were_forms",
+    "kind": "specialization",
+    "name": "Were-forms",
+    "owner_id": "voc-berserker-2",
+    "sort_order": 0,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-energy-aether",
+    "kind": "specialization",
+    "name": "Aether",
+    "owner_id": "voc-channeler",
+    "sort_order": 3,
+    "template_id": null,
+    "updated_at": 1791398196
+  },
+  {
+    "description": "",
+    "id": "spec-energy-anima",
+    "kind": "specialization",
+    "name": "Anima",
+    "owner_id": "voc-channeler",
+    "sort_order": 0,
+    "template_id": null,
+    "updated_at": 1791398196
+  },
+  {
+    "description": "",
+    "id": "spec-energy-ichor",
+    "kind": "specialization",
+    "name": "Ichor",
+    "owner_id": "voc-channeler",
+    "sort_order": 1,
+    "template_id": null,
+    "updated_at": 1791398196
+  },
+  {
+    "description": "",
+    "id": "spec-energy-umbra",
+    "kind": "specialization",
+    "name": "Umbra",
+    "owner_id": "voc-channeler",
+    "sort_order": 2,
+    "template_id": null,
+    "updated_at": 1791398196
+  },
+  {
+    "description": "",
+    "id": "spec-habit-algae",
+    "kind": "specialization",
+    "name": "Algae",
+    "owner_id": "voc-ranger-2",
+    "sort_order": 4,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-habit-fungi",
+    "kind": "specialization",
+    "name": "Fungi",
+    "owner_id": "voc-ranger-2",
+    "sort_order": 2,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-habit-lichen",
+    "kind": "specialization",
+    "name": "Lichen",
+    "owner_id": "voc-ranger-2",
+    "sort_order": 5,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-habit-mold",
+    "kind": "specialization",
+    "name": "Mold",
+    "owner_id": "voc-ranger-2",
+    "sort_order": 3,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-habit-moss",
+    "kind": "specialization",
+    "name": "Moss",
+    "owner_id": "voc-ranger-2",
+    "sort_order": 6,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-habit-trees_bushes",
+    "kind": "specialization",
+    "name": "Trees & Bushes",
+    "owner_id": "voc-ranger-2",
+    "sort_order": 0,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "spec-habit-vines",
+    "kind": "specialization",
+    "name": "Vines",
+    "owner_id": "voc-ranger-2",
+    "sort_order": 1,
+    "template_id": null,
+    "updated_at": 1791398195
+  },
+  {
+    "description": "",
+    "id": "tree-channeler",
+    "kind": "vocation",
+    "name": "Channeler",
+    "owner_id": "voc-channeler",
+    "sort_order": 0,
+    "template_id": null,
+    "updated_at": 1790595138
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "content_key": "caldera:finnic-fox",
+    "flavor": "Swift dark green fox with incredible hearing",
+    "id": "trance-01",
+    "ingredients": "Fox Sweat — target gets 1 extra Reaction · Finnic Fur — Movement Speed +4",
+    "mods_json": [
+      {
+        "attrs": {
+          "might": -1,
+          "prowess": 1,
+          "reflex": 1
+        },
+        "spd": 1
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "1m — 1d8+Prowess Slashing"
+          }
+        ],
+        "attrs": {
+          "might": -2,
+          "prowess": 2,
+          "reflex": 2
+        },
+        "spd": 2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "2m — 2d8+Prowess Slashing"
+          }
+        ],
+        "attrs": {
+          "might": -3,
+          "prowess": 3,
+          "reflex": 3
+        },
+        "spd": 3
+      }
+    ],
+    "name": "Finnic Fox",
+    "sort_order": 0,
+    "species": "Wild Calderan",
+    "stage1": "+1 Prowess, +1 Reflex, −1 Might\n+1 Speed · +1 Prowess Attacks · −1 Might Attacks\nEcholocation 5m",
+    "stage2": "+2 Prowess, +2 Reflex, −2 Might\n+2 Speed · +2 Prowess Attacks · −2 Might Attacks\nEcholocation 10m\nClaws: 1 AP, 1m — 1d8+Prowess Slashing",
+    "stage3": "+3 Prowess, +3 Reflex, −3 Might\n+3 Speed · +3 Prowess Attacks · −3 Might Attacks\nEcholocation 20m\nClaws: 1 AP, 2m — 2d8+Prowess Slashing",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:honey-badger",
+    "flavor": "A tough large badger with resistance to toxin damage types that can burrow",
+    "id": "trance-02",
+    "ingredients": "Badger Spittle — restore & +5 max Endurance · Badger Blood — hemotoxin weak resistance · Badger Fur — cytotoxin weak resistance",
+    "mods_json": [
+      {
+        "attrs": {
+          "fortitude": 1,
+          "reflex": -1,
+          "willpower": 1
+        },
+        "max_end": 4,
+        "spd": -1
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "1m — 1d8+Might Slashing"
+          },
+          {
+            "ap": 2,
+            "name": "Bite",
+            "text": "1m — 2d8+Might Piercing"
+          }
+        ],
+        "attrs": {
+          "fortitude": 2,
+          "reflex": -2,
+          "willpower": 2
+        },
+        "max_end": 8,
+        "spd": -2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "2m — 2d8+Might Slashing"
+          },
+          {
+            "ap": 2,
+            "name": "Bite",
+            "text": "1m — 3d8+Might Piercing"
+          }
+        ],
+        "attrs": {
+          "fortitude": 3,
+          "reflex": -3,
+          "willpower": 3
+        },
+        "max_end": 12,
+        "spd": -3
+      }
+    ],
+    "name": "Honey Badger",
+    "sort_order": 1,
+    "species": "Wild Calderan",
+    "stage1": "+1 Fortitude, +1 Willpower, −1 Reflex\n+4 Max Endurance · −1 Speed\nToxic Nostril 5m (smell toxins on weapons, food, ammo)\nResist Hemotoxins, Cytotoxins & Neurotoxins",
+    "stage2": "+2 Fortitude, +2 Willpower, −2 Reflex\n+8 Max Endurance · −2 Speed\nToxic Nostril 10m · Resist Hemo/Cyto/Neurotoxins\nBurrow 3m\nClaws: 1 AP, 1m — 1d8+Might Slashing\nBite: 2 AP, 1m — 2d8+Might Piercing",
+    "stage3": "+3 Fortitude, +3 Willpower, −3 Reflex\n+12 Max Endurance · −3 Speed\nToxic Nostril 20m · Resist Hemo/Cyto/Neurotoxins\nBurrow 5m\nClaws: 1 AP, 2m — 2d8+Might Slashing\nBite: 2 AP, 1m — 3d8+Might Piercing",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:raccoon",
+    "flavor": "A large sneaky raccoon with sharp claws & apposable thumbs",
+    "id": "trance-03",
+    "ingredients": "Raccoon Sweat — Prowess increased by 1 · Raccoon Tears — vision changed to Dark Vision 10m",
+    "mods_json": [
+      {
+        "attrs": {
+          "intellect": 1,
+          "might": -1,
+          "prowess": 1
+        }
+      },
+      {
+        "attrs": {
+          "intellect": 2,
+          "might": -2,
+          "prowess": 2
+        }
+      },
+      {
+        "attrs": {
+          "intellect": 3,
+          "might": -3,
+          "prowess": 3
+        }
+      }
+    ],
+    "name": "Raccoon",
+    "sort_order": 2,
+    "species": "Calderan Wilds",
+    "stage1": "+1 Prowess, +1 Intellect, −1 Might\n+1 Prowess Attacks · +1 Focus · −1 Might Attacks\nDark Vision 20m",
+    "stage2": "+2 Prowess, +2 Intellect, −2 Might\n+2 Prowess Attacks · +2 Focus · −2 Might Attacks\nDark Vision 40m\nClimbing Speed = half Movement Speed\nYou shrink slightly & grow dark fur: +4 Stealth",
+    "stage3": "+3 Prowess, +3 Intellect, −3 Might\n+3 Prowess Attacks · +3 Focus · −3 Might Attacks\nDark Vision 60m\nClimbing Speed = Movement Speed\nYou are Small size · +6 Stealth\nKeeps weapons & tools (apposable thumbs)",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 0
+  },
+  {
+    "content_key": "caldera:cave-beetle",
+    "flavor": "A heavily armored beetle with a powerful horn & wing-assisted jumps",
+    "id": "trance-04",
+    "ingredients": "Cave Beetle Wing Gunk — binds target · Cave Beetle Spores — grants dim light",
+    "mods_json": [
+      {
+        "attrs": {
+          "fortitude": 1,
+          "might": 1,
+          "reflex": -1
+        },
+        "max_end": 2,
+        "temp_end": 5
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Horn Charge",
+            "text": "5m line — 1d8+Might Crush"
+          },
+          {
+            "ap": 2,
+            "name": "Wing Clap",
+            "text": "3m cone — 2d6 Sonic"
+          }
+        ],
+        "attrs": {
+          "fortitude": 2,
+          "might": 2,
+          "reflex": -2
+        },
+        "max_end": 4,
+        "temp_end": 10
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Horn Charge",
+            "text": "5m line — 2d8+Might Crush"
+          },
+          {
+            "ap": 2,
+            "name": "Wing Clap",
+            "text": "5m cone or 3m radius — 3d6 Sonic; pushes targets out of the zone (Might DC = caster Might)"
+          }
+        ],
+        "attrs": {
+          "fortitude": 3,
+          "might": 3,
+          "reflex": -3
+        },
+        "max_end": 6,
+        "temp_end": 15
+      }
+    ],
+    "name": "Cave Beetle",
+    "sort_order": 3,
+    "species": "Cavernoid",
+    "stage1": "+1 Fortitude, +1 Might, −1 Reflex\n+2 Endurance · Melee +1 · +5 temp Endurance\nTremorsense 10m · Bioluminescent 3m",
+    "stage2": "+2 Fortitude, +2 Might, −2 Reflex\n+4 Endurance · Melee +2 · +10 temp Endurance\nTremorsense 20m · Bioluminescent 5m\nHorn Charge: 1 AP, 5m line — 1d8+Might Crush\nWing Clap: 2 AP, 3m cone — 2d6 Sonic",
+    "stage3": "+3 Fortitude, +3 Might, −3 Reflex\n+6 Endurance · Melee +3 · +15 temp Endurance\nTremorsense 30m · Bioluminescent 7m\nWeakness: all Blunt damage types\nHorn Charge: 1 AP, 5m line — 2d8+Might Crush\nWing Clap: 2 AP, 5m cone or 3m radius — 3d6 Sonic; pushes targets out of the zone (Might DC = caster Might)",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:stalker-bat",
+    "flavor": "An eagle-sized bat with an anesthetic bite",
+    "id": "trance-05",
+    "ingredients": "Stalker Bat Blood — ignore non-lethal wounds · Stalker Bat Venom — Torpor: reduce Max Endurance by 5",
+    "mods_json": [
+      {
+        "attrs": {
+          "might": -1,
+          "prowess": 1,
+          "reflex": 1
+        },
+        "spd": 1
+      },
+      {
+        "attacks": [
+          {
+            "ap": 2,
+            "name": "Venom Bite",
+            "text": "1m — 2d8+Prowess Leeching, attempt grapple (+1 die vs grappled)"
+          }
+        ],
+        "attrs": {
+          "might": -2,
+          "prowess": 2,
+          "reflex": 2
+        },
+        "spd": 2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "1m — 1d8+Prowess Slashing"
+          },
+          {
+            "ap": 2,
+            "name": "Venom Bite",
+            "text": "1m — 3d8+Prowess Leeching, attempt grapple (+1 die vs grappled)"
+          }
+        ],
+        "attrs": {
+          "might": -3,
+          "prowess": 3,
+          "reflex": 3
+        },
+        "spd": 3
+      }
+    ],
+    "name": "Stalker Bat",
+    "sort_order": 4,
+    "species": "Cavernoid",
+    "stage1": "+1 Prowess, +1 Reflex, −1 Might\n+1 Prowess Attacks · +1 Speed · −1 Might Attacks\nEcholocation 15m",
+    "stage2": "+2 Prowess, +2 Reflex, −2 Might\n+2 Prowess Attacks · +2 Speed · −2 Might Attacks\nEcholocation 30m · Flight 10m\nVenom Bite: 2 AP, 1m — 2d8+Prowess Leeching, attempt grapple\nVampiric: +1 die on Venom Bite vs grappled targets",
+    "stage3": "+3 Prowess, +3 Reflex, −3 Might\n+3 Prowess Attacks · +3 Speed · −3 Might Attacks\nEcholocation 45m · Flight 15m\nClaws: 1 AP, 1m — 1d8+Prowess Slashing\nVenom Bite: 2 AP, 1m — 3d8+Prowess Leeching, attempt grapple\nVampiric: +1 die on Venom Bite vs grappled targets",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:scuttle-bat",
+    "flavor": "A large wingless bat that scuttles across walls and ceilings",
+    "id": "trance-06",
+    "ingredients": "Scuttle Bat Blood — restore & +5 max Endurance · Scuttle Bat Spittle — bleed wounds from physical damage types",
+    "mods_json": [
+      {
+        "attrs": {
+          "might": -1,
+          "prowess": 1,
+          "reflex": 1
+        },
+        "spd": 1
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "1m — 1d8+Prowess Slashing (Pounce: +1 die from the ceiling)"
+          }
+        ],
+        "attrs": {
+          "might": -2,
+          "prowess": 2,
+          "reflex": 2
+        },
+        "spd": 2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "2m — 2d8+Prowess Slashing (Pounce: +1 die)"
+          },
+          {
+            "ap": 2,
+            "name": "Bite",
+            "text": "1m — 3d8+Prowess Piercing"
+          }
+        ],
+        "attrs": {
+          "might": -3,
+          "prowess": 3,
+          "reflex": 3
+        },
+        "spd": 3
+      }
+    ],
+    "name": "Scuttle Bat",
+    "sort_order": 5,
+    "species": "Cavernoid",
+    "stage1": "+1 Prowess, +1 Reflex, −1 Might\n+1 Prowess Attacks · +1 Speed · −1 Might Attacks\nEcholocation 10m",
+    "stage2": "+2 Prowess, +2 Reflex, −2 Might\n+2 Prowess Attacks · +2 Speed · −2 Might Attacks\nEcholocation 20m\nClimb walls at half speed\nClaws: 1 AP, 1m — 1d8+Prowess Slashing\nPounce: drop from the ceiling when attacking, +1 die",
+    "stage3": "+3 Prowess, +3 Reflex, −3 Might\n+3 Prowess Attacks · +3 Speed · −3 Might Attacks\nEcholocation 30m — full cavern mapping\nClimb walls AND ceilings at full speed\nClaws: 1 AP, 2m — 2d8+Prowess Slashing\nBite: 2 AP, 1m — 3d8+Prowess Piercing\nPounce: drop from the ceiling when attacking, +1 die",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:cave-dragon",
+    "flavor": "A komodo dragon crossed with a chameleon that can climb cave walls",
+    "id": "trance-07",
+    "ingredients": "Cave Dragon Blood — grants Infrasight 5m · Cave Dragon Spittle — Reflex & Speed reduced by 2",
+    "mods_json": [
+      {
+        "attrs": {
+          "fortitude": 1,
+          "prowess": 1,
+          "reflex": -1
+        },
+        "max_end": 2,
+        "spd": -1
+      },
+      {
+        "attacks": [
+          {
+            "ap": 2,
+            "name": "Toxic Tongue",
+            "text": "5m — 1d8+Prowess Neurotoxic"
+          }
+        ],
+        "attrs": {
+          "fortitude": 2,
+          "prowess": 2,
+          "reflex": -2
+        },
+        "max_end": 4,
+        "spd": -2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 2,
+            "name": "Toxic Tongue",
+            "text": "5m — 1d8+Prowess Neurotoxic"
+          },
+          {
+            "ap": 2,
+            "name": "Bite",
+            "text": "1m — 3d8 Crushing, +1 die vs grappled"
+          }
+        ],
+        "attrs": {
+          "fortitude": 3,
+          "prowess": 3,
+          "reflex": -3
+        },
+        "max_end": 6,
+        "spd": -3
+      }
+    ],
+    "name": "Cave Dragon",
+    "sort_order": 6,
+    "species": "Cavernoid",
+    "stage1": "+1 Fortitude, +1 Prowess, −1 Reflex\n+2 Max Endurance · +1 Prowess Attacks · −1 Speed\nInfrasight 10m",
+    "stage2": "+2 Fortitude, +2 Prowess, −2 Reflex\n+4 Max Endurance · +2 Prowess Attacks · −2 Speed\nInfrasight 20m · Camouflage: +4 Stealth\nClimb cave walls at half speed\nToxic Tongue: 2 AP, 5m — 1d8+Prowess Neurotoxic",
+    "stage3": "+3 Fortitude, +3 Prowess, −3 Reflex\n+6 Max Endurance · +3 Prowess Attacks · −3 Speed\nInfrasight 30m — full thermal awareness\nClimb walls at full speed\nToxic Tongue: 2 AP, 5m — 1d8+Prowess Neurotoxic\nBite: 2 AP, 1m — 3d8 Crushing, +1 die vs grappled creatures",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:razortusk",
+    "flavor": "A tough boar-adjacent creature with sharp tusks",
+    "id": "trance-08",
+    "ingredients": "Tusk Sweat — ignore minor wound effects · Tusk Blood — restore & +5 max Endurance",
+    "mods_json": [
+      {
+        "attrs": {
+          "fortitude": 1,
+          "reflex": -1,
+          "willpower": 1
+        },
+        "max_end": 4,
+        "spd": -1
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Tusk Cleave",
+            "text": "1m — 1d8+Might Slashing, 2 targets"
+          }
+        ],
+        "attrs": {
+          "fortitude": 2,
+          "reflex": -2,
+          "willpower": 2
+        },
+        "max_end": 8,
+        "spd": -2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Tusk Cleave",
+            "text": "2m — 2d8+Might Slashing, 2 targets"
+          },
+          {
+            "ap": 1,
+            "name": "Charge",
+            "text": "5m line — 2d8+Might Stabbing, 2 targets; move self in a 5m line"
+          }
+        ],
+        "attrs": {
+          "fortitude": 3,
+          "reflex": -3,
+          "willpower": 3
+        },
+        "max_end": 12,
+        "spd": -3
+      }
+    ],
+    "name": "Razortusk",
+    "sort_order": 7,
+    "species": "Goblinoid",
+    "stage1": "+1 Willpower, +1 Fortitude, −1 Reflex\n+4 Max Endurance · −1 Speed\nToxic Nostril 5m (smell toxins on weapons, food, ammo)",
+    "stage2": "+2 Willpower, +2 Fortitude, −2 Reflex\n+8 Max Endurance · −2 Speed\nToxic Nostril 10m\nResistance to Blunt damage types\nTusk Cleave: 1 AP, 1m — 1d8+Might Slashing to 2 targets",
+    "stage3": "+3 Willpower, +3 Fortitude, −3 Reflex\n+12 Max Endurance · −3 Speed\nToxic Nostril 20m\nResistance to Blunt damage types\nTusk Cleave: 1 AP, 2m — 2d8+Might Slashing to 2 targets\nCharge: 1 AP, 5m line — 2d8+Might Stabbing to 2 targets; move self in a 5m line",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:warg",
+    "flavor": "A large dog-like creature with an insatiable blood lust",
+    "id": "trance-09",
+    "ingredients": "Warg Blood — +1d4 melee vs bleeding targets · Warg Spittle — target takes 1d4 Cytotoxic",
+    "mods_json": [
+      {
+        "attrs": {
+          "fortitude": 1,
+          "might": 1,
+          "prowess": -1
+        },
+        "max_end": 2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "1m — 1d8+Might Slashing"
+          },
+          {
+            "ap": 2,
+            "name": "Bite",
+            "text": "1m — 2d8+Might Stabbing"
+          }
+        ],
+        "attrs": {
+          "fortitude": 2,
+          "might": 2,
+          "prowess": -2
+        },
+        "max_end": 4
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "2m — 2d8+Might Slashing"
+          },
+          {
+            "ap": 2,
+            "name": "Bite",
+            "text": "1m — 3d8+Might Laceration"
+          }
+        ],
+        "attrs": {
+          "fortitude": 3,
+          "might": 3,
+          "prowess": -3
+        },
+        "max_end": 6
+      }
+    ],
+    "name": "Warg",
+    "sort_order": 8,
+    "species": "Goblinoid",
+    "stage1": "+1 Might, +1 Fortitude, −1 Prowess\n+1 Might Attacks · +2 Max Endurance · −1 Prowess Attacks\nBlood Nostril 10m · camo fur (+ stealth)",
+    "stage2": "+2 Might, +2 Fortitude, −2 Prowess\n+2 Might Attacks · +4 Max Endurance · −2 Prowess Attacks\nBlood Nostril 20m — attack while blinded if the target is wounded\nClaws: 1 AP, 1m — 1d8+Might Slashing\nBite: 2 AP, 1m — 2d8+Might Stabbing",
+    "stage3": "+3 Might, +3 Fortitude, −3 Prowess\n+3 Might Attacks · +6 Max Endurance · −2 Prowess Attacks (card text; likely −3)\nBlood Nostril 30m — triggers on ANY endurance damage\nClaws: 1 AP, 2m — 2d8+Might Slashing\nBite: 2 AP, 1m — 3d8+Might Laceration",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:tree-frog",
+    "flavor": "A slippery giant tree frog capable of spitting a flammable acid",
+    "id": "trance-10",
+    "ingredients": "Boiled Frog Spittle — 1d4 Acid (1d4 vs structures/gear) · Dried Frog Spittle — +1d4 to flame damage dealt",
+    "mods_json": [
+      {
+        "attrs": {
+          "fortitude": -1,
+          "prowess": 1,
+          "reflex": 1
+        },
+        "max_end": -2,
+        "spd": 1
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Acid Spit",
+            "text": "10m — 1d6+Prowess Acid; later fire damage on the target +1d6"
+          },
+          {
+            "ap": 2,
+            "name": "Tongue Grapple",
+            "text": "5m — pull self to Large targets or smaller targets to self; grappled take double Spit damage"
+          }
+        ],
+        "attrs": {
+          "fortitude": -2,
+          "prowess": 2,
+          "reflex": 2
+        },
+        "max_end": -4,
+        "spd": 2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Acid Spit",
+            "text": "20m — 2d6+Prowess Acid; later fire +2d6"
+          },
+          {
+            "ap": 2,
+            "name": "Tongue Grapple",
+            "text": "10m — same pull; grappled take double Spit damage"
+          }
+        ],
+        "attrs": {
+          "fortitude": -3,
+          "prowess": 3,
+          "reflex": 3
+        },
+        "max_end": -6,
+        "spd": 3
+      }
+    ],
+    "name": "Tree Frog",
+    "sort_order": 9,
+    "species": "Goblinoid",
+    "stage1": "+1 Prowess, +1 Reflex, −1 Fortitude\n+1 Prowess Attacks · +1 Speed · −2 Max Endurance\nSlippery Skin: +2 effective Prowess vs grapple checks",
+    "stage2": "+2 Prowess, +2 Reflex, −2 Fortitude\n+2 Prowess Attacks · +2 Speed · −4 Max Endurance\nSlippery Skin +2 · Climb at half speed (walls + ceilings)\nAcid Spit: 1 AP, 10m — 1d6+Prowess Acid; later fire damage on the target +1d6\nTongue Grapple: 2 AP, 5m — pull self to Large targets or smaller targets to self; grappled targets take double Spit damage",
+    "stage3": "+3 Prowess, +3 Reflex, −3 Fortitude\n+3 Prowess Attacks · +3 Speed · −6 Max Endurance\nSlippery Skin +2 · Climb at half speed (walls + ceilings)\nAcid Spit: 1 AP, 20m — 2d6+Prowess Acid; later fire damage on the target +2d6\nTongue Grapple: 2 AP, 10m — same pull; grappled targets take double Spit damage",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:flying-squirrel",
+    "flavor": "A winged predator squirrel as big as a dog with razor sharp claws",
+    "id": "trance-11",
+    "ingredients": "Squirrel Tuft — Quick Clot: stops active bleeding · Squirrel Claw — upgrades bleeding wounds to hemorrhaging",
+    "mods_json": [
+      {
+        "attrs": {
+          "might": -1,
+          "prowess": 1,
+          "reflex": 1
+        },
+        "spd": 1
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "1m — 1d8+Prowess Slashing (Pounce: +1 die when gliding in)"
+          }
+        ],
+        "attrs": {
+          "might": -2,
+          "prowess": 2,
+          "reflex": 2
+        },
+        "spd": 2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Claws",
+            "text": "2m — 2d8+Prowess Eviscerating (Pounce: +1 die)"
+          }
+        ],
+        "attrs": {
+          "might": -3,
+          "prowess": 3,
+          "reflex": 3
+        },
+        "spd": 3
+      }
+    ],
+    "name": "Flying Squirrel",
+    "sort_order": 10,
+    "species": "Goblinoid",
+    "stage1": "+1 Prowess, +1 Reflex, −1 Might\n+1 Prowess Attacks · +1 Speed · −1 Might Attacks\nNight Sight 10m",
+    "stage2": "+2 Prowess, +2 Reflex, −2 Might\n+2 Prowess Attacks · +2 Speed · −2 Might Attacks\nNight Sight 20m\nGliding: double speed for one turn when jumping/falling from 6m+; no fall damage\nClaws: 1 AP, 1m — 1d8+Prowess Slashing\nPounce: gliding into an attack adds +1 die",
+    "stage3": "+3 Prowess, +3 Reflex, −3 Might\n+3 Prowess Attacks · +3 Speed · −3 Might Attacks\nNight Sight 30m\nGliding: double speed for one turn when jumping/falling from 6m+; no fall damage\nClaws: 1 AP, 2m — 2d8+Prowess Eviscerating\nPounce: gliding into an attack adds +1 die",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  },
+  {
+    "content_key": "caldera:cattlepos",
+    "flavor": "A large beast of burden with tusks & a mace tail",
+    "id": "trance-12",
+    "ingredients": "Stretchy Hair — wakefulness · Cattlepos Spittle — a powerful antitoxin",
+    "mods_json": [
+      {
+        "attrs": {
+          "fortitude": 1,
+          "might": 1,
+          "reflex": -1
+        },
+        "max_end": 2
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Tusk Gore",
+            "text": "must move 3m+ — 3d4+Might Stabbing"
+          },
+          {
+            "ap": 1,
+            "name": "Mace Tail",
+            "text": "2m arc behind — 2d6+Might Stun, up to 2 targets"
+          }
+        ],
+        "attrs": {
+          "fortitude": 2,
+          "might": 2,
+          "reflex": -2
+        },
+        "max_end": 4
+      },
+      {
+        "attacks": [
+          {
+            "ap": 1,
+            "name": "Tusk Gore",
+            "text": "must move 3m+ — 4d4+Might Stabbing, grapples on wounds"
+          },
+          {
+            "ap": 1,
+            "name": "Mace Tail",
+            "text": "3m arc behind — 3d6+Might Stun, up to 3 targets; prone on a max roll"
+          }
+        ],
+        "attrs": {
+          "fortitude": 3,
+          "might": 3,
+          "reflex": -3
+        },
+        "max_end": 6
+      }
+    ],
+    "name": "Cattlepos",
+    "sort_order": 11,
+    "species": "Goblinoid",
+    "stage1": "+1 Might, +1 Fortitude, −1 Reflex\n+1 Might Attacks · +2 Max Endurance\nNight Sight 10m · Fungal Nostril 20m",
+    "stage2": "+2 Might, +2 Fortitude, −2 Reflex\n+2 Might Attacks · +4 Max Endurance\nNight Sight 20m · Fungal Nostril 40m\nIncredible Strength: pull a cart on your own; wield two-handed weapons as one-handed\nTusk Gore: 1 AP, must move 3m+ — 3d4+Might Stabbing\nMace Tail: 1 AP — 2d6+Might Stun, 2m arc behind you, up to 2 targets",
+    "stage3": "+3 Might, +3 Fortitude, −3 Reflex\n+3 Might Attacks · +6 Max Endurance\nNight Sight 30m · Fungal Nostril 60m\nIncredible Strength: pull a cart on your own; cannot be moved against your will by smaller targets\nTusk Gore: 1 AP, must move 3m+ — 4d4+Might Stabbing, grappling them on wounds\nMace Tail: 1 AP — 3d6+Might Stun, 3m arc behind you, up to 3 targets; knocks prone on a max damage roll",
+    "stage4": "",
+    "stage5": "",
+    "tool_lock_wild": 1
+  }
+]

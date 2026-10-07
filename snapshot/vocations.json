@@ -1,0 +1,91 @@
+[
+  {
+    "completion": "",
+    "content_key": "caldera:berserker",
+    "description": "",
+    "energy_kind": "reagents",
+    "faction_json": [],
+    "features_json": [],
+    "id": "voc-berserker",
+    "local_last_modified_at": 1790562295,
+    "max_level": null,
+    "name": "Berserker",
+    "notion_last_synced_at": null,
+    "notion_page_id": null,
+    "panel": "trance",
+    "sort_order": 0,
+    "starting_grants_json": []
+  },
+  {
+    "completion": "",
+    "content_key": "caldera:berserker-2-0",
+    "description": "Unreleased. Assign to nobody until Reece releases 2.0; the live Berserker is untouched.",
+    "energy_kind": "ferality",
+    "faction_json": [],
+    "features_json": [],
+    "id": "voc-berserker-2",
+    "local_last_modified_at": 1790593559,
+    "max_level": null,
+    "name": "Berserker 2.0",
+    "notion_last_synced_at": null,
+    "notion_page_id": null,
+    "panel": "berserk2",
+    "sort_order": 90,
+    "starting_grants_json": []
+  },
+  {
+    "completion": "",
+    "content_key": "caldera:channeler",
+    "description": "",
+    "energy_kind": "soul",
+    "faction_json": [],
+    "features_json": [],
+    "id": "voc-channeler",
+    "local_last_modified_at": 1790562295,
+    "max_level": null,
+    "name": "Channeler",
+    "notion_last_synced_at": null,
+    "notion_page_id": null,
+    "panel": "channel",
+    "sort_order": 2,
+    "starting_grants_json": []
+  },
+  {
+    "completion": "",
+    "content_key": "caldera:ranger",
+    "description": "",
+    "energy_kind": "reagents",
+    "faction_json": [],
+    "features_json": [],
+    "id": "voc-ranger",
+    "local_last_modified_at": 1790562295,
+    "max_level": null,
+    "name": "Ranger",
+    "notion_last_synced_at": null,
+    "notion_page_id": null,
+    "panel": "cultivation",
+    "sort_order": 1,
+    "starting_grants_json": [
+      {
+        "kind": "seed_bag"
+      }
+    ]
+  },
+  {
+    "completion": "",
+    "content_key": "caldera:ranger-2-0",
+    "description": "Unreleased. Assign to nobody until Reece releases 2.0; the live Ranger is untouched.",
+    "energy_kind": "overgrowth",
+    "faction_json": [],
+    "features_json": [],
+    "id": "voc-ranger-2",
+    "local_last_modified_at": 1791398195,
+    "max_level": null,
+    "name": "Ranger 2.0",
+    "notion_last_synced_at": null,
+    "notion_page_id": null,
+    "panel": "ranger2",
+    "sort_order": 91,
+    "starting_grants_json": []
+  }
+]

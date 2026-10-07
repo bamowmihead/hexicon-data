@@ -1,0 +1,129 @@
+[
+  {
+    "bestiary_members_json": [],
+    "branch_markers": "",
+    "characters_json": [],
+    "content_key": "caldera:companies",
+    "core_value": "Wealth goes to all.",
+    "faction_json": [
+      "349e50e3-bf79-810a-930f-d6f1ce1b0a7e"
+    ],
+    "groups_json": [],
+    "id": "brn-85e4ff",
+    "local_last_modified_at": 1779593063,
+    "location_override_json": [],
+    "methods": "",
+    "name": "Companies",
+    "notion_last_synced_at": 1779593063,
+    "notion_page_id": "349e50e3-bf79-817d-8c4a-ec0d8fa4968e",
+    "representative": "Company Rep",
+    "sort_order": 1
+  },
+  {
+    "bestiary_members_json": [
+      "359e50e3-bf79-8113-aa5e-fd92feb9106c",
+      "359e50e3-bf79-8119-9416-c46b61739060"
+    ],
+    "branch_markers": "",
+    "characters_json": [],
+    "content_key": "caldera:trades",
+    "core_value": "Wealth goes to the craftsman.",
+    "faction_json": [
+      "349e50e3-bf79-810a-930f-d6f1ce1b0a7e"
+    ],
+    "groups_json": [],
+    "id": "brn-9b22f7",
+    "local_last_modified_at": 1779593063,
+    "location_override_json": [],
+    "methods": "",
+    "name": "Trades",
+    "notion_last_synced_at": 1779593063,
+    "notion_page_id": "349e50e3-bf79-8197-9834-eb7057d8e1ef",
+    "representative": "Trade Master",
+    "sort_order": 2
+  },
+  {
+    "bestiary_members_json": [],
+    "branch_markers": "",
+    "characters_json": [],
+    "content_key": "caldera:houses",
+    "core_value": "Wealth goes to the owner.",
+    "faction_json": [
+      "349e50e3-bf79-810a-930f-d6f1ce1b0a7e"
+    ],
+    "groups_json": [],
+    "id": "brn-a5da67",
+    "local_last_modified_at": 1779593063,
+    "location_override_json": [],
+    "methods": "",
+    "name": "Houses",
+    "notion_last_synced_at": 1779593063,
+    "notion_page_id": "349e50e3-bf79-81c7-974a-f3b6c24959c4",
+    "representative": "House Lord",
+    "sort_order": 3
+  },
+  {
+    "bestiary_members_json": [
+      "359e50e3-bf79-814c-9a11-c7eeaf768e4b"
+    ],
+    "branch_markers": "Beast & living gear utilize mutated & designed resources only",
+    "characters_json": [],
+    "content_key": "caldera:steward",
+    "core_value": "We adapt the wilds to us",
+    "faction_json": [
+      "348e50e3-bf79-8117-856e-d4a7dbf8b140"
+    ],
+    "groups_json": [],
+    "id": "brn-a62443",
+    "local_last_modified_at": 1779593063,
+    "location_override_json": [],
+    "methods": "Adapt the wilds to us, Attunement & feral mutagenics",
+    "name": "Steward",
+    "notion_last_synced_at": 1779593063,
+    "notion_page_id": "348e50e3-bf79-81f7-b360-d49cc52cc8ad",
+    "representative": "Steward Elder",
+    "sort_order": 6
+  },
+  {
+    "bestiary_members_json": [],
+    "branch_markers": "Beast & living gear utilize local resources only",
+    "characters_json": [],
+    "content_key": "caldera:hermit",
+    "core_value": "We adapt to the wilds",
+    "faction_json": [
+      "348e50e3-bf79-8117-856e-d4a7dbf8b140"
+    ],
+    "groups_json": [],
+    "id": "brn-a708e7",
+    "local_last_modified_at": 1779593063,
+    "location_override_json": [],
+    "methods": "Chart, learn, & adapt to the wilds Attunement, Self mutagenics",
+    "name": "Hermit",
+    "notion_last_synced_at": 1779593063,
+    "notion_page_id": "348e50e3-bf79-814d-b1fa-cff045cbefbb",
+    "representative": "Hermit Elder",
+    "sort_order": 4
+  },
+  {
+    "bestiary_members_json": [],
+    "branch_markers": "Beast & living gear utilize a mix of local & adapted materials",
+    "characters_json": [],
+    "content_key": "caldera:grafted",
+    "core_value": "We integrate with the wilds",
+    "faction_json": [
+      "348e50e3-bf79-8117-856e-d4a7dbf8b140"
+    ],
+    "groups_json": [
+      "349e50e3-bf79-8012-bfa1-d8fffbb0e65a"
+    ],
+    "id": "brn-a7a3cf",
+    "local_last_modified_at": 1779593063,
+    "location_override_json": [],
+    "methods": "Adapt wildlife to us & us to the wilds Attunement self & feral mutagenics",
+    "name": "Grafted",
+    "notion_last_synced_at": 1779593063,
+    "notion_page_id": "348e50e3-bf79-8184-a1bc-e75da69643a8",
+    "representative": "Grafted Elder",
+    "sort_order": 5
+  }
+]

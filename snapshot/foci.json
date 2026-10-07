@@ -1,0 +1,51 @@
+[
+  {
+    "charges": null,
+    "die": 6,
+    "gear_id": "gear-soul-amulet",
+    "shareable": 0,
+    "slot_count": 1
+  },
+  {
+    "charges": null,
+    "die": 6,
+    "gear_id": "gear-soul-glove",
+    "shareable": 0,
+    "slot_count": 1
+  },
+  {
+    "charges": 1,
+    "die": 6,
+    "gear_id": "gear-soul-nail",
+    "shareable": 1,
+    "slot_count": 1
+  },
+  {
+    "charges": null,
+    "die": 8,
+    "gear_id": "gear-soul-spike",
+    "shareable": 0,
+    "slot_count": 2
+  },
+  {
+    "charges": null,
+    "die": 10,
+    "gear_id": "gear-soul-staff",
+    "shareable": 0,
+    "slot_count": 1
+  },
+  {
+    "charges": 3,
+    "die": 12,
+    "gear_id": "gear-soul-stave",
+    "shareable": 0,
+    "slot_count": 5
+  },
+  {
+    "charges": null,
+    "die": 8,
+    "gear_id": "gear-soul-wand",
+    "shareable": 0,
+    "slot_count": 1
+  }
+]

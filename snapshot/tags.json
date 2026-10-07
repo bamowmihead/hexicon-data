@@ -1,0 +1,12 @@
+[
+  {
+    "color": "#c8a26a",
+    "content_key": "tag:person",
+    "description": "A people, not an animal. Cannot be field dressed or butchered.",
+    "id": 1,
+    "local_last_modified_at": null,
+    "name": "Person",
+    "scopes": "creature_type",
+    "slug": "person"
+  }
+]

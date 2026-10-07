@@ -1,0 +1,234 @@
+[
+  {
+    "axis": "wound",
+    "content_key": "caldera:bleeding",
+    "description": "Bleeding freely — 5 Endurance at the end of every round until it is stopped.",
+    "id": "sc-bleeding",
+    "name": "Bleeding",
+    "sort_order": 33
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:heavy-bleeding",
+    "description": "A big wound bleeding hard, though no major artery — 10 Endurance at the end of every round until it is stopped.",
+    "id": "sc-bleeding-heavy",
+    "name": "Heavy Bleeding",
+    "sort_order": 34
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:light-bleeding",
+    "description": "Bleeding from a shallow wound — 2 Endurance at the end of every round until it is stopped.",
+    "id": "sc-bleeding-light",
+    "name": "Light Bleeding",
+    "sort_order": 32
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:blinded",
+    "description": "Target cannot see; auto-misses sight-based attacks.",
+    "id": "sc-blinded",
+    "name": "Blinded",
+    "sort_order": 12
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:charmed",
+    "description": "Target perceives the caster as a friend; cannot harm them.",
+    "id": "sc-charmed",
+    "name": "Charmed",
+    "sort_order": 9
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:concussed",
+    "description": "Mental haze; -2 to mental attribute checks.",
+    "id": "sc-concussed",
+    "name": "Concussed",
+    "sort_order": 7
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:cursed",
+    "description": "Persistent magical affliction; specific effect varies by curse.",
+    "id": "sc-cursed",
+    "name": "Cursed",
+    "sort_order": 16
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:deafened",
+    "description": "Target cannot hear; auto-fails hearing-based checks.",
+    "id": "sc-deafened",
+    "name": "Deafened",
+    "sort_order": 13
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:disarmed",
+    "description": "Target drops what they're wielding.",
+    "id": "sc-disarmed",
+    "name": "Disarmed",
+    "sort_order": 4
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:diseased",
+    "description": "Persistent affliction; specific effect varies by disease.",
+    "id": "sc-diseased",
+    "name": "Diseased",
+    "sort_order": 15
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:encased",
+    "description": "Hardened by umbra to Speed 0: encased, suffocating over minutes.",
+    "id": "sc-encased",
+    "name": "Encased",
+    "sort_order": 37
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:fractured",
+    "description": "Persistent injury reducing movement / accuracy until healed.",
+    "id": "sc-fractured",
+    "name": "Fractured",
+    "sort_order": 6
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:frightened",
+    "description": "Target must flee; disadvantage on attacks vs source.",
+    "id": "sc-frightened",
+    "name": "Frightened",
+    "sort_order": 10
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:grappled",
+    "description": "Target's movement reduced to 1; tier 1 of the grapple escalation.",
+    "id": "sc-grappled",
+    "name": "Grappled",
+    "sort_order": 0
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:guttering",
+    "description": "Endurance drained to 0 by a siphon: it stays at 0, speed is halved, and any damage wounds. A normal wound refills Endurance and ends it.",
+    "id": "sc-gutter",
+    "name": "Guttering",
+    "sort_order": 36
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:hemorrhage",
+    "description": "A major artery is open. LETHAL — 25 Endurance at the end of every round, and it does not stop on its own.",
+    "id": "sc-hemorrhage",
+    "name": "Hemorrhage",
+    "sort_order": 35
+  },
+  {
+    "axis": "magical",
+    "content_key": "caldera:invisible",
+    "description": "Target cannot be seen; attacks against gain disadvantage.",
+    "id": "sc-invisible",
+    "name": "Invisible",
+    "sort_order": 28
+  },
+  {
+    "axis": "movement",
+    "content_key": "caldera:knocked-back",
+    "description": "Target hurled away from the source.",
+    "id": "sc-knocked-back",
+    "name": "Knocked Back",
+    "sort_order": 31
+  },
+  {
+    "axis": "movement",
+    "content_key": "caldera:lifted",
+    "description": "Target raised into the air; falling damage on release.",
+    "id": "sc-lifted",
+    "name": "Lifted",
+    "sort_order": 26
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:paralyzed",
+    "description": "Target cannot move or act; auto-fails physical saves.",
+    "id": "sc-paralyzed",
+    "name": "Paralyzed",
+    "sort_order": 11
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:pinned",
+    "description": "Target cannot move; tier 2.",
+    "id": "sc-pinned",
+    "name": "Pinned",
+    "sort_order": 1
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:knocked-prone",
+    "description": "Target is on the ground; melee attackers gain advantage.",
+    "id": "sc-prone",
+    "name": "Knocked Prone",
+    "sort_order": 3
+  },
+  {
+    "axis": "movement",
+    "content_key": "caldera:pulled",
+    "description": "Target pulled toward the source.",
+    "id": "sc-pulled",
+    "name": "Pulled",
+    "sort_order": 30
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:restrained",
+    "description": "Target cannot move OR take physical actions; tier 3.",
+    "id": "sc-restrained",
+    "name": "Restrained",
+    "sort_order": 2
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:rooted",
+    "description": "Acting through a root clone: the body roots in place (Speed 0) until the last clone is gone.",
+    "id": "sc-rooted",
+    "name": "Rooted",
+    "sort_order": 38
+  },
+  {
+    "axis": "movement",
+    "content_key": "caldera:shoved",
+    "description": "Target pushed away from the source.",
+    "id": "sc-shoved",
+    "name": "Shoved",
+    "sort_order": 29
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:slowed",
+    "description": "Target's speed halved.",
+    "id": "sc-slowed",
+    "name": "Slowed",
+    "sort_order": 14
+  },
+  {
+    "axis": "wound",
+    "content_key": "caldera:staggered",
+    "description": "Target loses next reaction; flat-footed for 1 round.",
+    "id": "sc-staggered",
+    "name": "Staggered",
+    "sort_order": 5
+  },
+  {
+    "axis": "status",
+    "content_key": "caldera:stunned",
+    "description": "Target loses next turn entirely.",
+    "id": "sc-stunned",
+    "name": "Stunned",
+    "sort_order": 8
+  }
+]

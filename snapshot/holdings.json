@@ -1,0 +1,14 @@
+[
+  {
+    "address": "holding:1",
+    "created_at": 0,
+    "description": null,
+    "id": 1,
+    "kind": "camp",
+    "location_id": 23,
+    "name": "Pillow Moss Campsite",
+    "owner_id": null,
+    "owner_kind": null,
+    "sync_id": null
+  }
+]

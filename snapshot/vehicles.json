@@ -1,0 +1,45 @@
+[
+  {
+    "armaments_json": [],
+    "cargo_capacity": 600.0,
+    "category_json": [
+      "Cart"
+    ],
+    "completion": "Incomplete",
+    "content_key": "caldera:the-company-cart",
+    "crew": 1.0,
+    "current_durability": 20.0,
+    "damage": 0,
+    "damage_slots": 6.0,
+    "defense": 3.0,
+    "description": "A horse cart pulled by an elephant — first cart ever made here, imperfect by design. Built by Walker, Guild trade master. Soft-Ground Speed 2 · cargo shelter: Open · 4 saddlebag slots (racks add more; the 600 lb bed is fixed). Upgrades = equipped Cart Upgrade items.",
+    "drawn_by_instance_id": "ri-7f4395",
+    "durability": 20.0,
+    "equipped_json": [],
+    "granted_abilities_json": [],
+    "id": "veh-56585b",
+    "is_named": 1,
+    "local_last_modified_at": 1781181651,
+    "name": "The Company Cart",
+    "narrator_notes": "",
+    "notion_last_synced_at": 1781181651,
+    "notion_page_id": "37ce50e3-bf79-8141-b3c3-cd81b09ce1b4",
+    "origin_template_json": [],
+    "owner_id": "company-playtest",
+    "owner_kind": "company",
+    "passenger_capacity": 2.0,
+    "rarity": "",
+    "requirements": "One draft beast",
+    "resistances_json": [],
+    "salt_value": null,
+    "size": "Medium",
+    "sort_order": 0,
+    "speed": 4.0,
+    "status": "Operational",
+    "weaknesses_json": [
+      "Splitting",
+      "Heat/Fire"
+    ],
+    "weight": 300.0
+  }
+]

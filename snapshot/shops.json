@@ -1,0 +1,16 @@
+[
+  {
+    "content_key": "caldera:the-ferry-landing-market",
+    "id": "shop-ii-18b748d6f530e8e8",
+    "location_id": 63,
+    "name": "The Ferry Landing Market",
+    "sort_order": 0.0
+  },
+  {
+    "content_key": "caldera:the-ferry-walk-market",
+    "id": "shop-ii-18b748d9aef72074",
+    "location_id": 0,
+    "name": "The Ferry Walk Market",
+    "sort_order": 0.0
+  }
+]

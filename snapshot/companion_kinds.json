@@ -1,0 +1,80 @@
+[
+  {
+    "break_rule_json": {
+      "either_kills_other": true
+    },
+    "free_slots": null,
+    "id": "beast",
+    "name": "beast",
+    "points_name": "attunement point",
+    "recurring_grant_points": null,
+    "recurring_when": "survives",
+    "relationship_name": "Attunement",
+    "skills_json": [
+      "mount",
+      "scouting",
+      "tracking",
+      "stalking",
+      "keeping watch",
+      "hunting",
+      "gathering resources"
+    ],
+    "sort_order": 0,
+    "spillover_currency": "spec:bodyplan",
+    "spillover_rate": 1,
+    "template_tree_id": null,
+    "vocation_id": "voc-berserker-2"
+  },
+  {
+    "break_rule_json": {},
+    "free_slots": 0,
+    "id": "companion",
+    "name": "companion",
+    "points_name": "companion point",
+    "recurring_grant_points": 1,
+    "recurring_when": "survives",
+    "relationship_name": "Companion",
+    "skills_json": [],
+    "sort_order": 9,
+    "spillover_currency": "skill",
+    "spillover_rate": 1,
+    "template_tree_id": null,
+    "vocation_id": "*"
+  },
+  {
+    "break_rule_json": {
+      "dies": true
+    },
+    "free_slots": 1,
+    "id": "living_armor",
+    "name": "living armor",
+    "points_name": "symbiosis point",
+    "recurring_grant_points": 1,
+    "recurring_when": "brought",
+    "relationship_name": "Symbiosis",
+    "skills_json": [],
+    "sort_order": 1,
+    "spillover_currency": "spec:growthhabit",
+    "spillover_rate": 1,
+    "template_tree_id": null,
+    "vocation_id": "voc-ranger-2"
+  },
+  {
+    "break_rule_json": {
+      "unwilling": true
+    },
+    "free_slots": 1,
+    "id": "spirit",
+    "name": "spirit",
+    "points_name": "spirit weaving point",
+    "recurring_grant_points": 1,
+    "recurring_when": "brought",
+    "relationship_name": "Spirit weaving",
+    "skills_json": [],
+    "sort_order": 2,
+    "spillover_currency": "spec:energy",
+    "spillover_rate": 1,
+    "template_tree_id": null,
+    "vocation_id": "voc-channeler"
+  }
+]

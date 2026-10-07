@@ -1,0 +1,406 @@
+[
+  {
+    "key": "attribute.cost_curve",
+    "note": "The locked attribute cost curve (06 · Vocations & Progression).",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": [
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  {
+    "key": "companion.bring_limit_base",
+    "note": "See companion.bring_limit_divisor.",
+    "status": "canon",
+    "updated_at": 1790593559,
+    "value_json": 1
+  },
+  {
+    "key": "companion.bring_limit_divisor",
+    "note": "Companions a PC may field = Charm ÷ this + base (the code's old Charm ÷ 3 + 1, now data).",
+    "status": "canon",
+    "updated_at": 1790593559,
+    "value_json": 3
+  },
+  {
+    "key": "companion.death_penalty_points",
+    "note": "Points taken off a bond's ledger when its companion dies (Reece: 'subtract some points'; the amount is Claude's).",
+    "status": "pending",
+    "updated_at": 1790593559,
+    "value_json": 2
+  },
+  {
+    "key": "companion.free_slots",
+    "note": "Every vocation gets this many free slots for its vocational companion, outside the Charm cap (Reece, 9/28).",
+    "status": "canon",
+    "updated_at": 1790593559,
+    "value_json": 1
+  },
+  {
+    "key": "companion.recurring_grant",
+    "note": "Bond points granted at End Session for each companion that survived the session, unbroken.",
+    "status": "canon",
+    "updated_at": 1790593559,
+    "value_json": 1
+  },
+  {
+    "key": "cultivation2.accelerate.overgrowth_per_level",
+    "note": "Overgrowth spent to grow a plant one level now. Not decided.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "cultivation2.accelerate.reagents_per_level",
+    "note": "Reagents spent to grow a plant one level now. Not decided.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "cultivation2.biome.compatible.growth_mult",
+    "note": "A compatible biome: growth this many times faster (the interval divided by it). Placeholder.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": 2
+  },
+  {
+    "key": "cultivation2.biome.compatible.yield_mult",
+    "note": "A compatible biome: the plant's Overgrowth yield × this (handoff §2 'produces more'). Placeholder.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": 2
+  },
+  {
+    "key": "cultivation2.biome.hostile.growth_mult",
+    "note": "A hostile biome: growth this many times slower. Placeholder.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": 0.5
+  },
+  {
+    "key": "cultivation2.biome.hostile.yield_mult",
+    "note": "A hostile biome: yield × this ('produces less'). Placeholder.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": 0.5
+  },
+  {
+    "key": "cultivation2.growth_interval_rounds",
+    "note": "A plant grows a level on its own every this many rounds (handoff §3).",
+    "status": "canon",
+    "updated_at": 1791398195,
+    "value_json": 3
+  },
+  {
+    "key": "ferality.base",
+    "note": "See ferality.per_willpower.",
+    "status": "canon",
+    "updated_at": 1790593559,
+    "value_json": 20
+  },
+  {
+    "key": "ferality.companion_hurt_gain",
+    "note": "Ferality gained when a beast companion is injured (handoff §2). Not decided; pc_ferality_event('companion_hurt') refuses until it is.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "ferality.companion_hurts_gain",
+    "note": "Ferality gained when a beast companion hurts something. Not decided.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "ferality.decay_per_round",
+    "note": "Lost each combat round: the PC's Willpower (his working idea; a number also works here).",
+    "status": "pending",
+    "updated_at": 1790593559,
+    "value_json": "willpower"
+  },
+  {
+    "key": "ferality.evisceration_gain",
+    "note": "Ferality gained by Evisceration. Not decided; the ability's gains_json will carry it.",
+    "status": "open",
+    "updated_at": 1790593559,
+    "value_json": null
+  },
+  {
+    "key": "ferality.hunting_gain",
+    "note": "Ferality gained by hunting, outside combat (handoff §2). Not decided.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "ferality.per_intuition",
+    "note": "Ferality capacity = Intuition × this + base (2.0 handoff §2, 9/28: Intuition is the limit for every vocation's energy so it isn't a dump stat).",
+    "status": "canon",
+    "updated_at": 1791398195,
+    "value_json": 10
+  },
+  {
+    "key": "ferality.per_willpower",
+    "note": "Retired 9/28: capacity is Intuition × ferality.per_intuition + base now.",
+    "status": "retired",
+    "updated_at": 1791398195,
+    "value_json": 10
+  },
+  {
+    "key": "ferality.post_combat_drain_per_hour",
+    "note": "Lost per hour after the drop to half.",
+    "status": "canon",
+    "updated_at": 1790593559,
+    "value_json": 1
+  },
+  {
+    "key": "ferality.post_combat_hours_to_half",
+    "note": "Hours after the last round before the pool drops to half capacity (Reece, 9/28).",
+    "status": "canon",
+    "updated_at": 1790593559,
+    "value_json": 1
+  },
+  {
+    "key": "ferality.runaway_step_per_round",
+    "note": "Berserk levels gained per round while ferality is at or past capacity (2.0 §4).",
+    "status": "canon",
+    "updated_at": 1790593559,
+    "value_json": 1
+  },
+  {
+    "key": "garden.base_capacity",
+    "note": "Plots a House garden starts with; upgrades raise it.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": 4
+  },
+  {
+    "key": "garden.yield_interval_hours",
+    "note": "World hours between garden yields (a week).",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": 168
+  },
+  {
+    "key": "overgrowth.base",
+    "note": "See overgrowth.per_intuition.",
+    "status": "canon",
+    "updated_at": 1791398195,
+    "value_json": 20
+  },
+  {
+    "key": "overgrowth.decay_per_round",
+    "note": "Lost each combat round: the PC's Willpower, as ferality (Reece 9/28: 'Overgrowth decays the same way as ferality'). A number works here too.",
+    "status": "canon",
+    "updated_at": 1791398195,
+    "value_json": "willpower"
+  },
+  {
+    "key": "overgrowth.forage_gain",
+    "note": "Overgrowth gained by foraging (handoff §2). Not decided; the GM adds by hand until it is.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "overgrowth.out_of_combat_gain_per_hour",
+    "note": "Gained per hour outside combat while at a base with a garden or with plants growing, up to half capacity (handoff §2). Not decided; nothing accrues until it is.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "overgrowth.per_intuition",
+    "note": "Overgrowth cap = Intuition × this + base (2.0 handoff §2).",
+    "status": "canon",
+    "updated_at": 1791398195,
+    "value_json": 10
+  },
+  {
+    "key": "overgrowth.post_combat_drain_per_hour",
+    "note": "Lost per hour after the drop to half ('drains slowly').",
+    "status": "canon",
+    "updated_at": 1791398195,
+    "value_json": 1
+  },
+  {
+    "key": "overgrowth.post_combat_hours_to_half",
+    "note": "Hours after the last round before the pool drops to half capacity (handoff §2 re-sent 9/28: 'same shape as Berserker ferality').",
+    "status": "canon",
+    "updated_at": 1791398195,
+    "value_json": 1
+  },
+  {
+    "key": "plant.destroyed.overgrowth_loss",
+    "note": "Overgrowth the Ranger loses when one of their plants is destroyed (Reece 9/28: 'lose overgrowth from ... plants being destroyed'). The number is his; 0 until ruled.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "root_clone.ap_cost",
+    "note": "AP to grow a root clone (handoff §4).",
+    "status": "canon",
+    "updated_at": 1791398195,
+    "value_json": 1
+  },
+  {
+    "key": "root_clone.death.endurance_loss",
+    "note": "Endurance the Ranger loses when a root clone dies (never a wound; 0 gutters only if the card says).",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "root_clone.death.overgrowth_loss",
+    "note": "Overgrowth the Ranger loses when a root clone dies (that it happens is canon, Reece 9/28; the number is his; 0 until ruled).",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": null
+  },
+  {
+    "key": "root_clone.death.plant_levels_lost",
+    "note": "Levels the source plant loses when its clone dies ('growth lowered').",
+    "status": "canon",
+    "updated_at": 1791398195,
+    "value_json": 1
+  },
+  {
+    "key": "root_clone.overgrowth_cost",
+    "note": "Overgrowth to grow a root clone, before the symbiote's discount. 0 until he rules.",
+    "status": "open",
+    "updated_at": 1791398195,
+    "value_json": 0
+  },
+  {
+    "key": "session.attribute_points",
+    "note": "Awarded to each PC playing when a session ends.",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 3
+  },
+  {
+    "key": "session.vocation_points",
+    "note": "Awarded to each PC playing when a session ends.",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 3
+  },
+  {
+    "key": "soul.aether_die_cost_divisor",
+    "note": "Aether infused from the Reserve costs die size ÷ this. The chart prices only anima.",
+    "status": "pending",
+    "updated_at": 1790562295,
+    "value_json": 1
+  },
+  {
+    "key": "soul.anima_die_cost_divisor",
+    "note": "Anima infused from the Reserve costs die size ÷ this (d4 = 2, d6 = 3).",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 2
+  },
+  {
+    "key": "soul.default_die",
+    "note": "No foci = d4 (Reece, 2026-09-28). Nail/Glove/Amulet d6, Spike/Wand d8, Staff d10, Stave d12 are foci rows.",
+    "status": "canon",
+    "updated_at": 1790562296,
+    "value_json": 4
+  },
+  {
+    "key": "soul.encase_at_speed",
+    "note": "Hardened by umbra to this Speed or below: Encased (chart Y).",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 0
+  },
+  {
+    "key": "soul.fortified_recovery_per_step",
+    "note": "Endurance a body at a positive ichor step recovers at the end of each round, per step (chart Y names the effect, not the amount).",
+    "status": "pending",
+    "updated_at": 1790562295,
+    "value_json": 1
+  },
+  {
+    "key": "soul.ichor_per_wound",
+    "note": "Ichor delivered that closes one wound, no roll (chart M).",
+    "status": "pending",
+    "updated_at": 1790562295,
+    "value_json": 1
+  },
+  {
+    "key": "soul.reserve.base",
+    "note": "Reserve capacity = Intuition × per_intuition + this.",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 20
+  },
+  {
+    "key": "soul.reserve.one_cap",
+    "note": "One cap over anima and aether together (Reece, 9/28).",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": true
+  },
+  {
+    "key": "soul.reserve.per_intuition",
+    "note": "Reserve capacity = Intuition × this + base (Reece, 9/27: supersedes × 2 + 10).",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 10
+  },
+  {
+    "key": "soul.runoff_fraction",
+    "note": "How much aether a spend of anima leaves in the Reserve, and vice versa. Not decided.",
+    "status": "open",
+    "updated_at": 1790562295,
+    "value_json": null
+  },
+  {
+    "key": "soul.sacrifice_endurance_rate",
+    "note": "Endurance spent per anima when the body is the source (chart M).",
+    "status": "pending",
+    "updated_at": 1790562295,
+    "value_json": 1
+  },
+  {
+    "key": "soul.siphon_return_divisor",
+    "note": "Siphon returns what it dealt ÷ this, to Endurance or the Reserve.",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 2
+  },
+  {
+    "key": "soul.sources_at_level_one",
+    "note": "One source = one die per AP until the reserve-plus-body node is earned (Reece, 9/27).",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 1
+  },
+  {
+    "key": "soul.step_hours",
+    "note": "Deviation ticks one step toward normal each pulse (12 h).",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 12
+  },
+  {
+    "key": "soul.steps_per_capacity",
+    "note": "Deviation step width = soul capacity ÷ this; the centre band is normal.",
+    "status": "canon",
+    "updated_at": 1790562295,
+    "value_json": 7
+  },
+  {
+    "key": "soul.willpower_bonus_divisor",
+    "note": "Willpower bonus per die = ⌊Willpower ÷ this⌋. Per die is canon; the divisor is Claude's.",
+    "status": "pending",
+    "updated_at": 1790562295,
+    "value_json": 2
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "bestiary_members_json": [],
+    "characters_json": [],
+    "content_key": "caldera:devotee",
+    "groups_json": [],
+    "id": "trt-60e737",
+    "local_last_modified_at": 1779593064,
+    "name": "Devotee",
+    "notion_last_synced_at": 1779593064,
+    "notion_page_id": "348e50e3-bf79-811c-b560-f2d281da06f0",
+    "positions_json": [
+      "Tradition",
+      "Compassion"
+    ],
+    "sort_order": 1
+  },
+  {
+    "bestiary_members_json": [
+      "359e50e3-bf79-814c-9a11-c7eeaf768e4b"
+    ],
+    "characters_json": [],
+    "content_key": "caldera:defector",
+    "groups_json": [],
+    "id": "trt-7fd567",
+    "local_last_modified_at": 1779593064,
+    "name": "Defector",
+    "notion_last_synced_at": 1779593064,
+    "notion_page_id": "348e50e3-bf79-8172-9846-c07420b92ea7",
+    "positions_json": [
+      "Urgency",
+      "Innovation"
+    ],
+    "sort_order": 2
+  },
+  {
+    "bestiary_members_json": [],
+    "characters_json": [],
+    "content_key": "caldera:mentor",
+    "groups_json": [],
+    "id": "trt-825bfb",
+    "local_last_modified_at": 1779593064,
+    "name": "Mentor",
+    "notion_last_synced_at": 1779593064,
+    "notion_page_id": "348e50e3-bf79-8183-baa4-fb6628fa6608",
+    "positions_json": [
+      "Patience",
+      "Inclusion"
+    ],
+    "sort_order": 3
+  },
+  {
+    "bestiary_members_json": [],
+    "characters_json": [],
+    "content_key": "caldera:believer",
+    "groups_json": [
+      "349e50e3-bf79-8012-bfa1-d8fffbb0e65a"
+    ],
+    "id": "trt-8d1357",
+    "local_last_modified_at": 1779593064,
+    "name": "Believer",
+    "notion_last_synced_at": 1779593064,
+    "notion_page_id": "348e50e3-bf79-8195-8ad4-c220aaf8161c",
+    "positions_json": [
+      "Humility",
+      "Loyalty"
+    ],
+    "sort_order": 4
+  },
+  {
+    "bestiary_members_json": [
+      "359e50e3-bf79-8113-aa5e-fd92feb9106c"
+    ],
+    "characters_json": [],
+    "content_key": "caldera:opportunist",
+    "groups_json": [],
+    "id": "trt-8d922b",
+    "local_last_modified_at": 1779593064,
+    "name": "Opportunist",
+    "notion_last_synced_at": 1779593064,
+    "notion_page_id": "348e50e3-bf79-81d6-b2bb-e6d1eef7aaeb",
+    "positions_json": [
+      "Independence",
+      "Exclusion"
+    ],
+    "sort_order": 5
+  },
+  {
+    "bestiary_members_json": [],
+    "characters_json": [],
+    "content_key": "caldera:ideologue",
+    "groups_json": [],
+    "id": "trt-8de31b",
+    "local_last_modified_at": 1779593064,
+    "name": "Ideologue",
+    "notion_last_synced_at": 1779593064,
+    "notion_page_id": "348e50e3-bf79-81fb-bc5e-c755394dac0a",
+    "positions_json": [
+      "Confidence",
+      "Detachment"
+    ],
+    "sort_order": 6
+  }
+]

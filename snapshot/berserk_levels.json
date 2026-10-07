@@ -1,0 +1,30 @@
+[
+  {
+    "effects_json": [],
+    "level": 1,
+    "loses_control": 0,
+    "threshold": 0.25,
+    "vocation_id": "voc-berserker-2"
+  },
+  {
+    "effects_json": [],
+    "level": 2,
+    "loses_control": 0,
+    "threshold": 0.5,
+    "vocation_id": "voc-berserker-2"
+  },
+  {
+    "effects_json": [],
+    "level": 3,
+    "loses_control": 0,
+    "threshold": 0.75,
+    "vocation_id": "voc-berserker-2"
+  },
+  {
+    "effects_json": [],
+    "level": 4,
+    "loses_control": 1,
+    "threshold": 1.0,
+    "vocation_id": "voc-berserker-2"
+  }
+]

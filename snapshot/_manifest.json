@@ -1,0 +1,437 @@
+{
+  "format": 1,
+  "machine": "THERIEGLBOP",
+  "schema": 390,
+  "skipped_blob_columns": [],
+  "source": "hexicon",
+  "tables": [
+    {
+      "file": "creature_types.json",
+      "group": "People & creatures",
+      "label": "Creatures",
+      "rows": 190,
+      "table": "creature_types"
+    },
+    {
+      "file": "pcs.json",
+      "group": "People & creatures",
+      "label": "PCs",
+      "rows": 4,
+      "table": "pcs"
+    },
+    {
+      "file": "houses.json",
+      "group": "Players",
+      "label": "Houses",
+      "rows": 4,
+      "table": "houses"
+    },
+    {
+      "file": "companies.json",
+      "group": "Players",
+      "label": "Companies",
+      "rows": 1,
+      "table": "companies"
+    },
+    {
+      "file": "memorials.json",
+      "group": "Players",
+      "label": "Memorial",
+      "rows": 0,
+      "table": "memorials"
+    },
+    {
+      "file": "factions.json",
+      "group": "World",
+      "label": "Factions",
+      "rows": 5,
+      "table": "factions"
+    },
+    {
+      "file": "branches.json",
+      "group": "World",
+      "label": "Branches",
+      "rows": 6,
+      "table": "branches"
+    },
+    {
+      "file": "locations.json",
+      "group": "World",
+      "label": "Locations",
+      "rows": 43,
+      "table": "locations"
+    },
+    {
+      "file": "holdings.json",
+      "group": "World",
+      "label": "Holdings",
+      "rows": 1,
+      "table": "holdings"
+    },
+    {
+      "file": "camps.json",
+      "group": "World",
+      "label": "Camps",
+      "rows": 1,
+      "table": "camps"
+    },
+    {
+      "file": "facilities.json",
+      "group": "World",
+      "label": "Facilities",
+      "rows": 0,
+      "table": "facilities"
+    },
+    {
+      "file": "shops.json",
+      "group": "World",
+      "label": "Shops",
+      "rows": 2,
+      "table": "shops"
+    },
+    {
+      "file": "biomes.json",
+      "group": "World",
+      "label": "Biomes",
+      "rows": 11,
+      "table": "biomes"
+    },
+    {
+      "file": "storylines.json",
+      "group": "World",
+      "label": "Storylines",
+      "rows": 0,
+      "table": "storylines"
+    },
+    {
+      "file": "armaments.json",
+      "group": "Items",
+      "label": "Armaments",
+      "rows": 81,
+      "table": "armaments"
+    },
+    {
+      "file": "equipment.json",
+      "group": "Items",
+      "label": "Equipment",
+      "rows": 74,
+      "table": "equipment"
+    },
+    {
+      "file": "gear.json",
+      "group": "Items",
+      "label": "Gear",
+      "rows": 33,
+      "table": "gear"
+    },
+    {
+      "file": "consumables.json",
+      "group": "Items",
+      "label": "Consumables",
+      "rows": 67,
+      "table": "consumables"
+    },
+    {
+      "file": "item_instances.json",
+      "group": "Items",
+      "label": "Items in the world",
+      "rows": 422,
+      "table": "item_instances"
+    },
+    {
+      "file": "recipes.json",
+      "group": "Items",
+      "label": "Recipes",
+      "rows": 0,
+      "table": "recipes"
+    },
+    {
+      "file": "loot_tables.json",
+      "group": "Items",
+      "label": "Loot tables",
+      "rows": 0,
+      "table": "loot_tables"
+    },
+    {
+      "file": "creature_abilities.json",
+      "group": "Rules",
+      "label": "Abilities",
+      "rows": 262,
+      "table": "creature_abilities"
+    },
+    {
+      "file": "traits.json",
+      "group": "Rules",
+      "label": "Traits",
+      "rows": 6,
+      "table": "traits"
+    },
+    {
+      "file": "status_conditions.json",
+      "group": "Rules",
+      "label": "Status conditions",
+      "rows": 29,
+      "table": "status_conditions"
+    },
+    {
+      "file": "condition_tracks.json",
+      "group": "Rules",
+      "label": "Condition tracks",
+      "rows": 17,
+      "table": "condition_tracks"
+    },
+    {
+      "file": "vocations.json",
+      "group": "Progression",
+      "label": "Vocations",
+      "rows": 5,
+      "table": "vocations"
+    },
+    {
+      "file": "skills.json",
+      "group": "Progression",
+      "label": "Skills",
+      "rows": 0,
+      "table": "skills"
+    },
+    {
+      "file": "trees.json",
+      "group": "Progression",
+      "label": "Trees",
+      "rows": 17,
+      "table": "trees"
+    },
+    {
+      "file": "tree_nodes.json",
+      "group": "Progression",
+      "label": "Tree nodes",
+      "rows": 6,
+      "table": "tree_nodes"
+    },
+    {
+      "file": "companion_kinds.json",
+      "group": "Progression",
+      "label": "Companion kinds",
+      "rows": 4,
+      "table": "companion_kinds"
+    },
+    {
+      "file": "companion_profiles.json",
+      "group": "Progression",
+      "label": "Companion profiles",
+      "rows": 0,
+      "table": "companion_profiles"
+    },
+    {
+      "file": "companion_bonds.json",
+      "group": "Progression",
+      "label": "Bonds",
+      "rows": 0,
+      "table": "companion_bonds"
+    },
+    {
+      "file": "sessions.json",
+      "group": "Progression",
+      "label": "Sessions",
+      "rows": 0,
+      "table": "sessions"
+    },
+    {
+      "file": "point_ledger.json",
+      "group": "Progression",
+      "label": "Point ledger",
+      "rows": 0,
+      "table": "point_ledger"
+    },
+    {
+      "file": "rules.json",
+      "group": "Progression",
+      "label": "Rules",
+      "rows": 57,
+      "table": "rules"
+    },
+    {
+      "file": "soul_effects.json",
+      "group": "Soul",
+      "label": "Soul effects",
+      "rows": 104,
+      "table": "soul_effects"
+    },
+    {
+      "file": "foci.json",
+      "group": "Soul",
+      "label": "Foci",
+      "rows": 7,
+      "table": "foci"
+    },
+    {
+      "file": "soul_transfers.json",
+      "group": "Soul",
+      "label": "Soul transfers (log)",
+      "rows": 0,
+      "table": "soul_transfers"
+    },
+    {
+      "file": "trance_forms.json",
+      "group": "Berserker 2.0",
+      "label": "Trance forms (2.0)",
+      "rows": 0,
+      "table": "trance_forms"
+    },
+    {
+      "file": "berserk_levels.json",
+      "group": "Berserker 2.0",
+      "label": "Berserk levels (2.0)",
+      "rows": 4,
+      "table": "berserk_levels"
+    },
+    {
+      "file": "trances.json",
+      "group": "Berserker",
+      "label": "Trance cards",
+      "rows": 12,
+      "table": "trances"
+    },
+    {
+      "file": "cultivations.json",
+      "group": "Ranger",
+      "label": "Cultivation cards",
+      "rows": 11,
+      "table": "cultivations"
+    },
+    {
+      "file": "cultivations2.json",
+      "group": "Ranger 2.0",
+      "label": "Plant cards (2.0)",
+      "rows": 0,
+      "table": "cultivations2"
+    },
+    {
+      "file": "plant_levels.json",
+      "group": "Ranger 2.0",
+      "label": "Plant levels (2.0)",
+      "rows": 0,
+      "table": "plant_levels"
+    },
+    {
+      "file": "plants2.json",
+      "group": "Ranger 2.0",
+      "label": "Grown plants (2.0)",
+      "rows": 0,
+      "table": "plants2"
+    },
+    {
+      "file": "root_clones.json",
+      "group": "Ranger 2.0",
+      "label": "Root clones (2.0)",
+      "rows": 0,
+      "table": "root_clones"
+    },
+    {
+      "file": "gardens.json",
+      "group": "Ranger 2.0",
+      "label": "Gardens",
+      "rows": 0,
+      "table": "gardens"
+    },
+    {
+      "file": "garden_plots.json",
+      "group": "Ranger 2.0",
+      "label": "Garden plots",
+      "rows": 0,
+      "table": "garden_plots"
+    },
+    {
+      "file": "plant_complements.json",
+      "group": "Ranger 2.0",
+      "label": "Plant complements",
+      "rows": 0,
+      "table": "plant_complements"
+    },
+    {
+      "file": "plant_biomes.json",
+      "group": "Ranger 2.0",
+      "label": "Plant biomes (2.0)",
+      "rows": 0,
+      "table": "plant_biomes"
+    },
+    {
+      "file": "ground_paints.json",
+      "group": "World",
+      "label": "Ground paints",
+      "rows": 13,
+      "table": "ground_paints"
+    },
+    {
+      "file": "world_ground.json",
+      "group": "World",
+      "label": "World paint chunks",
+      "rows": 82,
+      "table": "world_ground"
+    },
+    {
+      "file": "world_structures.json",
+      "group": "World",
+      "label": "World structure chunks",
+      "rows": 1,
+      "table": "world_structures"
+    },
+    {
+      "file": "ground_paint_biomes.json",
+      "group": "World",
+      "label": "Paint versions per biome",
+      "rows": 0,
+      "table": "ground_paint_biomes"
+    },
+    {
+      "file": "sense_kinds.json",
+      "group": "Rules",
+      "label": "Senses",
+      "rows": 5,
+      "table": "sense_kinds"
+    },
+    {
+      "file": "vehicles.json",
+      "group": "Logistics",
+      "label": "Vehicles",
+      "rows": 1,
+      "table": "vehicles"
+    },
+    {
+      "file": "retinue_templates.json",
+      "group": "Roster",
+      "label": "Retinue templates",
+      "rows": 17,
+      "table": "retinue_templates"
+    },
+    {
+      "file": "roster_instances.json",
+      "group": "Roster",
+      "label": "Roster bodies",
+      "rows": 36,
+      "table": "roster_instances"
+    },
+    {
+      "file": "encounter_tables.json",
+      "group": "Roster",
+      "label": "Encounter tables",
+      "rows": 12,
+      "table": "encounter_tables"
+    },
+    {
+      "file": "tags.json",
+      "group": "Misc",
+      "label": "Tags",
+      "rows": 1,
+      "table": "tags"
+    },
+    {
+      "file": "questions.json",
+      "group": "Brain",
+      "label": "Questions",
+      "rows": 0,
+      "table": "questions"
+    }
+  ],
+  "writer": "Hexicon writes this folder only; see README.md"
+}

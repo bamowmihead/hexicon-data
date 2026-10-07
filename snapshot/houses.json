@@ -1,0 +1,38 @@
+[
+  {
+    "content_key": "caldera:serenity",
+    "created_at": 1780540150,
+    "dev_unlock_until": null,
+    "id": "house-56a7b0",
+    "name": "Serenity",
+    "pin": "1234",
+    "sort_order": 3
+  },
+  {
+    "content_key": "caldera:jarraxus",
+    "created_at": 1780540084,
+    "dev_unlock_until": 1781138034,
+    "id": "house-77a3d7",
+    "name": "Jarraxus",
+    "pin": "1234",
+    "sort_order": 1
+  },
+  {
+    "content_key": "caldera:gallia",
+    "created_at": 1781020486,
+    "dev_unlock_until": null,
+    "id": "house-9418c3",
+    "name": "Gallia",
+    "pin": "1234",
+    "sort_order": 4
+  },
+  {
+    "content_key": "caldera:shawnanigans",
+    "created_at": 1780540115,
+    "dev_unlock_until": null,
+    "id": "house-d73858",
+    "name": "Shawnanigans",
+    "pin": "1234",
+    "sort_order": 2
+  }
+]

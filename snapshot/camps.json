@@ -1,0 +1,16 @@
+[
+  {
+    "created_at": 1782090369,
+    "fire_lit": 0,
+    "hex_id": 12,
+    "holding_id": 1,
+    "id": "camp-loc-23",
+    "location_id": 23,
+    "name": "Pillow Moss Campsite",
+    "node": "mid_0",
+    "owner_id": null,
+    "owner_kind": null,
+    "space_m2": 25.0,
+    "sync_id": "camps:loc-23"
+  }
+]
