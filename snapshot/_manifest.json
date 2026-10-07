@@ -363,6 +363,20 @@
       "table": "ground_paints"
     },
     {
+      "file": "world_ground.json",
+      "group": "World",
+      "label": "World paint chunks",
+      "rows": 82,
+      "table": "world_ground"
+    },
+    {
+      "file": "world_structures.json",
+      "group": "World",
+      "label": "World structure chunks",
+      "rows": 1,
+      "table": "world_structures"
+    },
+    {
       "file": "ground_paint_biomes.json",
       "group": "World",
       "label": "Paint versions per biome",
