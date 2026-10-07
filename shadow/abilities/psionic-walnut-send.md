@@ -2,7 +2,7 @@
 title: Psionic Walnut (Send)
 aliases: []
 type: ability
-summary: ""
+summary: Send a psionic message to anyone the bearer has MET AND TOUCHED.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-walnut-send
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Psionic Walnut (Send)
+
+Send a psionic message to anyone the bearer has MET AND TOUCHED.
 
 ## Fields
 
@@ -26,7 +28,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Send a psionic message to anyone the bearer has MET AND TOUCHED. Infinite uses.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -44,6 +45,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Send a psionic message to anyone the bearer has MET AND TOUCHED. Infinite uses.
+
 
 ## Links
 

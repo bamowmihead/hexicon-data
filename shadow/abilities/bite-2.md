@@ -2,7 +2,7 @@
 title: Bite
 aliases: []
 type: ability
-summary: ""
+summary: 1m — 3d8+Might Piercing
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-02-s3-bite
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Bite
+
+1m — 3d8+Might Piercing
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Piercing"]`
 - **dice:** 3d8
-- **effect:** 1m — 3d8+Might Piercing
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -44,6 +45,11 @@ links: 0
 - **sticky:** 0
 - **store_capacity:** 1
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 1m — 3d8+Might Piercing
+
 
 ## Links
 

@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: gea-sticks
 table: gear
-links: 1
+links: 2
 ---
 
 # Sticks
@@ -27,6 +27,7 @@ links: 1
 
 Linked from:
 
+- ← [[abilities/throw-sticky-frag-grenade]] (mentions, w=1)
 - ← [[locations/ferry-landing]] (mentions, w=1)
 
 ## Inferred

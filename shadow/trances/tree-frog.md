@@ -2,7 +2,7 @@
 title: Tree Frog
 aliases: []
 type: trance-card
-summary: ""
+summary: A slippery giant tree frog capable of spitting a flammable acid
 last-verified: 2026-10-07
 source: snapshot
 id: trance-10
@@ -12,9 +12,10 @@ links: 0
 
 # Tree Frog
 
+A slippery giant tree frog capable of spitting a flammable acid
+
 ## Fields
 
-- **flavor:** A slippery giant tree frog capable of spitting a flammable acid
 - **ingredients:** Boiled Frog Spittle — 1d4 Acid (1d4 vs structures/gear) · Dried Frog Spittle — +1d4 to flame damage dealt
 - **mods_json:** `[{"attrs": {"fortitude": -1, "prowess": 1, "reflex": 1}, "max_end": -2, "spd": 1}, {"attacks": [{"ap": 1, "name": "Acid Spit", "text": "10m — 1d6+Prowess Acid; later fire damage on the target +1d6"}, {"ap": 2, "name": "Tongue Grapple", "text": "5m — pull self to Large targets or smaller targets t…`
 - **name:** Tree Frog
@@ -23,6 +24,11 @@ links: 0
 - **stage2:** +2 Prowess, +2 Reflex, −2 Fortitude +2 Prowess Attacks · +2 Speed · −4 Max Endurance Slippery Skin +2 · Climb at half speed (walls + ceilings) Acid Spit: 1 AP, 10m — 1d6+Prowess Acid; later fire damage on the target +1d6 Tongue Grapple: 2 AP, 5m — pull self to Large targets or smaller targets to self; grappled targets take double Spit damage
 - **stage3:** +3 Prowess, +3 Reflex, −3 Fortitude +3 Prowess Attacks · +3 Speed · −6 Max Endurance Slippery Skin +2 · Climb at half speed (walls + ceilings) Acid Spit: 1 AP, 20m — 2d6+Prowess Acid; later fire damage on the target +2d6 Tongue Grapple: 2 AP, 10m — same pull; grappled targets take double Spit damage
 - **tool_lock_wild:** 1
+
+## In his words
+
+**flavor:** A slippery giant tree frog capable of spitting a flammable acid
+
 
 ## Links
 

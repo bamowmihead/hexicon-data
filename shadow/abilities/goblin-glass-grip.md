@@ -2,15 +2,17 @@
 title: Goblin Glass Grip
 aliases: []
 type: ability
-summary: ""
+summary: "Grappled targets are GLUED to the wearer's hands."
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-gauntlets-grip
 table: creature_abilities
-links: 1
+links: 2
 ---
 
 # Goblin Glass Grip
+
+Grappled targets are GLUED to the wearer's hands.
 
 ## Fields
 
@@ -26,7 +28,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Grappled targets are GLUED to the wearer's hands. Wounds do NOT break the hold unless the wearer chooses to let go. The wearer may grapple targets whose stat is up to TWICE the stat he grapples with. GM ruling for now — apply sc-grappled by hand.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -45,9 +46,14 @@ links: 1
 - **target_shape:** Single
 - **tick_kind:** time
 
+## In his words
+
+**effect:** Grappled targets are GLUED to the wearer's hands. Wounds do NOT break the hold unless the wearer chooses to let go. The wearer may grapple targets whose stat is up to TWICE the stat he grapples with. GM ruling for now — apply sc-grappled by hand.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[conditions/grappled]] (w=1, prose)
 
 Linked from:
 

@@ -2,7 +2,7 @@
 title: Artillery Reload
 aliases: []
 type: ability
-summary: ""
+summary: Reload the artillery piece.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-batkin-artillery-reload
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Artillery Reload
+
+Reload the artillery piece.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Reload the artillery piece.
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -42,6 +43,11 @@ links: 1
 - **sticky:** 0
 - **store_capacity:** 1
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Reload the artillery piece.
+
 
 ## Links
 

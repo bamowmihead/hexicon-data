@@ -2,15 +2,17 @@
 title: Anti-air Hammer Swing
 aliases: []
 type: ability
-summary: ""
+summary: Two-handed, and a metre longer in the reach than a warhammer.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-batkin-antiair-hammer
 table: creature_abilities
-links: 1
+links: 2
 ---
 
 # Anti-air Hammer Swing
+
+Two-handed, and a metre longer in the reach than a warhammer.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Bludgeoning"]`
 - **dice:** 3d6
 - **duration:** Instant
-- **effect:** Two-handed, and a metre longer in the reach than a warhammer.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -51,9 +52,14 @@ links: 1
 - **target_shape:** Single
 - **tick_kind:** time
 
+## In his words
+
+**effect:** Two-handed, and a metre longer in the reach than a warhammer.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[items/warhammer]] (w=1, prose)
 
 Linked from:
 

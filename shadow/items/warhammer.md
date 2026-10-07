@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: arm-4a4678
 table: armaments
-links: 3
+links: 4
 ---
 
 # Warhammer
@@ -30,6 +30,7 @@ links: 3
 
 Linked from:
 
+- ← [[abilities/anti-air-hammer-swing]] (mentions, w=1)
 - ← [[creatures/ork-pack-leader]] (mentions, w=1)
 - ← [[items/anti-air-hammer]] (mentions, w=1)
 

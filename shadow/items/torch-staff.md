@@ -31,7 +31,7 @@ A torch mounted on a staff, made to be stabbed into the earthen floor to light a
 
 ## Links
 
-- mentions → [[items/staff]] (w=1, prose)
+- mentions → [[foci/staff]] (w=1, prose)
 
 Linked from:
 

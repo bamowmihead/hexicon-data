@@ -2,7 +2,7 @@
 title: Throw Impact Frag Grenade
 aliases: []
 type: ability
-summary: ""
+summary: Goes off the instant it lands — there is no fuse and nothing to run from.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-frag-grenade-impact
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Throw Impact Frag Grenade
+
+Goes off the instant it lands — there is no fuse and nothing to run from.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Force/Psionic", "Shrapnel"]`
 - **dice:** 2d4
 - **duration:** Instant
-- **effect:** Goes off the instant it lands — there is no fuse and nothing to run from. The force wave ignores armour; the ten fragments scatter and each meets Defense on its own.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -51,6 +52,11 @@ links: 1
 - **target_shape:** Radius
 - **target_size:** 1m
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Goes off the instant it lands — there is no fuse and nothing to run from. The force wave ignores armour; the ten fragments scatter and each meets Defense on its own.
+
 
 ## Links
 

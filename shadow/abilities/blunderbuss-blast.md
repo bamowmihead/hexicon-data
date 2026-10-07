@@ -2,7 +2,7 @@
 title: Blunderbuss Blast
 aliases: []
 type: ability
-summary: ""
+summary: A 20 m long, 3 m wide cone.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-batkin-blunderbuss
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Blunderbuss Blast
+
+A 20 m long, 3 m wide cone.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Shrapnel"]`
 - **dice:** 4d6
 - **duration:** Instant
-- **effect:** A 20 m long, 3 m wide cone. Reload before firing again.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -51,6 +52,11 @@ links: 1
 - **target_options_json:** `{"cone": {"degrees": 15, "reach_m": "20m"}}`
 - **target_shape:** Cone
 - **tick_kind:** time
+
+## In his words
+
+**effect:** A 20 m long, 3 m wide cone. Reload before firing again.
+
 
 ## Links
 

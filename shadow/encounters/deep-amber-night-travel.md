@@ -2,7 +2,7 @@
 title: Deep Amber — Night Travel
 aliases: []
 type: encounter-table
-summary: ""
+summary: night_travel
 last-verified: 2026-10-07
 source: snapshot
 id: enc-dea29f
@@ -12,13 +12,19 @@ links: 1
 
 # Deep Amber — Night Travel
 
+night_travel
+
 ## Fields
 
 - **biome_json:** `[3]`
 - **completion:** Incomplete
-- **context:** night_travel
 - **dice_type:** 2d10
 - **name:** Deep Amber — Night Travel
+
+## In his words
+
+**context:** night_travel
+
 
 ## Links
 

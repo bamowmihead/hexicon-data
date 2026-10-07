@@ -2,7 +2,7 @@
 title: Claws
 aliases: []
 type: ability
-summary: ""
+summary: 1m — 1d8+Might Slashing
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-02-s2-claws
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Claws
+
+1m — 1d8+Might Slashing
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Slashing"]`
 - **dice:** 1d8
-- **effect:** 1m — 1d8+Might Slashing
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -44,6 +45,11 @@ links: 0
 - **sticky:** 0
 - **store_capacity:** 1
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 1m — 1d8+Might Slashing
+
 
 ## Links
 

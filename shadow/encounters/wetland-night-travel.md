@@ -2,7 +2,7 @@
 title: Wetland — Night Travel
 aliases: []
 type: encounter-table
-summary: ""
+summary: night_travel
 last-verified: 2026-10-07
 source: snapshot
 id: enc-e686f3
@@ -12,13 +12,19 @@ links: 1
 
 # Wetland — Night Travel
 
+night_travel
+
 ## Fields
 
 - **biome_json:** `[2]`
 - **completion:** Incomplete
-- **context:** night_travel
 - **dice_type:** 2d10
 - **name:** Wetland — Night Travel
+
+## In his words
+
+**context:** night_travel
+
 
 ## Links
 

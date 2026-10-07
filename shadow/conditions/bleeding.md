@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: sc-bleeding
 table: status_conditions
-links: 4
+links: 5
 ---
 
 # Bleeding
@@ -30,6 +30,7 @@ Bleeding freely — 5 Endurance at the end of every round until it is stopped.
 
 Linked from:
 
+- ← [[abilities/goblin-healing-tincture]] (mentions, w=1)
 - ← [[conditions/heavy-bleeding]] (mentions, w=1)
 - ← [[conditions/light-bleeding]] (mentions, w=1)
 - ← [[items/goblin-healing-tincture]] (mentions, w=1)

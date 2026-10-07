@@ -2,19 +2,21 @@
 title: Cattlepos
 aliases: []
 type: trance-card
-summary: ""
+summary: A large beast of burden with tusks & a mace tail
 last-verified: 2026-10-07
 source: snapshot
 id: trance-12
 table: trances
-links: 14
+links: 16
+hub: true
 ---
 
 # Cattlepos
 
+A large beast of burden with tusks & a mace tail
+
 ## Fields
 
-- **flavor:** A large beast of burden with tusks & a mace tail
 - **ingredients:** Stretchy Hair — wakefulness · Cattlepos Spittle — a powerful antitoxin
 - **mods_json:** `[{"attrs": {"fortitude": 1, "might": 1, "reflex": -1}, "max_end": 2}, {"attacks": [{"ap": 1, "name": "Tusk Gore", "text": "must move 3m+ — 3d4+Might Stabbing"}, {"ap": 1, "name": "Mace Tail", "text": "2m arc behind — 2d6+Might Stun, up to 2 targets"}], "attrs": {"fortitude": 2, "might": 2, "refle…`
 - **name:** Cattlepos
@@ -24,9 +26,15 @@ links: 14
 - **stage3:** +3 Might, +3 Fortitude, −3 Reflex +3 Might Attacks · +6 Max Endurance Night Sight 30m · Fungal Nostril 60m Incredible Strength: pull a cart on your own; cannot be moved against your will by smaller targets Tusk Gore: 1 AP, must move 3m+ — 4d4+Might Stabbing, grappling them on wounds Mace Tail: 1 AP — 3d6+Might Stun, 3m arc behind you, up to 3 targets; knocks prone on a max damage roll
 - **tool_lock_wild:** 1
 
+## In his words
+
+**flavor:** A large beast of burden with tusks & a mace tail
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/mace-tail-2]] (w=1, prose)
+- mentions → [[companions/beast]] (w=1, prose)
 
 Linked from:
 

@@ -2,7 +2,7 @@
 title: Deep Amber — Day Travel
 aliases: []
 type: encounter-table
-summary: ""
+summary: day_travel
 last-verified: 2026-10-07
 source: snapshot
 id: enc-d9e3bb
@@ -12,13 +12,19 @@ links: 1
 
 # Deep Amber — Day Travel
 
+day_travel
+
 ## Fields
 
 - **biome_json:** `[3]`
 - **completion:** Incomplete
-- **context:** day_travel
 - **dice_type:** 2d10
 - **name:** Deep Amber — Day Travel
+
+## In his words
+
+**context:** day_travel
+
 
 ## Links
 

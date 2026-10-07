@@ -2,7 +2,7 @@
 title: Exploding Arrow Burst
 aliases: []
 type: ability
-summary: ""
+summary: Goes off where the arrow lands, on top of whatever the bow already did.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-exploding-arrow
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Exploding Arrow Burst
+
+Goes off where the arrow lands, on top of whatever the bow already did.
 
 ## Fields
 
@@ -30,7 +32,6 @@ links: 1
 - **damage_types_json:** `["Force/Psionic"]`
 - **dice:** 2d4
 - **duration:** Instant
-- **effect:** Goes off where the arrow lands, on top of whatever the bow already did. The burst ignores armour and throws no fragments. The shot carries only HALF the bow's range, and the arrow is destroyed — there is nothing left to pick up.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target_shape:** Radius
 - **target_size:** 1m
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Goes off where the arrow lands, on top of whatever the bow already did. The burst ignores armour and throws no fragments. The shot carries only HALF the bow's range, and the arrow is destroyed — there is nothing left to pick up.
+
 
 ## Links
 

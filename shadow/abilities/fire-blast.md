@@ -2,7 +2,7 @@
 title: Fire Blast
 aliases: []
 type: ability
-summary: ""
+summary: Once per turn.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-ork-fireblast
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Fire Blast
+
+Once per turn.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Heat/Fire"]`
 - **dice:** 2d6
 - **duration:** Instant
-- **effect:** Once per turn.
 - **effect_types_json:** `["Damage"]`
 - **frequency:** Once
 - **fuse_adjustable:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target:** Cone
 - **target_shape:** Cone
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Once per turn.
+
 
 ## Links
 

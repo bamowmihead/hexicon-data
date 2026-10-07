@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: gear-soul-wand
 table: gear
-links: 2
+links: 1
 ---
 
 # Wand
@@ -30,8 +30,7 @@ A held foci.
 
 Linked from:
 
-- ← [[foci/untitled-7]] (relation, w=3)
-- ← [[rules/souldefault-die]] (mentions, w=1)
+- ← [[foci/wand]] (relation, w=3)
 
 ## Inferred
 

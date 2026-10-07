@@ -2,7 +2,7 @@
 title: Fire Stick (Line)
 aliases: []
 type: ability
-summary: ""
+summary: A 6 m long, 1 m thick line of fire, 2d6.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-firestick-line
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Fire Stick (Line)
+
+A 6 m long, 1 m thick line of fire, 2d6.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Heat/Fire"]`
 - **dice:** 2d6
 - **duration:** Instant
-- **effect:** A 6 m long, 1 m thick line of fire, 2d6. The stick is destroyed. Up to 3 may be combined at NO additional AP: each extra stick adds +3 m of length, +1 m of thickness and +1 die. Three together = 4d6 in a 12 m x 3 m line.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target_shape:** Line
 - **target_size:** 1m
 - **tick_kind:** time
+
+## In his words
+
+**effect:** A 6 m long, 1 m thick line of fire, 2d6. The stick is destroyed. Up to 3 may be combined at NO additional AP: each extra stick adds +3 m of length, +1 m of thickness and +1 die. Three together = 4d6 in a 12 m x 3 m line.
+
 
 ## Links
 

@@ -2,15 +2,17 @@
 title: Tongue Grapple
 aliases: []
 type: ability
-summary: ""
+summary: 5m — pull self to Large targets or smaller targets to self; grappled take double Spit damage
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-10-s2-tongue-grapple
 table: creature_abilities
-links: 0
+links: 1
 ---
 
 # Tongue Grapple
+
+5m — pull self to Large targets or smaller targets to self; grappled take double Spit damage
 
 ## Fields
 
@@ -26,7 +28,6 @@ links: 0
 - **charges_type:** charges
 - **completion:** Complete
 - **damage_fixed:** 0
-- **effect:** 5m — pull self to Large targets or smaller targets to self; grappled take double Spit damage
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -42,9 +43,14 @@ links: 0
 - **store_capacity:** 1
 - **tick_kind:** time
 
+## In his words
+
+**effect:** 5m — pull self to Large targets or smaller targets to self; grappled take double Spit damage
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[conditions/grappled]] (w=1, prose)
 
 ## Inferred
 

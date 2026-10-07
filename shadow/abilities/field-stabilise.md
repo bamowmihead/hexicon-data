@@ -2,15 +2,17 @@
 title: Field Stabilise
 aliases: []
 type: ability
-summary: ""
+summary: "Stop a dying character's death timer WITHOUT healing them — WOUND_SPEC's own stabilisation, no endurance restored and no wound cleared."
 last-verified: 2026-10-07
 source: snapshot
 id: ca-newt-stabilise
 table: creature_abilities
-links: 0
+links: 1
 ---
 
 # Field Stabilise
+
+Stop a dying character's death timer WITHOUT healing them — WOUND_SPEC's own stabilisation, no endurance restored and no wound cleared.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 0
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Stop a dying character's death timer WITHOUT healing them — WOUND_SPEC's own stabilisation, no endurance restored and no wound cleared. Requires a target who is dying. NOTE: every creature already has the universal 1 AP Stabilize action; this is Newt's named version of it, not a second rule.
 - **effect_types_json:** `["Healing"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -47,9 +48,14 @@ links: 0
 - **target_shape:** Single
 - **tick_kind:** time
 
+## In his words
+
+**effect:** Stop a dying character's death timer WITHOUT healing them — WOUND_SPEC's own stabilisation, no endurance restored and no wound cleared. Requires a target who is dying. NOTE: every creature already has the universal 1 AP Stabilize action; this is Newt's named version of it, not a second rule.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[creatures/newt]] (w=1, prose)
 
 ## Inferred
 

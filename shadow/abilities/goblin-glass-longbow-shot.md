@@ -2,7 +2,7 @@
 title: Goblin Glass Longbow Shot
 aliases: []
 type: ability
-summary: ""
+summary: 2d6+1+Prowess at 90 m.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-longbow
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Longbow Shot
+
+2d6+1+Prowess at 90 m.
 
 ## Fields
 
@@ -32,7 +34,6 @@ links: 1
 - **damage_types_json:** `["Piercing", "Corrosive/Acid", "Heat/Fire"]`
 - **dice:** 2d6
 - **duration:** Instant
-- **effect:** 2d6+1+Prowess at 90 m. ONE of the two dice may be dealt as ACID or FIRE instead of piercing.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 2d6+1+Prowess at 90 m. ONE of the two dice may be dealt as ACID or FIRE instead of piercing.
+
 
 ## Links
 

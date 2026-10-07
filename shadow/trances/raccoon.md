@@ -2,19 +2,20 @@
 title: Raccoon
 aliases: []
 type: trance-card
-summary: ""
+summary: A large sneaky raccoon with sharp claws & apposable thumbs
 last-verified: 2026-10-07
 source: snapshot
 id: trance-03
 table: trances
-links: 0
+links: 1
 ---
 
 # Raccoon
 
+A large sneaky raccoon with sharp claws & apposable thumbs
+
 ## Fields
 
-- **flavor:** A large sneaky raccoon with sharp claws & apposable thumbs
 - **ingredients:** Raccoon Sweat — Prowess increased by 1 · Raccoon Tears — vision changed to Dark Vision 10m
 - **mods_json:** `[{"attrs": {"intellect": 1, "might": -1, "prowess": 1}}, {"attrs": {"intellect": 2, "might": -2, "prowess": 2}}, {"attrs": {"intellect": 3, "might": -3, "prowess": 3}}]`
 - **name:** Raccoon
@@ -24,9 +25,14 @@ links: 0
 - **stage3:** +3 Prowess, +3 Intellect, −3 Might +3 Prowess Attacks · +3 Focus · −3 Might Attacks Dark Vision 60m Climbing Speed = Movement Speed You are Small size · +6 Stealth Keeps weapons & tools (apposable thumbs)
 - **tool_lock_wild:** 0
 
+## In his words
+
+**flavor:** A large sneaky raccoon with sharp claws & apposable thumbs
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/claws-11]] (w=1, prose)
 
 ## Inferred
 

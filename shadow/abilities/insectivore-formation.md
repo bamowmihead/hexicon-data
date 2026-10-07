@@ -2,15 +2,17 @@
 title: Insectivore Formation
 aliases: []
 type: ability
-summary: ""
+summary: +1 damage AND +2 Defense to retinue members who are IN FORMATION with the Commander — the derived cluster of allied bodies within 1 m of each other, transitivel…
 last-verified: 2026-10-07
 source: snapshot
 id: ca-batkin-formation
 table: creature_abilities
-links: 0
+links: 1
 ---
 
 # Insectivore Formation
+
++1 damage AND +2 Defense to retinue members who are IN FORMATION with the Commander — the derived cluster of allied bodies within 1 m of each other, transitivel…
 
 ## Fields
 
@@ -25,7 +27,6 @@ links: 0
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Rest of Combat
-- **effect:** +1 damage AND +2 Defense to retinue members who are IN FORMATION with the Commander — the derived cluster of allied bodies within 1 m of each other, transitively, not a radius. Replaces Command for those members rather than stacking with it. The engine applies this on the grid.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -43,9 +44,18 @@ links: 0
 - **target_shape:** Radius
 - **tick_kind:** time
 
+## In his words
+
+**effect:** +1 damage AND +2 Defense to retinue members who are IN FORMATION with the Commander — the derived cluster of allied bodies within 1 m of each other, transitively, not a radius. Replaces Command for those members rather than stacking with it. The engine applies this on the grid.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/command]] (w=1, prose)
+
+Linked from:
+
+- ← [[abilities/command]] (mentions, w=1)
 
 ## Inferred
 

@@ -2,15 +2,17 @@
 title: Bite
 aliases: []
 type: ability
-summary: ""
+summary: 1m — 3d8 Crushing, +1 die vs grappled
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-07-s3-bite
 table: creature_abilities
-links: 0
+links: 1
 ---
 
 # Bite
+
+1m — 3d8 Crushing, +1 die vs grappled
 
 ## Fields
 
@@ -28,7 +30,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Crush"]`
 - **dice:** 3d8
-- **effect:** 1m — 3d8 Crushing, +1 die vs grappled
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -44,9 +45,14 @@ links: 0
 - **store_capacity:** 1
 - **tick_kind:** time
 
+## In his words
+
+**effect:** 1m — 3d8 Crushing, +1 die vs grappled
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[conditions/grappled]] (w=1, prose)
 
 ## Inferred
 

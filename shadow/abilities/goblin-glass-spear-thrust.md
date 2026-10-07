@@ -2,7 +2,7 @@
 title: Goblin Glass Spear Thrust
 aliases: []
 type: ability
-summary: ""
+summary: The head EXTENDS as it strikes, which is where the extra metre of reach comes from.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-spear
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Spear Thrust
+
+The head EXTENDS as it strikes, which is where the extra metre of reach comes from.
 
 ## Fields
 
@@ -32,7 +34,6 @@ links: 1
 - **damage_types_json:** `["Piercing"]`
 - **dice:** 2d4
 - **duration:** Instant
-- **effect:** The head EXTENDS as it strikes, which is where the extra metre of reach comes from.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** The head EXTENDS as it strikes, which is where the extra metre of reach comes from.
+
 
 ## Links
 

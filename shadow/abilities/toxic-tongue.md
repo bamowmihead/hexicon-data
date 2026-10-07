@@ -2,7 +2,7 @@
 title: Toxic Tongue
 aliases: []
 type: ability
-summary: ""
+summary: "5m — 1d8+Prowess Neurotoxic ⚠ NEEDS REECE — “Neurotoxic” is not one of the app's damage types, so this hit has no type and lands in the neutral bucket"
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-07-s2-toxic-tongue
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Toxic Tongue
+
+5m — 1d8+Prowess Neurotoxic ⚠ NEEDS REECE — “Neurotoxic” is not one of the app's damage types, so this hit has no type and lands in the neutral bucket
 
 ## Fields
 
@@ -28,7 +30,6 @@ links: 0
 - **damage_attribute:** Prowess
 - **damage_fixed:** 0
 - **dice:** 1d8
-- **effect:** 5m — 1d8+Prowess Neurotoxic ⚠ NEEDS REECE — “Neurotoxic” is not one of the app's damage types, so this hit has no type and lands in the neutral bucket
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -43,6 +44,11 @@ links: 0
 - **sticky:** 0
 - **store_capacity:** 1
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 5m — 1d8+Prowess Neurotoxic ⚠ NEEDS REECE — “Neurotoxic” is not one of the app's damage types, so this hit has no type and lands in the neutral bucket
+
 
 ## Links
 

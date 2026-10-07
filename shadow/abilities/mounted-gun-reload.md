@@ -2,7 +2,7 @@
 title: Mounted Gun Reload
 aliases: []
 type: ability
-summary: ""
+summary: Reload the mounted gun.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-batkin-mounted-gun-reload
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Mounted Gun Reload
+
+Reload the mounted gun.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Reload the mounted gun.
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -43,9 +44,14 @@ links: 1
 - **store_capacity:** 1
 - **tick_kind:** time
 
+## In his words
+
+**effect:** Reload the mounted gun.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[items/mounted-gun]] (w=1, prose)
 
 Linked from:
 

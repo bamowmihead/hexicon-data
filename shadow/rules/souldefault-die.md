@@ -27,13 +27,13 @@ No foci = d4 (Reece, 2026-09-28).
 
 ## Links
 
-- mentions → [[items/amulet]] (w=1, prose)
-- mentions → [[items/glove]] (w=1, prose)
-- mentions → [[items/nail]] (w=1, prose)
-- mentions → [[items/spike]] (w=1, prose)
-- mentions → [[items/staff]] (w=1, prose)
-- mentions → [[items/stave]] (w=1, prose)
-- mentions → [[items/wand]] (w=1, prose)
+- mentions → [[foci/amulet]] (w=1, prose)
+- mentions → [[foci/glove]] (w=1, prose)
+- mentions → [[foci/nail]] (w=1, prose)
+- mentions → [[foci/spike]] (w=1, prose)
+- mentions → [[foci/staff]] (w=1, prose)
+- mentions → [[foci/stave]] (w=1, prose)
+- mentions → [[foci/wand]] (w=1, prose)
 
 ## Inferred
 

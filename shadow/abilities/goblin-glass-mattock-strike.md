@@ -2,7 +2,7 @@
 title: Goblin Glass Mattock Strike
 aliases: []
 type: ability
-summary: ""
+summary: 1d8+1.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-mattock
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Mattock Strike
+
+1d8+1.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Pick", "Piercing", "Splitting", "Slashing"]`
 - **dice:** 1d8
 - **duration:** Instant
-- **effect:** 1d8+1. The head SHAPES TO HIS WILL between pick, piercing, splitting and slashing — pick the type as you swing.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -49,6 +50,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 1d8+1. The head SHAPES TO HIS WILL between pick, piercing, splitting and slashing — pick the type as you swing.
+
 
 ## Links
 

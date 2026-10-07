@@ -8,7 +8,7 @@ hub: true
 
 # Shadow index
 
-Rebuilt from the snapshot of 2026-10-07. 1001 derived files, 20 inferred files.
+Rebuilt from the snapshot of 2026-10-07. 1003 derived files, 20 inferred files.
 Hubs (15+ links, or a session) load but do not expand; see the contract, section 5.
 
 ## Hubs
@@ -23,11 +23,12 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[locations/black-stone]] · location · 19 links
 - [[locations/ironwood-hovel-ruins]] · location · 19 links
 - [[locations/ferry-landing]] · location · 16 links
+- [[trances/cattlepos]] · trance-card · 16 links
+- [[trees/moss]] · tree · 16 links
 - [[locations/the-cackler-lair]] · location · 15 links
 - [[locations/timber-knot-hovel]] · location · 15 links
 - [[locations/wet-flower-field]] · location · 15 links
 - [[retinues/the-party]] · retinue-template · 15 links
-- [[trees/moss]] · tree · 15 links
 
 ## Inferred layer (Atlas and Codex, migrated)
 
@@ -57,34 +58,34 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 ### abilities (262)
 
 - [[abilities/acid-spit]]
-- [[abilities/acid-spit-2]]
-- [[abilities/acid-spit-3]]
+- [[abilities/acid-spit-2]] — 10m — 1d6+Prowess Acid; later fire damage on the target +1d6
+- [[abilities/acid-spit-3]] — 20m — 2d6+Prowess Acid; later fire +2d6
 - [[abilities/acid-spray]]
 - [[abilities/acid-spray-devastating]]
 - [[abilities/acid-spray-heavy]]
 - [[abilities/acid-spray-weak]]
-- [[abilities/acid-vial-coating]]
-- [[abilities/acid-vial-thrown]]
+- [[abilities/acid-vial-coating]] — Poured as an oil over 20 ammunition or 2 melee weapons: +3 acid damage on every attack for ONE HOUR on the world clock.
+- [[abilities/acid-vial-thrown]] — Thrown.
 - [[abilities/anaconda-strike]]
-- [[abilities/anti-air-hammer-swing]]
+- [[abilities/anti-air-hammer-swing]] — Two-handed, and a metre longer in the reach than a warhammer.
 - [[abilities/arbalest-shot]]
 - [[abilities/arming-sword-slash]]
-- [[abilities/artillery-reload]]
-- [[abilities/artillery-shell]]
+- [[abilities/artillery-reload]] — Reload the artillery piece.
+- [[abilities/artillery-shell]] — Reload before firing again.
 - [[abilities/batkin-bite]]
 - [[abilities/batkin-claws]]
 - [[abilities/battle-axe-slash]]
-- [[abilities/berserk-tincture]]
-- [[abilities/bite]]
-- [[abilities/bite-2]]
-- [[abilities/bite-3]]
-- [[abilities/bite-4]]
-- [[abilities/bite-5]]
-- [[abilities/bite-6]]
+- [[abilities/berserk-tincture]] — +1 trance stage, and +2 damage and +2 speed for the rest of combat — all applied by the engine when you drink it.
+- [[abilities/bite]] — 1m — 2d8+Might Piercing
+- [[abilities/bite-2]] — 1m — 3d8+Might Piercing
+- [[abilities/bite-3]] — 1m — 3d8+Prowess Piercing
+- [[abilities/bite-4]] — 1m — 3d8 Crushing, +1 die vs grappled
+- [[abilities/bite-5]] — 1m — 2d8+Might Stabbing
+- [[abilities/bite-6]] — 1m — 3d8+Might Laceration
 - [[abilities/blood-suck]]
 - [[abilities/blood-tendril-grab]]
-- [[abilities/blunderbuss-blast]]
-- [[abilities/blunderbuss-reload]]
+- [[abilities/blunderbuss-blast]] — A 20 m long, 3 m wide cone.
+- [[abilities/blunderbuss-reload]] — Reload the blunderbuss.
 - [[abilities/body-slam]]
 - [[abilities/bog-stalker-bite]]
 - [[abilities/bola-throw]]
@@ -96,24 +97,24 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/casque-strike]]
 - [[abilities/cattlepos-stomp]]
 - [[abilities/cestus-punch]]
-- [[abilities/charge]]
-- [[abilities/claws]]
-- [[abilities/claws-10]]
-- [[abilities/claws-11]]
-- [[abilities/claws-2]]
-- [[abilities/claws-3]]
-- [[abilities/claws-4]]
-- [[abilities/claws-5]]
-- [[abilities/claws-6]]
-- [[abilities/claws-7]]
-- [[abilities/claws-8]]
-- [[abilities/claws-9]]
+- [[abilities/charge]] — 5m line — 2d8+Might Stabbing, 2 targets; move self in a 5m line
+- [[abilities/claws]] — 1m — 1d8+Prowess Slashing
+- [[abilities/claws-10]] — 1m — 1d8+Prowess Slashing (Pounce: +1 die when gliding in)
+- [[abilities/claws-11]] — 2m — 2d8+Prowess Eviscerating (Pounce: +1 die)
+- [[abilities/claws-2]] — 2m — 2d8+Prowess Slashing
+- [[abilities/claws-3]] — 1m — 1d8+Might Slashing
+- [[abilities/claws-4]] — 2m — 2d8+Might Slashing
+- [[abilities/claws-5]] — 1m — 1d8+Prowess Slashing
+- [[abilities/claws-6]] — 1m — 1d8+Prowess Slashing (Pounce: +1 die from the ceiling)
+- [[abilities/claws-7]] — 2m — 2d8+Prowess Slashing (Pounce: +1 die)
+- [[abilities/claws-8]] — 1m — 1d8+Might Slashing
+- [[abilities/claws-9]] — 2m — 2d8+Might Slashing
 - [[abilities/claymore-slash]]
 - [[abilities/cleaving-claws]]
 - [[abilities/climb-grab]]
 - [[abilities/coil]]
-- [[abilities/command]]
-- [[abilities/company-reload]]
+- [[abilities/command]] — +1 damage to members of the Commander's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close.
+- [[abilities/company-reload]] — Reload a crossbow in a single action — the company's drill.
 - [[abilities/composite-bow-shot]]
 - [[abilities/constrict]]
 - [[abilities/corrosive-tongue]]
@@ -135,7 +136,7 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/dagger-slash]]
 - [[abilities/death-roll]]
 - [[abilities/defensive-curl]]
-- [[abilities/detonate-powder-keg]]
+- [[abilities/detonate-powder-keg]] — Set as a charge, thrown, or SHOT TO SET OFF from across the room.
 - [[abilities/digestive-proboscis]]
 - [[abilities/digging-claw-grab]]
 - [[abilities/digging-claw-grab-devastating]]
@@ -145,19 +146,19 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/dodge]]
 - [[abilities/double-firing-crossbow-shot]]
 - [[abilities/drag-under]]
-- [[abilities/dropped-rock]]
+- [[abilities/dropped-rock]] — Dropped, not thrown — so it lands on whatever is underneath, and gravity does the work rather than the shooter.
 - [[abilities/dust-kick]]
 - [[abilities/elder-charge]]
 - [[abilities/elder-dive-strike]]
 - [[abilities/elder-stomp]]
 - [[abilities/ember-ignition]]
 - [[abilities/engulf]]
-- [[abilities/exploding-arrow-burst]]
-- [[abilities/field-stabilise]]
-- [[abilities/fire-blast]]
-- [[abilities/fire-stick-cone]]
-- [[abilities/fire-stick-line]]
-- [[abilities/fire-whip-lash]]
+- [[abilities/exploding-arrow-burst]] — Goes off where the arrow lands, on top of whatever the bow already did.
+- [[abilities/field-stabilise]] — Stop a dying character's death timer WITHOUT healing them — WOUND_SPEC's own stabilisation, no endurance restored and no wound cleared.
+- [[abilities/fire-blast]] — Once per turn.
+- [[abilities/fire-stick-cone]] — A 3 m cone of fire, 2d6.
+- [[abilities/fire-stick-line]] — A 6 m long, 1 m thick line of fire, 2d6.
+- [[abilities/fire-whip-lash]] — Grapples on strike.
 - [[abilities/firebolt]]
 - [[abilities/flanged-mace-strike]]
 - [[abilities/flat-bow-shot]]
@@ -166,19 +167,19 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/gauntlets-punch]]
 - [[abilities/glaive-slash]]
 - [[abilities/glue-excretion]]
-- [[abilities/goblin-glass-arrow-detonation]]
-- [[abilities/goblin-glass-arrowhead]]
-- [[abilities/goblin-glass-gauntlets-punch]]
-- [[abilities/goblin-glass-grip]]
-- [[abilities/goblin-glass-heater-bash]]
-- [[abilities/goblin-glass-javelin-throw]]
-- [[abilities/goblin-glass-longbow-shot]]
-- [[abilities/goblin-glass-mattock-strike]]
-- [[abilities/goblin-glass-morning-star-strike]]
-- [[abilities/goblin-glass-smoke-cloud]]
-- [[abilities/goblin-glass-spear-thrust]]
-- [[abilities/goblin-healing-tincture]]
-- [[abilities/goblin-seed-oil]]
+- [[abilities/goblin-glass-arrow-detonation]] — Spend a REACTION to detonate a landed arrow: +2d6 ACID or FIRE in a 1 m radius.
+- [[abilities/goblin-glass-arrowhead]] — While these are nocked the bow deals PIERCING or LACERATING, shape-shifting at will.
+- [[abilities/goblin-glass-gauntlets-punch]] — 1d4+1 bludgeoning.
+- [[abilities/goblin-glass-grip]] — Grappled targets are GLUED to the wearer's hands.
+- [[abilities/goblin-glass-heater-bash]] — 1d8+1 stun.
+- [[abilities/goblin-glass-javelin-throw]] — 1d8+1+Might at 14 m, slashing OR piercing.
+- [[abilities/goblin-glass-longbow-shot]] — 2d6+1+Prowess at 90 m.
+- [[abilities/goblin-glass-mattock-strike]] — 1d8+1.
+- [[abilities/goblin-glass-morning-star-strike]] — 2d4+1+stat.
+- [[abilities/goblin-glass-smoke-cloud]] — As a REACTION when hit, the shield releases a cloud of obscuring smoke.
+- [[abilities/goblin-glass-spear-thrust]] — The head EXTENDS as it strikes, which is where the extra metre of reach comes from.
+- [[abilities/goblin-healing-tincture]] — Restores 20 endurance, clears one wound slot, and stops that wound's bleeding.
+- [[abilities/goblin-seed-oil]] — The next cultivation cast grows straight to BLOOMING.
 - [[abilities/gore]]
 - [[abilities/hand-axe-chop]]
 - [[abilities/hand-crossbow-shot]]
@@ -188,13 +189,13 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/heater-bash]]
 - [[abilities/heavy-crossbow-shot]]
 - [[abilities/horn-charge]]
-- [[abilities/horn-charge-2]]
-- [[abilities/horn-charge-3]]
+- [[abilities/horn-charge-2]] — 5m line — 1d8+Might Crush
+- [[abilities/horn-charge-3]] — 5m line — 2d8+Might Crush
 - [[abilities/howler-claw]]
 - [[abilities/ikwa-throw]]
 - [[abilities/infrasound-boom]]
-- [[abilities/infusion]]
-- [[abilities/insectivore-formation]]
+- [[abilities/infusion]] — Restore 1d4 Endurance to a target within 5m.
+- [[abilities/insectivore-formation]] — +1 damage AND +2 Defense to retinue members who are IN FORMATION with the Commander — the derived cluster of allied bodies within 1 m of each other, transitivel…
 - [[abilities/javelin-throw]]
 - [[abilities/javelin-throw-heavy]]
 - [[abilities/khopesh-slash]]
@@ -212,12 +213,12 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/lumber-axe-chop]]
 - [[abilities/mace-chain-strike]]
 - [[abilities/mace-strike]]
-- [[abilities/mace-tail]]
-- [[abilities/mace-tail-2]]
+- [[abilities/mace-tail]] — 2m arc behind — 2d6+Might Stun, up to 2 targets
+- [[abilities/mace-tail-2]] — 3m arc behind — 3d6+Might Stun, up to 3 targets; prone on a max roll
 - [[abilities/man-catcher-grab]]
 - [[abilities/mandible-crush]]
-- [[abilities/marshals-command]]
-- [[abilities/marshals-formation]]
+- [[abilities/marshals-command]] — +1 damage to members of Oldin's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close.
+- [[abilities/marshals-formation]] — +1 damage AND +2 Defense to retinue members who are IN FORMATION with Oldin — the derived cluster of allied bodies within 1 m of each other, transitively, not a…
 - [[abilities/matchlock-blunderbuss-fire]]
 - [[abilities/matchlock-musket-fire]]
 - [[abilities/matchlock-pistol-fire]]
@@ -231,8 +232,8 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/morning-star-chain-strike]]
 - [[abilities/morning-star-strike]]
 - [[abilities/moss-camouflage]]
-- [[abilities/mounted-gun-fire]]
-- [[abilities/mounted-gun-reload]]
+- [[abilities/mounted-gun-fire]] — Reload before firing again.
+- [[abilities/mounted-gun-reload]] — Reload the mounted gun.
 - [[abilities/net-throw]]
 - [[abilities/onos-stomp]]
 - [[abilities/partisan-thrust]]
@@ -248,17 +249,17 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/pole-hammer-strike]]
 - [[abilities/proboscis-drain]]
 - [[abilities/pseudopod-slash]]
-- [[abilities/psionic-walnut-scout]]
-- [[abilities/psionic-walnut-send]]
+- [[abilities/psionic-walnut-scout]] — Scout a 1 km radius.
+- [[abilities/psionic-walnut-send]] — Send a psionic message to anyone the bearer has MET AND TOUCHED.
 - [[abilities/punch]]
 - [[abilities/quarter-staff-strike]]
 - [[abilities/razor-scales]]
 - [[abilities/rear-kick]]
 - [[abilities/recurve-bow-shot]]
 - [[abilities/rope-dart-strike]]
-- [[abilities/set-mining-charge]]
-- [[abilities/set-timed-charge]]
-- [[abilities/set-tree-ripper-charge]]
+- [[abilities/set-mining-charge]] — PLACED, not thrown: two full rounds to set, and then it blows five rounds later.
+- [[abilities/set-timed-charge]] — PLACED, with a fuse anywhere from five rounds to two hours — set it from the inventory before or after it goes down.
+- [[abilities/set-tree-ripper-charge]] — PLACED, not thrown: two full rounds to set, and then it blows five rounds later.
 - [[abilities/shield-bash]]
 - [[abilities/shield-block]]
 - [[abilities/short-bow-shot]]
@@ -284,29 +285,29 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/tendril-wrap]]
 - [[abilities/tentacle-grab]]
 - [[abilities/tetsubo-strike]]
-- [[abilities/throw-frag-grenade]]
-- [[abilities/throw-impact-frag-grenade]]
-- [[abilities/throw-sticky-frag-grenade]]
+- [[abilities/throw-frag-grenade]] — Lands where it is thrown and lies there with the fuse burning.
+- [[abilities/throw-impact-frag-grenade]] — Goes off the instant it lands — there is no fuse and nothing to run from.
+- [[abilities/throw-sticky-frag-grenade]] — Sticks where it lands and cannot be kicked away.
 - [[abilities/throwing-axe-throw]]
 - [[abilities/throwing-knife-throw]]
 - [[abilities/tinkerers-bow-shot]]
 - [[abilities/tongue-drain]]
-- [[abilities/tongue-grapple]]
-- [[abilities/tongue-grapple-2]]
+- [[abilities/tongue-grapple]] — 5m — pull self to Large targets or smaller targets to self; grappled take double Spit damage
+- [[abilities/tongue-grapple-2]] — 10m — same pull; grappled take double Spit damage
 - [[abilities/tongue-lash-weak]]
 - [[abilities/tongue-liquefy]]
 - [[abilities/torpor-bite]]
 - [[abilities/tower-bash]]
-- [[abilities/toxic-tongue]]
-- [[abilities/toxic-tongue-2]]
+- [[abilities/toxic-tongue]] — 5m — 1d8+Prowess Neurotoxic ⚠ NEEDS REECE — “Neurotoxic” is not one of the app's damage types, so this hit has no type and lands in the neutral bucket
+- [[abilities/toxic-tongue-2]] — 5m — 1d8+Prowess Neurotoxic ⚠ NEEDS REECE — “Neurotoxic” is not one of the app's damage types, so this hit has no type and lands in the neutral bucket
 - [[abilities/tunnel-charge]]
-- [[abilities/tusk-cleave]]
-- [[abilities/tusk-cleave-2]]
-- [[abilities/tusk-gore]]
-- [[abilities/tusk-gore-2]]
+- [[abilities/tusk-cleave]] — 1m — 1d8+Might Slashing, 2 targets
+- [[abilities/tusk-cleave-2]] — 2m — 2d8+Might Slashing, 2 targets
+- [[abilities/tusk-gore]] — must move 3m+ — 3d4+Might Stabbing
+- [[abilities/tusk-gore-2]] — must move 3m+ — 4d4+Might Stabbing, grapples on wounds
 - [[abilities/tusk-ram]]
-- [[abilities/venom-bite]]
-- [[abilities/venom-bite-2]]
+- [[abilities/venom-bite]] — 1m — 2d8+Prowess Leeching, attempt grapple (+1 die vs grappled) ⚠ NEEDS REECE — “Leeching” is not one of the app's damage types, so this hit has no type and lan…
+- [[abilities/venom-bite-2]] — 1m — 3d8+Prowess Leeching, attempt grapple (+1 die vs grappled) ⚠ NEEDS REECE — “Leeching” is not one of the app's damage types, so this hit has no type and lan…
 - [[abilities/venomous-pincer]]
 - [[abilities/vine-grab]]
 - [[abilities/war-axe-slash]]
@@ -315,8 +316,8 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[abilities/warg-claws]]
 - [[abilities/warhammer-strike]]
 - [[abilities/whip-crack]]
-- [[abilities/wing-clap]]
-- [[abilities/wing-clap-2]]
+- [[abilities/wing-clap]] — 3m cone — 2d6 Sonic
+- [[abilities/wing-clap-2]] — 5m cone or 3m radius — 3d6 Sonic; pushes targets out of the zone (Might DC = caster Might) ⚠ NEEDS REECE — the range clause “5m cone or 3m radius” offers two sh…
 - [[abilities/wooden-torch-strike]]
 
 ### biomes (11)
@@ -597,18 +598,18 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 
 ### encounters (12)
 
-- [[encounters/amberwood-day-rest]]
-- [[encounters/amberwood-day-travel]]
-- [[encounters/amberwood-night-rest]]
-- [[encounters/amberwood-night-travel]]
-- [[encounters/deep-amber-day-rest]]
-- [[encounters/deep-amber-day-travel]]
-- [[encounters/deep-amber-night-rest]]
-- [[encounters/deep-amber-night-travel]]
-- [[encounters/wetland-day-rest]]
-- [[encounters/wetland-day-travel]]
-- [[encounters/wetland-night-rest]]
-- [[encounters/wetland-night-travel]]
+- [[encounters/amberwood-day-rest]] — day_camp
+- [[encounters/amberwood-day-travel]] — day_travel
+- [[encounters/amberwood-night-rest]] — night_camp
+- [[encounters/amberwood-night-travel]] — night_travel
+- [[encounters/deep-amber-day-rest]] — day_camp
+- [[encounters/deep-amber-day-travel]] — day_travel
+- [[encounters/deep-amber-night-rest]] — night_camp
+- [[encounters/deep-amber-night-travel]] — night_travel
+- [[encounters/wetland-day-rest]] — day_camp
+- [[encounters/wetland-day-travel]] — day_travel
+- [[encounters/wetland-night-rest]] — night_camp
+- [[encounters/wetland-night-travel]] — night_travel
 
 ### factions (5)
 
@@ -620,13 +621,13 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 
 ### foci (7)
 
-- [[foci/untitled]]
-- [[foci/untitled-2]]
-- [[foci/untitled-3]]
-- [[foci/untitled-4]]
-- [[foci/untitled-5]]
-- [[foci/untitled-6]]
-- [[foci/untitled-7]]
+- [[foci/amulet]]
+- [[foci/glove]]
+- [[foci/nail]]
+- [[foci/spike]]
+- [[foci/staff]]
+- [[foci/stave]]
+- [[foci/wand]]
 
 ### houses (4)
 
@@ -972,17 +973,17 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 
 ### plants (11)
 
-- [[plants/cave-webs]]
-- [[plants/ember-vine]]
-- [[plants/filter-fungus]]
-- [[plants/flash-fungus]]
-- [[plants/goblin-fingers]]
-- [[plants/leandas-hair]]
-- [[plants/pillow-moss]]
-- [[plants/rock-vine]]
-- [[plants/sandbox-tree]]
-- [[plants/snot-pots]]
-- [[plants/sparkle-berry-bush]]
+- [[plants/cave-webs]] — A white sticky lichen with long dread-like strands
+- [[plants/ember-vine]] — A rapidly growing orange vine which releases a sweet-smelling resin
+- [[plants/filter-fungus]] — A giant deep blue-red fungus with a swiss-cheese fruiting body
+- [[plants/flash-fungus]] — A small purple fungus with glowing pods releasing blue light
+- [[plants/goblin-fingers]] — A snot-colored vine which grows rapidly towards metallic objects
+- [[plants/leandas-hair]] — A hanging verdant vine looking oddly like the hair of a scholar you know
+- [[plants/pillow-moss]] — A plushy dark green moss as soft as a pillow
+- [[plants/rock-vine]] — A thick inflexible vine which grows cracked grey bark as hard as stone
+- [[plants/sandbox-tree]] — A spiky tree with explosive fragmentation nuts
+- [[plants/snot-pots]] — An orange pitcher plant containing green sticky caustic liquid
+- [[plants/sparkle-berry-bush]] — A short bush growing prismatic sparkling red berries
 
 ### questions (1)
 
@@ -1008,7 +1009,7 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[retinues/the-iron-band]] — Walker's Hall hunting party: the true-believer hulk Humble fronts four elite mercs and a mass of untrained grunts, with the doctor Soren (the conscience) and th…
 - [[retinues/the-party]]
 
-### rules (57)
+### rules (59)
 
 - [[rules/attributecost-curve]] — The locked attribute cost curve (06 · Vocations & Progression).
 - [[rules/companionbring-limit-base]] — See companion.bring_limit_divisor.
@@ -1067,6 +1068,8 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[rules/soulstep-hours]] — Deviation ticks one step toward normal each pulse (12 h).
 - [[rules/soulsteps-per-capacity]] — Deviation step width = soul capacity ÷ this; the centre band is normal.
 - [[rules/soulwillpower-bonus-divisor]] — Willpower bonus per die = ⌊Willpower ÷ this⌋.
+- [[rules/worldshear-m]] — A world terrain change that differs by more than this many metres across a placed location's extent marks it sheared (WORLD_OWNERSHIP_SPEC §3.5, §8 — the number…
+- [[rules/worldsnapshots-kept]] — Sculpt snapshots kept per location, newest first; older ones are swept (WORLD_OWNERSHIP_SPEC §3.5, §8).
 
 ### senses (5)
 
@@ -1091,18 +1094,18 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 
 ### trances (12)
 
-- [[trances/cattlepos]]
-- [[trances/cave-beetle]]
-- [[trances/cave-dragon]]
-- [[trances/finnic-fox]]
-- [[trances/flying-squirrel]]
-- [[trances/honey-badger]]
-- [[trances/raccoon]]
-- [[trances/razortusk]]
-- [[trances/scuttle-bat]]
-- [[trances/stalker-bat]]
-- [[trances/tree-frog]]
-- [[trances/warg]]
+- [[trances/cattlepos]] — A large beast of burden with tusks & a mace tail
+- [[trances/cave-beetle]] — A heavily armored beetle with a powerful horn & wing-assisted jumps
+- [[trances/cave-dragon]] — A komodo dragon crossed with a chameleon that can climb cave walls
+- [[trances/finnic-fox]] — Swift dark green fox with incredible hearing
+- [[trances/flying-squirrel]] — A winged predator squirrel as big as a dog with razor sharp claws
+- [[trances/honey-badger]] — A tough large badger with resistance to toxin damage types that can burrow
+- [[trances/raccoon]] — A large sneaky raccoon with sharp claws & apposable thumbs
+- [[trances/razortusk]] — A tough boar-adjacent creature with sharp tusks
+- [[trances/scuttle-bat]] — A large wingless bat that scuttles across walls and ceilings
+- [[trances/stalker-bat]] — An eagle-sized bat with an anesthetic bite
+- [[trances/tree-frog]] — A slippery giant tree frog capable of spitting a flammable acid
+- [[trances/warg]] — A large dog-like creature with an insatiable blood lust
 
 ### trees (17)
 

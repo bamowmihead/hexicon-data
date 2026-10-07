@@ -2,15 +2,17 @@
 title: Venom Bite
 aliases: []
 type: ability
-summary: ""
+summary: "1m — 3d8+Prowess Leeching, attempt grapple (+1 die vs grappled) ⚠ NEEDS REECE — “Leeching” is not one of the app's damage types, so this hit has no type and lan…"
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-05-s3-venom-bite
 table: creature_abilities
-links: 0
+links: 1
 ---
 
 # Venom Bite
+
+1m — 3d8+Prowess Leeching, attempt grapple (+1 die vs grappled) ⚠ NEEDS REECE — “Leeching” is not one of the app's damage types, so this hit has no type and lan…
 
 ## Fields
 
@@ -28,7 +30,6 @@ links: 0
 - **damage_attribute:** Prowess
 - **damage_fixed:** 0
 - **dice:** 3d8
-- **effect:** 1m — 3d8+Prowess Leeching, attempt grapple (+1 die vs grappled) ⚠ NEEDS REECE — “Leeching” is not one of the app's damage types, so this hit has no type and lands in the neutral bucket
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -44,9 +45,14 @@ links: 0
 - **store_capacity:** 1
 - **tick_kind:** time
 
+## In his words
+
+**effect:** 1m — 3d8+Prowess Leeching, attempt grapple (+1 die vs grappled) ⚠ NEEDS REECE — “Leeching” is not one of the app's damage types, so this hit has no type and lands in the neutral bucket
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[conditions/grappled]] (w=1, prose)
 
 ## Inferred
 

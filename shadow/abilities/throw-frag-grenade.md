@@ -2,7 +2,7 @@
 title: Throw Frag Grenade
 aliases: []
 type: ability
-summary: ""
+summary: Lands where it is thrown and lies there with the fuse burning.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-frag-grenade
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Throw Frag Grenade
+
+Lands where it is thrown and lies there with the fuse burning.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Force/Psionic", "Shrapnel"]`
 - **dice:** 2d4
 - **duration:** Instant
-- **effect:** Lands where it is thrown and lies there with the fuse burning. It goes off at the END OF THE NEXT ROUND — the marker is all anyone gets; the blast is not drawn until it happens. The force wave takes no notice of armour. The ten fragments scatter and each one meets Defense on its own.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 1
@@ -51,6 +52,11 @@ links: 1
 - **target_shape:** Radius
 - **target_size:** 1m
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Lands where it is thrown and lies there with the fuse burning. It goes off at the END OF THE NEXT ROUND — the marker is all anyone gets; the blast is not drawn until it happens. The force wave takes no notice of armour. The ten fragments scatter and each one meets Defense on its own.
+
 
 ## Links
 

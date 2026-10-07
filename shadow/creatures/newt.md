@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: rt-bc-newt
 table: creature_types
-links: 1
+links: 2
 ---
 
 # Newt
@@ -53,6 +53,10 @@ Company medic.
 ## Links
 
 - mentions → [[items/dagger]] (w=1, prose)
+
+Linked from:
+
+- ← [[abilities/field-stabilise]] (mentions, w=1)
 
 ## Inferred
 

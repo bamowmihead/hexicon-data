@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: sc-grappled
 table: status_conditions
-links: 2
+links: 9
 ---
 
 # Grappled
@@ -30,6 +30,13 @@ Target's movement reduced to 1; tier 1 of the grapple escalation.
 
 Linked from:
 
+- ← [[abilities/bite-4]] (mentions, w=1)
+- ← [[abilities/fire-whip-lash]] (mentions, w=1)
+- ← [[abilities/goblin-glass-grip]] (mentions, w=1)
+- ← [[abilities/tongue-grapple]] (mentions, w=1)
+- ← [[abilities/tongue-grapple-2]] (mentions, w=1)
+- ← [[abilities/venom-bite]] (mentions, w=1)
+- ← [[abilities/venom-bite-2]] (mentions, w=1)
 - ← [[items/goblin-glass-gauntlets]] (mentions, w=1)
 - ← [[items/heat-siphon-tattoo]] (mentions, w=1)
 

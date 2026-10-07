@@ -2,15 +2,17 @@
 title: Tongue Grapple
 aliases: []
 type: ability
-summary: ""
+summary: 10m — same pull; grappled take double Spit damage
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-10-s3-tongue-grapple
 table: creature_abilities
-links: 1
+links: 2
 ---
 
 # Tongue Grapple
+
+10m — same pull; grappled take double Spit damage
 
 ## Fields
 
@@ -26,7 +28,6 @@ links: 1
 - **charges_type:** charges
 - **completion:** Complete
 - **damage_fixed:** 0
-- **effect:** 10m — same pull; grappled take double Spit damage
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -42,9 +43,14 @@ links: 1
 - **store_capacity:** 1
 - **tick_kind:** time
 
+## In his words
+
+**effect:** 10m — same pull; grappled take double Spit damage
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[conditions/grappled]] (w=1, prose)
 
 Linked from:
 

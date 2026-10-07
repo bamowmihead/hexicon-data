@@ -2,20 +2,21 @@
 title: Cave Webs
 aliases: []
 type: cultivation-card
-summary: ""
+summary: A white sticky lichen with long dread-like strands
 last-verified: 2026-10-07
 source: snapshot
 id: cult-07
 table: cultivations
-links: 1
+links: 2
 ---
 
 # Cave Webs
 
+A white sticky lichen with long dread-like strands
+
 ## Fields
 
 - **costs_json:** `{"act": {"dies": false, "max": null, "reagents": 5}, "s1": {"ap": 1, "reagents": 5}, "s2": {"ap": 1, "reagents": 5}, "s3": {"ap": 1, "reagents": 5}}`
-- **flavor:** A white sticky lichen with long dread-like strands
 - **ingredients:** Web Dreads — makes 10m rope with 1 hour · Web Mucus — Climbing Speed = half normal
 - **max_one:** 0
 - **name:** Cave Webs
@@ -27,9 +28,14 @@ links: 1
 - **stage2:** +6m of growth; the caster can contract the lichen between two points — bridge/strand/wall within range. (Act.) Sticky grapple.
 - **stage3:** +6m more and +1m wider. (Act.) Sticky grapple.
 
+## In his words
+
+**flavor:** A white sticky lichen with long dread-like strands
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[trees/lichen]] (w=1, prose)
 
 Linked from:
 

@@ -1,16 +1,16 @@
 ---
-title: untitled
+title: Nail
 aliases: []
 type: focus
 summary: ""
 last-verified: 2026-10-07
 source: snapshot
-id: ""
+id: gear-soul-nail
 table: foci
-links: 1
+links: 2
 ---
 
-# untitled
+# Nail
 
 ## Fields
 
@@ -23,6 +23,10 @@ links: 1
 ## Links
 
 - relation → [[items/nail]] (w=3, snapshot)
+
+Linked from:
+
+- ← [[rules/souldefault-die]] (mentions, w=1)
 
 ## Inferred
 

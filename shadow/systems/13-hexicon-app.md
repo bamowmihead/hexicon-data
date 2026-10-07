@@ -32,3 +32,5 @@ migrated-on: 2026-10-07
 - relation → [[systems/14-the-claude-brain]] (w=3, inferred)
 - relation → [[systems/12-session-play-and-gm-tools]] (w=3, inferred)
 - defines → [[questions]] (w=3, inferred) — the Questions screen's rows
+- defines → [[rules/worldshear-m]] (w=3, inferred) — new in the 2026-10-07 snapshot; the world-shear threshold, its note says the number is Claude's until Reece has seen a place shear
+- defines → [[rules/worldsnapshots-kept]] (w=3, inferred) — new in the 2026-10-07 snapshot; sculpt snapshots kept per location

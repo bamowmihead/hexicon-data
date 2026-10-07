@@ -2,7 +2,7 @@
 title: Amberwood — Day Travel
 aliases: []
 type: encounter-table
-summary: ""
+summary: day_travel
 last-verified: 2026-10-07
 source: snapshot
 id: enc-e4d053
@@ -12,13 +12,19 @@ links: 1
 
 # Amberwood — Day Travel
 
+day_travel
+
 ## Fields
 
 - **biome_json:** `[1]`
 - **completion:** Incomplete
-- **context:** day_travel
 - **dice_type:** 2d10
 - **name:** Amberwood — Day Travel
+
+## In his words
+
+**context:** day_travel
+
 
 ## Links
 

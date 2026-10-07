@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: spec-habit-lichen
 table: trees
-links: 12
+links: 13
 ---
 
 # Lichen
@@ -36,6 +36,7 @@ Linked from:
 - ← [[locations/ancient-tower]] (mentions, w=1)
 - ← [[locations/big-hill]] (mentions, w=1)
 - ← [[locations/verdant-watch]] (mentions, w=1)
+- ← [[plants/cave-webs]] (mentions, w=1)
 
 ## Inferred
 

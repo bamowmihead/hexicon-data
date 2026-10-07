@@ -2,7 +2,7 @@
 title: Tusk Cleave
 aliases: []
 type: ability
-summary: ""
+summary: 2m — 2d8+Might Slashing, 2 targets
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-08-s3-tusk-cleave
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Tusk Cleave
+
+2m — 2d8+Might Slashing, 2 targets
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Slashing"]`
 - **dice:** 2d8
-- **effect:** 2m — 2d8+Might Slashing, 2 targets
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -46,6 +47,11 @@ links: 0
 - **target_options_json:** `{"semicircle": {"radius_m": "2m"}, "target_count": "2"}`
 - **target_shape:** Semicircle
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 2m — 2d8+Might Slashing, 2 targets
+
 
 ## Links
 

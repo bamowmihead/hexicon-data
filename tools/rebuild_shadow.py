@@ -165,7 +165,7 @@ NOT_ID_LISTS = {
     "living_armor_json", "harvest_json", "equipped_json", "armaments_json", "doc_json",
 }
 # Prose columns scanned for mentions (expensive edges), and used for summaries.
-PROSE = ("tagline", "summary", "description", "bio", "notes", "note", "epitaph", "question", "text", "body", "tactics", "script")
+PROSE = ("tagline", "summary", "description", "bio", "notes", "note", "epitaph", "question", "text", "body", "tactics", "script", "flavor", "effect", "context")
 # Columns never printed under Fields: plumbing, not facts.
 HIDDEN = {
     "id", "content_key", "notion_page_id", "notion_last_synced_at", "local_last_modified_at", "sync_id",
@@ -261,9 +261,17 @@ def build_nodes(tables: dict[str, list[dict]]) -> tuple[list[Node], dict[str, No
     nodes: list[Node] = []
     by_id: dict[str, Node] = {}
     by_path: dict[str, Node] = {}
+    gear_names = {str(g.get("id")): str(g.get("name") or "") for g in tables.get("gear", [])}
     for table in PER_ROW:
         for row in tables.get(table, []):
             n = Node(table, row)
+            if table == "foci" and not row.get("name"):
+                # A focus row has no name of its own; it is the gear row's name (Reece's word).
+                name = gear_names.get(str(row.get("gear_id") or ""))
+                if name:
+                    n.id = str(row.get("gear_id"))
+                    n.title = name
+                    n.path = f"{n.kind}/{slugify(name)}"
             nodes.append(n)
     # Disambiguate slugs: two "Harness" rows become harness and harness-2.
     seen: dict[str, int] = defaultdict(int)

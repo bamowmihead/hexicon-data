@@ -2,7 +2,7 @@
 title: Artillery Shell
 aliases: []
 type: ability
-summary: ""
+summary: Reload before firing again.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-batkin-artillery
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Artillery Shell
+
+Reload before firing again.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Force/Psionic"]`
 - **dice:** 3d6
 - **duration:** Instant
-- **effect:** Reload before firing again.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target:** 2m Radius
 - **target_shape:** Radius
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Reload before firing again.
+
 
 ## Links
 

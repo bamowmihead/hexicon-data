@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: rt-b89f34
 table: creature_types
-links: 6
+links: 8
 ---
 
 # Oldin
@@ -64,6 +64,8 @@ Linked from:
 
 - ← [[branches/trades]] (has-member, w=3)
 - ← [[traits/opportunist]] (has-member, w=3)
+- ← [[abilities/marshals-command]] (mentions, w=1)
+- ← [[abilities/marshals-formation]] (mentions, w=1)
 - ← [[locations/ironwood-hovel-ruins]] (mentions, w=1)
 - ← [[locations/pillow-moss-campsite]] (mentions, w=1)
 

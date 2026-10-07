@@ -2,15 +2,17 @@
 title: "Marshal's Formation"
 aliases: []
 type: ability
-summary: ""
+summary: +1 damage AND +2 Defense to retinue members who are IN FORMATION with Oldin — the derived cluster of allied bodies within 1 m of each other, transitively, not a…
 last-verified: 2026-10-07
 source: snapshot
 id: ca-oldin-formation
 table: creature_abilities
-links: 0
+links: 2
 ---
 
 # Marshal's Formation
+
++1 damage AND +2 Defense to retinue members who are IN FORMATION with Oldin — the derived cluster of allied bodies within 1 m of each other, transitively, not a…
 
 ## Fields
 
@@ -25,7 +27,6 @@ links: 0
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Rest of Combat
-- **effect:** +1 damage AND +2 Defense to retinue members who are IN FORMATION with Oldin — the derived cluster of allied bodies within 1 m of each other, transitively, not a radius. Replaces Marshal's Command for those members rather than stacking with it. The engine applies this on the grid: the Defense shows on the picker and the resolver subtracts it.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -43,9 +44,19 @@ links: 0
 - **target_shape:** Radius
 - **tick_kind:** time
 
+## In his words
+
+**effect:** +1 damage AND +2 Defense to retinue members who are IN FORMATION with Oldin — the derived cluster of allied bodies within 1 m of each other, transitively, not a radius. Replaces Marshal's Command for those members rather than stacking with it. The engine applies this on the grid: the Defense shows on the picker and the resolver subtracts it.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/marshals-command]] (w=1, prose)
+- mentions → [[creatures/oldin]] (w=1, prose)
+
+Linked from:
+
+- ← [[abilities/marshals-command]] (mentions, w=1)
 
 ## Inferred
 

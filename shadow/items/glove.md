@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: gear-soul-glove
 table: gear
-links: 2
+links: 1
 ---
 
 # Glove
@@ -30,8 +30,7 @@ A worn foci.
 
 Linked from:
 
-- ← [[foci/untitled-2]] (relation, w=3)
-- ← [[rules/souldefault-die]] (mentions, w=1)
+- ← [[foci/glove]] (relation, w=3)
 
 ## Inferred
 

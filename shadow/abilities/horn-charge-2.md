@@ -2,7 +2,7 @@
 title: Horn Charge
 aliases: []
 type: ability
-summary: ""
+summary: 5m line — 1d8+Might Crush
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-04-s2-horn-charge
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Horn Charge
+
+5m line — 1d8+Might Crush
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Crush"]`
 - **dice:** 1d8
-- **effect:** 5m line — 1d8+Might Crush
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -45,6 +46,11 @@ links: 0
 - **store_capacity:** 1
 - **target_shape:** Line
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 5m line — 1d8+Might Crush
+
 
 ## Links
 

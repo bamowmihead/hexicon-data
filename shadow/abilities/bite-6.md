@@ -2,15 +2,17 @@
 title: Bite
 aliases: []
 type: ability
-summary: ""
+summary: 1m — 3d8+Might Laceration
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-09-s3-bite
 table: creature_abilities
-links: 5
+links: 6
 ---
 
 # Bite
+
+1m — 3d8+Might Laceration
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 5
 - **damage_fixed:** 0
 - **damage_types_json:** `["Lacerating"]`
 - **dice:** 3d8
-- **effect:** 1m — 3d8+Might Laceration
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -45,6 +46,11 @@ links: 5
 - **store_capacity:** 1
 - **tick_kind:** time
 
+## In his words
+
+**effect:** 1m — 3d8+Might Laceration
+
+
 ## Links
 
 - *(none derived)*
@@ -56,6 +62,7 @@ Linked from:
 - ← [[creatures/fruit-batkin-carrier]] (mentions, w=1)
 - ← [[creatures/quetzalittle]] (mentions, w=1)
 - ← [[creatures/slime-eels]] (mentions, w=1)
+- ← [[trances/stalker-bat]] (mentions, w=1)
 
 ## Inferred
 

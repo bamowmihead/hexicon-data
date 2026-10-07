@@ -2,7 +2,7 @@
 title: Goblin Glass Arrowhead
 aliases: []
 type: ability
-summary: ""
+summary: While these are nocked the bow deals PIERCING or LACERATING, shape-shifting at will.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-arrows-shape
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Arrowhead
+
+While these are nocked the bow deals PIERCING or LACERATING, shape-shifting at will.
 
 ## Fields
 
@@ -26,7 +28,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** While these are nocked the bow deals PIERCING or LACERATING, shape-shifting at will. They have FOUR TIMES the durability of a normal arrow.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -44,6 +45,11 @@ links: 1
 - **target:** Self
 - **target_shape:** Self
 - **tick_kind:** time
+
+## In his words
+
+**effect:** While these are nocked the bow deals PIERCING or LACERATING, shape-shifting at will. They have FOUR TIMES the durability of a normal arrow.
+
 
 ## Links
 

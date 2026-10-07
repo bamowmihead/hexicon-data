@@ -2,7 +2,7 @@
 title: Cave Beetle
 aliases: []
 type: trance-card
-summary: ""
+summary: A heavily armored beetle with a powerful horn & wing-assisted jumps
 last-verified: 2026-10-07
 source: snapshot
 id: trance-04
@@ -12,9 +12,10 @@ links: 0
 
 # Cave Beetle
 
+A heavily armored beetle with a powerful horn & wing-assisted jumps
+
 ## Fields
 
-- **flavor:** A heavily armored beetle with a powerful horn & wing-assisted jumps
 - **ingredients:** Cave Beetle Wing Gunk — binds target · Cave Beetle Spores — grants dim light
 - **mods_json:** `[{"attrs": {"fortitude": 1, "might": 1, "reflex": -1}, "max_end": 2, "temp_end": 5}, {"attacks": [{"ap": 1, "name": "Horn Charge", "text": "5m line — 1d8+Might Crush"}, {"ap": 2, "name": "Wing Clap", "text": "3m cone — 2d6 Sonic"}], "attrs": {"fortitude": 2, "might": 2, "reflex": -2}, "max_end": …`
 - **name:** Cave Beetle
@@ -23,6 +24,11 @@ links: 0
 - **stage2:** +2 Fortitude, +2 Might, −2 Reflex +4 Endurance · Melee +2 · +10 temp Endurance Tremorsense 20m · Bioluminescent 5m Horn Charge: 1 AP, 5m line — 1d8+Might Crush Wing Clap: 2 AP, 3m cone — 2d6 Sonic
 - **stage3:** +3 Fortitude, +3 Might, −3 Reflex +6 Endurance · Melee +3 · +15 temp Endurance Tremorsense 30m · Bioluminescent 7m Weakness: all Blunt damage types Horn Charge: 1 AP, 5m line — 2d8+Might Crush Wing Clap: 2 AP, 5m cone or 3m radius — 3d6 Sonic; pushes targets out of the zone (Might DC = caster Might)
 - **tool_lock_wild:** 1
+
+## In his words
+
+**flavor:** A heavily armored beetle with a powerful horn & wing-assisted jumps
+
 
 ## Links
 

@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: ca-64fcb5
 table: creature_abilities
-links: 5
+links: 6
 ---
 
 # Crossbow Reload
@@ -51,6 +51,7 @@ Linked from:
 - ← [[items/hand-crossbow]] (relation, w=3)
 - ← [[items/heavy-crossbow]] (relation, w=3)
 - ← [[items/light-crossbow]] (relation, w=3)
+- ← [[abilities/company-reload]] (mentions, w=1)
 
 ## Inferred
 

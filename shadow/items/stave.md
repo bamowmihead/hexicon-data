@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: gear-soul-stave
 table: gear
-links: 2
+links: 1
 ---
 
 # Stave
@@ -30,8 +30,7 @@ The great foci: five slots, three charges (the March kit).
 
 Linked from:
 
-- ← [[foci/untitled-6]] (relation, w=3)
-- ← [[rules/souldefault-die]] (mentions, w=1)
+- ← [[foci/stave]] (relation, w=3)
 
 ## Inferred
 

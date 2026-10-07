@@ -2,7 +2,7 @@
 title: Wing Clap
 aliases: []
 type: ability
-summary: ""
+summary: 3m cone — 2d6 Sonic
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-04-s2-wing-clap
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Wing Clap
+
+3m cone — 2d6 Sonic
 
 ## Fields
 
@@ -28,7 +30,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Sonic"]`
 - **dice:** 2d6
-- **effect:** 3m cone — 2d6 Sonic
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -44,6 +45,11 @@ links: 0
 - **store_capacity:** 1
 - **target_shape:** Cone
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 3m cone — 2d6 Sonic
+
 
 ## Links
 

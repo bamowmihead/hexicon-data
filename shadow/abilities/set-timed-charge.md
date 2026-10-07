@@ -2,7 +2,7 @@
 title: Set Timed Charge
 aliases: []
 type: ability
-summary: ""
+summary: PLACED, with a fuse anywhere from five rounds to two hours — set it from the inventory before or after it goes down.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-timed-charge
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Set Timed Charge
+
+PLACED, with a fuse anywhere from five rounds to two hours — set it from the inventory before or after it goes down.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Force/Psionic", "Shrapnel"]`
 - **dice:** 4d4
 - **duration:** Instant
-- **effect:** PLACED, with a fuse anywhere from five rounds to two hours — set it from the inventory before or after it goes down. The force wave ignores armour. Fifteen fragments scatter over ten metres, each meeting Defense on its own.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 1
 - **fuse_rounds:** 5
@@ -51,6 +52,11 @@ links: 1
 - **target_shape:** Radius
 - **target_size:** 5m
 - **tick_kind:** time
+
+## In his words
+
+**effect:** PLACED, with a fuse anywhere from five rounds to two hours — set it from the inventory before or after it goes down. The force wave ignores armour. Fifteen fragments scatter over ten metres, each meeting Defense on its own.
+
 
 ## Links
 

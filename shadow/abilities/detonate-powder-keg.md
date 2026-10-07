@@ -2,15 +2,17 @@
 title: Detonate Powder Keg
 aliases: []
 type: ability
-summary: ""
+summary: Set as a charge, thrown, or SHOT TO SET OFF from across the room.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-powder-keg
 table: creature_abilities
-links: 1
+links: 2
 ---
 
 # Detonate Powder Keg
+
+Set as a charge, thrown, or SHOT TO SET OFF from across the room.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Force/Psionic", "Shrapnel"]`
 - **dice:** 8d4
 - **duration:** Instant
-- **effect:** Set as a charge, thrown, or SHOT TO SET OFF from across the room. Every number scales with how full it is, rounded up: a keg holding half of its 25 lb does half the damage over half the distance. The force wave ignores armour; four heavy fragments scatter over ten metres, each meeting Defense on its own.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -52,9 +53,14 @@ links: 1
 - **target_size:** 5m
 - **tick_kind:** time
 
+## In his words
+
+**effect:** Set as a charge, thrown, or SHOT TO SET OFF from across the room. Every number scales with how full it is, rounded up: a keg holding half of its 25 lb does half the damage over half the distance. The force wave ignores armour; four heavy fragments scatter over ten metres, each meeting Defense on its own.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/charge]] (w=1, prose)
 
 Linked from:
 

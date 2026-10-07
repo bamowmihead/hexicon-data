@@ -2,7 +2,7 @@
 title: Amberwood — Day Rest
 aliases: []
 type: encounter-table
-summary: ""
+summary: day_camp
 last-verified: 2026-10-07
 source: snapshot
 id: enc-da1ebb
@@ -12,13 +12,19 @@ links: 1
 
 # Amberwood — Day Rest
 
+day_camp
+
 ## Fields
 
 - **biome_json:** `[1]`
 - **completion:** Incomplete
-- **context:** day_camp
 - **dice_type:** 2d10
 - **name:** Amberwood — Day Rest
+
+## In his words
+
+**context:** day_camp
+
 
 ## Links
 

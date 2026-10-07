@@ -2,7 +2,7 @@
 title: Wing Clap
 aliases: []
 type: ability
-summary: ""
+summary: 5m cone or 3m radius — 3d6 Sonic; pushes targets out of the zone (Might DC = caster Might) ⚠ NEEDS REECE — the range clause “5m cone or 3m radius” offers two sh…
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-04-s3-wing-clap
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Wing Clap
+
+5m cone or 3m radius — 3d6 Sonic; pushes targets out of the zone (Might DC = caster Might) ⚠ NEEDS REECE — the range clause “5m cone or 3m radius” offers two sh…
 
 ## Fields
 
@@ -28,7 +30,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Sonic"]`
 - **dice:** 3d6
-- **effect:** 5m cone or 3m radius — 3d6 Sonic; pushes targets out of the zone (Might DC = caster Might) ⚠ NEEDS REECE — the range clause “5m cone or 3m radius” offers two shapes; both are recorded, the first is the default, and choosing between them at attack time is not built yet
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -45,6 +46,11 @@ links: 0
 - **target_options_json:** `{"shape_choice": {"options": [{"range": "5m", "shape": "Cone"}, {"range": "3m", "shape": "Radius"}]}}`
 - **target_shape:** Cone
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 5m cone or 3m radius — 3d6 Sonic; pushes targets out of the zone (Might DC = caster Might) ⚠ NEEDS REECE — the range clause “5m cone or 3m radius” offers two shapes; both are recorded, the first is the default, and choosing between them at attack time is not built yet
+
 
 ## Links
 

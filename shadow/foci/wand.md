@@ -1,16 +1,16 @@
 ---
-title: untitled
+title: Wand
 aliases: []
 type: focus
 summary: ""
 last-verified: 2026-10-07
 source: snapshot
-id: ""
+id: gear-soul-wand
 table: foci
-links: 1
+links: 2
 ---
 
-# untitled
+# Wand
 
 ## Fields
 
@@ -22,6 +22,10 @@ links: 1
 ## Links
 
 - relation → [[items/wand]] (w=3, snapshot)
+
+Linked from:
+
+- ← [[rules/souldefault-die]] (mentions, w=1)
 
 ## Inferred
 

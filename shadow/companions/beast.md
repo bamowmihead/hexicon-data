@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: beast
 table: companion_kinds
-links: 7
+links: 8
 ---
 
 # beast
@@ -36,6 +36,7 @@ Linked from:
 - ← [[locations/ironwood-hovel-ruins]] (mentions, w=1)
 - ← [[rules/feralitycompanion-hurt-gain]] (mentions, w=1)
 - ← [[rules/feralitycompanion-hurts-gain]] (mentions, w=1)
+- ← [[trances/cattlepos]] (mentions, w=1)
 
 ## Inferred
 

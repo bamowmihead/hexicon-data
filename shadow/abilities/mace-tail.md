@@ -2,7 +2,7 @@
 title: Mace Tail
 aliases: []
 type: ability
-summary: ""
+summary: 2m arc behind — 2d6+Might Stun, up to 2 targets
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-12-s2-mace-tail
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Mace Tail
+
+2m arc behind — 2d6+Might Stun, up to 2 targets
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Stun"]`
 - **dice:** 2d6
-- **effect:** 2m arc behind — 2d6+Might Stun, up to 2 targets
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -46,6 +47,11 @@ links: 0
 - **target_options_json:** `{"semicircle": {"degrees": 180, "facing": "behind", "radius_m": "2m"}, "target_count": "2"}`
 - **target_shape:** Semicircle
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 2m arc behind — 2d6+Might Stun, up to 2 targets
+
 
 ## Links
 

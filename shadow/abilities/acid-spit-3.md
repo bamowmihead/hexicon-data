@@ -2,7 +2,7 @@
 title: Acid Spit
 aliases: []
 type: ability
-summary: ""
+summary: 20m — 2d6+Prowess Acid; later fire +2d6
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-10-s3-acid-spit
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Acid Spit
+
+20m — 2d6+Prowess Acid; later fire +2d6
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 1
 - **damage_fixed:** 0
 - **damage_types_json:** `["Corrosive/Acid"]`
 - **dice:** 2d6
-- **effect:** 20m — 2d6+Prowess Acid; later fire +2d6
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -44,6 +45,11 @@ links: 1
 - **sticky:** 0
 - **store_capacity:** 1
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 20m — 2d6+Prowess Acid; later fire +2d6
+
 
 ## Links
 

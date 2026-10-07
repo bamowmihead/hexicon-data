@@ -2,7 +2,7 @@
 title: Goblin Glass Morning Star Strike
 aliases: []
 type: ability
-summary: ""
+summary: 2d4+1+stat.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-morningstar
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Morning Star Strike
+
+2d4+1+stat.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Slashing", "Piercing", "Bludgeoning"]`
 - **dice:** 2d4
 - **duration:** Instant
-- **effect:** 2d4+1+stat. The head TRANSFORMS AT WILL between slashing, piercing and bludgeoning — pick the type as you swing.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -49,6 +50,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 2d4+1+stat. The head TRANSFORMS AT WILL between slashing, piercing and bludgeoning — pick the type as you swing.
+
 
 ## Links
 

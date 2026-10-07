@@ -2,7 +2,7 @@
 title: Infusion
 aliases: []
 type: ability
-summary: ""
+summary: Restore 1d4 Endurance to a target within 5m.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-e51bfc
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Infusion
+
+Restore 1d4 Endurance to a target within 5m.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 0
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Restore 1d4 Endurance to a target within 5m. 2 uses per combat.
 - **effect_types_json:** `["Healing"]`
 - **frequency:** 2 per Combat
 - **fuse_adjustable:** 0
@@ -45,6 +46,11 @@ links: 0
 - **store_capacity:** 1
 - **target:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Restore 1d4 Endurance to a target within 5m. 2 uses per combat.
+
 
 ## Links
 

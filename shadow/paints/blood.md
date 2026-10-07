@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: gp-blood
 table: ground_paints
-links: 10
+links: 11
 ---
 
 # Blood
@@ -46,6 +46,7 @@ Linked from:
 - ← [[locations/flooded-hovel]] (mentions, w=1)
 - ← [[locations/red-bog]] (mentions, w=1)
 - ← [[locations/stalker-bat-sinkhole]] (mentions, w=1)
+- ← [[trances/warg]] (mentions, w=1)
 
 ## Inferred
 

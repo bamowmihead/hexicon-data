@@ -2,19 +2,20 @@
 title: Flying Squirrel
 aliases: []
 type: trance-card
-summary: ""
+summary: A winged predator squirrel as big as a dog with razor sharp claws
 last-verified: 2026-10-07
 source: snapshot
 id: trance-11
 table: trances
-links: 0
+links: 1
 ---
 
 # Flying Squirrel
 
+A winged predator squirrel as big as a dog with razor sharp claws
+
 ## Fields
 
-- **flavor:** A winged predator squirrel as big as a dog with razor sharp claws
 - **ingredients:** Squirrel Tuft — Quick Clot: stops active bleeding · Squirrel Claw — upgrades bleeding wounds to hemorrhaging
 - **mods_json:** `[{"attrs": {"might": -1, "prowess": 1, "reflex": 1}, "spd": 1}, {"attacks": [{"ap": 1, "name": "Claws", "text": "1m — 1d8+Prowess Slashing (Pounce: +1 die when gliding in)"}], "attrs": {"might": -2, "prowess": 2, "reflex": 2}, "spd": 2}, {"attacks": [{"ap": 1, "name": "Claws", "text": "2m — 2d8+P…`
 - **name:** Flying Squirrel
@@ -24,9 +25,14 @@ links: 0
 - **stage3:** +3 Prowess, +3 Reflex, −3 Might +3 Prowess Attacks · +3 Speed · −3 Might Attacks Night Sight 30m Gliding: double speed for one turn when jumping/falling from 6m+; no fall damage Claws: 1 AP, 2m — 2d8+Prowess Eviscerating Pounce: gliding into an attack adds +1 die
 - **tool_lock_wild:** 1
 
+## In his words
+
+**flavor:** A winged predator squirrel as big as a dog with razor sharp claws
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/claws-11]] (w=1, prose)
 
 ## Inferred
 

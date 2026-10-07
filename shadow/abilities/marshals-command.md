@@ -2,15 +2,17 @@
 title: "Marshal's Command"
 aliases: []
 type: ability
-summary: ""
+summary: "+1 damage to members of Oldin's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close."
 last-verified: 2026-10-07
 source: snapshot
 id: ca-oldin-command
 table: creature_abilities
-links: 0
+links: 2
 ---
 
 # Marshal's Command
+
++1 damage to members of Oldin's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close.
 
 ## Fields
 
@@ -25,7 +27,6 @@ links: 0
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Rest of Combat
-- **effect:** +1 damage to members of Oldin's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close. The engine applies this on the grid: aura.rs composes it into every attack the buffed body makes. Does not stack with Marshal's Formation.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -44,9 +45,19 @@ links: 0
 - **target_shape:** Radius
 - **tick_kind:** time
 
+## In his words
+
+**effect:** +1 damage to members of Oldin's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close. The engine applies this on the grid: aura.rs composes it into every attack the buffed body makes. Does not stack with Marshal's Formation.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/marshals-formation]] (w=1, prose)
+- mentions → [[creatures/oldin]] (w=1, prose)
+
+Linked from:
+
+- ← [[abilities/marshals-formation]] (mentions, w=1)
 
 ## Inferred
 

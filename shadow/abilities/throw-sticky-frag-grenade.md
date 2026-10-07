@@ -2,15 +2,17 @@
 title: Throw Sticky Frag Grenade
 aliases: []
 type: ability
-summary: ""
+summary: Sticks where it lands and cannot be kicked away.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-frag-grenade-sticky
 table: creature_abilities
-links: 1
+links: 2
 ---
 
 # Throw Sticky Frag Grenade
+
+Sticks where it lands and cannot be kicked away.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Force/Psionic", "Shrapnel"]`
 - **dice:** 2d4
 - **duration:** Instant
-- **effect:** Sticks where it lands and cannot be kicked away. It goes off at the END OF THE NEXT ROUND. The force wave ignores armour; the ten fragments scatter and each meets Defense on its own.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 1
@@ -52,9 +53,14 @@ links: 1
 - **target_size:** 1m
 - **tick_kind:** time
 
+## In his words
+
+**effect:** Sticks where it lands and cannot be kicked away. It goes off at the END OF THE NEXT ROUND. The force wave ignores armour; the ten fragments scatter and each meets Defense on its own.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[items/sticks]] (w=1, prose)
 
 Linked from:
 

@@ -2,19 +2,20 @@
 title: Stalker Bat
 aliases: []
 type: trance-card
-summary: ""
+summary: An eagle-sized bat with an anesthetic bite
 last-verified: 2026-10-07
 source: snapshot
 id: trance-05
 table: trances
-links: 1
+links: 2
 ---
 
 # Stalker Bat
 
+An eagle-sized bat with an anesthetic bite
+
 ## Fields
 
-- **flavor:** An eagle-sized bat with an anesthetic bite
 - **ingredients:** Stalker Bat Blood — ignore non-lethal wounds · Stalker Bat Venom — Torpor: reduce Max Endurance by 5
 - **mods_json:** `[{"attrs": {"might": -1, "prowess": 1, "reflex": 1}, "spd": 1}, {"attacks": [{"ap": 2, "name": "Venom Bite", "text": "1m — 2d8+Prowess Leeching, attempt grapple (+1 die vs grappled)"}], "attrs": {"might": -2, "prowess": 2, "reflex": 2}, "spd": 2}, {"attacks": [{"ap": 1, "name": "Claws", "text": "…`
 - **name:** Stalker Bat
@@ -24,9 +25,14 @@ links: 1
 - **stage3:** +3 Prowess, +3 Reflex, −3 Might +3 Prowess Attacks · +3 Speed · −3 Might Attacks Echolocation 45m · Flight 15m Claws: 1 AP, 1m — 1d8+Prowess Slashing Venom Bite: 2 AP, 1m — 3d8+Prowess Leeching, attempt grapple Vampiric: +1 die on Venom Bite vs grappled targets
 - **tool_lock_wild:** 1
 
+## In his words
+
+**flavor:** An eagle-sized bat with an anesthetic bite
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/bite-6]] (w=1, prose)
 
 Linked from:
 

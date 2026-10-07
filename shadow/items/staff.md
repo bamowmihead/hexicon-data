@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: gear-soul-staff
 table: gear
-links: 3
+links: 1
 ---
 
 # Staff
@@ -30,9 +30,7 @@ A held foci.
 
 Linked from:
 
-- ← [[foci/untitled-5]] (relation, w=3)
-- ← [[items/torch-staff]] (mentions, w=1)
-- ← [[rules/souldefault-die]] (mentions, w=1)
+- ← [[foci/staff]] (relation, w=3)
 
 ## Inferred
 

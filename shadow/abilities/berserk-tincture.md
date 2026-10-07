@@ -2,7 +2,7 @@
 title: Berserk Tincture
 aliases: []
 type: ability
-summary: ""
+summary: +1 trance stage, and +2 damage and +2 speed for the rest of combat — all applied by the engine when you drink it.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-berserk
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Berserk Tincture
+
++1 trance stage, and +2 damage and +2 speed for the rest of combat — all applied by the engine when you drink it.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** +1 trance stage, and +2 damage and +2 speed for the rest of combat — all applied by the engine when you drink it. At MAX trance stage there is no rung to climb and the bonus is +4 instead. A second tincture does not stack.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -45,6 +46,11 @@ links: 1
 - **target:** Self
 - **target_shape:** Self
 - **tick_kind:** time
+
+## In his words
+
+**effect:** +1 trance stage, and +2 damage and +2 speed for the rest of combat — all applied by the engine when you drink it. At MAX trance stage there is no rung to climb and the bonus is +4 instead. A second tincture does not stack.
+
 
 ## Links
 

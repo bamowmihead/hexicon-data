@@ -2,15 +2,17 @@
 title: Command
 aliases: []
 type: ability
-summary: ""
+summary: "+1 damage to members of the Commander's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close."
 last-verified: 2026-10-07
 source: snapshot
 id: ca-batkin-command
 table: creature_abilities
-links: 3
+links: 4
 ---
 
 # Command
+
++1 damage to members of the Commander's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 3
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** +1 damage to members of the Commander's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close. The engine applies this on the grid: aura.rs composes it into every attack the buffed body makes. Does not stack with Insectivore Formation.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -46,12 +47,18 @@ links: 3
 - **target_shape:** Radius
 - **tick_kind:** time
 
+## In his words
+
+**effect:** +1 damage to members of the Commander's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close. The engine applies this on the grid: aura.rs composes it into every attack the buffed body makes. Does not stack with Insectivore Formation.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/insectivore-formation]] (w=1, prose)
 
 Linked from:
 
+- ← [[abilities/insectivore-formation]] (mentions, w=1)
 - ← [[creatures/circle-elder]] (mentions, w=1)
 - ← [[locations/ancient-tower]] (mentions, w=1)
 - ← [[locations/big-hill]] (mentions, w=1)

@@ -2,15 +2,17 @@
 title: Charge
 aliases: []
 type: ability
-summary: ""
+summary: 5m line — 2d8+Might Stabbing, 2 targets; move self in a 5m line
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-08-s3-charge
 table: creature_abilities
-links: 4
+links: 5
 ---
 
 # Charge
+
+5m line — 2d8+Might Stabbing, 2 targets; move self in a 5m line
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 4
 - **damage_fixed:** 0
 - **damage_types_json:** `["Stabbing"]`
 - **dice:** 2d8
-- **effect:** 5m line — 2d8+Might Stabbing, 2 targets; move self in a 5m line
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -47,12 +48,18 @@ links: 4
 - **target_shape:** Line
 - **tick_kind:** time
 
+## In his words
+
+**effect:** 5m line — 2d8+Might Stabbing, 2 targets; move self in a 5m line
+
+
 ## Links
 
 - *(none derived)*
 
 Linked from:
 
+- ← [[abilities/detonate-powder-keg]] (mentions, w=1)
 - ← [[creatures/loggerhead]] (mentions, w=1)
 - ← [[items/heat-siphon-tattoo]] (mentions, w=1)
 - ← [[items/powder-keg]] (mentions, w=1)

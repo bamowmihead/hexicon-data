@@ -2,15 +2,17 @@
 title: Mace Tail
 aliases: []
 type: ability
-summary: ""
+summary: 3m arc behind — 3d6+Might Stun, up to 3 targets; prone on a max roll
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-12-s3-mace-tail
 table: creature_abilities
-links: 0
+links: 1
 ---
 
 # Mace Tail
+
+3m arc behind — 3d6+Might Stun, up to 3 targets; prone on a max roll
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Stun"]`
 - **dice:** 3d6
-- **effect:** 3m arc behind — 3d6+Might Stun, up to 3 targets; prone on a max roll
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -47,9 +48,18 @@ links: 0
 - **target_shape:** Semicircle
 - **tick_kind:** time
 
+## In his words
+
+**effect:** 3m arc behind — 3d6+Might Stun, up to 3 targets; prone on a max roll
+
+
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[trances/cattlepos]] (mentions, w=1)
 
 ## Inferred
 

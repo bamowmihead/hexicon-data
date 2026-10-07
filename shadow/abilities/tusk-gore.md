@@ -2,7 +2,7 @@
 title: Tusk Gore
 aliases: []
 type: ability
-summary: ""
+summary: must move 3m+ — 3d4+Might Stabbing
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-12-s2-tusk-gore
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Tusk Gore
+
+must move 3m+ — 3d4+Might Stabbing
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Stabbing"]`
 - **dice:** 3d4
-- **effect:** must move 3m+ — 3d4+Might Stabbing
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -44,6 +45,11 @@ links: 0
 - **sticky:** 0
 - **store_capacity:** 1
 - **tick_kind:** time
+
+## In his words
+
+**effect:** must move 3m+ — 3d4+Might Stabbing
+
 
 ## Links
 

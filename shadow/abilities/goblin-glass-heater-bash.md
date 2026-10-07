@@ -2,7 +2,7 @@
 title: Goblin Glass Heater Bash
 aliases: []
 type: ability
-summary: ""
+summary: 1d8+1 stun.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-heater
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Heater Bash
+
+1d8+1 stun.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Stun"]`
 - **dice:** 1d8
 - **duration:** Instant
-- **effect:** 1d8+1 stun.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -49,6 +50,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 1d8+1 stun.
+
 
 ## Links
 

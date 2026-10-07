@@ -2,15 +2,17 @@
 title: Company Reload
 aliases: []
 type: ability
-summary: ""
+summary: "Reload a crossbow in a single action — the company's drill."
 last-verified: 2026-10-07
 source: snapshot
 id: ca-bc-quick-reload
 table: creature_abilities
-links: 0
+links: 2
 ---
 
 # Company Reload
+
+Reload a crossbow in a single action — the company's drill.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 0
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Reload a crossbow in a single action — the company's drill. Replaces the weapon's own 2 AP Crossbow Reload; do not spend both.
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -44,9 +45,15 @@ links: 0
 - **target_shape:** Self
 - **tick_kind:** time
 
+## In his words
+
+**effect:** Reload a crossbow in a single action — the company's drill. Replaces the weapon's own 2 AP Crossbow Reload; do not spend both.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[abilities/crossbow-reload]] (w=1, prose)
+- mentions → [[companies/the-company]] (w=1, prose)
 
 ## Inferred
 

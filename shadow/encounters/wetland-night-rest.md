@@ -2,7 +2,7 @@
 title: Wetland — Night Rest
 aliases: []
 type: encounter-table
-summary: ""
+summary: night_camp
 last-verified: 2026-10-07
 source: snapshot
 id: enc-ec4a07
@@ -12,13 +12,19 @@ links: 1
 
 # Wetland — Night Rest
 
+night_camp
+
 ## Fields
 
 - **biome_json:** `[2]`
 - **completion:** Incomplete
-- **context:** night_camp
 - **dice_type:** 2d10
 - **name:** Wetland — Night Rest
+
+## In his words
+
+**context:** night_camp
+
 
 ## Links
 

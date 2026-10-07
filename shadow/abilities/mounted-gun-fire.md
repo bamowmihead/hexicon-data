@@ -2,7 +2,7 @@
 title: Mounted Gun Fire
 aliases: []
 type: ability
-summary: ""
+summary: Reload before firing again.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-batkin-mounted-gun
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Mounted Gun Fire
+
+Reload before firing again.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Shrapnel"]`
 - **dice:** 2d12
 - **duration:** Instant
-- **effect:** Reload before firing again.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Reload before firing again.
+
 
 ## Links
 

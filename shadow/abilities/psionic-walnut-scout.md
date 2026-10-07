@@ -2,7 +2,7 @@
 title: Psionic Walnut (Scout)
 aliases: []
 type: ability
-summary: ""
+summary: Scout a 1 km radius.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-walnut-scout
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Psionic Walnut (Scout)
+
+Scout a 1 km radius.
 
 ## Fields
 
@@ -26,7 +28,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Scout a 1 km radius. Infinite uses. Map-scale — this is not a battlefield ability.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -44,6 +45,11 @@ links: 1
 - **target:** Self
 - **target_shape:** Self
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Scout a 1 km radius. Infinite uses. Map-scale — this is not a battlefield ability.
+
 
 ## Links
 

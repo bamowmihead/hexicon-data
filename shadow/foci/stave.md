@@ -1,27 +1,32 @@
 ---
-title: untitled
+title: Stave
 aliases: []
 type: focus
 summary: ""
 last-verified: 2026-10-07
 source: snapshot
-id: ""
+id: gear-soul-stave
 table: foci
-links: 1
+links: 2
 ---
 
-# untitled
+# Stave
 
 ## Fields
 
-- **die:** 10
-- **gear_id:** gear-soul-staff
+- **charges:** 3
+- **die:** 12
+- **gear_id:** gear-soul-stave
 - **shareable:** 0
-- **slot_count:** 1
+- **slot_count:** 5
 
 ## Links
 
-- relation → [[items/staff]] (w=3, snapshot)
+- relation → [[items/stave]] (w=3, snapshot)
+
+Linked from:
+
+- ← [[rules/souldefault-die]] (mentions, w=1)
 
 ## Inferred
 

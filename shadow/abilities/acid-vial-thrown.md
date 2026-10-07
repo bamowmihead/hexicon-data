@@ -2,7 +2,7 @@
 title: Acid Vial (Thrown)
 aliases: []
 type: ability
-summary: ""
+summary: Thrown.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-acid-throw
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Acid Vial (Thrown)
+
+Thrown.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Corrosive/Acid"]`
 - **dice:** 2d6
 - **duration:** Instant
-- **effect:** Thrown. 2d6 acid in a 2 m radius. Range 7 + Might metres.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target_shape:** Radius
 - **target_size:** 2m
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Thrown. 2d6 acid in a 2 m radius. Range 7 + Might metres.
+
 
 ## Links
 

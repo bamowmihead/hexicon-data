@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: gear-soul-nail
 table: gear
-links: 3
+links: 2
 ---
 
 # Nail
@@ -30,8 +30,7 @@ A shareable foci: a rechargeable spell slot a Channeler hands to another player 
 
 Linked from:
 
-- ← [[foci/untitled-3]] (relation, w=3)
-- ← [[rules/souldefault-die]] (mentions, w=1)
+- ← [[foci/nail]] (relation, w=3)
 
 ## Inferred
 

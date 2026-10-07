@@ -2,7 +2,7 @@
 title: Goblin Seed Oil
 aliases: []
 type: ability
-summary: ""
+summary: The next cultivation cast grows straight to BLOOMING.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-seedoil
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Seed Oil
+
+The next cultivation cast grows straight to BLOOMING.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** The next cultivation cast grows straight to BLOOMING. 1 AP to use the oil, then 1 AP to cultivate — that is where the 2 AP comes from.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -45,6 +46,11 @@ links: 1
 - **target:** Self
 - **target_shape:** Self
 - **tick_kind:** time
+
+## In his words
+
+**effect:** The next cultivation cast grows straight to BLOOMING. 1 AP to use the oil, then 1 AP to cultivate — that is where the 2 AP comes from.
+
 
 ## Links
 

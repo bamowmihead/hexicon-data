@@ -2,7 +2,7 @@
 title: Goblin Glass Arrow Detonation
 aliases: []
 type: ability
-summary: ""
+summary: "Spend a REACTION to detonate a landed arrow: +2d6 ACID or FIRE in a 1 m radius."
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-arrows-detonate
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Arrow Detonation
+
+Spend a REACTION to detonate a landed arrow: +2d6 ACID or FIRE in a 1 m radius.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Corrosive/Acid", "Heat/Fire"]`
 - **dice:** 2d6
 - **duration:** Instant
-- **effect:** Spend a REACTION to detonate a landed arrow: +2d6 ACID or FIRE in a 1 m radius. The arrow is destroyed.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target_shape:** Radius
 - **target_size:** 1m
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Spend a REACTION to detonate a landed arrow: +2d6 ACID or FIRE in a 1 m radius. The arrow is destroyed.
+
 
 ## Links
 

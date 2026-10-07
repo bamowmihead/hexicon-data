@@ -2,7 +2,7 @@
 title: Deep Amber — Night Rest
 aliases: []
 type: encounter-table
-summary: ""
+summary: night_camp
 last-verified: 2026-10-07
 source: snapshot
 id: enc-db1e33
@@ -12,13 +12,19 @@ links: 1
 
 # Deep Amber — Night Rest
 
+night_camp
+
 ## Fields
 
 - **biome_json:** `[3]`
 - **completion:** Incomplete
-- **context:** night_camp
 - **dice_type:** 2d10
 - **name:** Deep Amber — Night Rest
+
+## In his words
+
+**context:** night_camp
+
 
 ## Links
 

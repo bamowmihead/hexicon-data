@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: company-playtest
 table: companies
-links: 5
+links: 6
 ---
 
 # the company
@@ -26,6 +26,7 @@ Linked from:
 - ← [[pcs/korven]] (member-of, w=3)
 - ← [[pcs/semille]] (member-of, w=3)
 - ← [[pcs/verdant]] (member-of, w=3)
+- ← [[abilities/company-reload]] (mentions, w=1)
 - ← [[creatures/red-band]] (mentions, w=1)
 
 ## Inferred

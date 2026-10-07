@@ -2,7 +2,7 @@
 title: Set Mining Charge
 aliases: []
 type: ability
-summary: ""
+summary: "PLACED, not thrown: two full rounds to set, and then it blows five rounds later."
 last-verified: 2026-10-07
 source: snapshot
 id: ca-mining-charge
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Set Mining Charge
+
+PLACED, not thrown: two full rounds to set, and then it blows five rounds later.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Force/Psionic", "Pick"]`
 - **dice:** 4d4
 - **duration:** Instant
-- **effect:** PLACED, not thrown: two full rounds to set, and then it blows five rounds later. The force wave ignores armour. Fifteen fragments of rock and steel scatter over ten metres, each meeting Defense on its own.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 5
@@ -51,6 +52,11 @@ links: 1
 - **target_shape:** Radius
 - **target_size:** 5m
 - **tick_kind:** time
+
+## In his words
+
+**effect:** PLACED, not thrown: two full rounds to set, and then it blows five rounds later. The force wave ignores armour. Fifteen fragments of rock and steel scatter over ten metres, each meeting Defense on its own.
+
 
 ## Links
 

@@ -2,15 +2,17 @@
 title: Fire Whip Lash
 aliases: []
 type: ability
-summary: ""
+summary: Grapples on strike.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-ork-firewhip
 table: creature_abilities
-links: 1
+links: 2
 ---
 
 # Fire Whip Lash
+
+Grapples on strike.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Heat/Fire", "Grapple"]`
 - **dice:** 2d4
 - **duration:** Instant
-- **effect:** Grapples on strike. Deals DOUBLE damage against a target that is already grappled — the engine applies this when you fire.
 - **effect_types_json:** `["Damage", "Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -51,9 +52,14 @@ links: 1
 - **target_shape:** Single
 - **tick_kind:** time
 
+## In his words
+
+**effect:** Grapples on strike. Deals DOUBLE damage against a target that is already grappled — the engine applies this when you fire.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[conditions/grappled]] (w=1, prose)
 
 Linked from:
 

@@ -2,7 +2,7 @@
 title: Goblin Glass Smoke Cloud
 aliases: []
 type: ability
-summary: ""
+summary: As a REACTION when hit, the shield releases a cloud of obscuring smoke.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-heater-smoke
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Smoke Cloud
+
+As a REACTION when hit, the shield releases a cloud of obscuring smoke.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** As a REACTION when hit, the shield releases a cloud of obscuring smoke.
 - **effect_types_json:** `["Terrain"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -47,6 +48,11 @@ links: 1
 - **target_shape:** Radius
 - **target_size:** 2m
 - **tick_kind:** time
+
+## In his words
+
+**effect:** As a REACTION when hit, the shield releases a cloud of obscuring smoke.
+
 
 ## Links
 

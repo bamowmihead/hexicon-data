@@ -2,7 +2,7 @@
 title: Goblin Glass Javelin Throw
 aliases: []
 type: ability
-summary: ""
+summary: 1d8+1+Might at 14 m, slashing OR piercing.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-javelin
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Javelin Throw
+
+1d8+1+Might at 14 m, slashing OR piercing.
 
 ## Fields
 
@@ -32,7 +34,6 @@ links: 1
 - **damage_types_json:** `["Slashing", "Piercing"]`
 - **dice:** 1d8
 - **duration:** Instant
-- **effect:** 1d8+1+Might at 14 m, slashing OR piercing. HOSTILES CANNOT PICK THEM UP — they turn slippery in an enemy's hand.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 1d8+1+Might at 14 m, slashing OR piercing. HOSTILES CANNOT PICK THEM UP — they turn slippery in an enemy's hand.
+
 
 ## Links
 

@@ -36,6 +36,7 @@ A crew-served gun, carried into the fight on something bigger.
 
 Linked from:
 
+- ← [[abilities/mounted-gun-reload]] (mentions, w=1)
 - ← [[creatures/fruit-batkin-battle]] (mentions, w=1)
 - ← [[creatures/tent-maker-batkin-mounted-gun]] (mentions, w=1)
 - ← [[locations/stalker-bat-sinkhole]] (mentions, w=1)

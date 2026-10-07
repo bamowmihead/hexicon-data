@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: spec-habit-moss
 table: trees
-links: 15
+links: 16
 hub: true
 ---
 
@@ -40,6 +40,7 @@ Linked from:
 - ← [[locations/the-cackler-lair]] (mentions, w=1)
 - ← [[locations/timber-knot-hovel]] (mentions, w=1)
 - ← [[locations/verdant-watch]] (mentions, w=1)
+- ← [[plants/pillow-moss]] (mentions, w=1)
 
 ## Inferred
 

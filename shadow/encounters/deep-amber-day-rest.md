@@ -2,7 +2,7 @@
 title: Deep Amber — Day Rest
 aliases: []
 type: encounter-table
-summary: ""
+summary: day_camp
 last-verified: 2026-10-07
 source: snapshot
 id: enc-c81dc7
@@ -12,13 +12,19 @@ links: 1
 
 # Deep Amber — Day Rest
 
+day_camp
+
 ## Fields
 
 - **biome_json:** `[3]`
 - **completion:** Incomplete
-- **context:** day_camp
 - **dice_type:** 2d10
 - **name:** Deep Amber — Day Rest
+
+## In his words
+
+**context:** day_camp
+
 
 ## Links
 

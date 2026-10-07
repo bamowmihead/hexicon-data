@@ -2,7 +2,7 @@
 title: Fire Stick (Cone)
 aliases: []
 type: ability
-summary: ""
+summary: A 3 m cone of fire, 2d6.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-firestick-cone
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Fire Stick (Cone)
+
+A 3 m cone of fire, 2d6.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Heat/Fire"]`
 - **dice:** 2d6
 - **duration:** Instant
-- **effect:** A 3 m cone of fire, 2d6. The stick is destroyed. Up to 3 may be combined at NO additional AP: each extra stick adds +2 m of cone and +1 die. Three together = 4d6 in a 7 m cone.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -49,6 +50,11 @@ links: 1
 - **target:** Area
 - **target_shape:** Cone
 - **tick_kind:** time
+
+## In his words
+
+**effect:** A 3 m cone of fire, 2d6. The stick is destroyed. Up to 3 may be combined at NO additional AP: each extra stick adds +2 m of cone and +1 die. Three together = 4d6 in a 7 m cone.
+
 
 ## Links
 

@@ -2,15 +2,17 @@
 title: Claws
 aliases: []
 type: ability
-summary: ""
+summary: "2m — 2d8+Prowess Eviscerating (Pounce: +1 die)"
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-11-s3-claws
 table: creature_abilities
-links: 7
+links: 9
 ---
 
 # Claws
+
+2m — 2d8+Prowess Eviscerating (Pounce: +1 die)
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 7
 - **damage_fixed:** 0
 - **damage_types_json:** `["Eviscerating"]`
 - **dice:** 2d8
-- **effect:** 2m — 2d8+Prowess Eviscerating (Pounce: +1 die)
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -45,6 +46,11 @@ links: 7
 - **store_capacity:** 1
 - **tick_kind:** time
 
+## In his words
+
+**effect:** 2m — 2d8+Prowess Eviscerating (Pounce: +1 die)
+
+
 ## Links
 
 - *(none derived)*
@@ -58,6 +64,8 @@ Linked from:
 - ← [[creatures/rock-shell-elder]] (mentions, w=1)
 - ← [[creatures/rock-shell-young]] (mentions, w=1)
 - ← [[locations/wet-flower-field]] (mentions, w=1)
+- ← [[trances/flying-squirrel]] (mentions, w=1)
+- ← [[trances/raccoon]] (mentions, w=1)
 
 ## Inferred
 

@@ -2,7 +2,7 @@
 title: Goblin Glass Gauntlets Punch
 aliases: []
 type: ability
-summary: ""
+summary: 1d4+1 bludgeoning.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-gauntlets
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Goblin Glass Gauntlets Punch
+
+1d4+1 bludgeoning.
 
 ## Fields
 
@@ -32,7 +34,6 @@ links: 1
 - **damage_types_json:** `["Bludgeoning"]`
 - **dice:** 1d4
 - **duration:** Instant
-- **effect:** 1d4+1 bludgeoning.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 1d4+1 bludgeoning.
+
 
 ## Links
 

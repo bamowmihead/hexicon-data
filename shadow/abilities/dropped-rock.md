@@ -2,7 +2,7 @@
 title: Dropped Rock
 aliases: []
 type: ability
-summary: ""
+summary: Dropped, not thrown — so it lands on whatever is underneath, and gravity does the work rather than the shooter.
 last-verified: 2026-10-07
 source: snapshot
 id: ca-batkin-dropped-rock
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Dropped Rock
+
+Dropped, not thrown — so it lands on whatever is underneath, and gravity does the work rather than the shooter.
 
 ## Fields
 
@@ -31,7 +33,6 @@ links: 1
 - **damage_types_json:** `["Crush"]`
 - **dice:** 2d4
 - **duration:** Instant
-- **effect:** Dropped, not thrown — so it lands on whatever is underneath, and gravity does the work rather than the shooter. NOT halved for being airborne.
 - **effect_types_json:** `["Damage"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -50,6 +51,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Dropped, not thrown — so it lands on whatever is underneath, and gravity does the work rather than the shooter. NOT halved for being airborne.
+
 
 ## Links
 

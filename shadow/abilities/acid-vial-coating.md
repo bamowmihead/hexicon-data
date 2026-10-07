@@ -2,7 +2,7 @@
 title: Acid Vial (Coating)
 aliases: []
 type: ability
-summary: ""
+summary: "Poured as an oil over 20 ammunition or 2 melee weapons: +3 acid damage on every attack for ONE HOUR on the world clock."
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-acid-coat
@@ -11,6 +11,8 @@ links: 1
 ---
 
 # Acid Vial (Coating)
+
+Poured as an oil over 20 ammunition or 2 melee weapons: +3 acid damage on every attack for ONE HOUR on the world clock.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Poured as an oil over 20 ammunition or 2 melee weapons: +3 acid damage on every attack for ONE HOUR on the world clock. It survives the end of combat.
 - **effect_types_json:** `["Buff/Debuff"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -45,6 +46,11 @@ links: 1
 - **target:** Single
 - **target_shape:** Single
 - **tick_kind:** time
+
+## In his words
+
+**effect:** Poured as an oil over 20 ammunition or 2 melee weapons: +3 acid damage on every attack for ONE HOUR on the world clock. It survives the end of combat.
+
 
 ## Links
 

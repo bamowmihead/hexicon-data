@@ -7,7 +7,7 @@ last-verified: 2026-10-07
 source: snapshot
 id: gear-soul-spike
 table: gear
-links: 2
+links: 1
 ---
 
 # Spike
@@ -30,8 +30,7 @@ A driven foci.
 
 Linked from:
 
-- ← [[foci/untitled-4]] (relation, w=3)
-- ← [[rules/souldefault-die]] (mentions, w=1)
+- ← [[foci/spike]] (relation, w=3)
 
 ## Inferred
 

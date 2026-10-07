@@ -2,15 +2,17 @@
 title: Goblin Healing Tincture
 aliases: []
 type: ability
-summary: ""
+summary: "Restores 20 endurance, clears one wound slot, and stops that wound's bleeding."
 last-verified: 2026-10-07
 source: snapshot
 id: ca-gg-heal
 table: creature_abilities
-links: 1
+links: 2
 ---
 
 # Goblin Healing Tincture
+
+Restores 20 endurance, clears one wound slot, and stops that wound's bleeding.
 
 ## Fields
 
@@ -27,7 +29,6 @@ links: 1
 - **completion:** Incomplete
 - **damage_fixed:** 0
 - **duration:** Instant
-- **effect:** Restores 20 endurance, clears one wound slot, and stops that wound's bleeding.
 - **effect_types_json:** `["Healing"]`
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
@@ -48,9 +49,14 @@ links: 1
 - **target_shape:** Self
 - **tick_kind:** time
 
+## In his words
+
+**effect:** Restores 20 endurance, clears one wound slot, and stops that wound's bleeding.
+
+
 ## Links
 
-- *(none derived)*
+- mentions → [[conditions/bleeding]] (w=1, prose)
 
 Linked from:
 

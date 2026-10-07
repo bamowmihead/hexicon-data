@@ -2,7 +2,7 @@
 title: Bite
 aliases: []
 type: ability
-summary: ""
+summary: 1m — 2d8+Might Stabbing
 last-verified: 2026-10-07
 source: snapshot
 id: tra-trance-09-s2-bite
@@ -11,6 +11,8 @@ links: 0
 ---
 
 # Bite
+
+1m — 2d8+Might Stabbing
 
 ## Fields
 
@@ -29,7 +31,6 @@ links: 0
 - **damage_fixed:** 0
 - **damage_types_json:** `["Stabbing"]`
 - **dice:** 2d8
-- **effect:** 1m — 2d8+Might Stabbing
 - **fuse_adjustable:** 0
 - **fuse_rounds:** 0
 - **is_deactivation_reactionary:** 0
@@ -44,6 +45,11 @@ links: 0
 - **sticky:** 0
 - **store_capacity:** 1
 - **tick_kind:** time
+
+## In his words
+
+**effect:** 1m — 2d8+Might Stabbing
+
 
 ## Links
 
