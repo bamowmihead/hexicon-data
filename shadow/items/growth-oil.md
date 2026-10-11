@@ -3,7 +3,7 @@ title: Growth Oil
 aliases: []
 type: consumable
 summary: Topical — makes plants grow (Glow Vine Sap + Tallow Bloom oil base).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-892138
 table: consumables

@@ -3,7 +3,7 @@ title: Charge
 aliases: []
 type: ability
 summary: 5m line — 2d8+Might Stabbing, 2 targets; move self in a 5m line
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-08-s3-charge
 table: creature_abilities

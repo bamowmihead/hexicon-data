@@ -3,7 +3,7 @@ title: Passenger Bench
 aliases: []
 type: equipment
 summary: "Cart: +2 passengers (2 → 4)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-5c4651
 table: equipment

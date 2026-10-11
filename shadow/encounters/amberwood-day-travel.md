@@ -3,7 +3,7 @@ title: Amberwood — Day Travel
 aliases: []
 type: encounter-table
 summary: day_travel
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: enc-e4d053
 table: encounter_tables

@@ -3,7 +3,7 @@ title: Stave
 aliases: []
 type: gear
 summary: "The great foci: five slots, three charges (the March kit)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gear-soul-stave
 table: gear

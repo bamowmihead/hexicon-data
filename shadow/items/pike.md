@@ -3,11 +3,11 @@ title: Pike
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-771b24
 table: armaments
-links: 6
+links: 7
 ---
 
 # Pike
@@ -30,11 +30,13 @@ links: 6
 
 Linked from:
 
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (about, w=3)
 - ← [[creatures/gimler]] (mentions, w=1)
 - ← [[creatures/gimler-adolescent]] (mentions, w=1)
 - ← [[creatures/gimler-adult]] (mentions, w=1)
 - ← [[creatures/gimler-elder]] (mentions, w=1)
 - ← [[creatures/gimler-young]] (mentions, w=1)
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,11 +3,11 @@ title: Flee
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-d1fd05
 table: creature_abilities
-links: 3
+links: 4
 ---
 
 # Flee
@@ -47,9 +47,11 @@ links: 3
 
 Linked from:
 
+- ← [[questions/0aedc371-a764-4ce3-a88c-423a6a16a826]] (about, w=3)
 - ← [[conditions/frightened]] (mentions, w=1)
 - ← [[creatures/cackler-matriarch]] (mentions, w=1)
 - ← [[locations/the-cackler-lair]] (mentions, w=1)
+- ← [[questions/0aedc371-a764-4ce3-a88c-423a6a16a826]] (mentions, w=1)
 
 ## Inferred
 

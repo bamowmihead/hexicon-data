@@ -3,7 +3,7 @@ title: Mineral Gem
 aliases: []
 type: gear
 summary: Holds aether, inert while inside.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gear-soul-mineral-gem
 table: gear

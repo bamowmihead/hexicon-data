@@ -3,7 +3,7 @@ title: Snotling (Stalker)
 aliases: []
 type: creature
 summary: Wears dark clothing with hood.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-97bb78
 table: creature_types

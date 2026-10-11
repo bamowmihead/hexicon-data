@@ -3,7 +3,7 @@ title: Spike
 aliases: []
 type: gear
 summary: A driven foci.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gear-soul-spike
 table: gear

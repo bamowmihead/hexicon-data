@@ -3,7 +3,7 @@ title: Acid Spit
 aliases: []
 type: ability
 summary: 10m — 1d6+Prowess Acid; later fire damage on the target +1d6
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-10-s2-acid-spit
 table: creature_abilities

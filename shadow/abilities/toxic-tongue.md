@@ -3,7 +3,7 @@ title: Toxic Tongue
 aliases: []
 type: ability
 summary: "5m — 1d8+Prowess Neurotoxic ⚠ NEEDS REECE — “Neurotoxic” is not one of the app's damage types, so this hit has no type and lands in the neutral bucket"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-07-s2-toxic-tongue
 table: creature_abilities

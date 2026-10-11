@@ -3,7 +3,7 @@ title: companion.bring_limit_base
 aliases: []
 type: rule
 summary: See companion.bring_limit_divisor.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: companion.bring_limit_base
 table: rules

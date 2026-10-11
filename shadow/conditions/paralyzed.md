@@ -3,7 +3,7 @@ title: Paralyzed
 aliases: []
 type: status-condition
 summary: Target cannot move or act; auto-fails physical saves.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-paralyzed
 table: status_conditions

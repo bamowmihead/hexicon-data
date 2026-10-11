@@ -3,11 +3,11 @@ title: Hand Crossbow
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-57d5c0
 table: armaments
-links: 8
+links: 9
 ---
 
 # Hand Crossbow
@@ -31,12 +31,14 @@ links: 8
 
 Linked from:
 
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (about, w=3)
 - ← [[creatures/captain-jack-black]] (mentions, w=1)
 - ← [[creatures/leela]] (mentions, w=1)
 - ← [[creatures/scribe]] (mentions, w=1)
 - ← [[creatures/silfrena]] (mentions, w=1)
 - ← [[locations/timber-knot-hovel]] (mentions, w=1)
 - ← [[locations/verdant-watch]] (mentions, w=1)
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (mentions, w=1)
 
 ## Inferred
 

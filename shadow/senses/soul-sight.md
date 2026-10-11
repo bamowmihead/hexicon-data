@@ -3,7 +3,7 @@ title: Soul Sight
 aliases: []
 type: sense
 summary: "Reece, 2026-09-28: two nodes on the Channeler tree; starting out it lets them see the exact Endurance a creature has, for creatures within 5 m; as the branch pr…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sense-soul-sight
 table: sense_kinds

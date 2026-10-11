@@ -3,7 +3,7 @@ title: Onos Stomp
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-f0f2e9
 table: creature_abilities

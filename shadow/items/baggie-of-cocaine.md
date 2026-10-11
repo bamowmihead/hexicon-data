@@ -3,7 +3,7 @@ title: Baggie of Cocaine
 aliases: []
 type: consumable
 summary: A large bag of cocaine
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-c46e79
 table: consumables

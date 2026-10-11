@@ -3,7 +3,7 @@ title: Soren
 aliases: []
 type: creature
 summary: "The Iron Band's doctor and conscience, sick of patching flesh-shield grunts."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-020c00
 table: creature_types

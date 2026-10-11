@@ -3,7 +3,7 @@ title: Pulled
 aliases: []
 type: status-condition
 summary: Target pulled toward the source.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-pulled
 table: status_conditions

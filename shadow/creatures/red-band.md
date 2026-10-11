@@ -3,11 +3,11 @@ title: Red Band
 aliases: []
 type: creature
 summary: Red Bands merc goons in hazmat robes, spears and bows ready.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-036ab6
 table: creature_types
-links: 4
+links: 5
 ---
 
 # Red Band
@@ -59,6 +59,10 @@ Red Bands merc goons in hazmat robes, spears and bows ready.
 - mentions → [[creatures/captain-mandy]] (w=1, prose)
 - mentions → [[items/hazmat-robes]] (w=1, prose)
 - mentions → [[paints/blood]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

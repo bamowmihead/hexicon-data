@@ -3,7 +3,7 @@ title: Guild Apprentice
 aliases: []
 type: creature
 summary: Academy note-takers documenting the fungal anomaly at close, dangerous range.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-7440a8
 table: creature_types

@@ -3,7 +3,7 @@ title: root_clone.death.overgrowth_loss
 aliases: []
 type: rule
 summary: Overgrowth the Ranger loses when a root clone dies (that it happens is canon, Reece 9/28; the number is his; 0 until ruled).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: root_clone.death.overgrowth_loss
 table: rules

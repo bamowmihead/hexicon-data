@@ -3,11 +3,11 @@ title: Lichen
 aliases: []
 type: tree
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: spec-habit-lichen
 table: trees
-links: 13
+links: 14
 ---
 
 # Lichen
@@ -24,6 +24,7 @@ links: 13
 
 Linked from:
 
+- ← [[questions/047d96f2-3f64-48fb-9919-2cced15d0f52]] (about, w=3)
 - ← [[biomes/amberwood]] (mentions, w=1)
 - ← [[biomes/deep-amber]] (mentions, w=1)
 - ← [[biomes/fungal-caverns]] (mentions, w=1)
@@ -37,6 +38,7 @@ Linked from:
 - ← [[locations/big-hill]] (mentions, w=1)
 - ← [[locations/verdant-watch]] (mentions, w=1)
 - ← [[plants/cave-webs]] (mentions, w=1)
+- ← [[questions/047d96f2-3f64-48fb-9919-2cced15d0f52]] (mentions, w=1)
 
 ## Inferred
 

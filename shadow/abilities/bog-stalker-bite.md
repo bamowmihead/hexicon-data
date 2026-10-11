@@ -3,7 +3,7 @@ title: Bog Stalker Bite
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-f76aad
 table: creature_abilities

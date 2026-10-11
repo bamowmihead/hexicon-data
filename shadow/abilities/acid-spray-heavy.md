@@ -3,7 +3,7 @@ title: Acid Spray (Heavy)
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-1ea8a9
 table: creature_abilities

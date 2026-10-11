@@ -3,7 +3,7 @@ title: Eternal Chapter Grunt
 aliases: []
 type: creature
 summary: "[STUB]"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-6d03f8
 table: creature_types

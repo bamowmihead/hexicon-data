@@ -3,11 +3,11 @@ title: The Party
 aliases: []
 type: retinue-template
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: nr-7db0c5
 table: retinue_templates
-links: 15
+links: 16
 hub: true
 ---
 
@@ -27,6 +27,7 @@ hub: true
 
 Linked from:
 
+- ← [[questions/c8d77b6d-2d60-421d-9886-f71d00d0565b]] (about, w=3)
 - ← [[creatures/galedrial]] (mentions, w=1)
 - ← [[creatures/rathos]] (mentions, w=1)
 - ← [[locations/abandoned-mine]] (mentions, w=1)
@@ -42,6 +43,7 @@ Linked from:
 - ← [[locations/the-cackler-lair]] (mentions, w=1)
 - ← [[locations/timber-knot-hovel]] (mentions, w=1)
 - ← [[locations/weeping-oasis]] (mentions, w=1)
+- ← [[questions/c8d77b6d-2d60-421d-9886-f71d00d0565b]] (mentions, w=1)
 
 ## Inferred
 

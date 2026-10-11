@@ -3,7 +3,7 @@ title: Hazmat Robes
 aliases: []
 type: equipment
 summary: Head-to-toe hooded & cowled robes, gloves, heavy boots — shields the wearer from spores/hazards.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-571e6d
 table: equipment

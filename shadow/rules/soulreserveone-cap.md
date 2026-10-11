@@ -3,7 +3,7 @@ title: soul.reserve.one_cap
 aliases: []
 type: rule
 summary: One cap over anima and aether together (Reece, 9/28).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.reserve.one_cap
 table: rules

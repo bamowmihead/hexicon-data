@@ -3,7 +3,7 @@ title: Verdant Watch
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1 — Approach** <details> <summary>[ ] Scene</summary> Through the trees ahead, something solid runs across the f…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 33
 table: locations

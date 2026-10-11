@@ -3,7 +3,7 @@ title: Cattlepos-Eating Anaconda
 aliases: []
 type: creature
 summary: Longer than a fallen tree.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-976d5c
 table: creature_types

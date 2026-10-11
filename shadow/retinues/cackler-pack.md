@@ -3,11 +3,11 @@ title: Cackler Pack
 aliases: []
 type: retinue-template
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-21d7e6
 table: retinue_templates
-links: 5
+links: 6
 ---
 
 # Cackler Pack
@@ -26,11 +26,13 @@ links: 5
 
 Linked from:
 
+- ← [[questions/55547477-c464-43b9-a57f-9131a60821c7]] (about, w=3)
 - ← [[locations/abandoned-mine]] (mentions, w=1)
 - ← [[locations/rotting-crevasse]] (mentions, w=1)
 - ← [[locations/the-cackler-lair]] (mentions, w=1)
 - ← [[locations/verdant-watch]] (mentions, w=1)
 - ← [[locations/young-amber-fir-field]] (mentions, w=1)
+- ← [[questions/55547477-c464-43b9-a57f-9131a60821c7]] (mentions, w=1)
 
 ## Inferred
 

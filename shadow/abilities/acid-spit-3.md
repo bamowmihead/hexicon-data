@@ -3,7 +3,7 @@ title: Acid Spit
 aliases: []
 type: ability
 summary: 20m — 2d6+Prowess Acid; later fire +2d6
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-10-s3-acid-spit
 table: creature_abilities

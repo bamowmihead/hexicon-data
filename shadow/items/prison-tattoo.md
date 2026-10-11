@@ -3,7 +3,7 @@ title: Prison Tattoo
 aliases: []
 type: equipment
 summary: Black Company leash tattoo across the entire back side — a 3-tier heat-theft punishment (punish / incapacitate / lethal).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-7fc934
 table: equipment

@@ -3,7 +3,7 @@ title: "Marshal's Formation"
 aliases: []
 type: ability
 summary: +1 damage AND +2 Defense to retinue members who are IN FORMATION with Oldin — the derived cluster of allied bodies within 1 m of each other, transitively, not a…
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-oldin-formation
 table: creature_abilities

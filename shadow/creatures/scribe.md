@@ -3,11 +3,11 @@ title: Scribe
 aliases: []
 type: creature
 summary: Academy note-takers documenting the fungal anomaly at close, dangerous range.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-bde164
 table: creature_types
-links: 7
+links: 8
 ---
 
 # Scribe
@@ -62,6 +62,10 @@ Academy note-takers documenting the fungal anomaly at close, dangerous range.
 - mentions → [[items/hooded-lantern]] (w=1, prose)
 - mentions → [[items/satchel]] (w=1, prose)
 - mentions → [[items/scribes-canister]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

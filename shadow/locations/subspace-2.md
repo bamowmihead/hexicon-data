@@ -3,11 +3,11 @@ title: Subspace
 aliases: []
 type: location
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 67
 table: locations
-links: 0
+links: 1
 ---
 
 # Subspace
@@ -27,6 +27,11 @@ links: 0
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/4e060ebb-bf72-41bb-b7f6-517ae999cc35]] (about, w=3)
+- ← [[questions/4e060ebb-bf72-41bb-b7f6-517ae999cc35]] (mentions, w=1)
 
 ## Inferred
 

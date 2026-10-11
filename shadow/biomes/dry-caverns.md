@@ -3,7 +3,7 @@ title: Dry Caverns
 aliases: []
 type: biome
 summary: "**Sound:** Daytime — flapping, clicking, occasional hissing, even deafening."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 8
 table: biomes

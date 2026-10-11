@@ -3,7 +3,7 @@ title: Goblin Glass Spear Thrust
 aliases: []
 type: ability
 summary: The head EXTENDS as it strikes, which is where the extra metre of reach comes from.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-spear
 table: creature_abilities

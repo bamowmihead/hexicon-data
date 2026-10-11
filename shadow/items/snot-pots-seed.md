@@ -3,7 +3,7 @@ title: Snot Pots Seed
 aliases: []
 type: consumable
 summary: Plant from the Cultivation tab — sprouts a Snot Pots.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-cult10
 table: consumables

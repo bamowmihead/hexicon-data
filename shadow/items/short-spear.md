@@ -3,11 +3,11 @@ title: Short Spear
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-45b604
 table: armaments
-links: 9
+links: 10
 ---
 
 # Short Spear
@@ -29,6 +29,7 @@ links: 9
 
 Linked from:
 
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (about, w=3)
 - ← [[creatures/ash-grove-grunt]] (mentions, w=1)
 - ← [[creatures/briar]] (mentions, w=1)
 - ← [[creatures/eska]] (mentions, w=1)
@@ -37,6 +38,7 @@ Linked from:
 - ← [[creatures/snotling]] (mentions, w=1)
 - ← [[creatures/snotling-piker]] (mentions, w=1)
 - ← [[locations/big-hill]] (mentions, w=1)
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (mentions, w=1)
 
 ## Inferred
 

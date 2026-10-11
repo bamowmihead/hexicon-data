@@ -3,7 +3,7 @@ title: Mud Skipper
 aliases: []
 type: creature
 summary: Broad flat fish the size of a large dog.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-616864
 table: creature_types

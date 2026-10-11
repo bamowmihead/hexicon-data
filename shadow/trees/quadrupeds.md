@@ -3,7 +3,7 @@ title: Quadrupeds
 aliases: []
 type: tree
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: spec-bodyplan-quadrupeds
 table: trees

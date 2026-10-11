@@ -3,7 +3,7 @@ title: Lantern Hook
 aliases: []
 type: equipment
 summary: Equip one Lantern in this slot
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-2fd848
 table: equipment

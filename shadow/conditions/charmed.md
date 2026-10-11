@@ -3,7 +3,7 @@ title: Charmed
 aliases: []
 type: status-condition
 summary: Target perceives the caster as a friend; cannot harm them.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-charmed
 table: status_conditions

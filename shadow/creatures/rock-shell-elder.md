@@ -3,7 +3,7 @@ title: Rock Shell (Elder)
 aliases: []
 type: creature
 summary: Wagon-sized crawdad.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-602984
 table: creature_types

@@ -3,11 +3,11 @@ title: Galedrial
 aliases: []
 type: creature
 summary: Inquisitor dragged into the Chapter — the lever.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-0903d7
 table: creature_types
-links: 6
+links: 7
 ---
 
 # Galedrial
@@ -64,6 +64,8 @@ Inquisitor dragged into the Chapter — the lever.
 
 Linked from:
 
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 - ← [[retinues/the-exiled-chapter]] (mentions, w=1)
 
 ## Inferred

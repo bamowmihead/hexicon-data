@@ -3,7 +3,7 @@ title: Arborist Tribe
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> *(To be written)* </details> <details> <summary>[ ] Callouts</summary…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 9
 table: locations

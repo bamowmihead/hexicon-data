@@ -3,11 +3,11 @@ title: Chitin
 aliases: []
 type: gear
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gea-chitin
 table: gear
-links: 1
+links: 2
 ---
 
 # Chitin
@@ -27,7 +27,9 @@ links: 1
 
 Linked from:
 
+- ← [[questions/f016856b-524e-43d1-b8bb-1229dabb963f]] (about, w=3)
 - ← [[creatures/sunstone-ooze]] (mentions, w=1)
+- ← [[questions/f016856b-524e-43d1-b8bb-1229dabb963f]] (mentions, w=1)
 
 ## Inferred
 

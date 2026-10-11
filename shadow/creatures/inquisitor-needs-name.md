@@ -3,11 +3,11 @@ title: "[Inquisitor — Needs Name]"
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-be90a8
 table: creature_types
-links: 0
+links: 1
 ---
 
 # [Inquisitor — Needs Name]
@@ -47,6 +47,10 @@ links: 0
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/a5baf047-6e24-4ebf-a33c-198be67485ed]] (about, w=3)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Set Mining Charge
 aliases: []
 type: ability
 summary: "PLACED, not thrown: two full rounds to set, and then it blows five rounds later."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-mining-charge
 table: creature_abilities

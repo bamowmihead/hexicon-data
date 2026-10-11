@@ -3,11 +3,11 @@ title: Bone Field
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | The Ro…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 13
 table: locations
-links: 7
+links: 8
 ---
 
 # Bone Field
@@ -47,6 +47,7 @@ links: 7
 
 Linked from:
 
+- ← [[questions/ae443999-438b-4ca9-9504-daaa22026790]] (about, w=3)
 - ← [[locations/large-amber-tree]] (mentions, w=1)
 - ← [[locations/rotting-crevasse]] (mentions, w=1)
 

@@ -3,7 +3,7 @@ title: Goblin Glass Heater
 aliases: []
 type: armament
 summary: A heater shield inlaid with goblin glass.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-gg-heater
 table: armaments

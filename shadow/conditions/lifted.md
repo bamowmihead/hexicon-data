@@ -3,7 +3,7 @@ title: Lifted
 aliases: []
 type: status-condition
 summary: Target raised into the air; falling damage on release.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-lifted
 table: status_conditions

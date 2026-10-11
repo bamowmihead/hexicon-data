@@ -3,7 +3,7 @@ title: Fruit Batkin
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-batkin-fruit-base
 table: creature_types

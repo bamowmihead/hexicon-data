@@ -3,7 +3,7 @@ title: Cave Webs
 aliases: []
 type: cultivation-card
 summary: A white sticky lichen with long dread-like strands
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-07
 table: cultivations

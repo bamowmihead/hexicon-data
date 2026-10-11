@@ -3,11 +3,11 @@ title: Ranger 2.0
 aliases: []
 type: vocation
 summary: Unreleased.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: voc-ranger-2
 table: vocations
-links: 2
+links: 4
 ---
 
 # Ranger 2.0
@@ -31,7 +31,10 @@ Unreleased.
 
 Linked from:
 
+- ← [[questions/a2eee291-8bf8-40c8-a28c-862977db8f0c]] (about, w=3)
 - ← [[companions/living-armor]] (practices, w=3)
+- ← [[questions/047d96f2-3f64-48fb-9919-2cced15d0f52]] (mentions, w=1)
+- ← [[questions/a2eee291-8bf8-40c8-a28c-862977db8f0c]] (mentions, w=1)
 
 ## Inferred
 

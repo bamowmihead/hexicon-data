@@ -3,7 +3,7 @@ title: overgrowth.out_of_combat_gain_per_hour
 aliases: []
 type: rule
 summary: Gained per hour outside combat while at a base with a garden or with plants growing, up to half capacity (handoff §2).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: overgrowth.out_of_combat_gain_per_hour
 table: rules

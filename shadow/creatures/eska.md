@@ -3,7 +3,7 @@ title: Eska
 aliases: []
 type: creature
 summary: Tree ranger and camp-mom canary — grew the sandbox town.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-67bf6e
 table: creature_types

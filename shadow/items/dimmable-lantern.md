@@ -3,7 +3,7 @@ title: Dimmable Lantern
 aliases: []
 type: equipment
 summary: A lantern with adjustable brightness — dim to a sliver or open full.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-980a7c
 table: equipment

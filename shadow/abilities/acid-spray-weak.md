@@ -3,7 +3,7 @@ title: Acid Spray (Weak)
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-08d23d
 table: creature_abilities

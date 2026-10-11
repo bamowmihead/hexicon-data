@@ -3,7 +3,7 @@ title: Whip Crack
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-72da9d
 table: creature_abilities

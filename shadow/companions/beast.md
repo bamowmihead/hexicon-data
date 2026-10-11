@@ -3,11 +3,11 @@ title: beast
 aliases: []
 type: companion-kind
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: beast
 table: companion_kinds
-links: 8
+links: 10
 ---
 
 # beast
@@ -30,10 +30,13 @@ links: 8
 
 Linked from:
 
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (about, w=3)
 - ← [[items/beast-gear-cattlepos]] (mentions, w=1)
 - ← [[items/quick-release-harness-cattlepos]] (mentions, w=1)
 - ← [[items/quick-release-harness-horse]] (mentions, w=1)
 - ← [[locations/ironwood-hovel-ruins]] (mentions, w=1)
+- ← [[questions/55ab9b93-6f21-4ec3-9810-f5e7a35b98f5]] (mentions, w=1)
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (mentions, w=1)
 - ← [[rules/feralitycompanion-hurt-gain]] (mentions, w=1)
 - ← [[rules/feralitycompanion-hurts-gain]] (mentions, w=1)
 - ← [[trances/cattlepos]] (mentions, w=1)

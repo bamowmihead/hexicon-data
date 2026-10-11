@@ -3,7 +3,7 @@ title: "[Master Craftsman — Needs Name]"
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-1d5b9a
 table: creature_types

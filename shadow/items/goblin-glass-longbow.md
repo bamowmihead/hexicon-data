@@ -3,7 +3,7 @@ title: Goblin Glass Longbow
 aliases: []
 type: armament
 summary: A longbow inlaid with goblin glass.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-gg-longbow
 table: armaments

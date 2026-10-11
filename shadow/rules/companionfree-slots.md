@@ -3,7 +3,7 @@ title: companion.free_slots
 aliases: []
 type: rule
 summary: Every vocation gets this many free slots for its vocational companion, outside the Charm cap (Reece, 9/28).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: companion.free_slots
 table: rules

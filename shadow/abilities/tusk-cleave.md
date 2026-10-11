@@ -3,7 +3,7 @@ title: Tusk Cleave
 aliases: []
 type: ability
 summary: 1m — 1d8+Might Slashing, 2 targets
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-08-s2-tusk-cleave
 table: creature_abilities

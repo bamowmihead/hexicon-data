@@ -3,7 +3,7 @@ title: Frag Grenade
 aliases: []
 type: consumable
 summary: 2 AP to throw (draw, light, throw), range 4 + Might×2 m.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-ddb3a2
 table: consumables

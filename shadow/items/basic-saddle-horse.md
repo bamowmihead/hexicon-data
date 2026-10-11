@@ -3,7 +3,7 @@ title: Basic Saddle (Horse)
 aliases: []
 type: equipment
 summary: +1 passenger · +2 saddlebag slots.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-e7e1a0
 table: equipment

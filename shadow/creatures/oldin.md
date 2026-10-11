@@ -3,11 +3,11 @@ title: Oldin
 aliases: []
 type: creature
 summary: Black Company.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b89f34
 table: creature_types
-links: 8
+links: 9
 ---
 
 # Oldin
@@ -62,12 +62,14 @@ Black Company.
 
 Linked from:
 
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
 - ← [[branches/trades]] (has-member, w=3)
 - ← [[traits/opportunist]] (has-member, w=3)
 - ← [[abilities/marshals-command]] (mentions, w=1)
 - ← [[abilities/marshals-formation]] (mentions, w=1)
 - ← [[locations/ironwood-hovel-ruins]] (mentions, w=1)
 - ← [[locations/pillow-moss-campsite]] (mentions, w=1)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

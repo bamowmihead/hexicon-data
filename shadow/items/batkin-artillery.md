@@ -3,7 +3,7 @@ title: Batkin Artillery
 aliases: []
 type: armament
 summary: Indirect fire at three hundred metres.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-batkin-artillery
 table: armaments

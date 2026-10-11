@@ -3,7 +3,7 @@ title: Riftstone
 aliases: []
 type: location
 summary: PLACEHOLDER.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 63
 table: locations

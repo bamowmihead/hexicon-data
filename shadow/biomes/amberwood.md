@@ -3,7 +3,7 @@ title: Amberwood
 aliases: []
 type: biome
 summary: "**Sound:** Constant rustling in the bushes and understory trees day & night."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 1
 table: biomes

@@ -3,7 +3,7 @@ title: Disgusting Claws
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-087f61
 table: creature_abilities

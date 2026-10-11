@@ -3,7 +3,7 @@ title: Gem Jewelry
 aliases: []
 type: equipment
 summary: Gem-set jewelry an elementalist seeds elementals through (air bubble, filtration).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-b6ccff
 table: equipment

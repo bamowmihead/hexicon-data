@@ -3,7 +3,7 @@ title: The Ash Grove Company
 aliases: []
 type: retinue-template
 summary: A Circle company that culls Amberwood by burning a hex to cultivate a new biome in its place.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-526de8
 table: retinue_templates

@@ -3,7 +3,7 @@ title: Knocked Back
 aliases: []
 type: status-condition
 summary: Target hurled away from the source.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-knocked-back
 table: status_conditions

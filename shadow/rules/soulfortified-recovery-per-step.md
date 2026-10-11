@@ -3,7 +3,7 @@ title: soul.fortified_recovery_per_step
 aliases: []
 type: rule
 summary: Endurance a body at a positive ichor step recovers at the end of each round, per step (chart Y names the effect, not the amount).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.fortified_recovery_per_step
 table: rules

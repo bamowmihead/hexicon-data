@@ -3,7 +3,7 @@ title: Mace Strike
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-9c9699
 table: creature_abilities

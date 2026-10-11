@@ -3,7 +3,7 @@ title: Rock Shell (Adult)
 aliases: []
 type: creature
 summary: Chest-high and long as a cart.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-7809b2
 table: creature_types

@@ -3,11 +3,11 @@ title: Rathos
 aliases: []
 type: creature
 summary: The regal, centuries-old revenant of the collapsed tower — an ally of convenience first, a future antagonist after.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-6a7171
 table: creature_types
-links: 5
+links: 6
 ---
 
 # Rathos
@@ -61,8 +61,10 @@ The regal, centuries-old revenant of the collapsed tower — an ally of convenie
 
 Linked from:
 
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
 - ← [[items/empty-containment-unit]] (mentions, w=1)
 - ← [[items/small-containment-unit-drone]] (mentions, w=1)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

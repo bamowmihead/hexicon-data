@@ -3,7 +3,7 @@ title: Crown Ram (Small)
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-00ca11
 table: creature_abilities

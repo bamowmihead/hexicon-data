@@ -3,7 +3,7 @@ title: Ember Vine
 aliases: []
 type: creature
 summary: A rapidly growing orange vine which releases a sweet-smelling resin
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-09
 table: creature_types

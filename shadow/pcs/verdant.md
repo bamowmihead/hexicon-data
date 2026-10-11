@@ -3,11 +3,11 @@ title: Verdant
 aliases: []
 type: pc
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: pc-4b659c
 table: pcs
-links: 9
+links: 12
 ---
 
 # Verdant
@@ -49,12 +49,18 @@ links: 9
 
 Linked from:
 
+- ← [[questions/5c4d21c0-c460-49e8-a035-3e13248c93d6]] (about, w=3)
+- ← [[questions/6b91e183-16a3-4f00-9a7f-9b45d95e6647]] (about, w=3)
+- ← [[questions/a1ea207f-076c-42b8-a750-c01859c11579]] (about, w=3)
 - ← [[biomes/amber-undergrove]] (mentions, w=1)
 - ← [[biomes/amberwood]] (mentions, w=1)
 - ← [[biomes/deep-amber]] (mentions, w=1)
 - ← [[biomes/jungle-caverns]] (mentions, w=1)
 - ← [[locations/ironwood-hovel-ruins]] (mentions, w=1)
 - ← [[locations/verdant-watch]] (mentions, w=1)
+- ← [[questions/5c4d21c0-c460-49e8-a035-3e13248c93d6]] (mentions, w=1)
+- ← [[questions/6b91e183-16a3-4f00-9a7f-9b45d95e6647]] (mentions, w=1)
+- ← [[questions/a1ea207f-076c-42b8-a750-c01859c11579]] (mentions, w=1)
 
 ## Inferred
 

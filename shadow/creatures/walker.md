@@ -3,11 +3,11 @@ title: Walker
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ba1f08
 table: creature_types
-links: 6
+links: 8
 ---
 
 # Walker
@@ -51,10 +51,14 @@ links: 6
 
 Linked from:
 
+- ← [[questions/824a8a28-9a83-4977-bfd0-f3f45d72705e]] (about, w=3)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
 - ← [[branches/trades]] (has-member, w=3)
 - ← [[creatures/master-craftsman-needs-name]] (parent, w=3)
 - ← [[creatures/guild-rep]] (mentions, w=1)
 - ← [[creatures/humble]] (mentions, w=1)
+- ← [[questions/824a8a28-9a83-4977-bfd0-f3f45d72705e]] (mentions, w=1)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 - ← [[retinues/the-iron-band]] (mentions, w=1)
 - ← [[vehicles/the-company-cart]] (mentions, w=1)
 

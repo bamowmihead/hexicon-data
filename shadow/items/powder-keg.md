@@ -3,7 +3,7 @@ title: Powder Keg
 aliases: []
 type: equipment
 summary: "Storage + bomb: holds 25 lb of powder."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-4dc8fc
 table: equipment

@@ -3,11 +3,11 @@ title: The Ferry Walk Market
 aliases: []
 type: shop
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: shop-ii-18b748d9aef72074
 table: shops
-links: 0
+links: 1
 ---
 
 # The Ferry Walk Market
@@ -20,6 +20,11 @@ links: 0
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/9a396cb8-e5da-4542-a24e-6c0db975bee7]] (about, w=3)
+- ← [[questions/9a396cb8-e5da-4542-a24e-6c0db975bee7]] (mentions, w=1)
 
 ## Inferred
 

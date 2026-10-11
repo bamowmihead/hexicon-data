@@ -3,7 +3,7 @@ title: Circle Elder
 aliases: []
 type: creature
 summary: "[STUB] A Druidic Circle elder trying to stop a Circle-Guild war."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-54bf5c
 table: creature_types

@@ -3,11 +3,11 @@ title: Quiver
 aliases: []
 type: equipment
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-kit-quiver
 table: equipment
-links: 4
+links: 5
 ---
 
 # Quiver
@@ -26,10 +26,12 @@ links: 4
 
 Linked from:
 
+- ← [[questions/8c3bb7d6-8b62-48cb-95b2-70fa24e96a02]] (about, w=3)
 - ← [[creatures/ash-grove-grunt]] (mentions, w=1)
 - ← [[creatures/galedrial]] (mentions, w=1)
 - ← [[creatures/mordant]] (mentions, w=1)
 - ← [[creatures/palen]] (mentions, w=1)
+- ← [[questions/8c3bb7d6-8b62-48cb-95b2-70fa24e96a02]] (mentions, w=1)
 
 ## Inferred
 

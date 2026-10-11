@@ -3,7 +3,7 @@ title: Cackler
 aliases: []
 type: creature
 summary: Dog-sized, matted dark fur, stinks of rot.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-8bd190
 table: creature_types

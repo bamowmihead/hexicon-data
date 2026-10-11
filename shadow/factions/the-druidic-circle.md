@@ -3,11 +3,11 @@ title: The Druidic Circle
 aliases: []
 type: faction
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: fac-81a1fc
 table: factions
-links: 8
+links: 9
 ---
 
 # The Druidic Circle
@@ -31,6 +31,7 @@ Linked from:
 - ← [[creatures/blood-badger]] (mentions, w=1)
 - ← [[creatures/circle-elder]] (mentions, w=1)
 - ← [[creatures/skar]] (mentions, w=1)
+- ← [[questions/cb769390-357b-4f7b-aa32-a95b3d01a9f7]] (mentions, w=1)
 - ← [[retinues/the-blood-badgers]] (mentions, w=1)
 
 ## Inferred

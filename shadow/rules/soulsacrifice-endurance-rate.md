@@ -3,7 +3,7 @@ title: soul.sacrifice_endurance_rate
 aliases: []
 type: rule
 summary: Endurance spent per anima when the body is the source (chart M).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.sacrifice_endurance_rate
 table: rules

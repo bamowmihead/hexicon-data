@@ -3,7 +3,7 @@ title: Slime Eels
 aliases: []
 type: creature
 summary: "The water's surface has a thick opalescent sheen."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-98c96c
 table: creature_types

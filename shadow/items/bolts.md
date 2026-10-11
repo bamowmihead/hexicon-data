@@ -3,7 +3,7 @@ title: Bolts
 aliases: []
 type: consumable
 summary: Standard bolts for crossbows.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-762033
 table: consumables

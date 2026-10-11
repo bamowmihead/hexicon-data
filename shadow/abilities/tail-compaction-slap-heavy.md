@@ -3,7 +3,7 @@ title: Tail Compaction Slap (Heavy)
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-e35a71
 table: creature_abilities

@@ -3,7 +3,7 @@ title: Dragonfly (Adult)
 aliases: []
 type: creature
 summary: "It wasn't chasing you."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-58b0de
 table: creature_types

@@ -3,7 +3,7 @@ title: Tusk Gore
 aliases: []
 type: ability
 summary: must move 3m+ — 3d4+Might Stabbing
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-12-s2-tusk-gore
 table: creature_abilities

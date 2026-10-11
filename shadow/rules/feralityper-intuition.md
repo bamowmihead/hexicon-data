@@ -3,7 +3,7 @@ title: ferality.per_intuition
 aliases: []
 type: rule
 summary: "Ferality capacity = Intuition × this + base (2.0 handoff §2, 9/28: Intuition is the limit for every vocation's energy so it isn't a dump stat)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.per_intuition
 table: rules

@@ -3,7 +3,7 @@ title: Glow Vine Sap
 aliases: []
 type: consumable
 summary: Garden crop (topical agent).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-4b42aa
 table: consumables

@@ -3,7 +3,7 @@ title: Cave Dragon
 aliases: []
 type: trance-card
 summary: A komodo dragon crossed with a chameleon that can climb cave walls
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-07
 table: trances

@@ -3,7 +3,7 @@ title: Wing Clap
 aliases: []
 type: ability
 summary: 5m cone or 3m radius — 3d6 Sonic; pushes targets out of the zone (Might DC = caster Might) ⚠ NEEDS REECE — the range clause “5m cone or 3m radius” offers two sh…
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-04-s3-wing-clap
 table: creature_abilities

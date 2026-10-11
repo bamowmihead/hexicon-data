@@ -3,11 +3,11 @@ title: Arbalest
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-79188c
 table: armaments
-links: 7
+links: 8
 ---
 
 # Arbalest
@@ -31,11 +31,13 @@ links: 7
 
 Linked from:
 
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (about, w=3)
 - ← [[creatures/galedrial]] (mentions, w=1)
 - ← [[creatures/guild-mercenary]] (mentions, w=1)
 - ← [[creatures/humble]] (mentions, w=1)
 - ← [[creatures/mordant]] (mentions, w=1)
 - ← [[creatures/palen]] (mentions, w=1)
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (mentions, w=1)
 
 ## Inferred
 

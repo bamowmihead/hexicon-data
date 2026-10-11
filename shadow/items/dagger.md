@@ -3,11 +3,11 @@ title: Dagger
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-722764
 table: armaments
-links: 4
+links: 5
 ---
 
 # Dagger
@@ -29,9 +29,11 @@ links: 4
 
 Linked from:
 
+- ← [[questions/4639cb8a-cc6e-4303-a595-5394f2d1655a]] (about, w=3)
 - ← [[creatures/axe-crown]] (mentions, w=1)
 - ← [[creatures/newt]] (mentions, w=1)
 - ← [[creatures/vampiric-batkin-assassin]] (mentions, w=1)
+- ← [[questions/4639cb8a-cc6e-4303-a595-5394f2d1655a]] (mentions, w=1)
 
 ## Inferred
 

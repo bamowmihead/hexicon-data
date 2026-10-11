@@ -3,7 +3,7 @@ title: soul.siphon_return_divisor
 aliases: []
 type: rule
 summary: Siphon returns what it dealt ÷ this, to Endurance or the Reserve.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.siphon_return_divisor
 table: rules

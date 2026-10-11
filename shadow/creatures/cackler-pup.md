@@ -3,7 +3,7 @@ title: Cackler Pup
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-5852d6
 table: creature_types

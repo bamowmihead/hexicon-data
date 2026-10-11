@@ -3,7 +3,7 @@ title: Throw Frag Grenade
 aliases: []
 type: ability
 summary: Lands where it is thrown and lies there with the fuse burning.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-frag-grenade
 table: creature_abilities

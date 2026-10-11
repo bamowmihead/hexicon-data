@@ -3,7 +3,7 @@ title: Wetland — Day Travel
 aliases: []
 type: encounter-table
 summary: day_travel
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: enc-e7ae57
 table: encounter_tables

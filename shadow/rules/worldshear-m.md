@@ -3,11 +3,11 @@ title: world.shear_m
 aliases: []
 type: rule
 summary: "A world terrain change that differs by more than this many metres across a placed location's extent marks it sheared (WORLD_OWNERSHIP_SPEC §3.5, §8 — the number…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: world.shear_m
 table: rules
-links: 0
+links: 1
 ---
 
 # world.shear_m
@@ -28,6 +28,11 @@ A world terrain change that differs by more than this many metres across a place
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/9c67eeab-9cb1-406b-b856-ced5ebf008a2]] (about, w=3)
+- ← [[questions/9c67eeab-9cb1-406b-b856-ced5ebf008a2]] (mentions, w=1)
 
 ## Inferred
 

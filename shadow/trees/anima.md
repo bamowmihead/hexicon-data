@@ -3,11 +3,11 @@ title: Anima
 aliases: []
 type: tree
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: spec-energy-anima
 table: trees
-links: 6
+links: 7
 ---
 
 # Anima
@@ -24,7 +24,9 @@ links: 6
 
 Linked from:
 
+- ← [[questions/1feacd19-94fa-412f-b2b0-bdfa3500657c]] (about, w=3)
 - ← [[items/grave-gem]] (mentions, w=1)
+- ← [[questions/1feacd19-94fa-412f-b2b0-bdfa3500657c]] (mentions, w=1)
 - ← [[rules/soulaether-die-cost-divisor]] (mentions, w=1)
 - ← [[rules/soulanima-die-cost-divisor]] (mentions, w=1)
 - ← [[rules/soulreserveone-cap]] (mentions, w=1)

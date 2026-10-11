@@ -3,7 +3,7 @@ title: Blinded
 aliases: []
 type: status-condition
 summary: Target cannot see; auto-misses sight-based attacks.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-blinded
 table: status_conditions

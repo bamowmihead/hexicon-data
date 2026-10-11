@@ -3,11 +3,11 @@ title: Val
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-bdd6d0
 table: creature_types
-links: 3
+links: 4
 ---
 
 # Val
@@ -54,6 +54,7 @@ links: 3
 
 Linked from:
 
+- ← [[questions/a9f8b9bd-8a20-4e71-906d-215df3ebd12f]] (about, w=3)
 - ← [[branches/steward]] (has-member, w=3)
 - ← [[traits/defector]] (has-member, w=3)
 

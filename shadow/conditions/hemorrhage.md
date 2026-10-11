@@ -3,7 +3,7 @@ title: Hemorrhage
 aliases: []
 type: status-condition
 summary: A major artery is open.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-hemorrhage
 table: status_conditions

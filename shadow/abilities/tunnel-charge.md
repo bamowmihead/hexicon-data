@@ -3,7 +3,7 @@ title: Tunnel Charge
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-f072a5
 table: creature_abilities

@@ -3,7 +3,7 @@ title: Semille
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-945a62
 table: creature_types

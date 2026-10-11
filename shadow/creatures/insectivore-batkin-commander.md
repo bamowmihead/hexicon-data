@@ -3,7 +3,7 @@ title: Insectivore Batkin (Commander)
 aliases: []
 type: creature
 summary: Flight 10 m · crawl 3 m · 4 endurance per turn airborne.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-batkin-insect-commander
 table: creature_types

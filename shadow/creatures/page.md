@@ -3,7 +3,7 @@ title: Page
 aliases: []
 type: creature
 summary: Page
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-06b087
 table: creature_types

@@ -3,11 +3,11 @@ title: Bubble Pool
 aliases: []
 type: location
 summary: "*** *First visited: Expedition #* * [ ] \\[ ] *(To be written)* *** *(To be written)* *** | Destination | Biome | Path Type | | -------------------------- | ----…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 14
 table: locations
-links: 7
+links: 8
 ---
 
 # Bubble Pool
@@ -47,6 +47,7 @@ links: 7
 
 Linked from:
 
+- ← [[questions/ae443999-438b-4ca9-9504-daaa22026790]] (about, w=3)
 - ← [[locations/torn-clearing]] (mentions, w=1)
 - ← [[locations/wet-flower-field]] (mentions, w=1)
 

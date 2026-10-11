@@ -3,7 +3,7 @@ title: Dropped Rock
 aliases: []
 type: ability
 summary: Dropped, not thrown — so it lands on whatever is underneath, and gravity does the work rather than the shooter.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-dropped-rock
 table: creature_abilities

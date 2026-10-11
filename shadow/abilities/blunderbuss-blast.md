@@ -3,7 +3,7 @@ title: Blunderbuss Blast
 aliases: []
 type: ability
 summary: A 20 m long, 3 m wide cone.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-blunderbuss
 table: creature_abilities

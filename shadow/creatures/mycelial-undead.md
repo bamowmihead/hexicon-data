@@ -3,7 +3,7 @@ title: Mycelial Undead
 aliases: []
 type: creature
 summary: A body taken by the fungus.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-4eb85b
 table: creature_types

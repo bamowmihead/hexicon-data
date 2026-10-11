@@ -3,7 +3,7 @@ title: Smoked Rations
 aliases: []
 type: consumable
 summary: Lasts 7 days.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-758587
 table: consumables

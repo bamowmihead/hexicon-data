@@ -3,7 +3,7 @@ title: Wetland
 aliases: []
 type: biome
 summary: "**Sound:** The Wetlands are silent day & night — only moving water, and an occasional rustle in brush or splash in the water."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 2
 table: biomes

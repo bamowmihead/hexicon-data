@@ -3,11 +3,11 @@ title: The Ferry Landing Market
 aliases: []
 type: shop
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: shop-ii-18b748d6f530e8e8
 table: shops
-links: 1
+links: 2
 ---
 
 # The Ferry Landing Market
@@ -23,7 +23,9 @@ links: 1
 
 Linked from:
 
+- ← [[questions/9a396cb8-e5da-4542-a24e-6c0db975bee7]] (about, w=3)
 - ← [[locations/riftstone]] (mentions, w=1)
+- ← [[questions/9a396cb8-e5da-4542-a24e-6c0db975bee7]] (mentions, w=1)
 
 ## Inferred
 

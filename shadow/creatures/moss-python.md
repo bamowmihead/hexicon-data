@@ -3,7 +3,7 @@ title: Moss Python
 aliases: []
 type: creature
 summary: Forearm-length snakes draped on branches and roots.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-84d3ac
 table: creature_types

@@ -3,7 +3,7 @@ title: Company Reload
 aliases: []
 type: ability
 summary: "Reload a crossbow in a single action — the company's drill."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-bc-quick-reload
 table: creature_abilities

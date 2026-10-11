@@ -3,7 +3,7 @@ title: Kudzu Seed
 aliases: []
 type: consumable
 summary: "An off-world cultivar — an aggressive, smothering vine that local ecology won't expect."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-8cc37b
 table: consumables

@@ -3,7 +3,7 @@ title: Mining Charge
 aliases: []
 type: consumable
 summary: "Placed only (2 full rounds to set up), blows in 5 rounds: 4d4 Force/Psionic in 5 m (ignores Defense) plus 15 fragments of 1d4 Pick scattered over 10 m, each mee…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-337951
 table: consumables

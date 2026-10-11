@@ -3,11 +3,11 @@ title: Staff
 aliases: []
 type: gear
 summary: A held foci.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gear-soul-staff
 table: gear
-links: 1
+links: 2
 ---
 
 # Staff
@@ -30,6 +30,7 @@ A held foci.
 
 Linked from:
 
+- ← [[questions/8ef33c73-15dd-461a-b6b3-1a7997301d0d]] (about, w=3)
 - ← [[foci/staff]] (relation, w=3)
 
 ## Inferred

@@ -3,7 +3,7 @@ title: Horn Charge
 aliases: []
 type: ability
 summary: 5m line — 2d8+Might Crush
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-04-s3-horn-charge
 table: creature_abilities

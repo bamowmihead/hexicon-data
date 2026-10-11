@@ -3,7 +3,7 @@ title: Psionic Walnut (Send)
 aliases: []
 type: ability
 summary: Send a psionic message to anyone the bearer has MET AND TOUCHED.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-walnut-send
 table: creature_abilities

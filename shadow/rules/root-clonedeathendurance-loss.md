@@ -3,7 +3,7 @@ title: root_clone.death.endurance_loss
 aliases: []
 type: rule
 summary: Endurance the Ranger loses when a root clone dies (never a wound; 0 gutters only if the card says).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: root_clone.death.endurance_loss
 table: rules

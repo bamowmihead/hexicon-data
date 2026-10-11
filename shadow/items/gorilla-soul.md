@@ -3,7 +3,7 @@ title: Gorilla Soul
 aliases: []
 type: consumable
 summary: An off-world trance soul — a gorilla
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-67dd3a
 table: consumables

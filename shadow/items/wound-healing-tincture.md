@@ -3,7 +3,7 @@ title: Wound-Healing Tincture
 aliases: []
 type: consumable
 summary: Heals 1 wound.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-0729f6
 table: consumables

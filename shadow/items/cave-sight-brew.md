@@ -3,7 +3,7 @@ title: Cave-Sight Brew
 aliases: []
 type: consumable
 summary: Alchemical brew granting sight in the dark (cave sight).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-f69130
 table: consumables

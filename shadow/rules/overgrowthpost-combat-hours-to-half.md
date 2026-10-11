@@ -3,7 +3,7 @@ title: overgrowth.post_combat_hours_to_half
 aliases: []
 type: rule
 summary: "Hours after the last round before the pool drops to half capacity (handoff §2 re-sent 9/28: 'same shape as Berserker ferality')."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: overgrowth.post_combat_hours_to_half
 table: rules

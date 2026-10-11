@@ -3,11 +3,11 @@ title: Cattlepos
 aliases: []
 type: trance-card
 summary: A large beast of burden with tusks & a mace tail
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-12
 table: trances
-links: 16
+links: 18
 hub: true
 ---
 
@@ -38,6 +38,7 @@ A large beast of burden with tusks & a mace tail
 
 Linked from:
 
+- ← [[questions/55ab9b93-6f21-4ec3-9810-f5e7a35b98f5]] (about, w=3)
 - ← [[biomes/amberwood]] (mentions, w=1)
 - ← [[biomes/dry-caverns]] (mentions, w=1)
 - ← [[items/beast-gear-cattlepos]] (mentions, w=1)
@@ -52,6 +53,8 @@ Linked from:
 - ← [[locations/the-cackler-lair]] (mentions, w=1)
 - ← [[locations/torn-clearing]] (mentions, w=1)
 - ← [[locations/young-amber-fir-field]] (mentions, w=1)
+- ← [[questions/55ab9b93-6f21-4ec3-9810-f5e7a35b98f5]] (mentions, w=1)
+- ← [[questions/b426f22f-1009-4eec-a8e6-b291710389f5]] (mentions, w=1)
 
 ## Inferred
 

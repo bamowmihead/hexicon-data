@@ -3,7 +3,7 @@ title: Shtevein & his Devil
 aliases: []
 type: retinue-template
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-90fb1e
 table: retinue_templates

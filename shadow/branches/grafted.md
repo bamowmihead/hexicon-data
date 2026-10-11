@@ -3,11 +3,11 @@ title: Grafted
 aliases: []
 type: branch
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: brn-a7a3cf
 table: branches
-links: 4
+links: 5
 ---
 
 # Grafted
@@ -30,6 +30,7 @@ Linked from:
 
 - ← [[factions/the-druidic-circle]] (has-branch, w=3)
 - ← [[creatures/mordant]] (mentions, w=1)
+- ← [[questions/a9f8b9bd-8a20-4e71-906d-215df3ebd12f]] (mentions, w=1)
 - ← [[retinues/the-exiled-chapter]] (mentions, w=1)
 
 ## Inferred

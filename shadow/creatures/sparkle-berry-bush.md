@@ -3,7 +3,7 @@ title: Sparkle Berry Bush
 aliases: []
 type: creature
 summary: A short bush growing prismatic sparkling red berries
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-03
 table: creature_types

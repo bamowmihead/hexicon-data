@@ -3,7 +3,7 @@ title: Canopy Clutch
 aliases: []
 type: creature
 summary: "Looks exactly like Leanda's Hair hanging from the canopy."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-9d9868
 table: creature_types

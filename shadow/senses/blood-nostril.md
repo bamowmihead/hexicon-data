@@ -3,7 +3,7 @@ title: Blood Nostril
 aliases: []
 type: sense
 summary: "The Cackler's, at a mile — and the matriarch's, at six."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sense-blood-nostril
 table: sense_kinds

@@ -3,11 +3,11 @@ title: Scuttle Bat
 aliases: []
 type: trance-card
 summary: A large wingless bat that scuttles across walls and ceilings
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-06
 table: trances
-links: 1
+links: 2
 ---
 
 # Scuttle Bat
@@ -36,7 +36,9 @@ A large wingless bat that scuttles across walls and ceilings
 
 Linked from:
 
+- ← [[questions/b9b90f67-1c10-4012-a1c2-8a1db25eaa8b]] (about, w=3)
 - ← [[pcs/bledger]] (relation, w=3)
+- ← [[questions/b9b90f67-1c10-4012-a1c2-8a1db25eaa8b]] (mentions, w=1)
 
 ## Inferred
 

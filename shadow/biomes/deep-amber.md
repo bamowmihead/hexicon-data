@@ -3,7 +3,7 @@ title: Deep Amber
 aliases: []
 type: biome
 summary: "**Sound:** Howls, chirps, rattles, & clicks ever present in the day."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 3
 table: biomes

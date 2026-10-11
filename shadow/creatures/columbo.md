@@ -3,7 +3,7 @@ title: Columbo
 aliases: []
 type: creature
 summary: "Fletcher's lieutenant determined to protect the apex."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ce3880
 table: creature_types

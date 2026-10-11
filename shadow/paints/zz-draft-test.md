@@ -3,7 +3,7 @@ title: zz-draft-test
 aliases: []
 type: ground-paint
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gp-zz-draft-test
 table: ground_paints

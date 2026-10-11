@@ -3,11 +3,11 @@ title: Defector
 aliases: []
 type: trait
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trt-7fd567
 table: traits
-links: 1
+links: 2
 ---
 
 # Defector
@@ -25,6 +25,7 @@ links: 1
 Linked from:
 
 - ← [[creatures/val]] (defines, w=3)
+- ← [[questions/a9f8b9bd-8a20-4e71-906d-215df3ebd12f]] (mentions, w=1)
 
 ## Inferred
 

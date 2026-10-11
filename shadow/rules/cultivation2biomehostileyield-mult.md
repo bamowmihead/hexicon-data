@@ -3,7 +3,7 @@ title: cultivation2.biome.hostile.yield_mult
 aliases: []
 type: rule
 summary: "A hostile biome: yield × this ('produces less')."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cultivation2.biome.hostile.yield_mult
 table: rules

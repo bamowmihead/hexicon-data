@@ -3,7 +3,7 @@ title: Crushers / Giant Frog
 aliases: []
 type: creature
 summary: Bigger than a grizzly bear.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-8120fc
 table: creature_types

@@ -3,7 +3,7 @@ title: Decrepit Lichen Sentry
 aliases: []
 type: creature
 summary: Brown Lichen covering stone body.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-99e9de
 table: creature_types

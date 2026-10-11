@@ -3,7 +3,7 @@ title: "Fletcher's Co-op Squad"
 aliases: []
 type: creature
 summary: Disciplined hobbit harvesters with twice-firing crossbows.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-bd6b9d
 table: creature_types

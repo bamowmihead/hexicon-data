@@ -3,7 +3,7 @@ title: Warhammer Strike
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-95d0ad
 table: creature_abilities

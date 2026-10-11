@@ -3,11 +3,11 @@ title: Wheeler
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-df7dac
 table: creature_types
-links: 1
+links: 2
 ---
 
 # Wheeler
@@ -32,6 +32,7 @@ links: 1
 Linked from:
 
 - ← [[creatures/wheeler]] (parent, w=3)
+- ← [[questions/bc813449-7f55-409a-b95b-2e844adf7c75]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Fire Stick
 aliases: []
 type: consumable
 summary: "2 AP: a 3 m cone OR a 6 m x 1 m line, 2d6 fire."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-gg-firestick
 table: consumables

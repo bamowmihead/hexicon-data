@@ -3,7 +3,7 @@ title: Barding (Cattlepos)
 aliases: []
 type: equipment
 summary: +2 Defense · +2 saddlebag slots.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-5d23e6
 table: equipment

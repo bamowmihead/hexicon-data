@@ -3,11 +3,11 @@ title: Digging Claw Grab
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-eedd51
 table: creature_abilities
-links: 4
+links: 5
 ---
 
 # Digging Claw Grab
@@ -54,10 +54,12 @@ links: 4
 
 Linked from:
 
+- ← [[questions/19148d22-fa09-406b-8735-7d9689d35e94]] (about, w=3)
 - ← [[creatures/rock-shell]] (mentions, w=1)
 - ← [[creatures/rock-shell-adolescent]] (mentions, w=1)
 - ← [[creatures/rock-shell-adult]] (mentions, w=1)
 - ← [[creatures/rock-shell-elder]] (mentions, w=1)
+- ← [[questions/19148d22-fa09-406b-8735-7d9689d35e94]] (mentions, w=1)
 
 ## Inferred
 

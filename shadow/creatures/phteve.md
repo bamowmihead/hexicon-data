@@ -3,11 +3,11 @@ title: Phteve
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-a6425d
 table: creature_types
-links: 0
+links: 1
 ---
 
 # Phteve
@@ -45,6 +45,11 @@ links: 0
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (about, w=3)
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (mentions, w=1)
 
 ## Inferred
 

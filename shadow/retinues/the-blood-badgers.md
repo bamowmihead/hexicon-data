@@ -3,7 +3,7 @@ title: The Blood Badgers
 aliases: []
 type: retinue-template
 summary: A honey-badger berserker pack aligned with the Druidic Circle.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-810a44
 table: retinue_templates

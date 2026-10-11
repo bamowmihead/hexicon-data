@@ -3,7 +3,7 @@ title: Rudimentary Shelter
 aliases: []
 type: equipment
 summary: A crude shelter — improves rest and keeps the rain off.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-camp-shelter
 table: equipment

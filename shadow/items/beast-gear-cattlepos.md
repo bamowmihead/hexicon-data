@@ -3,7 +3,7 @@ title: Beast Gear — Cattlepos
 aliases: []
 type: equipment
 summary: Armor worked from cattlepos beast hide.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-43c71d
 table: equipment

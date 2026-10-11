@@ -3,7 +3,7 @@ title: Pole Hammer Strike
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-b82111
 table: creature_abilities

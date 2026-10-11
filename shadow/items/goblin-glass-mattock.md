@@ -3,7 +3,7 @@ title: Goblin Glass Mattock
 aliases: []
 type: armament
 summary: A mattock inlaid with goblin glass.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-gg-mattock
 table: armaments

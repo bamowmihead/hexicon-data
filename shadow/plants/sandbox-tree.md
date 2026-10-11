@@ -3,7 +3,7 @@ title: Sandbox Tree
 aliases: []
 type: cultivation-card
 summary: A spiky tree with explosive fragmentation nuts
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-02
 table: cultivations

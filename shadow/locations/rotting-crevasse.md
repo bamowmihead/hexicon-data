@@ -3,7 +3,7 @@ title: Rotting Crevasse
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> A crack in the ground, wide enough to walk through, walls slick with…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 25
 table: locations

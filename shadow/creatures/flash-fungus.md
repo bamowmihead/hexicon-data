@@ -3,7 +3,7 @@ title: Flash Fungus
 aliases: []
 type: creature
 summary: A small purple fungus with glowing pods releasing blue light
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-06
 table: creature_types

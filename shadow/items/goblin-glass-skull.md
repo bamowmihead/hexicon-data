@@ -3,7 +3,7 @@ title: Goblin Glass Skull
 aliases: []
 type: gear
 summary: A strange skull, inlaid with goblin glass.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gea-gg-skull
 table: gear

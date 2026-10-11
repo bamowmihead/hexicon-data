@@ -3,11 +3,11 @@ title: Light Crossbow
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-46e968
 table: armaments
-links: 3
+links: 4
 ---
 
 # Light Crossbow
@@ -32,7 +32,9 @@ links: 3
 
 Linked from:
 
+- ← [[questions/4639cb8a-cc6e-4303-a595-5394f2d1655a]] (about, w=3)
 - ← [[creatures/black-company-crossbowman]] (mentions, w=1)
+- ← [[questions/4639cb8a-cc6e-4303-a595-5394f2d1655a]] (mentions, w=1)
 
 ## Inferred
 

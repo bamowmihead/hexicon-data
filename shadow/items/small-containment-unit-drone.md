@@ -3,7 +3,7 @@ title: Small Containment Unit & Drone
 aliases: []
 type: equipment
 summary: A smaller containment vessel paired with a controllable flying drone.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-a242c5
 table: equipment

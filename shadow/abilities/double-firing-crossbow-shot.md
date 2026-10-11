@@ -3,7 +3,7 @@ title: Double-Firing Crossbow Shot
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-dfc-shot
 table: creature_abilities

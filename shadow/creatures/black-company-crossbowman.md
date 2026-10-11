@@ -3,7 +3,7 @@ title: Black Company Crossbowman
 aliases: []
 type: creature
 summary: Light crossbow, and the drill to reload it inside one action.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-bc-crossbowman
 table: creature_types

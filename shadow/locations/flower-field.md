@@ -3,7 +3,7 @@ title: Flower Field
 aliases: []
 type: location
 summary: "\"What was once a field of flowers is now molded over."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 3
 table: locations

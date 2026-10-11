@@ -3,7 +3,7 @@ title: Slowed
 aliases: []
 type: status-condition
 summary: "Target's speed halved."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-slowed
 table: status_conditions

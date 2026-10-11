@@ -3,7 +3,7 @@ title: Jungle Caverns
 aliases: []
 type: biome
 summary: "**Sound:** Only the underground river."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 4
 table: biomes

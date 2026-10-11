@@ -3,7 +3,7 @@ title: Gimler (Adolescent)
 aliases: []
 type: creature
 summary: Dog-sized with disproportionately long legs.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b5b848
 table: creature_types

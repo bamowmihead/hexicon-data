@@ -3,7 +3,7 @@ title: ferality.companion_hurts_gain
 aliases: []
 type: rule
 summary: Ferality gained when a beast companion hurts something.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.companion_hurts_gain
 table: rules

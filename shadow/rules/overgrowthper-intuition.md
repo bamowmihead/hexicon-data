@@ -3,7 +3,7 @@ title: overgrowth.per_intuition
 aliases: []
 type: rule
 summary: Overgrowth cap = Intuition × this + base (2.0 handoff §2).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: overgrowth.per_intuition
 table: rules

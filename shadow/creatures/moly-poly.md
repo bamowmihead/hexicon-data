@@ -3,7 +3,7 @@ title: Moly Poly
 aliases: []
 type: creature
 summary: Dog-sized armored isopod.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-670ef8
 table: creature_types

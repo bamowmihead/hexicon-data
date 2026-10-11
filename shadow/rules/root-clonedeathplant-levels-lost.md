@@ -3,7 +3,7 @@ title: root_clone.death.plant_levels_lost
 aliases: []
 type: rule
 summary: "Levels the source plant loses when its clone dies ('growth lowered')."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: root_clone.death.plant_levels_lost
 table: rules

@@ -3,7 +3,7 @@ title: Stank Flank
 aliases: []
 type: consumable
 summary: Fire roasted pigmy Boar leg
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cons-6798a5
 table: consumables

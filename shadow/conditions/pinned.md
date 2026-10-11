@@ -3,7 +3,7 @@ title: Pinned
 aliases: []
 type: status-condition
 summary: Target cannot move; tier 2.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-pinned
 table: status_conditions

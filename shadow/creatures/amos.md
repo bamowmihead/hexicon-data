@@ -3,7 +3,7 @@ title: Amos
 aliases: []
 type: creature
 summary: Loyal-to-a-fault sociopath — athletic, agile, and leashed.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-f8266d
 table: creature_types

@@ -3,7 +3,7 @@ title: Dragonfly (Juvenile Swarm)
 aliases: []
 type: creature
 summary: "Don't trail your hands."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-899be8
 table: creature_types

@@ -3,7 +3,7 @@ title: Mattock
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-756218
 table: armaments

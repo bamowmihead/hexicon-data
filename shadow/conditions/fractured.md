@@ -3,7 +3,7 @@ title: Fractured
 aliases: []
 type: status-condition
 summary: Persistent injury reducing movement / accuracy until healed.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-fractured
 table: status_conditions

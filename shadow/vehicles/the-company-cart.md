@@ -3,7 +3,7 @@ title: The Company Cart
 aliases: []
 type: vehicle
 summary: A horse cart pulled by an elephant — first cart ever made here, imperfect by design.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: veh-56585b
 table: vehicles

@@ -3,7 +3,7 @@ title: Tallow Candle
 aliases: []
 type: consumable
 summary: 3m radius light.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-683077
 table: consumables

@@ -3,11 +3,11 @@ title: Heal
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-0df158
 table: creature_abilities
-links: 3
+links: 4
 ---
 
 # Heal
@@ -51,9 +51,11 @@ links: 3
 
 Linked from:
 
+- ← [[questions/0aedc371-a764-4ce3-a88c-423a6a16a826]] (about, w=3)
 - ← [[creatures/blood-badger]] (mentions, w=1)
 - ← [[creatures/skar]] (mentions, w=1)
 - ← [[locations/red-bog]] (mentions, w=1)
+- ← [[questions/0aedc371-a764-4ce3-a88c-423a6a16a826]] (mentions, w=1)
 
 ## Inferred
 

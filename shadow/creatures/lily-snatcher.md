@@ -3,7 +3,7 @@ title: Lily Snatcher
 aliases: []
 type: creature
 summary: Lily pads with tendrils underneath.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-9e837c
 table: creature_types

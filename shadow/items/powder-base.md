@@ -3,7 +3,7 @@ title: Powder Base
 aliases: []
 type: consumable
 summary: Brew base for Powder covers — made from clay, practically anywhere in the starting area.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-base-powder
 table: consumables

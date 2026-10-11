@@ -3,7 +3,7 @@ title: War Pick Strike
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-6043a9
 table: creature_abilities

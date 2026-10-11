@@ -3,7 +3,7 @@ title: Venomous Pincer
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-f7f959
 table: creature_abilities

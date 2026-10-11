@@ -3,7 +3,7 @@ title: Blood-Red Armband
 aliases: []
 type: equipment
 summary: "A blood-red armband — the Red Bands' identifier."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-a737b3
 table: equipment

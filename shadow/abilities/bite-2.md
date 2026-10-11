@@ -3,7 +3,7 @@ title: Bite
 aliases: []
 type: ability
 summary: 1m — 3d8+Might Piercing
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-02-s3-bite
 table: creature_abilities

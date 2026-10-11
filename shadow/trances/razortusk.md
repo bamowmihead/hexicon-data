@@ -3,7 +3,7 @@ title: Razortusk
 aliases: []
 type: trance-card
 summary: A tough boar-adjacent creature with sharp tusks
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-08
 table: trances

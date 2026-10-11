@@ -3,7 +3,7 @@ title: Goblin Glass Morning Star Strike
 aliases: []
 type: ability
 summary: 2d4+1+stat.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-morningstar
 table: creature_abilities

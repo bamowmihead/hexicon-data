@@ -3,7 +3,7 @@ title: Cosh Strike
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-6c5c21
 table: creature_abilities

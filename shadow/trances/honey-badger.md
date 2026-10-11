@@ -3,7 +3,7 @@ title: Honey Badger
 aliases: []
 type: trance-card
 summary: A tough large badger with resistance to toxin damage types that can burrow
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-02
 table: trances

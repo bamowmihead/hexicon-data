@@ -3,7 +3,7 @@ title: attribute.cost_curve
 aliases: []
 type: rule
 summary: The locked attribute cost curve (06 · Vocations & Progression).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: attribute.cost_curve
 table: rules

@@ -3,7 +3,7 @@ title: Ash Grove Grunt
 aliases: []
 type: creature
 summary: Rank-and-file Circle hand on the Amberwood cull.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-f5c315
 table: creature_types

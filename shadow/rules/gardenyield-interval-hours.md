@@ -3,7 +3,7 @@ title: garden.yield_interval_hours
 aliases: []
 type: rule
 summary: World hours between garden yields (a week).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: garden.yield_interval_hours
 table: rules

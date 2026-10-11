@@ -3,7 +3,7 @@ title: Ork (Berserker)
 aliases: []
 type: creature
 summary: Hammer and axe.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ork-berserker
 table: creature_types

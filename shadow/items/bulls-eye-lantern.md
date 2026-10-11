@@ -3,7 +3,7 @@ title: "Bull's Eye Lantern"
 aliases: []
 type: equipment
 summary: "Fuel: Oil."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-2e7ab8
 table: equipment

@@ -3,7 +3,7 @@ title: Labium Strike
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-6d1b65
 table: creature_abilities

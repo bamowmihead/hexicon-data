@@ -3,7 +3,7 @@ title: Claws
 aliases: []
 type: ability
 summary: "1m — 1d8+Prowess Slashing (Pounce: +1 die when gliding in)"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-11-s2-claws
 table: creature_abilities

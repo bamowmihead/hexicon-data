@@ -3,7 +3,7 @@ title: Throw Sticky Frag Grenade
 aliases: []
 type: ability
 summary: Sticks where it lands and cannot be kicked away.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-frag-grenade-sticky
 table: creature_abilities

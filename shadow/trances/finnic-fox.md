@@ -3,7 +3,7 @@ title: Finnic Fox
 aliases: []
 type: trance-card
 summary: Swift dark green fox with incredible hearing
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-01
 table: trances

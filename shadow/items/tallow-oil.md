@@ -3,7 +3,7 @@ title: Tallow Oil
 aliases: []
 type: consumable
 summary: Premium fuel.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-771717
 table: consumables

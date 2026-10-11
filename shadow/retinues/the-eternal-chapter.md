@@ -3,7 +3,7 @@ title: The Eternal Chapter
 aliases: []
 type: retinue-template
 summary: "[STUB] A sanctioned body of Inquisitors, Channelers, and soldiers who arrive when the fungus goes vertical, to restrict the anomaly zone and tap its power."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-daf109
 table: retinue_templates

@@ -3,7 +3,7 @@ title: Skar
 aliases: []
 type: creature
 summary: The biggest Blood Badger, who talked the pack into killing the guilders.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ab9276
 table: creature_types

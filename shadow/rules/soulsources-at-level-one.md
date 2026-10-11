@@ -3,7 +3,7 @@ title: soul.sources_at_level_one
 aliases: []
 type: rule
 summary: One source = one die per AP until the reserve-plus-body node is earned (Reece, 9/27).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.sources_at_level_one
 table: rules

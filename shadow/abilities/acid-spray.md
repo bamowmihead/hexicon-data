@@ -3,11 +3,11 @@ title: Acid Spray
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-01bc8d
 table: creature_abilities
-links: 5
+links: 6
 ---
 
 # Acid Spray
@@ -51,11 +51,13 @@ links: 5
 
 Linked from:
 
+- ← [[questions/19148d22-fa09-406b-8735-7d9689d35e94]] (about, w=3)
 - ← [[creatures/onos]] (mentions, w=1)
 - ← [[creatures/onos-adolescent]] (mentions, w=1)
 - ← [[creatures/onos-adult]] (mentions, w=1)
 - ← [[creatures/onos-elder]] (mentions, w=1)
 - ← [[creatures/onos-young]] (mentions, w=1)
+- ← [[questions/19148d22-fa09-406b-8735-7d9689d35e94]] (mentions, w=1)
 
 ## Inferred
 

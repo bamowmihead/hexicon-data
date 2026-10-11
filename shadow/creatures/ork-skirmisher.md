@@ -3,7 +3,7 @@ title: Ork (Skirmisher)
 aliases: []
 type: creature
 summary: Blade and shield.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ork-skirmisher
 table: creature_types

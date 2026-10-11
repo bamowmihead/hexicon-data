@@ -3,7 +3,7 @@ title: Sling Stones
 aliases: []
 type: consumable
 summary: Standard stones for slings.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-6928fb
 table: consumables

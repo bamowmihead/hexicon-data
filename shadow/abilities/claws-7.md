@@ -3,7 +3,7 @@ title: Claws
 aliases: []
 type: ability
 summary: "2m — 2d8+Prowess Slashing (Pounce: +1 die)"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-06-s3-claws
 table: creature_abilities

@@ -3,7 +3,7 @@ title: Ork (Piker)
 aliases: []
 type: creature
 summary: Long spear and buckler.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ork-piker
 table: creature_types

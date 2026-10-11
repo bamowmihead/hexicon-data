@@ -3,7 +3,7 @@ title: Matchlock Balls
 aliases: []
 type: consumable
 summary: Standard shot for matchlock firearms.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-68b493
 table: consumables

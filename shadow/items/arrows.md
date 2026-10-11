@@ -3,7 +3,7 @@ title: Arrows
 aliases: []
 type: consumable
 summary: Standard arrows for bows.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-76a4f3
 table: consumables

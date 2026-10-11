@@ -3,7 +3,7 @@ title: Goblin Glass Arrow Detonation
 aliases: []
 type: ability
 summary: "Spend a REACTION to detonate a landed arrow: +2d6 ACID or FIRE in a 1 m radius."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-arrows-detonate
 table: creature_abilities

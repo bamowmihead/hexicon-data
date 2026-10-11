@@ -3,7 +3,7 @@ title: Claws
 aliases: []
 type: ability
 summary: 1m — 1d8+Might Slashing
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-09-s2-claws
 table: creature_abilities

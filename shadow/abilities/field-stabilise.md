@@ -3,7 +3,7 @@ title: Field Stabilise
 aliases: []
 type: ability
 summary: "Stop a dying character's death timer WITHOUT healing them — WOUND_SPEC's own stabilisation, no endurance restored and no wound cleared."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-newt-stabilise
 table: creature_abilities

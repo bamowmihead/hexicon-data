@@ -3,7 +3,7 @@ title: Morning Star
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-7d8c40
 table: armaments

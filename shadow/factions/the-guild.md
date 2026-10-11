@@ -3,11 +3,11 @@ title: The Guild
 aliases: []
 type: faction
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: fac-81332c
 table: factions
-links: 4
+links: 5
 ---
 
 # The Guild
@@ -27,6 +27,7 @@ links: 4
 Linked from:
 
 - ← [[creatures/guild-rep]] (mentions, w=1)
+- ← [[questions/cb769390-357b-4f7b-aa32-a95b3d01a9f7]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Goblin Glass Smoke Cloud
 aliases: []
 type: ability
 summary: As a REACTION when hit, the shield releases a cloud of obscuring smoke.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-heater-smoke
 table: creature_abilities

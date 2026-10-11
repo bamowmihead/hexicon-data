@@ -3,7 +3,7 @@ title: Mounted Gun Fire
 aliases: []
 type: ability
 summary: Reload before firing again.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-mounted-gun
 table: creature_abilities

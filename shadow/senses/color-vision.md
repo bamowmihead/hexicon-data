@@ -3,7 +3,7 @@ title: Color Vision
 aliases: []
 type: sense
 summary: Ordinary sight.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sense-color-vision
 table: sense_kinds

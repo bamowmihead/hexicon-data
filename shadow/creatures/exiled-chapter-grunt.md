@@ -3,7 +3,7 @@ title: Exiled Chapter Grunt
 aliases: []
 type: creature
 summary: Foot soldier of the husk-heresy church.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-0a4c1c
 table: creature_types

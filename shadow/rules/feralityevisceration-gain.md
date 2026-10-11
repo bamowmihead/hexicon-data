@@ -3,7 +3,7 @@ title: ferality.evisceration_gain
 aliases: []
 type: rule
 summary: Ferality gained by Evisceration.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.evisceration_gain
 table: rules

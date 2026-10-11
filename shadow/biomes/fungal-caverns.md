@@ -3,7 +3,7 @@ title: Fungal Caverns
 aliases: []
 type: biome
 summary: "**Sound:** Sound does not echo."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 5
 table: biomes

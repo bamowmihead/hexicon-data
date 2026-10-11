@@ -3,7 +3,7 @@ title: Quilled Vole
 aliases: []
 type: creature
 summary: "Root-chewing prey whose gut spins raw iron into rusty quills — the co-op's living iron harvest."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-97ffba
 table: creature_types

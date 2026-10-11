@@ -3,7 +3,7 @@ title: Companies
 aliases: []
 type: branch
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: brn-85e4ff
 table: branches

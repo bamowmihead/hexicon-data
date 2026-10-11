@@ -3,7 +3,7 @@ title: Matchlock Musket Fire
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-9a1c49
 table: creature_abilities

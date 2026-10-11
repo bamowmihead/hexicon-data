@@ -3,11 +3,11 @@ title: Vampiric Batkin
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-batkin-vampiric-base
 table: creature_types
-links: 3
+links: 4
 ---
 
 # Vampiric Batkin
@@ -50,9 +50,11 @@ links: 3
 
 Linked from:
 
+- ← [[questions/dd8510a4-27d5-483a-9516-46493bb9b859]] (about, w=3)
 - ← [[creatures/vampiric-batkin-assassin]] (parent, w=3)
 - ← [[creatures/vampiric-batkin-grappler]] (parent, w=3)
 - ← [[creatures/vampiric-batkin-thrower]] (parent, w=3)
+- ← [[questions/dd8510a4-27d5-483a-9516-46493bb9b859]] (mentions, w=1)
 
 ## Inferred
 

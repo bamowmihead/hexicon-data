@@ -3,7 +3,7 @@ title: Climb & Grab
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-3c1f8d
 table: creature_abilities

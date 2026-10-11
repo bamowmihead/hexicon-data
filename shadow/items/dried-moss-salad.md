@@ -3,7 +3,7 @@ title: Dried Moss Salad
 aliases: []
 type: consumable
 summary: Acts as rations.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-6f282c
 table: consumables

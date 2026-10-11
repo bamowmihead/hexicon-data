@@ -3,11 +3,11 @@ title: Vines
 aliases: []
 type: tree
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: spec-habit-vines
 table: trees
-links: 11
+links: 12
 ---
 
 # Vines
@@ -24,6 +24,7 @@ links: 11
 
 Linked from:
 
+- ← [[questions/047d96f2-3f64-48fb-9919-2cced15d0f52]] (about, w=3)
 - ← [[biomes/amber-undergrove]] (mentions, w=1)
 - ← [[biomes/deep-amber]] (mentions, w=1)
 - ← [[biomes/fungal-caverns]] (mentions, w=1)
@@ -35,6 +36,7 @@ Linked from:
 - ← [[locations/red-bog]] (mentions, w=1)
 - ← [[locations/snotling-tribe]] (mentions, w=1)
 - ← [[locations/weeping-oasis]] (mentions, w=1)
+- ← [[questions/047d96f2-3f64-48fb-9919-2cced15d0f52]] (mentions, w=1)
 
 ## Inferred
 

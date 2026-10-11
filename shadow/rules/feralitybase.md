@@ -3,7 +3,7 @@ title: ferality.base
 aliases: []
 type: rule
 summary: See ferality.per_willpower.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.base
 table: rules

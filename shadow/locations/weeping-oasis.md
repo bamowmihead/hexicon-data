@@ -3,7 +3,7 @@ title: Weeping Oasis
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> A wall of pale blue-green vines rises ahead through the trees."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 35
 table: locations

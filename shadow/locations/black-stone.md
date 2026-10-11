@@ -3,7 +3,7 @@ title: Black Stone
 aliases: []
 type: location
 summary: "*** *First visited: Expedition #* * [ ] \\[ ] <details open><summary>[ ] Scene</summary><p>The flowers thin out where the ground gets wet and willow trees take o…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 12
 table: locations

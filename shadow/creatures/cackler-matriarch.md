@@ -3,7 +3,7 @@ title: Cackler matriarch
 aliases: []
 type: creature
 summary: Horse-sized pack heart.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-913224
 table: creature_types

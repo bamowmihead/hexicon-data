@@ -3,7 +3,7 @@ title: Heilmind
 aliases: []
 type: creature
 summary: The mycelial engine of the dead — colonized flesh blooming a flower-field that climbs toward the anomaly.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-aee5bf
 table: creature_types

@@ -3,7 +3,7 @@ title: Goblin Glass Heater Bash
 aliases: []
 type: ability
 summary: 1d8+1 stun.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-heater
 table: creature_abilities

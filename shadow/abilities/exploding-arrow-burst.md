@@ -3,7 +3,7 @@ title: Exploding Arrow Burst
 aliases: []
 type: ability
 summary: Goes off where the arrow lands, on top of whatever the bow already did.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-exploding-arrow
 table: creature_abilities

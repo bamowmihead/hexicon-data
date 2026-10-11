@@ -3,7 +3,7 @@ title: Goblin Glass Longbow Shot
 aliases: []
 type: ability
 summary: 2d6+1+Prowess at 90 m.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-longbow
 table: creature_abilities

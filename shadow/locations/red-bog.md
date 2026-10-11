@@ -3,7 +3,7 @@ title: Red Bog
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> The goblin path winds through thick wetland foliage."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 24
 table: locations

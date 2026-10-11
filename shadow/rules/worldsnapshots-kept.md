@@ -3,7 +3,7 @@ title: world.snapshots_kept
 aliases: []
 type: rule
 summary: Sculpt snapshots kept per location, newest first; older ones are swept (WORLD_OWNERSHIP_SPEC §3.5, §8).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: world.snapshots_kept
 table: rules

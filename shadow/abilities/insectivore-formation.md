@@ -3,7 +3,7 @@ title: Insectivore Formation
 aliases: []
 type: ability
 summary: +1 damage AND +2 Defense to retinue members who are IN FORMATION with the Commander — the derived cluster of allied bodies within 1 m of each other, transitivel…
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-formation
 table: creature_abilities

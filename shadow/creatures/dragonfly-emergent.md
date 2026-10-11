@@ -3,7 +3,7 @@ title: Dragonfly (Emergent)
 aliases: []
 type: creature
 summary: A split husk at the waterline, still wet.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-85e2ac
 table: creature_types

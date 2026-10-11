@@ -3,7 +3,7 @@ title: Iron Banding
 aliases: []
 type: equipment
 summary: "Cart: removes the Splitting weakness · +5 Durability."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-ae339f
 table: equipment

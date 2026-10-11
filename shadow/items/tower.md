@@ -3,11 +3,11 @@ title: Tower
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-78b630
 table: armaments
-links: 7
+links: 8
 ---
 
 # Tower
@@ -31,12 +31,14 @@ links: 7
 
 Linked from:
 
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (about, w=3)
 - ← [[creatures/carni-batkin-tank]] (mentions, w=1)
 - ← [[creatures/decrepit-lichen-sentry-sentinel]] (mentions, w=1)
 - ← [[creatures/rathos]] (mentions, w=1)
 - ← [[locations/ancient-tower]] (mentions, w=1)
 - ← [[locations/collapsed-tower]] (mentions, w=1)
 - ← [[locations/ferry-landing]] (mentions, w=1)
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (mentions, w=1)
 
 ## Inferred
 

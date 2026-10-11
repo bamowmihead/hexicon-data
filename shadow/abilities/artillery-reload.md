@@ -3,7 +3,7 @@ title: Artillery Reload
 aliases: []
 type: ability
 summary: Reload the artillery piece.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-artillery-reload
 table: creature_abilities

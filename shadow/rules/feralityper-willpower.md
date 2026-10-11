@@ -3,7 +3,7 @@ title: ferality.per_willpower
 aliases: []
 type: rule
 summary: "Retired 9/28: capacity is Intuition × ferality.per_intuition + base now."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.per_willpower
 table: rules

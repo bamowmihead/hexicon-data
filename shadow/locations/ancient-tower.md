@@ -3,7 +3,7 @@ title: Ancient Tower
 aliases: []
 type: location
 summary: "*First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> A hexagonal stone tower rises from the base of a cliff wall."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 8
 table: locations

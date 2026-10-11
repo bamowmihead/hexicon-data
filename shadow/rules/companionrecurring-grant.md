@@ -3,7 +3,7 @@ title: companion.recurring_grant
 aliases: []
 type: rule
 summary: Bond points granted at End Session for each companion that survived the session, unbroken.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: companion.recurring_grant
 table: rules

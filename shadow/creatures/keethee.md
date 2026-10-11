@@ -3,7 +3,7 @@ title: Keethee
 aliases: []
 type: creature
 summary: Arborist shaman of the Keethee — telekinesis and telepathy, riding an elder gimler.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b0b597
 table: creature_types

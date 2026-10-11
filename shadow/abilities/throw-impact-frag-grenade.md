@@ -3,7 +3,7 @@ title: Throw Impact Frag Grenade
 aliases: []
 type: ability
 summary: Goes off the instant it lands — there is no fuse and nothing to run from.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-frag-grenade-impact
 table: creature_abilities

@@ -3,7 +3,7 @@ title: Ichor deviation
 aliases: []
 type: condition-track
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: "soul:ichor"
 table: condition_tracks

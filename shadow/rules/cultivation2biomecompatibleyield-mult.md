@@ -3,7 +3,7 @@ title: cultivation2.biome.compatible.yield_mult
 aliases: []
 type: rule
 summary: "A compatible biome: the plant's Overgrowth yield × this (handoff §2 'produces more')."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cultivation2.biome.compatible.yield_mult
 table: rules

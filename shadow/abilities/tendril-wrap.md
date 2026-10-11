@@ -3,7 +3,7 @@ title: Tendril Wrap
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-f41541
 table: creature_abilities

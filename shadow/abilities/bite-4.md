@@ -3,7 +3,7 @@ title: Bite
 aliases: []
 type: ability
 summary: 1m — 3d8 Crushing, +1 die vs grappled
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-07-s3-bite
 table: creature_abilities

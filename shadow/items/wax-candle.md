@@ -3,7 +3,7 @@ title: Wax Candle
 aliases: []
 type: consumable
 summary: 1m radius light.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-6a4563
 table: consumables

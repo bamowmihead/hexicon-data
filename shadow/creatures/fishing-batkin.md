@@ -3,11 +3,11 @@ title: Fishing Batkin
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-batkin-fishing-base
 table: creature_types
-links: 4
+links: 5
 ---
 
 # Fishing Batkin
@@ -50,6 +50,7 @@ links: 4
 
 Linked from:
 
+- ← [[questions/dd8510a4-27d5-483a-9516-46493bb9b859]] (about, w=3)
 - ← [[creatures/fishing-batkin-anti-air]] (parent, w=3)
 - ← [[creatures/fishing-batkin-bomber]] (parent, w=3)
 - ← [[creatures/fishing-batkin-dropper]] (parent, w=3)

@@ -3,7 +3,7 @@ title: Glaive
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-5db154
 table: armaments

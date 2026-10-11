@@ -3,11 +3,11 @@ title: Berserker 2.0
 aliases: []
 type: vocation
 summary: Unreleased.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: voc-berserker-2
 table: vocations
-links: 2
+links: 3
 ---
 
 # Berserker 2.0
@@ -31,7 +31,9 @@ Unreleased.
 
 Linked from:
 
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (about, w=3)
 - ← [[companions/beast]] (practices, w=3)
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (mentions, w=1)
 
 ## Inferred
 

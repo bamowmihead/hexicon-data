@@ -3,7 +3,7 @@ title: Young Amber Fir Field
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> The path opens into a field of tall yellow ferns, waist-high and dens…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 38
 table: locations

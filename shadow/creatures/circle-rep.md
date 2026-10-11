@@ -3,7 +3,7 @@ title: Circle Rep
 aliases: []
 type: creature
 summary: "[STUB]"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-674abe
 table: creature_types

@@ -3,7 +3,7 @@ title: Bowling Beetle
 aliases: []
 type: creature
 summary: Small beetle with a broad armored head plate and a dark metallic sheen.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-64a35c
 table: creature_types

@@ -3,7 +3,7 @@ title: Staggered
 aliases: []
 type: status-condition
 summary: Target loses next reaction; flat-footed for 1 round.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-staggered
 table: status_conditions

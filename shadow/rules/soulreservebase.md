@@ -3,7 +3,7 @@ title: soul.reserve.base
 aliases: []
 type: rule
 summary: Reserve capacity = Intuition × per_intuition + this.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.reserve.base
 table: rules

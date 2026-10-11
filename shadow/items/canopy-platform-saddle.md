@@ -3,7 +3,7 @@ title: Canopy Platform Saddle
 aliases: []
 type: equipment
 summary: +4 passengers · +4 saddlebag slots · −2 Speed.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-96c099
 table: equipment

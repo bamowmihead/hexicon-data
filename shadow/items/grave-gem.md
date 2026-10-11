@@ -3,7 +3,7 @@ title: Grave Gem
 aliases: []
 type: gear
 summary: Solid ichor holding anima.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gear-soul-grave-gem
 table: gear

@@ -3,7 +3,7 @@ title: Ork Zombie
 aliases: []
 type: creature
 summary: A dead ork still swinging.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-3a529b
 table: creature_types

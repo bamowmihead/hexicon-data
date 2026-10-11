@@ -3,7 +3,7 @@ title: Bodkin Bolts
 aliases: []
 type: consumable
 summary: Armor-piercing crossbow bolts (bodkin tips).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-c91694
 table: consumables

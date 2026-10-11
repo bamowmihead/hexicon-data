@@ -3,7 +3,7 @@ title: Acid Vial
 aliases: []
 type: consumable
 summary: "2 AP thrown: 2d6 acid, 2 m radius, range 7 + Might m."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-gg-acid
 table: consumables

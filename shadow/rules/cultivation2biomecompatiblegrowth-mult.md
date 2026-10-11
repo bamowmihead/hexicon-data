@@ -3,7 +3,7 @@ title: cultivation2.biome.compatible.growth_mult
 aliases: []
 type: rule
 summary: "A compatible biome: growth this many times faster (the interval divided by it)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cultivation2.biome.compatible.growth_mult
 table: rules

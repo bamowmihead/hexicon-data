@@ -3,7 +3,7 @@ title: Fire Stick (Line)
 aliases: []
 type: ability
 summary: A 6 m long, 1 m thick line of fire, 2d6.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-firestick-line
 table: creature_abilities

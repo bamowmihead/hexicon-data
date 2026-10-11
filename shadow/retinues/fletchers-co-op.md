@@ -3,7 +3,7 @@ title: "Fletcher's Co-op"
 aliases: []
 type: retinue-template
 summary: A democratic hobbit co-op harvesting vole-iron while trying to keep the apex alive.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-aff2c6
 table: retinue_templates

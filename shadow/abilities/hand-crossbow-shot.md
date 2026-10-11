@@ -3,7 +3,7 @@ title: Hand Crossbow Shot
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-6699d5
 table: creature_abilities

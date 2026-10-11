@@ -3,11 +3,11 @@ title: Mordant
 aliases: []
 type: creature
 summary: Sensate lead of the Exiled Chapter — husk heresy, both arts.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b89ba6
 table: creature_types
-links: 6
+links: 7
 ---
 
 # Mordant
@@ -64,6 +64,8 @@ Sensate lead of the Exiled Chapter — husk heresy, both arts.
 
 Linked from:
 
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 - ← [[retinues/the-exiled-chapter]] (mentions, w=1)
 
 ## Inferred

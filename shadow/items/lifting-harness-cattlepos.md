@@ -3,7 +3,7 @@ title: Lifting Harness (Cattlepos)
 aliases: []
 type: equipment
 summary: "Rigging: the mount can be lifted by block & tackle."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-0ff993
 table: equipment

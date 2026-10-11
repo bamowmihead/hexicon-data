@@ -3,7 +3,7 @@ title: Dropped Rock
 aliases: []
 type: armament
 summary: A rock, carried up and let go of.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-batkin-dropped-rock
 table: armaments

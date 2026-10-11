@@ -3,7 +3,7 @@ title: Basic Saddle (Cattlepos)
 aliases: []
 type: equipment
 summary: +2 passengers · +2 saddlebag slots.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-bb7bbb
 table: equipment

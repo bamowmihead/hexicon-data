@@ -3,7 +3,7 @@ title: Psionic Walnut (Scout)
 aliases: []
 type: ability
 summary: Scout a 1 km radius.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-walnut-scout
 table: creature_abilities

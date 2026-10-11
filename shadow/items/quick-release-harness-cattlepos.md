@@ -3,7 +3,7 @@ title: Quick-Release Harness (Cattlepos)
 aliases: []
 type: equipment
 summary: Cart harness that releases the beast for 1 AP.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-7b5d1f
 table: equipment

@@ -3,7 +3,7 @@ title: The Fungal Research Unit
 aliases: []
 type: retinue-template
 summary: The Academy/Runite fungal-ecology expedition — a reckless team of scholars, elementalists, and the Red Bands mercenaries hired to protect them while they study…
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-de3fd7
 table: retinue_templates

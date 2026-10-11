@@ -3,7 +3,7 @@ title: Goblin Glass Spear
 aliases: []
 type: armament
 summary: Fine goblin steel inlaid with goblin glass, like gemstones.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-gg-spear
 table: armaments

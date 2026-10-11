@@ -3,7 +3,7 @@ title: soul.encase_at_speed
 aliases: []
 type: rule
 summary: "Hardened by umbra to this Speed or below: Encased (chart Y)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.encase_at_speed
 table: rules

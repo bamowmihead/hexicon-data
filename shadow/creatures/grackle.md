@@ -3,11 +3,11 @@ title: Grackle
 aliases: []
 type: creature
 summary: Page
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-93970c
 table: creature_types
-links: 1
+links: 2
 ---
 
 # Grackle
@@ -52,6 +52,11 @@ Page
 ## Links
 
 - mentions → [[creatures/page]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (about, w=3)
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (mentions, w=1)
 
 ## Inferred
 

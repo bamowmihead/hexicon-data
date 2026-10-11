@@ -3,7 +3,7 @@ title: Roly Poly Salad
 aliases: []
 type: consumable
 summary: Fresh special ration.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-af946c
 table: consumables

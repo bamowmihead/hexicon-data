@@ -3,7 +3,7 @@ title: Khopesh Slash
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-7394f1
 table: creature_abilities

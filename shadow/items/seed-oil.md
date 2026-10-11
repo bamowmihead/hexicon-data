@@ -3,7 +3,7 @@ title: Seed Oil
 aliases: []
 type: consumable
 summary: Cheapest fuel.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-779c0b
 table: consumables

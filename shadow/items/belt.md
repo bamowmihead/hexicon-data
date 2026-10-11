@@ -3,11 +3,11 @@ title: Belt
 aliases: []
 type: equipment
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-kit-belt
 table: equipment
-links: 0
+links: 1
 ---
 
 # Belt
@@ -22,6 +22,11 @@ links: 0
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/55832605-62c3-4959-a56e-4138a2ffe6cc]] (about, w=3)
+- ← [[questions/55832605-62c3-4959-a56e-4138a2ffe6cc]] (mentions, w=1)
 
 ## Inferred
 

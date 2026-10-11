@@ -3,7 +3,7 @@ title: ferality.decay_per_round
 aliases: []
 type: rule
 summary: "Lost each combat round: the PC's Willpower (his working idea; a number also works here)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.decay_per_round
 table: rules

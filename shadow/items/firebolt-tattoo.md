@@ -3,7 +3,7 @@ title: Firebolt Tattoo
 aliases: []
 type: equipment
 summary: Banks heat from a fire into a gem, then releases a heat wave that flashes oxygen-rich air to flame.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-9cc8f1
 table: equipment

@@ -3,7 +3,7 @@ title: Snot Pots
 aliases: []
 type: cultivation-card
 summary: An orange pitcher plant containing green sticky caustic liquid
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-10
 table: cultivations

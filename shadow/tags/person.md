@@ -3,7 +3,7 @@ title: Person
 aliases: []
 type: tag
 summary: A people, not an animal.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 1
 table: tags

@@ -3,7 +3,7 @@ title: Galium
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: nc-5a25bc
 table: creature_types

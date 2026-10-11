@@ -3,7 +3,7 @@ title: Goblin Seed Oil
 aliases: []
 type: consumable
 summary: 1 AP to use, then 1 AP to cultivate.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-gg-seedoil
 table: consumables

@@ -3,11 +3,11 @@ title: Ferry Landing
 aliases: []
 type: location
 summary: "*First visited: Expedition #* * [x] \\[x] A palisade of rough timber and a handful of tents on completely barren soil — not a single plant growing inside the per…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 46
 table: locations
-links: 16
+links: 17
 hub: true
 ---
 
@@ -55,6 +55,7 @@ hub: true
 
 Linked from:
 
+- ← [[questions/9a396cb8-e5da-4542-a24e-6c0db975bee7]] (about, w=3)
 - ← [[creatures/academy-rep]] (mentions, w=1)
 - ← [[creatures/church-rep]] (mentions, w=1)
 - ← [[creatures/circle-rep]] (mentions, w=1)
@@ -62,6 +63,7 @@ Linked from:
 - ← [[locations/black-stone]] (mentions, w=1)
 - ← [[locations/snotling-tribe]] (mentions, w=1)
 - ← [[locations/wet-flower-field]] (mentions, w=1)
+- ← [[questions/9a396cb8-e5da-4542-a24e-6c0db975bee7]] (mentions, w=1)
 
 ## Inferred
 

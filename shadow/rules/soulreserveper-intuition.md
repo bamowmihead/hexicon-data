@@ -3,7 +3,7 @@ title: soul.reserve.per_intuition
 aliases: []
 type: rule
 summary: "Reserve capacity = Intuition × this + base (Reece, 9/27: supersedes × 2 + 10)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.reserve.per_intuition
 table: rules

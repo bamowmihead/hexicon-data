@@ -3,7 +3,7 @@ title: Keethee Arborist
 aliases: []
 type: creature
 summary: Gimler-mounted arborist goblin of the shared Keethee mind.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-7e6e08
 table: creature_types

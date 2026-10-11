@@ -3,7 +3,7 @@ title: Extra Scabbard
 aliases: []
 type: equipment
 summary: Equip an extra versatile or 1-Hand weapon or two Light weapons
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-2cbd38
 table: equipment

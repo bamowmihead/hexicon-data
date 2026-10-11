@@ -3,11 +3,11 @@ title: Wetland Shoreline
 aliases: []
 type: biome
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 16
 table: biomes
-links: 0
+links: 1
 ---
 
 # Wetland Shoreline
@@ -28,6 +28,10 @@ links: 0
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/ae443999-438b-4ca9-9504-daaa22026790]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: The Cheese Collective
 aliases: []
 type: retinue-template
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-93fc9e
 table: retinue_templates

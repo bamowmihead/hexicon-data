@@ -3,7 +3,7 @@ title: Cargo Canopy
 aliases: []
 type: equipment
 summary: "Cart: cargo shelter Open → Covered (protects cargo from weather)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-74833c
 table: equipment

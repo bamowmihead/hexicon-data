@@ -3,7 +3,7 @@ title: Tincture Base
 aliases: []
 type: consumable
 summary: Brew base for Tinctures.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-base-tincture
 table: consumables

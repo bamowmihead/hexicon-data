@@ -3,7 +3,7 @@ title: cultivation2.accelerate.reagents_per_level
 aliases: []
 type: rule
 summary: Reagents spent to grow a plant one level now.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cultivation2.accelerate.reagents_per_level
 table: rules

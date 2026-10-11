@@ -3,11 +3,11 @@ title: companion.death_penalty_points
 aliases: []
 type: rule
 summary: "Points taken off a bond's ledger when its companion dies (Reece: 'subtract some points'; the amount is Claude's)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: companion.death_penalty_points
 table: rules
-links: 1
+links: 2
 ---
 
 # companion.death_penalty_points
@@ -28,6 +28,11 @@ Points taken off a bond's ledger when its companion dies (Reece: 'subtract some 
 ## Links
 
 - mentions → [[companions/companion]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/cb831a84-ca58-46d6-9add-730c037a4ab8]] (about, w=3)
+- ← [[questions/cb831a84-ca58-46d6-9add-730c037a4ab8]] (mentions, w=1)
 
 ## Inferred
 

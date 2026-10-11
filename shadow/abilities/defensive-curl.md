@@ -3,7 +3,7 @@ title: Defensive Curl
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-e3d789
 table: creature_abilities

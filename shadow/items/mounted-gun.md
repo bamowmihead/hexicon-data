@@ -3,7 +3,7 @@ title: Mounted Gun
 aliases: []
 type: armament
 summary: A crew-served gun, carried into the fight on something bigger.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-batkin-mounted-gun
 table: armaments

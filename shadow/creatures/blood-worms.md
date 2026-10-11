@@ -3,7 +3,7 @@ title: Blood Worms
 aliases: []
 type: creature
 summary: Pale wormy things latching onto your legs the moment you wade in.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-9e41c0
 table: creature_types

@@ -3,7 +3,7 @@ title: Exploding Arrows
 aliases: []
 type: consumable
 summary: Special ammo.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-e61c20
 table: consumables

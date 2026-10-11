@@ -3,7 +3,7 @@ title: Tail Compaction Slap (Devastating)
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-1a9069
 table: creature_abilities

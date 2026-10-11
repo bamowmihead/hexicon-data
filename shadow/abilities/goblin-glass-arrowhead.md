@@ -3,7 +3,7 @@ title: Goblin Glass Arrowhead
 aliases: []
 type: ability
 summary: While these are nocked the bow deals PIERCING or LACERATING, shape-shifting at will.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-arrows-shape
 table: creature_abilities

@@ -3,7 +3,7 @@ title: Strength Brew
 aliases: []
 type: consumable
 summary: Alchemical brew that temporarily strengthens the drinker.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-9b05fd
 table: consumables

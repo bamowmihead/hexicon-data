@@ -3,7 +3,7 @@ title: Sparkle Berry Bush Seed
 aliases: []
 type: consumable
 summary: Plant from the Cultivation tab — sprouts a Sparkle Berry Bush.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-cult03
 table: consumables

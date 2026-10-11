@@ -3,7 +3,7 @@ title: Infusion
 aliases: []
 type: ability
 summary: Restore 1d4 Endurance to a target within 5m.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-e51bfc
 table: creature_abilities

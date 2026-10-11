@@ -3,7 +3,7 @@ title: Pike Thrust
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-9d6b69
 table: creature_abilities

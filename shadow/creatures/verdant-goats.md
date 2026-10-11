@@ -3,7 +3,7 @@ title: Verdant Goats
 aliases: []
 type: creature
 summary: Horse-sized goat with thick fur patterned to match the local foliage.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-95e47c
 table: creature_types

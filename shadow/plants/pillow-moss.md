@@ -3,7 +3,7 @@ title: Pillow Moss
 aliases: []
 type: cultivation-card
 summary: A plushy dark green moss as soft as a pillow
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-04
 table: cultivations

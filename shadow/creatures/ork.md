@@ -3,11 +3,11 @@ title: Ork
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ork-base
 table: creature_types
-links: 6
+links: 7
 ---
 
 # Ork
@@ -48,6 +48,7 @@ links: 6
 
 Linked from:
 
+- ← [[questions/cd2f3eb7-7e46-458b-83f4-c042ecd068d8]] (about, w=3)
 - ← [[creatures/ork-berserker]] (parent, w=3)
 - ← [[creatures/ork-pack-leader]] (parent, w=3)
 - ← [[creatures/ork-piker]] (parent, w=3)

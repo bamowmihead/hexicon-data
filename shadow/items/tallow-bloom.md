@@ -3,7 +3,7 @@ title: Tallow Bloom
 aliases: []
 type: consumable
 summary: Garden crop (base).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-aa207b
 table: consumables

@@ -3,7 +3,7 @@ title: Gimler (Young)
 aliases: []
 type: creature
 summary: A spindly thing barely the size of a squirrel.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b48f74
 table: creature_types

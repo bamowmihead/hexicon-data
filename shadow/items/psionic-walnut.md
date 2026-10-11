@@ -3,7 +3,7 @@ title: Psionic Walnut
 aliases: []
 type: gear
 summary: A psychoactive tree nut.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gea-gg-walnut
 table: gear

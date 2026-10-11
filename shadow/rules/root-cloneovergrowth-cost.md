@@ -3,7 +3,7 @@ title: root_clone.overgrowth_cost
 aliases: []
 type: rule
 summary: "Overgrowth to grow a root clone, before the symbiote's discount."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: root_clone.overgrowth_cost
 table: rules

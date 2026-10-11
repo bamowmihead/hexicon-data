@@ -3,11 +3,11 @@ title: Rot Hornet Hive
 aliases: []
 type: location
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 39
 table: locations
-links: 0
+links: 1
 ---
 
 # Rot Hornet Hive
@@ -26,6 +26,11 @@ links: 0
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/e067e1f9-3bc0-4646-981d-af6abc852e70]] (about, w=3)
+- ← [[questions/e067e1f9-3bc0-4646-981d-af6abc852e70]] (mentions, w=1)
 
 ## Inferred
 

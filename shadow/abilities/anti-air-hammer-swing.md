@@ -3,7 +3,7 @@ title: Anti-air Hammer Swing
 aliases: []
 type: ability
 summary: Two-handed, and a metre longer in the reach than a warhammer.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-antiair-hammer
 table: creature_abilities

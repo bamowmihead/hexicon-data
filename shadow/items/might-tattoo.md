@@ -3,7 +3,7 @@ title: Might Tattoo
 aliases: []
 type: equipment
 summary: Soul-Force tattoo — spend to enhance Might (1 use/combat).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-356460
 table: equipment

@@ -3,7 +3,7 @@ title: Tongue Grapple
 aliases: []
 type: ability
 summary: 5m — pull self to Large targets or smaller targets to self; grappled take double Spit damage
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-10-s2-tongue-grapple
 table: creature_abilities

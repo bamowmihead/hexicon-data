@@ -3,7 +3,7 @@ title: Wide Wheels
 aliases: []
 type: equipment
 summary: "Cart: Soft-Ground Speed 2 → 4 (matches road speed; huge in wetland)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-e1ed8c
 table: equipment

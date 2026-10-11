@@ -3,7 +3,7 @@ title: "Alchemist's Kit"
 aliases: []
 type: equipment
 summary: The working kit for brewing — required for base-crafting like rendering tar.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-alchemist-kit
 table: equipment

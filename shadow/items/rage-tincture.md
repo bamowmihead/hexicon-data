@@ -3,7 +3,7 @@ title: Rage Tincture
 aliases: []
 type: consumable
 summary: A tincture that sends the drinker into a combat rage.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-a12293
 table: consumables

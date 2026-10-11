@@ -3,7 +3,7 @@ title: Oasis Maw
 aliases: []
 type: creature
 summary: "You don't see this creature."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-65e7b4
 table: creature_types

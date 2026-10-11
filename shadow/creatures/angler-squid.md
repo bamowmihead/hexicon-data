@@ -3,7 +3,7 @@ title: Angler Squid
 aliases: []
 type: creature
 summary: Translucent.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-631be8
 table: creature_types

@@ -3,7 +3,7 @@ title: Black Company Pikeman
 aliases: []
 type: creature
 summary: Partisan and nothing else.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-bc-pikeman
 table: creature_types

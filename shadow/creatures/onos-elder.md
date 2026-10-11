@@ -3,7 +3,7 @@ title: Onos (Elder)
 aliases: []
 type: creature
 summary: Fills a large chamber doorway crown-edge to crown-edge.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b77c24
 table: creature_types

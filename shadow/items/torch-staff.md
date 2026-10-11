@@ -3,7 +3,7 @@ title: Torch Staff
 aliases: []
 type: equipment
 summary: A torch mounted on a staff, made to be stabbed into the earthen floor to light an area.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-2d943d
 table: equipment

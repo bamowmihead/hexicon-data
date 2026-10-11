@@ -3,7 +3,7 @@ title: Invisible
 aliases: []
 type: status-condition
 summary: Target cannot be seen; attacks against gain disadvantage.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-invisible
 table: status_conditions

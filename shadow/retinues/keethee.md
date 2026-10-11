@@ -3,11 +3,11 @@ title: Keethee
 aliases: []
 type: retinue-template
 summary: Arborist goblins who share one telepathic identity, riding gimler mounts.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-bea2a4
 table: retinue_templates
-links: 3
+links: 4
 ---
 
 # Keethee
@@ -35,6 +35,7 @@ Linked from:
 
 - ← [[creatures/keethee]] (mentions, w=1)
 - ← [[creatures/keethee-arborist]] (mentions, w=1)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

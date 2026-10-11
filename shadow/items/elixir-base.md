@@ -3,7 +3,7 @@ title: Elixir Base
 aliases: []
 type: consumable
 summary: Brew base for Elixirs — requires acid; some can be made from saltpeter.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-base-elixir
 table: consumables

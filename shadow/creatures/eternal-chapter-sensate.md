@@ -3,11 +3,11 @@ title: Eternal Chapter Sensate
 aliases: []
 type: creature
 summary: "[STUB]"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-1e4f2d
 table: creature_types
-links: 2
+links: 3
 ---
 
 # Eternal Chapter Sensate
@@ -57,6 +57,11 @@ links: 2
 
 - mentions → [[retinues/the-eternal-chapter]] (w=1, prose)
 - mentions → [[trees/channeler]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

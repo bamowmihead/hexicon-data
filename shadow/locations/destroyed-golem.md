@@ -3,11 +3,11 @@ title: Destroyed Golem
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | The Gi…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 16
 table: locations
-links: 3
+links: 4
 ---
 
 # Destroyed Golem
@@ -43,6 +43,7 @@ links: 3
 
 Linked from:
 
+- ← [[questions/ae443999-438b-4ca9-9504-daaa22026790]] (about, w=3)
 - ← [[locations/skipper-huddle]] (mentions, w=1)
 
 ## Inferred

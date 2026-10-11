@@ -3,7 +3,7 @@ title: test consumable
 aliases: []
 type: consumable
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cons-cba455
 table: consumables

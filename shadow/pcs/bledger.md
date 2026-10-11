@@ -3,11 +3,11 @@ title: Bledger
 aliases: []
 type: pc
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: pc-193c2a
 table: pcs
-links: 6
+links: 11
 ---
 
 # Bledger
@@ -51,8 +51,17 @@ links: 6
 
 Linked from:
 
-- ← [[questions/why]] (about, w=3)
+- ← [[questions/6b91e183-16a3-4f00-9a7f-9b45d95e6647]] (about, w=3)
+- ← [[questions/b426f22f-1009-4eec-a8e6-b291710389f5]] (about, w=3)
+- ← [[questions/b9b90f67-1c10-4012-a1c2-8a1db25eaa8b]] (about, w=3)
+- ← [[questions/c9a00a5a-f57e-49d9-bdce-8fcf78550d3e]] (about, w=3)
+- ← [[questions/q-dac4562c23d59d42]] (about, w=3)
 - ← [[locations/flower-field]] (mentions, w=1)
+- ← [[questions/6b91e183-16a3-4f00-9a7f-9b45d95e6647]] (mentions, w=1)
+- ← [[questions/b426f22f-1009-4eec-a8e6-b291710389f5]] (mentions, w=1)
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (mentions, w=1)
+- ← [[questions/b9b90f67-1c10-4012-a1c2-8a1db25eaa8b]] (mentions, w=1)
+- ← [[questions/c9a00a5a-f57e-49d9-bdce-8fcf78550d3e]] (mentions, w=1)
 
 ## Inferred
 

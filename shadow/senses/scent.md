@@ -3,7 +3,7 @@ title: Scent
 aliases: []
 type: sense
 summary: Smells reactive material — powder, and the charges built out of it.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sense-scent
 table: sense_kinds

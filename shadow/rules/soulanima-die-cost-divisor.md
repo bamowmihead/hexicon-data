@@ -3,7 +3,7 @@ title: soul.anima_die_cost_divisor
 aliases: []
 type: rule
 summary: Anima infused from the Reserve costs die size ÷ this (d4 = 2, d6 = 3).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.anima_die_cost_divisor
 table: rules

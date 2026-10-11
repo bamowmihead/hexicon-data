@@ -3,7 +3,7 @@ title: Shallow water
 aliases: []
 type: ground-paint
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gp-shallow-water
 table: ground_paints

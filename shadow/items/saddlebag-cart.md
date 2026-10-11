@@ -3,7 +3,7 @@ title: Saddlebag (Cart)
 aliases: []
 type: equipment
 summary: Cart-scale bag — fixed 50 lb (decoupled from the size formula).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-8a36bb
 table: equipment

@@ -3,7 +3,7 @@ title: Beached Corpse
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- *(To be written)* --- *(To be written)*"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 10
 table: locations

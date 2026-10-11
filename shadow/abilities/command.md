@@ -3,7 +3,7 @@ title: Command
 aliases: []
 type: ability
 summary: "+1 damage to members of the Commander's own RETINUE within 15 m — retinue membership plus a radius, not whoever happens to be standing close."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-command
 table: creature_abilities

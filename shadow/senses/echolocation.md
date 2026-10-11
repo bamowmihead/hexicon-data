@@ -3,7 +3,7 @@ title: Echolocation
 aliases: []
 type: sense
 summary: Nineteen Batkin already have this at 30 m.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sense-echolocation
 table: sense_kinds

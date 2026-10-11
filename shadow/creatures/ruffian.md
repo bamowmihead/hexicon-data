@@ -3,7 +3,7 @@ title: Ruffian
 aliases: []
 type: creature
 summary: Guild-adjacent mercenaries from Riftstone.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-0e9022
 table: creature_types

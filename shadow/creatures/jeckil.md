@@ -3,11 +3,11 @@ title: Jeckil
 aliases: []
 type: creature
 summary: The anxious Aeromancer whose air-bubble keeps the spores at bay.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-346370
 table: creature_types
-links: 3
+links: 4
 ---
 
 # Jeckil
@@ -58,6 +58,11 @@ The anxious Aeromancer whose air-bubble keeps the spores at bay.
 - mentions → [[items/gem-jewelry]] (w=1, prose)
 - mentions → [[items/hazmat-robes]] (w=1, prose)
 - mentions → [[items/hooded-lantern]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

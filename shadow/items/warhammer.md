@@ -3,11 +3,11 @@ title: Warhammer
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-4a4678
 table: armaments
-links: 4
+links: 5
 ---
 
 # Warhammer
@@ -30,9 +30,11 @@ links: 4
 
 Linked from:
 
+- ← [[questions/4639cb8a-cc6e-4303-a595-5394f2d1655a]] (about, w=3)
 - ← [[abilities/anti-air-hammer-swing]] (mentions, w=1)
 - ← [[creatures/ork-pack-leader]] (mentions, w=1)
 - ← [[items/anti-air-hammer]] (mentions, w=1)
+- ← [[questions/4639cb8a-cc6e-4303-a595-5394f2d1655a]] (mentions, w=1)
 
 ## Inferred
 

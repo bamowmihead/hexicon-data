@@ -3,7 +3,7 @@ title: Fire Whip
 aliases: []
 type: armament
 summary: A five-metre lash of fire.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-ork-firewhip
 table: armaments

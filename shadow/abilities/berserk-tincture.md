@@ -3,7 +3,7 @@ title: Berserk Tincture
 aliases: []
 type: ability
 summary: +1 trance stage, and +2 damage and +2 speed for the rest of combat — all applied by the engine when you drink it.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-berserk
 table: creature_abilities

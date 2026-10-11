@@ -3,7 +3,7 @@ title: Bore Weasels (Swarm)
 aliases: []
 type: creature
 summary: Rat-sized weasels with dull brown-black fur.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-931d7d
 table: creature_types

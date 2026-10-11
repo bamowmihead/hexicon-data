@@ -3,11 +3,11 @@ title: Quiver
 aliases: []
 type: equipment
 summary: Required for Bows & Crossbows
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-381924
 table: equipment
-links: 0
+links: 1
 ---
 
 # Quiver
@@ -32,6 +32,10 @@ Required for Bows & Crossbows
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/8c3bb7d6-8b62-48cb-95b2-70fa24e96a02]] (about, w=3)
 
 ## Inferred
 

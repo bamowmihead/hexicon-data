@@ -3,7 +3,7 @@ title: Timber Knot Hovel
 aliases: []
 type: location
 summary: "*First visited: Expedition #* * [ ] \\[ ] <details open><summary>[ ] Scene</summary><p>A large fir dominates a clearing, its trunk covered in hardened amber grow…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 30
 table: locations

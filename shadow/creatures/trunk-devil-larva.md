@@ -3,7 +3,7 @@ title: Trunk Devil (Larva)
 aliases: []
 type: creature
 summary: Forearm-sized grubs burrowed into amber fir bark.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-9fc730
 table: creature_types

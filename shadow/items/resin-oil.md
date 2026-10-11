@@ -3,7 +3,7 @@ title: Resin Oil
 aliases: []
 type: consumable
 summary: Standard fuel.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-6b3ce3
 table: consumables

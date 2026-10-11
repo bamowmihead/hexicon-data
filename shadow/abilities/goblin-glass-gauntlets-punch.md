@@ -3,7 +3,7 @@ title: Goblin Glass Gauntlets Punch
 aliases: []
 type: ability
 summary: 1d4+1 bludgeoning.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-gauntlets
 table: creature_abilities

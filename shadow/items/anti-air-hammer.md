@@ -3,7 +3,7 @@ title: Anti-air Hammer
 aliases: []
 type: armament
 summary: A long two-handed hammer for swatting things out of the air.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-batkin-antiair-hammer
 table: armaments

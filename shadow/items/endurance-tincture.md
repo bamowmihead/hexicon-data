@@ -3,7 +3,7 @@ title: Endurance Tincture
 aliases: []
 type: consumable
 summary: Restores 6 Endurance (Blackthorn).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-28ada7
 table: consumables

@@ -3,7 +3,7 @@ title: Saddlebag (Cattlepos)
 aliases: []
 type: equipment
 summary: Fills one saddle bag-slot.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-7d6334
 table: equipment

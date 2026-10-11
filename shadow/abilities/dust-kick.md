@@ -3,7 +3,7 @@ title: Dust Kick
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-f5cd1d
 table: creature_abilities

@@ -3,7 +3,7 @@ title: Acid Spray (Devastating)
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-edd979
 table: creature_abilities

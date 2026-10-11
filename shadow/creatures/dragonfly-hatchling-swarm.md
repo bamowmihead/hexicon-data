@@ -3,7 +3,7 @@ title: Dragonfly (Hatchling Swarm)
 aliases: []
 type: creature
 summary: The water moves wrong.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-834228
 table: creature_types

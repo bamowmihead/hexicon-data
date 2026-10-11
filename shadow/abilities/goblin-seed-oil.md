@@ -3,7 +3,7 @@ title: Goblin Seed Oil
 aliases: []
 type: ability
 summary: The next cultivation cast grows straight to BLOOMING.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-seedoil
 table: creature_abilities

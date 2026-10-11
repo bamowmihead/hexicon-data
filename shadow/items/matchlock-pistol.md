@@ -3,7 +3,7 @@ title: Matchlock Pistol
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-4af4d0
 table: armaments

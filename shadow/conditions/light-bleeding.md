@@ -3,7 +3,7 @@ title: Light Bleeding
 aliases: []
 type: status-condition
 summary: Bleeding from a shallow wound — 2 Endurance at the end of every round until it is stopped.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-bleeding-light
 table: status_conditions

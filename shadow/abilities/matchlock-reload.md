@@ -3,11 +3,11 @@ title: Matchlock Reload
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-ba66e1
 table: creature_abilities
-links: 4
+links: 5
 ---
 
 # Matchlock Reload
@@ -45,10 +45,12 @@ links: 4
 
 Linked from:
 
+- ← [[questions/19148d22-fa09-406b-8735-7d9689d35e94]] (about, w=3)
 - ← [[items/matchlock-blunderbuss]] (relation, w=3)
 - ← [[items/matchlock-musket]] (relation, w=3)
 - ← [[items/matchlock-pistol]] (relation, w=3)
 - ← [[items/matchlock-speargun]] (relation, w=3)
+- ← [[questions/19148d22-fa09-406b-8735-7d9689d35e94]] (mentions, w=1)
 
 ## Inferred
 

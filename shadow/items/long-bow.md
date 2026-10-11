@@ -3,11 +3,11 @@ title: Long Bow
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-7a1540
 table: armaments
-links: 6
+links: 7
 ---
 
 # Long Bow
@@ -31,11 +31,13 @@ links: 6
 
 Linked from:
 
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (about, w=3)
 - ← [[creatures/briar]] (mentions, w=1)
 - ← [[creatures/eska]] (mentions, w=1)
 - ← [[creatures/fishing-batkin-sniper]] (mentions, w=1)
 - ← [[creatures/ork-sniper]] (mentions, w=1)
 - ← [[creatures/sennick]] (mentions, w=1)
+- ← [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] (mentions, w=1)
 
 ## Inferred
 

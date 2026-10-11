@@ -3,7 +3,7 @@ title: Quipu
 aliases: []
 type: equipment
 summary: Quipu — a story item given by the goblins to prove the bearer is a friend of the goblins.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-e2d010
 table: equipment

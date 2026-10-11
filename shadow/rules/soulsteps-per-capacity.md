@@ -3,7 +3,7 @@ title: soul.steps_per_capacity
 aliases: []
 type: rule
 summary: Deviation step width = soul capacity ÷ this; the centre band is normal.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.steps_per_capacity
 table: rules

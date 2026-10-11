@@ -3,11 +3,11 @@ title: Cattlepos
 aliases: []
 type: creature
 summary: A massive nearly elephant-sized creature with thick matted fur.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-8ad790
 table: creature_types
-links: 1
+links: 2
 ---
 
 # Cattlepos
@@ -59,6 +59,10 @@ A massive nearly elephant-sized creature with thick matted fur.
 ## Links
 
 - mentions → [[items/mace]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/55ab9b93-6f21-4ec3-9810-f5e7a35b98f5]] (about, w=3)
 
 ## Inferred
 

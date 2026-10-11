@@ -3,7 +3,7 @@ title: Seed Bag
 aliases: []
 type: equipment
 summary: "A ranger's soft-sided pouch of labeled seed papers and spore vials."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-seedbag
 table: equipment

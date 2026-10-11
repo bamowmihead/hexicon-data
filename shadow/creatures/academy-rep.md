@@ -3,7 +3,7 @@ title: Academy Rep
 aliases: []
 type: creature
 summary: "[STUB]"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-2f9ab5
 table: creature_types

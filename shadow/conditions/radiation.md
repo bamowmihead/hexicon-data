@@ -3,7 +3,7 @@ title: Radiation
 aliases: []
 type: condition-track
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: "toxin:radiation"
 table: condition_tracks

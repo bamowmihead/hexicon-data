@@ -3,11 +3,11 @@ title: Leela
 aliases: []
 type: creature
 summary: The decoy artificer — a canary, not a fighter.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-2562e9
 table: creature_types
-links: 2
+links: 3
 ---
 
 # Leela
@@ -57,6 +57,10 @@ The decoy artificer — a canary, not a fighter.
 
 - mentions → [[items/hand-crossbow]] (w=1, prose)
 - mentions → [[retinues/the-black-company]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Bog Stalker Ponds
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** *(To be written)* --- *(To be written)* --- | Destination | Biome | Path Type | | --- | --- | --- | | The Go…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 5
 table: locations

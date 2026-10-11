@@ -3,7 +3,7 @@ title: Stalker Bat
 aliases: []
 type: trance-card
 summary: An eagle-sized bat with an anesthetic bite
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-05
 table: trances

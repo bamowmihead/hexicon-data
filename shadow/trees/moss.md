@@ -3,11 +3,11 @@ title: Moss
 aliases: []
 type: tree
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: spec-habit-moss
 table: trees
-links: 16
+links: 17
 hub: true
 ---
 
@@ -25,6 +25,7 @@ hub: true
 
 Linked from:
 
+- ← [[questions/a2eee291-8bf8-40c8-a28c-862977db8f0c]] (about, w=3)
 - ← [[biomes/amber-undergrove]] (mentions, w=1)
 - ← [[biomes/amberwood]] (mentions, w=1)
 - ← [[biomes/deep-amber]] (mentions, w=1)
@@ -41,6 +42,7 @@ Linked from:
 - ← [[locations/timber-knot-hovel]] (mentions, w=1)
 - ← [[locations/verdant-watch]] (mentions, w=1)
 - ← [[plants/pillow-moss]] (mentions, w=1)
+- ← [[questions/a2eee291-8bf8-40c8-a28c-862977db8f0c]] (mentions, w=1)
 
 ## Inferred
 

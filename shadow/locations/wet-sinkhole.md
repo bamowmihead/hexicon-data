@@ -3,7 +3,7 @@ title: Wet Sinkhole
 aliases: []
 type: location
 summary: "The amber tree's open up into a muggy steamy marshland with willow trees, steaming water, and berry bushes hiding the ground in-between the various pools of wat…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 37
 table: locations

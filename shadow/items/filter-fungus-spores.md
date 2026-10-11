@@ -3,7 +3,7 @@ title: Filter Fungus Spores
 aliases: []
 type: consumable
 summary: Plant from the Cultivation tab — sprouts a Filter Fungus.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-cult08
 table: consumables

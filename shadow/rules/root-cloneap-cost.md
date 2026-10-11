@@ -3,7 +3,7 @@ title: root_clone.ap_cost
 aliases: []
 type: rule
 summary: AP to grow a root clone (handoff §4).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: root_clone.ap_cost
 table: rules

@@ -3,11 +3,11 @@ title: Sennick
 aliases: []
 type: creature
 summary: Druid lead who burns a hex to seed a new biome — ends justify the means.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-413b54
 table: creature_types
-links: 6
+links: 7
 ---
 
 # Sennick
@@ -63,7 +63,9 @@ Druid lead who burns a hex to seed a new biome — ends justify the means.
 
 Linked from:
 
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
 - ← [[creatures/briar]] (mentions, w=1)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 - ← [[retinues/the-ash-grove-company]] (mentions, w=1)
 
 ## Inferred

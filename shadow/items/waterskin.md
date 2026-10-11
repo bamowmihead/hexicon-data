@@ -3,7 +3,7 @@ title: Waterskin
 aliases: []
 type: equipment
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-kit-waterskin
 table: equipment

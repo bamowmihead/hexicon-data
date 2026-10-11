@@ -3,7 +3,7 @@ title: soul.default_die
 aliases: []
 type: rule
 summary: No foci = d4 (Reece, 2026-09-28).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.default_die
 table: rules

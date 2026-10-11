@@ -3,11 +3,11 @@ title: Staff
 aliases: []
 type: focus
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gear-soul-staff
 table: foci
-links: 3
+links: 4
 ---
 
 # Staff
@@ -26,6 +26,7 @@ links: 3
 Linked from:
 
 - ← [[items/torch-staff]] (mentions, w=1)
+- ← [[questions/8ef33c73-15dd-461a-b6b3-1a7997301d0d]] (mentions, w=1)
 - ← [[rules/souldefault-die]] (mentions, w=1)
 
 ## Inferred

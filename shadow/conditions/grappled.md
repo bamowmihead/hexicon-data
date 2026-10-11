@@ -3,7 +3,7 @@ title: Grappled
 aliases: []
 type: status-condition
 summary: "Target's movement reduced to 1; tier 1 of the grapple escalation."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-grappled
 table: status_conditions

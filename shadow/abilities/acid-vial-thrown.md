@@ -3,7 +3,7 @@ title: Acid Vial (Thrown)
 aliases: []
 type: ability
 summary: Thrown.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-acid-throw
 table: creature_abilities

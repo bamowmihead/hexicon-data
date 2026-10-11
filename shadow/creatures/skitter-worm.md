@@ -3,7 +3,7 @@ title: Skitter Worm
 aliases: []
 type: creature
 summary: A centipede as long as a tall human and thick as a thigh.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-9c1a60
 table: creature_types

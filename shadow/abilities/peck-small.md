@@ -3,7 +3,7 @@ title: Peck (Small)
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-1f184d
 table: creature_abilities

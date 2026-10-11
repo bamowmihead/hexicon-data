@@ -3,11 +3,11 @@ title: Trades
 aliases: []
 type: branch
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: brn-9b22f7
 table: branches
-links: 6
+links: 7
 ---
 
 # Trades
@@ -27,12 +27,14 @@ links: 6
 
 Linked from:
 
+- ← [[questions/824a8a28-9a83-4977-bfd0-f3f45d72705e]] (about, w=3)
 - ← [[creatures/oldin]] (has-branch, w=3)
 - ← [[creatures/walker]] (has-branch, w=3)
 - ← [[factions/the-guild]] (has-branch, w=3)
 - ← [[items/glow-vine-sap]] (mentions, w=1)
 - ← [[items/tallow-bloom]] (mentions, w=1)
 - ← [[locations/snotling-tribe]] (mentions, w=1)
+- ← [[questions/824a8a28-9a83-4977-bfd0-f3f45d72705e]] (mentions, w=1)
 
 ## Inferred
 

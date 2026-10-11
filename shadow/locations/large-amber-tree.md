@@ -3,7 +3,7 @@ title: Large Amber Tree
 aliases: []
 type: location
 summary: "*Needs description.* | The Bone Field | Deep Amber | Anaconda Path | | The Watcher's Post | Deep Amber | Anaconda Path |"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 6
 table: locations

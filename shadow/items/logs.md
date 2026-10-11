@@ -3,11 +3,11 @@ title: Logs
 aliases: []
 type: gear
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gea-logs
 table: gear
-links: 2
+links: 3
 ---
 
 # Logs
@@ -27,8 +27,10 @@ links: 2
 
 Linked from:
 
+- ← [[questions/f016856b-524e-43d1-b8bb-1229dabb963f]] (about, w=3)
 - ← [[creatures/rot-hornets]] (mentions, w=1)
 - ← [[locations/ferry-landing]] (mentions, w=1)
+- ← [[questions/f016856b-524e-43d1-b8bb-1229dabb963f]] (mentions, w=1)
 
 ## Inferred
 

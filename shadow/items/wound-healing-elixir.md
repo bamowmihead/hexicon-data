@@ -3,7 +3,7 @@ title: Wound-Healing Elixir
 aliases: []
 type: consumable
 summary: Heals 2 wounds.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-f7a1ef
 table: consumables

@@ -3,7 +3,7 @@ title: Long Sword Slash
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-68bba9
 table: creature_abilities

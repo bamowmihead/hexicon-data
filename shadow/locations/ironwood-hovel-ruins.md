@@ -3,11 +3,11 @@ title: Ironwood Hovel Ruins
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [x] **Visit 1** <details> <summary>[ ] Scene</summary> A massive fir dominates a small clearing, its dark green canopy close…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 21
 table: locations
-links: 19
+links: 21
 hub: true
 ---
 
@@ -62,6 +62,8 @@ hub: true
 
 Linked from:
 
+- ← [[questions/a5baf047-6e24-4ebf-a33c-198be67485ed]] (about, w=3)
+- ← [[questions/a9f8b9bd-8a20-4e71-906d-215df3ebd12f]] (about, w=3)
 - ← [[locations/cattlepos-cavern]] (mentions, w=1)
 - ← [[locations/verdant-watch]] (mentions, w=1)
 - ← [[locations/weeping-oasis]] (mentions, w=1)

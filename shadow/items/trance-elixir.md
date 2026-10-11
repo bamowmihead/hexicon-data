@@ -3,7 +3,7 @@ title: Trance Elixir
 aliases: []
 type: consumable
 summary: "Skar's elixir — while in trance it raises the drinker's max wound slots (+1)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-55261a
 table: consumables

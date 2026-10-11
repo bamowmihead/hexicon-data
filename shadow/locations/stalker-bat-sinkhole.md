@@ -3,7 +3,7 @@ title: Stalker Bat Sinkhole
 aliases: []
 type: location
 summary: "*First visited: Expedition #* * [ ] \\[ ] <details open><summary>[ ] Scene</summary><details open><summary>[ ] Callouts</summary><ul class=\"contains-task-list\"><…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 28
 table: locations

@@ -3,7 +3,7 @@ title: Gimler (Adult)
 aliases: []
 type: creature
 summary: Tall as a human at the shoulder, most of that height in the legs.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-97342a
 table: creature_types

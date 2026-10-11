@@ -3,7 +3,7 @@ title: Deep Amber — Day Rest
 aliases: []
 type: encounter-table
 summary: day_camp
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: enc-c81dc7
 table: encounter_tables

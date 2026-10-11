@@ -3,7 +3,7 @@ title: Glue Excretion
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-f4a9f9
 table: creature_abilities

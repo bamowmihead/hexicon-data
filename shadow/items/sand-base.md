@@ -3,7 +3,7 @@ title: Sand Base
 aliases: []
 type: consumable
 summary: Brew base for Sand covers — literally sand; find a river bed.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-base-sand
 table: consumables

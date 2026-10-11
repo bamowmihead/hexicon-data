@@ -3,7 +3,7 @@ title: Set Timed Charge
 aliases: []
 type: ability
 summary: PLACED, with a fuse anywhere from five rounds to two hours — set it from the inventory before or after it goes down.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-timed-charge
 table: creature_abilities

@@ -3,7 +3,7 @@ title: Snotling Tribe
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [x] **Visit 1** <details> <summary>[ ] Scene</summary> The valley wall rises ahead."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 27
 table: locations

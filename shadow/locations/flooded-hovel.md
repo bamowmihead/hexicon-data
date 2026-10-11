@@ -3,11 +3,11 @@ title: Flooded Hovel
 aliases: []
 type: location
 summary: "*** *First visited: Expedition #* * [ ] \\[ ] **Visit 1** <details open><summary>[ ] Scene</summary><p>The goblin path ends at the lip of a hole in the ground.</…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 17
 table: locations
-links: 20
+links: 21
 hub: true
 ---
 
@@ -58,6 +58,10 @@ hub: true
 - mentions → [[trees/algae]] (w=1, prose)
 - mentions → [[trees/moss]] (w=1, prose)
 - mentions → [[trees/vines]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/ae443999-438b-4ca9-9504-daaa22026790]] (about, w=3)
 
 ## Inferred
 

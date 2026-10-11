@@ -3,7 +3,7 @@ title: Loggerhead
 aliases: []
 type: creature
 summary: Thigh-high barrel-bodied animal, as wide as it is tall.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-9d47f4
 table: creature_types

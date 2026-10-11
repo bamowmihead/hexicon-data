@@ -3,7 +3,7 @@ title: Deafened
 aliases: []
 type: status-condition
 summary: Target cannot hear; auto-fails hearing-based checks.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-deafened
 table: status_conditions

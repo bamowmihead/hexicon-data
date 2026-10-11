@@ -3,7 +3,7 @@ title: session.vocation_points
 aliases: []
 type: rule
 summary: Awarded to each PC playing when a session ends.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: session.vocation_points
 table: rules

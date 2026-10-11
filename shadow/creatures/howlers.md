@@ -3,7 +3,7 @@ title: Howlers
 aliases: []
 type: creature
 summary: Small marsupial with a belly pouch and grasping hands.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-8d6b14
 table: creature_types

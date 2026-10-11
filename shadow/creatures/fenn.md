@@ -3,7 +3,7 @@ title: Fenn
 aliases: []
 type: creature
 summary: A well-trained page riding with the Iron Band.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-3c733d
 table: creature_types

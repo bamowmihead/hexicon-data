@@ -3,7 +3,7 @@ title: Acid Spit
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-3a2c5d
 table: creature_abilities

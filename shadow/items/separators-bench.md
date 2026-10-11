@@ -3,7 +3,7 @@ title: "Separator's Bench"
 aliases: []
 type: equipment
 summary: Trays, a fine sieve and a great deal of patience.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-separators-bench
 table: equipment

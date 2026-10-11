@@ -3,7 +3,7 @@ title: Tree Frog
 aliases: []
 type: trance-card
 summary: A slippery giant tree frog capable of spitting a flammable acid
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-10
 table: trances

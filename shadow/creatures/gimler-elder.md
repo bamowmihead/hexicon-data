@@ -3,7 +3,7 @@ title: Gimler (Elder)
 aliases: []
 type: creature
 summary: Taller than a horse and lean as a spear.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b8f360
 table: creature_types

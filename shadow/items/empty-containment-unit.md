@@ -3,7 +3,7 @@ title: Empty Containment Unit
 aliases: []
 type: equipment
 summary: "A 'pokeball'-type vessel that holds a creature as large as a Cattlepos alive and unharmed."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-9d9cd0
 table: equipment

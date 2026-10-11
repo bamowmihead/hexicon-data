@@ -3,7 +3,7 @@ title: ferality.hunting_gain
 aliases: []
 type: rule
 summary: Ferality gained by hunting, outside combat (handoff §2).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.hunting_gain
 table: rules

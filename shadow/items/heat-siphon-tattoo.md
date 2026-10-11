@@ -3,7 +3,7 @@ title: Heat-Siphon Tattoo
 aliases: []
 type: equipment
 summary: "Lieutenant's tattoo — pull heat from a grappled target (cryo) to charge an inlaid gem."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-7823e5
 table: equipment

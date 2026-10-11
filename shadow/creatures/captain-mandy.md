@@ -3,11 +3,11 @@ title: Captain Mandy
 aliases: []
 type: creature
 summary: "The Red Bands' captain, hired muscle keeping the reckless scholars alive."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-5b0ca2
 table: creature_types
-links: 4
+links: 5
 ---
 
 # Captain Mandy
@@ -62,6 +62,7 @@ The Red Bands' captain, hired muscle keeping the reckless scholars alive.
 Linked from:
 
 - ← [[creatures/red-band]] (mentions, w=1)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Shovel Claw
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-2aa29d
 table: creature_abilities

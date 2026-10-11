@@ -3,7 +3,7 @@ title: Blood Tendril Grab
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-e97671
 table: creature_abilities

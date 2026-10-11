@@ -3,7 +3,7 @@ title: Pitch Rope
 aliases: []
 type: gear
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gea-pitch-rope
 table: gear

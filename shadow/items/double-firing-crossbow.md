@@ -3,7 +3,7 @@ title: Double-Firing Crossbow
 aliases: []
 type: armament
 summary: A custom crossbow that fires TWICE before reloading.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-c41fd4
 table: armaments

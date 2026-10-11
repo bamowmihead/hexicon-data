@@ -3,7 +3,7 @@ title: Tongue Grapple
 aliases: []
 type: ability
 summary: 10m — same pull; grappled take double Spit damage
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-10-s3-tongue-grapple
 table: creature_abilities

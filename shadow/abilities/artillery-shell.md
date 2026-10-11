@@ -3,7 +3,7 @@ title: Artillery Shell
 aliases: []
 type: ability
 summary: Reload before firing again.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-artillery
 table: creature_abilities

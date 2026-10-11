@@ -3,7 +3,7 @@ title: Fire Blast
 aliases: []
 type: ability
 summary: Once per turn.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-ork-fireblast
 table: creature_abilities

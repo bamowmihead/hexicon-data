@@ -3,7 +3,7 @@ title: Cave Webs Spores
 aliases: []
 type: consumable
 summary: Plant from the Cultivation tab — sprouts a Cave Webs.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-cult07
 table: consumables

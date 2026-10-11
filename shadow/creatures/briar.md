@@ -3,7 +3,7 @@ title: Briar
 aliases: []
 type: creature
 summary: Vine ranger, loyal to a fault.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-afb39b
 table: creature_types

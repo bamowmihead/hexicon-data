@@ -3,7 +3,7 @@ title: Goblin Glass Grip
 aliases: []
 type: ability
 summary: "Grappled targets are GLUED to the wearer's hands."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-gauntlets-grip
 table: creature_abilities

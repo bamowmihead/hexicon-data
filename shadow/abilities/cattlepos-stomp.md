@@ -3,7 +3,7 @@ title: Cattlepos Stomp
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-e7d045
 table: creature_abilities

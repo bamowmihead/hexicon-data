@@ -3,7 +3,7 @@ title: Timed Charge
 aliases: []
 type: consumable
 summary: "Placed (2 rounds to set up), fuse adjustable 5 rounds → 2 hours: 4d4 Force/Psionic in 5 m (ignores Defense) plus 15 fragments of 1d4 Shrapnel scattered over 10…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-a1ab42
 table: consumables

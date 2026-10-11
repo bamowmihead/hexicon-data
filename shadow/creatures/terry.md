@@ -3,7 +3,7 @@ title: Terry
 aliases: []
 type: creature
 summary: "The thicc hobbit rep who runs Fletcher's Co-op by vote."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-8b6f8f
 table: creature_types

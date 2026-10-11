@@ -3,7 +3,7 @@ title: Guild Rep
 aliases: []
 type: creature
 summary: "[STUB]"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-4b995e
 table: creature_types

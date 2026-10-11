@@ -3,7 +3,7 @@ title: Raccoon
 aliases: []
 type: trance-card
 summary: A large sneaky raccoon with sharp claws & apposable thumbs
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-03
 table: trances

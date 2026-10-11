@@ -3,7 +3,7 @@ title: Batkin Flight
 aliases: []
 type: retinue-template
 summary: The Batkin units.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-batkin-flight
 table: retinue_templates

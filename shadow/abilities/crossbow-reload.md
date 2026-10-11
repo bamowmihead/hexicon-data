@@ -3,11 +3,11 @@ title: Crossbow Reload
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-64fcb5
 table: creature_abilities
-links: 6
+links: 7
 ---
 
 # Crossbow Reload
@@ -46,12 +46,14 @@ links: 6
 
 Linked from:
 
+- ← [[questions/19148d22-fa09-406b-8735-7d9689d35e94]] (about, w=3)
 - ← [[items/arbalest]] (relation, w=3)
 - ← [[items/double-firing-crossbow]] (relation, w=3)
 - ← [[items/hand-crossbow]] (relation, w=3)
 - ← [[items/heavy-crossbow]] (relation, w=3)
 - ← [[items/light-crossbow]] (relation, w=3)
 - ← [[abilities/company-reload]] (mentions, w=1)
+- ← [[questions/19148d22-fa09-406b-8735-7d9689d35e94]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Goblin Glass Javelin
 aliases: []
 type: armament
 summary: A javelin inlaid with goblin glass.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-gg-javelin
 table: armaments

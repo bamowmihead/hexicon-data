@@ -3,7 +3,7 @@ title: cultivation2.biome.hostile.growth_mult
 aliases: []
 type: rule
 summary: "A hostile biome: growth this many times slower."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cultivation2.biome.hostile.growth_mult
 table: rules

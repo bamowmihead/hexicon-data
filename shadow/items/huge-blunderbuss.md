@@ -3,7 +3,7 @@ title: Huge Blunderbuss
 aliases: []
 type: armament
 summary: "A bell-mouthed gun built for arms the size of a Carni's."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-batkin-blunderbuss
 table: armaments

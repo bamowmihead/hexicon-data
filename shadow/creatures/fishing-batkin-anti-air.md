@@ -3,7 +3,7 @@ title: Fishing Batkin (Anti-air)
 aliases: []
 type: creature
 summary: Flight 15 m level, 20 m diving · crawl 3 m · 4 endurance per turn airborne.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-batkin-fishing-antiair
 table: creature_types

@@ -3,7 +3,7 @@ title: Berserk Tincture
 aliases: []
 type: consumable
 summary: 1 AP to drink.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-gg-berserk
 table: consumables

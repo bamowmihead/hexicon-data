@@ -3,11 +3,11 @@ title: companion
 aliases: []
 type: companion-kind
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: companion
 table: companion_kinds
-links: 6
+links: 10
 ---
 
 # companion
@@ -31,6 +31,10 @@ links: 6
 Linked from:
 
 - ← [[locations/pillow-moss-campsite]] (mentions, w=1)
+- ← [[questions/b426f22f-1009-4eec-a8e6-b291710389f5]] (mentions, w=1)
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (mentions, w=1)
+- ← [[questions/bd32f40f-b667-493b-a4ea-cba972a54c1d]] (mentions, w=1)
+- ← [[questions/cb831a84-ca58-46d6-9add-730c037a4ab8]] (mentions, w=1)
 - ← [[rules/companiondeath-penalty-points]] (mentions, w=1)
 - ← [[rules/companionfree-slots]] (mentions, w=1)
 - ← [[rules/companionrecurring-grant]] (mentions, w=1)

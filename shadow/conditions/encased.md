@@ -3,7 +3,7 @@ title: Encased
 aliases: []
 type: status-condition
 summary: "Hardened by umbra to Speed 0: encased, suffocating over minutes."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-encased
 table: status_conditions

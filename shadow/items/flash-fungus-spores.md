@@ -3,7 +3,7 @@ title: Flash Fungus Spores
 aliases: []
 type: consumable
 summary: Plant from the Cultivation tab — sprouts a Flash Fungus.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-cult06
 table: consumables

@@ -3,7 +3,7 @@ title: Pygmy Hog
 aliases: []
 type: creature
 summary: Knee-high hogs in packs of a dozen or more.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-bcc038
 table: creature_types

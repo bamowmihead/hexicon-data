@@ -3,7 +3,7 @@ title: Onos
 aliases: []
 type: creature
 summary: Broad as a cart and built like a living barricade.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b1a680
 table: creature_types

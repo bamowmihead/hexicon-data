@@ -3,7 +3,7 @@ title: Goblin Glass Mattock Strike
 aliases: []
 type: ability
 summary: 1d8+1.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-mattock
 table: creature_abilities

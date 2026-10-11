@@ -3,11 +3,11 @@ title: Ichor
 aliases: []
 type: tree
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: spec-energy-ichor
 table: trees
-links: 4
+links: 5
 ---
 
 # Ichor
@@ -24,8 +24,10 @@ links: 4
 
 Linked from:
 
+- ← [[questions/1feacd19-94fa-412f-b2b0-bdfa3500657c]] (about, w=3)
 - ← [[items/grave-gem]] (mentions, w=1)
 - ← [[items/ichor-vial]] (mentions, w=1)
+- ← [[questions/1feacd19-94fa-412f-b2b0-bdfa3500657c]] (mentions, w=1)
 - ← [[rules/soulfortified-recovery-per-step]] (mentions, w=1)
 - ← [[rules/soulichor-per-wound]] (mentions, w=1)
 

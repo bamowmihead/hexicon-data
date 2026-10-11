@@ -3,7 +3,7 @@ title: Rooted
 aliases: []
 type: status-condition
 summary: "Acting through a root clone: the body roots in place (Speed 0) until the last clone is gone."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-rooted
 table: status_conditions

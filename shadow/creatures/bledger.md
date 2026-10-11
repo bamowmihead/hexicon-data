@@ -3,7 +3,7 @@ title: Bledger
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-7ff2e8
 table: creature_types

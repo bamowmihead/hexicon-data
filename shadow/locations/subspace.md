@@ -3,11 +3,11 @@ title: Subspace
 aliases: []
 type: location
 summary: so very kinky
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 66
 table: locations
-links: 0
+links: 1
 ---
 
 # Subspace
@@ -38,6 +38,10 @@ so very kinky
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/4e060ebb-bf72-41bb-b7f6-517ae999cc35]] (about, w=3)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Claws
 aliases: []
 type: ability
 summary: "2m — 2d8+Prowess Eviscerating (Pounce: +1 die)"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-11-s3-claws
 table: creature_abilities

@@ -3,7 +3,7 @@ title: companion.bring_limit_divisor
 aliases: []
 type: rule
 summary: "Companions a PC may field = Charm ÷ this + base (the code's old Charm ÷ 3 + 1, now data)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: companion.bring_limit_divisor
 table: rules

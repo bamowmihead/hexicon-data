@@ -3,7 +3,7 @@ title: Church Rep
 aliases: []
 type: creature
 summary: "[STUB]"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-25bebf
 table: creature_types

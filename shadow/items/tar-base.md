@@ -3,7 +3,7 @@ title: Tar Base
 aliases: []
 type: consumable
 summary: Brew base for Tar coatings.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-base-tar
 table: consumables

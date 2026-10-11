@@ -3,7 +3,7 @@ title: Goblin Glass Morning Star
 aliases: []
 type: armament
 summary: A morning star inlaid with goblin glass.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-gg-morningstar
 table: armaments

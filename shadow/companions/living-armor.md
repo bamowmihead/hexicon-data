@@ -3,7 +3,7 @@ title: living armor
 aliases: []
 type: companion-kind
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: living_armor
 table: companion_kinds

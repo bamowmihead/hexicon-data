@@ -3,7 +3,7 @@ title: Rot Hornets
 aliases: []
 type: creature
 summary: Angry black hornets swarming from hollowed rotten logs.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-82f94c
 table: creature_types

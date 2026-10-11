@@ -3,7 +3,7 @@ title: soul.ichor_per_wound
 aliases: []
 type: rule
 summary: Ichor delivered that closes one wound, no roll (chart M).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.ichor_per_wound
 table: rules

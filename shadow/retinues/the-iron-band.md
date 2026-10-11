@@ -3,7 +3,7 @@ title: The Iron Band
 aliases: []
 type: retinue-template
 summary: "Walker's Hall hunting party: the true-believer hulk Humble fronts four elite mercs and a mass of untrained grunts, with the doctor Soren (the conscience) and th…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-7b6d5d
 table: retinue_templates

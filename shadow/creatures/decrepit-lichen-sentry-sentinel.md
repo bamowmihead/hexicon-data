@@ -3,7 +3,7 @@ title: Decrepit Lichen Sentry (Sentinel)
 aliases: []
 type: creature
 summary: Largest golem in the tower at 10ft tall.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-9bb640
 table: creature_types

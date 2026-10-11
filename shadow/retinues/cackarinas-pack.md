@@ -3,7 +3,7 @@ title: "Cackarina's Pack"
 aliases: []
 type: retinue-template
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: nr-ab193b
 table: retinue_templates

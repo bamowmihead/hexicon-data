@@ -3,11 +3,11 @@ title: Captain Jack Black
 aliases: []
 type: creature
 summary: The hidden hand of the Black Company — plays dumb, cuts sharp.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-52769a
 table: creature_types
-links: 4
+links: 5
 ---
 
 # Captain Jack Black
@@ -62,6 +62,7 @@ The hidden hand of the Black Company — plays dumb, cuts sharp.
 
 Linked from:
 
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 - ← [[retinues/the-black-company]] (mentions, w=1)
 
 ## Inferred

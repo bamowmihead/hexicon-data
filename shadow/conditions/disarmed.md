@@ -3,7 +3,7 @@ title: Disarmed
 aliases: []
 type: status-condition
 summary: "Target drops what they're wielding."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-disarmed
 table: status_conditions

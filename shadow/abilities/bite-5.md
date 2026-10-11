@@ -3,7 +3,7 @@ title: Bite
 aliases: []
 type: ability
 summary: 1m — 2d8+Might Stabbing
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-09-s2-bite
 table: creature_abilities

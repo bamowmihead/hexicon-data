@@ -3,7 +3,7 @@ title: Cattlepos Cavern
 aliases: []
 type: location
 summary: "--- Where cattlepos congregate at night to feast and socialize."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 4
 table: locations

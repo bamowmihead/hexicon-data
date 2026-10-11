@@ -3,7 +3,7 @@ title: Blunderbuss Reload
 aliases: []
 type: ability
 summary: Reload the blunderbuss.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-blunderbuss-reload
 table: creature_abilities

@@ -3,7 +3,7 @@ title: Black Guard
 aliases: []
 type: creature
 summary: Mixed ex-faction crew, leashed by the prison tattoo, armed with firebolts.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-3f3c48
 table: creature_types

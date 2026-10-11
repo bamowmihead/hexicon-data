@@ -3,11 +3,11 @@ title: Trapper
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ab319f
 table: creature_types
-links: 0
+links: 1
 ---
 
 # Trapper
@@ -28,6 +28,11 @@ links: 0
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/bc813449-7f55-409a-b95b-2e844adf7c75]] (about, w=3)
+- ← [[questions/bc813449-7f55-409a-b95b-2e844adf7c75]] (mentions, w=1)
 
 ## Inferred
 

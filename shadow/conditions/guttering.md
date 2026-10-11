@@ -3,7 +3,7 @@ title: Guttering
 aliases: []
 type: status-condition
 summary: "Endurance drained to 0 by a siphon: it stays at 0, speed is halved, and any damage wounds."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-gutter
 table: status_conditions

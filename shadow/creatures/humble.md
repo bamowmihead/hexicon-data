@@ -3,7 +3,7 @@ title: Humble
 aliases: []
 type: creature
 summary: "The true-believer hulk who leads the Iron Band's hunt."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-656203
 table: creature_types

@@ -3,7 +3,7 @@ title: Ork (Pack Leader)
 aliases: []
 type: creature
 summary: Long sword and warhammer, and a third swing.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ork-packleader
 table: creature_types

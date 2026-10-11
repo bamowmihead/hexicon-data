@@ -3,7 +3,7 @@ title: Brood Ball Launch
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-3548c9
 table: creature_abilities

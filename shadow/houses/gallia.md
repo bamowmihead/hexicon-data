@@ -3,11 +3,11 @@ title: Gallia
 aliases: []
 type: house
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: house-9418c3
 table: houses
-links: 1
+links: 2
 ---
 
 # Gallia
@@ -22,7 +22,9 @@ links: 1
 
 Linked from:
 
+- ← [[questions/5c4d21c0-c460-49e8-a035-3e13248c93d6]] (about, w=3)
 - ← [[pcs/verdant]] (member-of, w=3)
+- ← [[questions/5c4d21c0-c460-49e8-a035-3e13248c93d6]] (mentions, w=1)
 
 ## Inferred
 

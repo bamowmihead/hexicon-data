@@ -3,7 +3,7 @@ title: Tusk Ram
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-0aaeb5
 table: creature_abilities

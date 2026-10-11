@@ -3,7 +3,7 @@ title: Axe Crown
 aliases: []
 type: creature
 summary: Large solitary ground bird.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-61ac38
 table: creature_types

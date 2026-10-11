@@ -3,7 +3,7 @@ title: Saddlebag Rack II
 aliases: []
 type: equipment
 summary: "Cart: +2 saddlebag slots (6 → 8)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-0b4f63
 table: equipment

@@ -3,7 +3,7 @@ title: Cave Beetle
 aliases: []
 type: trance-card
 summary: A heavily armored beetle with a powerful horn & wing-assisted jumps
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-04
 table: trances

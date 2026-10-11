@@ -3,11 +3,11 @@ title: Stinky
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b1bbd0
 table: creature_types
-links: 0
+links: 3
 ---
 
 # Stinky
@@ -46,6 +46,13 @@ links: 0
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/b426f22f-1009-4eec-a8e6-b291710389f5]] (about, w=3)
+- ← [[questions/55ab9b93-6f21-4ec3-9810-f5e7a35b98f5]] (mentions, w=1)
+- ← [[questions/b426f22f-1009-4eec-a8e6-b291710389f5]] (mentions, w=1)
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (mentions, w=1)
 
 ## Inferred
 

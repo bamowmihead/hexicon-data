@@ -3,7 +3,7 @@ title: Lily Snatcher (Blood)
 aliases: []
 type: creature
 summary: Mature Lily Snatchers.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-9a3a8c
 table: creature_types

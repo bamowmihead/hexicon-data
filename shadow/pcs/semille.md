@@ -3,11 +3,11 @@ title: Semille
 aliases: []
 type: pc
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: pc-05f9c8
 table: pcs
-links: 4
+links: 7
 ---
 
 # Semille
@@ -49,7 +49,13 @@ links: 4
 
 Linked from:
 
+- ← [[questions/6b91e183-16a3-4f00-9a7f-9b45d95e6647]] (about, w=3)
+- ← [[questions/a1ea207f-076c-42b8-a750-c01859c11579]] (about, w=3)
+- ← [[questions/ce7626a1-4750-47e6-9cef-eccef27fd19e]] (about, w=3)
 - ← [[items/goblin-glass-arrows]] (mentions, w=1)
+- ← [[questions/6b91e183-16a3-4f00-9a7f-9b45d95e6647]] (mentions, w=1)
+- ← [[questions/a1ea207f-076c-42b8-a750-c01859c11579]] (mentions, w=1)
+- ← [[questions/ce7626a1-4750-47e6-9cef-eccef27fd19e]] (mentions, w=1)
 
 ## Inferred
 

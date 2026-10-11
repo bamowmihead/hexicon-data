@@ -3,7 +3,7 @@ title: Knocked Prone
 aliases: []
 type: status-condition
 summary: Target is on the ground; melee attackers gain advantage.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-prone
 table: status_conditions

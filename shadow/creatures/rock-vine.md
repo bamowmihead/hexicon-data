@@ -3,7 +3,7 @@ title: Rock Vine
 aliases: []
 type: creature
 summary: A thick inflexible vine which grows cracked grey bark as hard as stone
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-01
 table: creature_types

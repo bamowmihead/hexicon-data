@@ -3,7 +3,7 @@ title: Venom Bite
 aliases: []
 type: ability
 summary: "1m — 3d8+Prowess Leeching, attempt grapple (+1 die vs grappled) ⚠ NEEDS REECE — “Leeching” is not one of the app's damage types, so this hit has no type and lan…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-05-s3-venom-bite
 table: creature_abilities

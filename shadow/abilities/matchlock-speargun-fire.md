@@ -3,7 +3,7 @@ title: Matchlock Speargun Fire
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-8f163d
 table: creature_abilities

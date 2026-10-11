@@ -3,7 +3,7 @@ title: Ideologue
 aliases: []
 type: trait
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trt-8de31b
 table: traits

@@ -3,7 +3,7 @@ title: "Scribe's Canister"
 aliases: []
 type: equipment
 summary: Scroll canister holding ink, quills, and scribing supplies.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-ee9a2b
 table: equipment

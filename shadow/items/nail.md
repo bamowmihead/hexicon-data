@@ -3,7 +3,7 @@ title: Nail
 aliases: []
 type: gear
 summary: "A shareable foci: a rechargeable spell slot a Channeler hands to another player to use themselves."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gear-soul-nail
 table: gear

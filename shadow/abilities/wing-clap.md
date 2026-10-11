@@ -3,7 +3,7 @@ title: Wing Clap
 aliases: []
 type: ability
 summary: 3m cone — 2d6 Sonic
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-04-s2-wing-clap
 table: creature_abilities

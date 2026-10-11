@@ -3,7 +3,7 @@ title: overgrowth.decay_per_round
 aliases: []
 type: rule
 summary: "Lost each combat round: the PC's Willpower, as ferality (Reece 9/28: 'Overgrowth decays the same way as ferality')."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: overgrowth.decay_per_round
 table: rules

@@ -3,7 +3,7 @@ title: The Exiled Chapter
 aliases: []
 type: retinue-template
 summary: A rogue church preaching husk heresy and fielding plant-grafted husks.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-d8bb7f
 table: retinue_templates

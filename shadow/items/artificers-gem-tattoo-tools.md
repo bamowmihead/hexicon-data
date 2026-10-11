@@ -3,7 +3,7 @@ title: "Artificer's Gem-Tattoo Tools"
 aliases: []
 type: equipment
 summary: "An artificer's kit for inking and gem-setting heat-exchange tattoos."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-67b3f9
 table: equipment

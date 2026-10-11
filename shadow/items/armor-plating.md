@@ -3,7 +3,7 @@ title: Armor Plating
 aliases: []
 type: equipment
 summary: "Cart: +3 Defense (3 → 6)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-9995a9
 table: equipment

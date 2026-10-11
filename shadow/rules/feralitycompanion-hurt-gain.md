@@ -3,7 +3,7 @@ title: ferality.companion_hurt_gain
 aliases: []
 type: rule
 summary: Ferality gained when a beast companion is injured (handoff §2).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.companion_hurt_gain
 table: rules

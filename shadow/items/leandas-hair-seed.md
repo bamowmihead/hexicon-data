@@ -3,7 +3,7 @@ title: "Leanda's Hair Seed"
 aliases: []
 type: consumable
 summary: "Plant from the Cultivation tab — sprouts a Leanda's Hair."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-cult05
 table: consumables

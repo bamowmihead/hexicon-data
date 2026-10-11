@@ -3,7 +3,7 @@ title: Amber Undergrove
 aliases: []
 type: biome
 summary: "**Sound:** Creaking and groaning of living roots shifting under the weight of the forest above."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 7
 table: biomes

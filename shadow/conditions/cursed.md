@@ -3,7 +3,7 @@ title: Cursed
 aliases: []
 type: status-condition
 summary: Persistent magical affliction; specific effect varies by curse.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-cursed
 table: status_conditions

@@ -3,7 +3,7 @@ title: Rock Shell (Adolescent)
 aliases: []
 type: creature
 summary: Knee-high and long as a dog.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-bee56c
 table: creature_types

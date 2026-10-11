@@ -3,7 +3,7 @@ title: Giant Fairy Light Tree
 aliases: []
 type: location
 summary: from a distance you can see a massive willow tree as thick as an elephant is wide.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 18
 table: locations

@@ -3,7 +3,7 @@ title: Mace Tail
 aliases: []
 type: ability
 summary: 2m arc behind — 2d6+Might Stun, up to 2 targets
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: tra-trance-12-s2-mace-tail
 table: creature_abilities

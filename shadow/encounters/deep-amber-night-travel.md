@@ -3,7 +3,7 @@ title: Deep Amber — Night Travel
 aliases: []
 type: encounter-table
 summary: night_travel
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: enc-dea29f
 table: encounter_tables

@@ -3,11 +3,11 @@ title: Dalenar
 aliases: []
 type: creature
 summary: The Geomancer who raises the research structure and walkways from the earth itself.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-e03109
 table: creature_types
-links: 3
+links: 4
 ---
 
 # Dalenar
@@ -58,6 +58,11 @@ The Geomancer who raises the research structure and walkways from the earth itse
 - mentions → [[items/gem-jewelry]] (w=1, prose)
 - mentions → [[items/hazmat-robes]] (w=1, prose)
 - mentions → [[items/hooded-lantern]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,11 +3,11 @@ title: spirit
 aliases: []
 type: companion-kind
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: spirit
 table: companion_kinds
-links: 1
+links: 2
 ---
 
 # spirit
@@ -28,6 +28,11 @@ links: 1
 ## Links
 
 - practices → [[vocations/channeler]] (w=3, snapshot)
+
+Linked from:
+
+- ← [[questions/bd32f40f-b667-493b-a4ea-cba972a54c1d]] (about, w=3)
+- ← [[questions/bd32f40f-b667-493b-a4ea-cba972a54c1d]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Raptor Soul
 aliases: []
 type: consumable
 summary: An off-world trance soul — a raptor
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-8ab8c4
 table: consumables

@@ -3,7 +3,7 @@ title: Blood Badger
 aliases: []
 type: creature
 summary: Honey-badger berserkers who hunt in a trance-fueled pack.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-58ac6e
 table: creature_types

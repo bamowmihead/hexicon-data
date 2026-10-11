@@ -3,7 +3,7 @@ title: Mace & Chain
 aliases: []
 type: armament
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: arm-5b5a70
 table: armaments

@@ -3,7 +3,7 @@ title: ferality.runaway_step_per_round
 aliases: []
 type: rule
 summary: Berserk levels gained per round while ferality is at or past capacity (2.0 §4).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.runaway_step_per_round
 table: rules

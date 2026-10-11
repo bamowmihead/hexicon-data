@@ -3,7 +3,7 @@ title: Onos (Adolescent)
 aliases: []
 type: creature
 summary: Waist-high and wide as a barrel.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b0a598
 table: creature_types

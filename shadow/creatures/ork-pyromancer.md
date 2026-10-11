@@ -3,7 +3,7 @@ title: Ork (Pyromancer)
 aliases: []
 type: creature
 summary: Firebolt, Fire Blast and a Fire Whip.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-ork-pyromancer
 table: creature_types

@@ -3,7 +3,7 @@ title: Crushing Claw (Heavy)
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-303e19
 table: creature_abilities

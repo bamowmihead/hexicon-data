@@ -3,7 +3,7 @@ title: Wetland — Night Rest
 aliases: []
 type: encounter-table
 summary: night_camp
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: enc-ec4a07
 table: encounter_tables

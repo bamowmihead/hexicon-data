@@ -3,7 +3,7 @@ title: Newt
 aliases: []
 type: creature
 summary: Company medic.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-bc-newt
 table: creature_types

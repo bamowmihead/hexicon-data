@@ -3,7 +3,7 @@ title: Tin Lantern
 aliases: []
 type: equipment
 summary: "Fuel: Candle."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-377c10
 table: equipment

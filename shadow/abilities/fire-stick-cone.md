@@ -3,7 +3,7 @@ title: Fire Stick (Cone)
 aliases: []
 type: ability
 summary: A 3 m cone of fire, 2d6.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-firestick-cone
 table: creature_abilities

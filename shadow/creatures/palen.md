@@ -3,11 +3,11 @@ title: Palen
 aliases: []
 type: creature
 summary: Inquisitor husker and hoarder who barely fights.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-6ef766
 table: creature_types
-links: 5
+links: 6
 ---
 
 # Palen
@@ -63,6 +63,7 @@ Inquisitor husker and hoarder who barely fights.
 
 Linked from:
 
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 - ← [[retinues/the-exiled-chapter]] (mentions, w=1)
 
 ## Inferred

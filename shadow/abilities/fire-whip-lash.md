@@ -3,7 +3,7 @@ title: Fire Whip Lash
 aliases: []
 type: ability
 summary: Grapples on strike.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-ork-firewhip
 table: creature_abilities

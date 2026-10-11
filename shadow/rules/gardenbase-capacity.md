@@ -3,7 +3,7 @@ title: garden.base_capacity
 aliases: []
 type: rule
 summary: Plots a House garden starts with; upgrades raise it.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: garden.base_capacity
 table: rules

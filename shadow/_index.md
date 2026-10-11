@@ -1,14 +1,14 @@
 ---
 title: Shadow index
 type: root
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 hub: true
 ---
 
 # Shadow index
 
-Rebuilt from the snapshot of 2026-10-07. 1003 derived files, 20 inferred files.
+Rebuilt from the snapshot of 2026-10-08. 1043 derived files, 20 inferred files.
 Hubs (15+ links, or a session) load but do not expand; see the contract, section 5.
 
 ## Hubs
@@ -17,18 +17,21 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[biomes/amberwood]] · biome · 29 links
 - [[biomes/wetland]] · biome · 25 links
 - [[paints/water]] · ground-paint · 22 links
+- [[locations/flooded-hovel]] · location · 21 links
+- [[locations/ironwood-hovel-ruins]] · location · 21 links
 - [[locations/big-hill]] · location · 20 links
-- [[locations/flooded-hovel]] · location · 20 links
 - [[locations/verdant-watch]] · location · 20 links
+- [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] · question · 20 links
 - [[locations/black-stone]] · location · 19 links
-- [[locations/ironwood-hovel-ruins]] · location · 19 links
-- [[locations/ferry-landing]] · location · 16 links
-- [[trances/cattlepos]] · trance-card · 16 links
-- [[trees/moss]] · tree · 16 links
+- [[trances/cattlepos]] · trance-card · 18 links
+- [[locations/ferry-landing]] · location · 17 links
+- [[trees/moss]] · tree · 17 links
+- [[items/bone]] · gear · 16 links
+- [[retinues/the-party]] · retinue-template · 16 links
 - [[locations/the-cackler-lair]] · location · 15 links
 - [[locations/timber-knot-hovel]] · location · 15 links
 - [[locations/wet-flower-field]] · location · 15 links
-- [[retinues/the-party]] · retinue-template · 15 links
+- [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] · question · 15 links
 
 ## Inferred layer (Atlas and Codex, migrated)
 
@@ -985,9 +988,49 @@ Hubs (15+ links, or a session) load but do not expand; see the contract, section
 - [[plants/snot-pots]] — An orange pitcher plant containing green sticky caustic liquid
 - [[plants/sparkle-berry-bush]] — A short bush growing prismatic sparkling red berries
 
-### questions (1)
+### questions (41)
 
-- [[questions/why]] — Why?
+- [[questions/047d96f2-3f64-48fb-9919-2cced15d0f52]] — Lichen (13 links) and Vines (11 links), the other two well-connected Ranger 2.0 growth-habit trees, have no description.
+- [[questions/0aedc371-a764-4ce3-a88c-423a6a16a826]] — More abilities without an effect text: Flee, Heal, Tail Fan Slap.
+- [[questions/14108323-5024-4ebc-a797-a7d356ab6e79]] — The rule soul.willpower_bonus_divisor is "pending" at 2; its note says "Per die is canon; the divisor is Claude's." Willpower bonus per die = ⌊Willpower ÷ 2⌋ as…
+- [[questions/19148d22-fa09-406b-8735-7d9689d35e94]] — Abilities without an effect text, most-linked first: Crossbow Reload, Acid Spray, Crushing Claw, Digging Claw Grab, Matchlock Reload.
+- [[questions/1feacd19-94fa-412f-b2b0-bdfa3500657c]] — The Channeler energy trees Anima, Aether and Ichor, and the Channeler tree itself, have no description.
+- [[questions/4639cb8a-cc6e-4303-a595-5394f2d1655a]] — Next armaments without a description: Buckler, Dagger, Mace, Warhammer, Javelin, Light Crossbow.
+- [[questions/4e060ebb-bf72-41bb-b7f6-517ae999cc35]] — Subspace exists twice in Locations.
+- [[questions/55547477-c464-43b9-a57f-9131a60821c7]] — The retinue template "Cackler Pack" (side gm, hostility neutral) has no description.
+- [[questions/55832605-62c3-4959-a56e-4138a2ffe6cc]] — Equipment without a description, most-linked first: Brigandine, Satchel, Full Plate, Belt, Cuirass, Expedition Pack.
+- [[questions/55ab9b93-6f21-4ec3-9810-f5e7a35b98f5]] — The Cattlepos creature type (rt-8ad790) has body plan "humanoid", but Stinky's Cattlepos row (rt-7cf25d) is "quadruped" and the Cattlepos trance card's flavor r…
+- [[questions/5c4d21c0-c460-49e8-a035-3e13248c93d6]] — Verdant (house Gallia, Ranger, willpower 3, speed 6) has no description.
+- [[questions/6b91e183-16a3-4f00-9a7f-9b45d95e6647]] — "the company" (company-playtest) has no description.
+- [[questions/6d8c3610-8928-437b-a3bf-ec5d2dd38388]] — Korven (house Shawnanigans, Berserker, trance stage 2, active trance Warg) has no description.
+- [[questions/824a8a28-9a83-4977-bfd0-f3f45d72705e]] — Walker (Riftian, Tinkerer, role "Guild master craftsman, cart designer, wheelchair-bound, only wilderness vehicle engineer in Rift Stone", branch Trades) has no…
+- [[questions/8c3bb7d6-8b62-48cb-95b2-70fa24e96a02]] — Quiver exists twice in Equipment with different slot rules.
+- [[questions/8ef33c73-15dd-461a-b6b3-1a7997301d0d]] — Four foci carry a slot count of 1 in the Foci table while their gear descriptions still say "Slot count PENDING (1)": Amulet ("A worn foci"), Glove ("A worn foc…
+- [[questions/9a396cb8-e5da-4542-a24e-6c0db975bee7]] — The shop "The Ferry Walk Market" has no location (location_id 0), while "The Ferry Landing Market" sits at Ferry Landing (location 46 / shop location 63).
+- [[questions/9c67eeab-9cb1-406b-b856-ced5ebf008a2]] — The rule world.shear_m has status "canon" with value 2, but its own note says "the number is Claude's until Reece has seen a place shear".
+- [[questions/a1ea207f-076c-42b8-a750-c01859c11579]] — The vocation Ranger (energy kind "reagents") has no description; Semille and Verdant practise it.
+- [[questions/a2eee291-8bf8-40c8-a28c-862977db8f0c]] — Moss, a Ranger 2.0 growth-habit specialization tree, is a hub (16 links) with no description.
+- [[questions/a5baf047-6e24-4ebf-a33c-198be67485ed]] — The creature "[Inquisitor — Needs Name]" (Riftian, status Alive, role "Sensate investigator, commands husks, dispatched to Ironwood Hovel") still has its placeh…
+- [[questions/a9f8b9bd-8a20-4e71-906d-215df3ebd12f]] — Val (Riftian, Berserker, status Dead, role "Goblinoid trance specialist, defector from Druidic Circle, killed at Ironwood Hovel", branch Grafted) has no bio.
+- [[questions/ae443999-438b-4ca9-9504-daaa22026790]] — Four biomes have no description: highlands, amber shoreline, Wetland Shoreline, Eel Waters (the other seven have one).
+- [[questions/b426f22f-1009-4eec-a8e6-b291710389f5]] — Stinky has two creature rows that disagree.
+- [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] — The companion kind "beast" (relationship "Attunement", points "attunement point") is bound to the vocation Berserker 2.0, whose description says "Unreleased.
+- [[questions/b9b90f67-1c10-4012-a1c2-8a1db25eaa8b]] — Bledger (house Jarraxus, Berserker, trance stage 2, active trance Scuttle Bat, 500 salt) has no description.
+- [[questions/bc813449-7f55-409a-b95b-2e844adf7c75]] — Trapper exists twice as an unnamed creature type: rt-512fcf has a statline (endurance 10, prowess 2, intuition 2); rt-ab319f is a scratch row with no stats and,…
+- [[questions/bd32f40f-b667-493b-a4ea-cba972a54c1d]] — The vocation Channeler (energy kind "soul") has no description; the companion kind "spirit" ("Spirit weaving") is bound to it.
+- [[questions/c8d77b6d-2d60-421d-9886-f71d00d0565b]] — The retinue template "The Party" (side party, hostility neutral, 15 links) has no description.
+- [[questions/c9a00a5a-f57e-49d9-bdce-8fcf78550d3e]] — The vocation Berserker (energy kind "reagents") has no description; Bledger and Korven practise it.
+- [[questions/cac8f96b-16b5-4485-87c0-107defcf2ebd]] — Sixty-seven of the eighty-one armaments have no description.
+- [[questions/cb769390-357b-4f7b-aa32-a95b3d01a9f7]] — The factions The Underworld, The Sensates and The Runites have only a name.
+- [[questions/cb831a84-ca58-46d6-9add-730c037a4ab8]] — The rule companion.death_penalty_points is "pending" at 2; its note quotes you, "subtract some points", and says the amount is Claude's.
+- [[questions/cd2f3eb7-7e46-458b-83f4-c042ecd068d8]] — Ork (species Goblinoid, size Large, might 6, 6 links) has no tagline or bio.
+- [[questions/ce7626a1-4750-47e6-9cef-eccef27fd19e]] — Semille (house Serenity, Ranger, intellect 3, prowess 3) has no description.
+- [[questions/dd8510a4-27d5-483a-9516-46493bb9b859]] — The five base Batkin types have no tagline or bio: Fishing, Insectivore, Carni, Tent-maker, Vampiric Batkin (each with its armed variants under it).
+- [[questions/e067e1f9-3bc0-4646-981d-af6abc852e70]] — Three landmarks have no description or notes: Rot Hornet Hive (level 4, unvisited), Sulfur vent field (level 4, visited), the circle's grove (level 4, unvisited…
+- [[questions/f016856b-524e-43d1-b8bb-1229dabb963f]] — Gear without a description, after Bone and Stones: Logs, Sticks, Verdant Vine, Chitin.
+- [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] — Twenty-two creatures carry a vocation that is not in the Vocations table (which holds Ranger, Berserker, Channeler and the 2.0 pair): Inquisitor (Galedrial, Pal…
+- [[questions/fd485850-94a3-4581-bca5-72519344e4d6]] — The gear items Bone (14 links) and Stones (10 links) are the most-linked items without a description.
+- [[questions/q-dac4562c23d59d42]] — Why?
 
 ### retinues (17)
 

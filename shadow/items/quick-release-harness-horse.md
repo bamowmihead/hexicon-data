@@ -3,7 +3,7 @@ title: Quick-Release Harness (Horse)
 aliases: []
 type: equipment
 summary: Cart harness that releases the beast for 1 AP.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-9af445
 table: equipment

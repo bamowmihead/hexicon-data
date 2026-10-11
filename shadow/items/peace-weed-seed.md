@@ -3,7 +3,7 @@ title: Peace-Weed Seed
 aliases: []
 type: consumable
 summary: An off-world cultivar with no Calderan analog.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-75b214
 table: consumables

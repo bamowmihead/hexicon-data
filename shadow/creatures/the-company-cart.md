@@ -3,7 +3,7 @@ title: The Company Cart
 aliases: []
 type: creature
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: veh-56585b
 table: creature_types

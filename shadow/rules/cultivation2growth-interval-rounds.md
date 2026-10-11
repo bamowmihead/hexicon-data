@@ -3,7 +3,7 @@ title: cultivation2.growth_interval_rounds
 aliases: []
 type: rule
 summary: A plant grows a level on its own every this many rounds (handoff §3).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cultivation2.growth_interval_rounds
 table: rules

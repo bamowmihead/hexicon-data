@@ -3,7 +3,7 @@ title: Acid Vial (Coating)
 aliases: []
 type: ability
 summary: "Poured as an oil over 20 ammunition or 2 melee weapons: +3 acid damage on every attack for ONE HOUR on the world clock."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-acid-coat
 table: creature_abilities

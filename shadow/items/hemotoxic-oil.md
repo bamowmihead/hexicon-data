@@ -3,7 +3,7 @@ title: Hemotoxic Oil
 aliases: []
 type: consumable
 summary: Blood-toxin weapon coating.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-c5f6cf
 table: consumables

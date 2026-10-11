@@ -3,7 +3,7 @@ title: Collapsed Tower
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> Broken stone juts from the earth — too square to be natural, too ruin…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 15
 table: locations

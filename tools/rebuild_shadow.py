@@ -177,6 +177,9 @@ HIDDEN = {
 def slugify(s: str) -> str:
     s = re.sub(r"[^\w\s-]", "", s.lower(), flags=re.UNICODE)
     s = re.sub(r"[\s_]+", "-", s).strip("-")
+    if len(s) > 80:
+        # A filename, not a sentence: cut at a word boundary so the path stays short.
+        s = s[:80].rsplit("-", 1)[0].strip("-")
     return s or "untitled"
 
 
@@ -244,7 +247,8 @@ class Node:
         self.kind, self.type = PER_ROW[table]
         self.id = row_id(row, table) or ""
         self.title = row_name(row)
-        self.path = f"{self.kind}/{slugify(self.title)}"
+        # A question's name is its text, which may be rephrased; its id is stable, so the file is named by id.
+        self.path = f"{self.kind}/{slugify(self.id)}" if table == "questions" and self.id else f"{self.kind}/{slugify(self.title)}"
         self.edges: list[tuple[str, str, int, str]] = []  # (type, target path, weight, origin)
         self.back: list[tuple[str, str, int]] = []        # (type, from path, weight)
 

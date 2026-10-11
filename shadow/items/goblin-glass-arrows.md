@@ -3,7 +3,7 @@ title: Goblin Glass Arrows
 aliases: []
 type: consumable
 summary: Arrows inlaid with goblin glass.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-gg-arrows
 table: consumables

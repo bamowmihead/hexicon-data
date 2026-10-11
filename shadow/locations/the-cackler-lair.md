@@ -3,7 +3,7 @@ title: The Cackler Lair
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> The passage drops through roots and packed soil."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 40
 table: locations

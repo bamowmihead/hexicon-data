@@ -3,7 +3,7 @@ title: Ork Warband
 aliases: []
 type: retinue-template
 summary: The ork units.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-ork-warband
 table: retinue_templates

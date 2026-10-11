@@ -3,11 +3,11 @@ title: Jimothy
 aliases: []
 type: creature
 summary: Laborer
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-1534ba
 table: creature_types
-links: 0
+links: 1
 ---
 
 # Jimothy
@@ -52,6 +52,11 @@ Laborer
 ## Links
 
 - *(none derived)*
+
+Linked from:
+
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (about, w=3)
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Iron Band Grunt
 aliases: []
 type: creature
 summary: Untrained levy used as flesh-shields.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-605557
 table: creature_types

@@ -3,7 +3,7 @@ title: Detonate Powder Keg
 aliases: []
 type: ability
 summary: Set as a charge, thrown, or SHOT TO SET OFF from across the room.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-powder-keg
 table: creature_abilities

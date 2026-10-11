@@ -3,7 +3,7 @@ title: Swarm Nip
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-e0545d
 table: creature_abilities

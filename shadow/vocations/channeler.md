@@ -3,11 +3,11 @@ title: Channeler
 aliases: []
 type: vocation
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: voc-channeler
 table: vocations
-links: 1
+links: 2
 ---
 
 # Channeler
@@ -24,6 +24,7 @@ links: 1
 
 Linked from:
 
+- ← [[questions/bd32f40f-b667-493b-a4ea-cba972a54c1d]] (about, w=3)
 - ← [[companions/spirit]] (practices, w=3)
 
 ## Inferred

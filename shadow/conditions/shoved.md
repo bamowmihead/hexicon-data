@@ -3,7 +3,7 @@ title: Shoved
 aliases: []
 type: status-condition
 summary: Target pushed away from the source.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-shoved
 table: status_conditions

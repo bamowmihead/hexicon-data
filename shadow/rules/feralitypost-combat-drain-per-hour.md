@@ -3,7 +3,7 @@ title: ferality.post_combat_drain_per_hour
 aliases: []
 type: rule
 summary: Lost per hour after the drop to half.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ferality.post_combat_drain_per_hour
 table: rules

@@ -3,11 +3,11 @@ title: Tail Fan Slap
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-36a1ed
 table: creature_abilities
-links: 3
+links: 4
 ---
 
 # Tail Fan Slap
@@ -51,9 +51,11 @@ links: 3
 
 Linked from:
 
+- ← [[questions/0aedc371-a764-4ce3-a88c-423a6a16a826]] (about, w=3)
 - ← [[creatures/rock-shell]] (mentions, w=1)
 - ← [[creatures/rock-shell-adult]] (mentions, w=1)
 - ← [[creatures/rock-shell-young]] (mentions, w=1)
+- ← [[questions/0aedc371-a764-4ce3-a88c-423a6a16a826]] (mentions, w=1)
 
 ## Inferred
 

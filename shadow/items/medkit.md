@@ -3,7 +3,7 @@ title: Medkit
 aliases: []
 type: equipment
 summary: A field medical kit for treating wounds during/after combat.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-5e6959
 table: equipment

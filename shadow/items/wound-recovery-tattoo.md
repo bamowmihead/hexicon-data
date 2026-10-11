@@ -3,7 +3,7 @@ title: Wound-Recovery Tattoo
 aliases: []
 type: equipment
 summary: "Soul-Force tattoo — spend to recover wounds (Exiled Chapter: 1-2 uses/combat)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-140f5b
 table: equipment

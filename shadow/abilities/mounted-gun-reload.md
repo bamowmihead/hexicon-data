@@ -3,7 +3,7 @@ title: Mounted Gun Reload
 aliases: []
 type: ability
 summary: Reload the mounted gun.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-batkin-mounted-gun-reload
 table: creature_abilities

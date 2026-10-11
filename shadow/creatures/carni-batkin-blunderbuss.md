@@ -3,7 +3,7 @@ title: Carni Batkin (Blunderbuss)
 aliases: []
 type: creature
 summary: Flight 10 m · walk 6 m · 4 endurance per turn airborne.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-batkin-carni-blunderbuss
 table: creature_types

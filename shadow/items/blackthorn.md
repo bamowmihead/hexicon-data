@@ -3,7 +3,7 @@ title: Blackthorn
 aliases: []
 type: consumable
 summary: Garden crop (ingredient).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-8cc244
 table: consumables

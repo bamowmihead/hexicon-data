@@ -3,7 +3,7 @@ title: overgrowth.forage_gain
 aliases: []
 type: rule
 summary: Overgrowth gained by foraging (handoff §2).
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: overgrowth.forage_gain
 table: rules

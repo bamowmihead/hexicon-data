@@ -3,11 +3,11 @@ title: Warg
 aliases: []
 type: trance-card
 summary: A large dog-like creature with an insatiable blood lust
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: trance-09
 table: trances
-links: 2
+links: 3
 ---
 
 # Warg
@@ -36,7 +36,9 @@ A large dog-like creature with an insatiable blood lust
 
 Linked from:
 
+- ← [[questions/6d8c3610-8928-437b-a3bf-ec5d2dd38388]] (about, w=3)
 - ← [[pcs/korven]] (relation, w=3)
+- ← [[questions/6d8c3610-8928-437b-a3bf-ec5d2dd38388]] (mentions, w=1)
 
 ## Inferred
 

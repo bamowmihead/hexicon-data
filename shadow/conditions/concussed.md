@@ -3,7 +3,7 @@ title: Concussed
 aliases: []
 type: status-condition
 summary: Mental haze; -2 to mental attribute checks.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-concussed
 table: status_conditions

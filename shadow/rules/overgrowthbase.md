@@ -3,7 +3,7 @@ title: overgrowth.base
 aliases: []
 type: rule
 summary: See overgrowth.per_intuition.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: overgrowth.base
 table: rules

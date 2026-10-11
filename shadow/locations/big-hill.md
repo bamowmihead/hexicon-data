@@ -3,7 +3,7 @@ title: Big Hill
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> A hill rises beside the game trail, twice the size of a double wide a…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 11
 table: locations

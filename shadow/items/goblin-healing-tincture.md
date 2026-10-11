@@ -3,7 +3,7 @@ title: Goblin Healing Tincture
 aliases: []
 type: consumable
 summary: Goblin-brewed.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: con-gg-heal
 table: consumables

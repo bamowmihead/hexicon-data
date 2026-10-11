@@ -3,11 +3,11 @@ title: Brigandine
 aliases: []
 type: equipment
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-287788
 table: equipment
-links: 2
+links: 3
 ---
 
 # Brigandine
@@ -32,8 +32,10 @@ links: 2
 
 Linked from:
 
+- ← [[questions/55832605-62c3-4959-a56e-4138a2ffe6cc]] (about, w=3)
 - ← [[creatures/guild-mercenary]] (mentions, w=1)
 - ← [[creatures/humble]] (mentions, w=1)
+- ← [[questions/55832605-62c3-4959-a56e-4138a2ffe6cc]] (mentions, w=1)
 
 ## Inferred
 

@@ -3,7 +3,7 @@ title: Bog Stalker
 aliases: []
 type: creature
 summary: Low-slung, broad-jawed, slick-skinned.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-62dce4
 table: creature_types

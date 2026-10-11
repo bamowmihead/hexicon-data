@@ -3,7 +3,7 @@ title: Sunstone Ooze
 aliases: []
 type: creature
 summary: An amorphous translucent mass the size of a horse.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-601fb1
 table: creature_types

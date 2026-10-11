@@ -3,7 +3,7 @@ title: Mudback Goblin Zombie
 aliases: []
 type: creature
 summary: A small body dragged back to its feet by fungus.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-4a89ab
 table: creature_types

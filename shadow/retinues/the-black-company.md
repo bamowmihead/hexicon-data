@@ -3,7 +3,7 @@ title: The Black Company
 aliases: []
 type: retinue-template
 summary: "The foil faction Knot — a leashed refuge whose cohesion is enforced by Captain Jack Black's prison tattoo."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rrt-03bcaa
 table: retinue_templates

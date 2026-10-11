@@ -3,7 +3,7 @@ title: Diseased
 aliases: []
 type: status-condition
 summary: Persistent affliction; specific effect varies by disease.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-diseased
 table: status_conditions

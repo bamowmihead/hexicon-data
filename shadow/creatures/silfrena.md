@@ -3,11 +3,11 @@ title: Silfrena
 aliases: []
 type: creature
 summary: The Lector who leads the expedition and would never dirty her hands with combat.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-e8eea7
 table: creature_types
-links: 7
+links: 8
 ---
 
 # Silfrena
@@ -64,7 +64,9 @@ The Lector who leads the expedition and would never dirty her hands with combat.
 
 Linked from:
 
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (about, w=3)
 - ← [[creatures/scribe]] (mentions, w=1)
+- ← [[questions/f34659d2-9037-4f4b-af27-c5085149cecd]] (mentions, w=1)
 
 ## Inferred
 

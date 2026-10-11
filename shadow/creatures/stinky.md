@@ -3,11 +3,11 @@ title: Stinky
 aliases: []
 type: creature
 summary: A massive nearly elephant-sized creature with thick matted fur.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-7cf25d
 table: creature_types
-links: 1
+links: 4
 ---
 
 # Stinky
@@ -61,6 +61,12 @@ A massive nearly elephant-sized creature with thick matted fur.
 ## Links
 
 - mentions → [[items/mace]] (w=1, prose)
+
+Linked from:
+
+- ← [[questions/55ab9b93-6f21-4ec3-9810-f5e7a35b98f5]] (about, w=3)
+- ← [[questions/b426f22f-1009-4eec-a8e6-b291710389f5]] (about, w=3)
+- ← [[questions/b533d97f-1a0b-49d5-aff4-5b994aa027fe]] (about, w=3)
 
 ## Inferred
 

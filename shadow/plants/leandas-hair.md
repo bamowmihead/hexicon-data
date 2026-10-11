@@ -3,7 +3,7 @@ title: "Leanda's Hair"
 aliases: []
 type: cultivation-card
 summary: A hanging verdant vine looking oddly like the hair of a scholar you know
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-05
 table: cultivations

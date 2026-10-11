@@ -3,7 +3,7 @@ title: Goblin Healing Tincture
 aliases: []
 type: ability
 summary: "Restores 20 endurance, clears one wound slot, and stops that wound's bleeding."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-gg-heal
 table: creature_abilities

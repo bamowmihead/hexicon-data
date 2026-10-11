@@ -3,7 +3,7 @@ title: Pillow Moss Campsite
 aliases: []
 type: location
 summary: "*** *First visited: Expedition #1* * [x] \\[x] <details open><summary>[ ] Scene</summary><p>A field of thick plushy moss, dark green and soft enough to sink a ha…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 23
 table: locations

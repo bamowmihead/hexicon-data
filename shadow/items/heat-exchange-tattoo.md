@@ -3,7 +3,7 @@ title: Heat-Exchange Tattoo
 aliases: []
 type: equipment
 summary: "Jack Black's discipline — relocate heat (the basis of his whole arsenal)."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: equ-8bd72c
 table: equipment

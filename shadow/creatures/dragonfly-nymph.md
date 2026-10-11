@@ -3,7 +3,7 @@ title: Dragonfly (Nymph)
 aliases: []
 type: creature
 summary: Something moved beneath the boat.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-848700
 table: creature_types

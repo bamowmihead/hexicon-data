@@ -3,7 +3,7 @@ title: Goblin Fingers
 aliases: []
 type: cultivation-card
 summary: A snot-colored vine which grows rapidly towards metallic objects
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: cult-11
 table: cultivations

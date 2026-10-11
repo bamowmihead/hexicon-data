@@ -3,7 +3,7 @@ title: Headbutt
 aliases: []
 type: ability
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: ca-eb72d9
 table: creature_abilities

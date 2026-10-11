@@ -3,7 +3,7 @@ title: Stalker Bat
 aliases: []
 type: creature
 summary: Eagle-sized bat with dark fur that vanishes against the night canopy.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-83c694
 table: creature_types

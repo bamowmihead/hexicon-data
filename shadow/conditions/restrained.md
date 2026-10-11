@@ -3,7 +3,7 @@ title: Restrained
 aliases: []
 type: status-condition
 summary: Target cannot move OR take physical actions; tier 3.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: sc-restrained
 table: status_conditions

@@ -3,7 +3,7 @@ title: plant.destroyed.overgrowth_loss
 aliases: []
 type: rule
 summary: "Overgrowth the Ranger loses when one of their plants is destroyed (Reece 9/28: 'lose overgrowth from ..."
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: plant.destroyed.overgrowth_loss
 table: rules

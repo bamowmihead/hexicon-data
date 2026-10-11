@@ -3,7 +3,7 @@ title: soul.aether_die_cost_divisor
 aliases: []
 type: rule
 summary: Aether infused from the Reserve costs die size ÷ this.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: soul.aether_die_cost_divisor
 table: rules

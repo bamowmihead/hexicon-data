@@ -3,7 +3,7 @@ title: Onos (Young)
 aliases: []
 type: creature
 summary: A stocky low-slung creature no bigger than a dog.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-b3b1d8
 table: creature_types

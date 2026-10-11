@@ -3,7 +3,7 @@ title: Chiseled Chitin
 aliases: []
 type: gear
 summary: ""
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: gea-chiseled-chitin
 table: gear

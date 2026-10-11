@@ -3,7 +3,7 @@ title: Decrepit Lichen Sentry (Warden)
 aliases: []
 type: creature
 summary: 8ft tall stone golem with massive shield arm.
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: rt-9b71a0
 table: creature_types

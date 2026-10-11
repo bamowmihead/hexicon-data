@@ -3,7 +3,7 @@ title: Wet Flower Field
 aliases: []
 type: location
 summary: "--- *First visited: Expedition #* - [ ] **Visit 1** <details> <summary>[ ] Scene</summary> The flowers from the field continue here but the ground is soft and w…"
-last-verified: 2026-10-07
+last-verified: 2026-10-08
 source: snapshot
 id: 36
 table: locations
