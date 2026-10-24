@@ -1,5 +1,8 @@
 [
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "047d96f2-3f64-48fb-9919-2cced15d0f52",
     "ingested_at": null,
@@ -8,6 +11,7 @@
       "spec-habit-vines"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Lichen (13 links) and Vines (11 links), the other two well-connected Ranger 2.0 growth-habit trees, have no description. A sentence each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -15,9 +19,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "0aedc371-a764-4ce3-a88c-423a6a16a826",
     "ingested_at": null,
@@ -27,6 +35,7 @@
       "ca-36a1ed"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "More abilities without an effect text: Flee, Heal, Tail Fan Slap. What does each do?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -34,9 +43,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "14108323-5024-4ebc-a797-a7d356ab6e79",
     "ingested_at": null,
@@ -44,6 +57,7 @@
       "soul.willpower_bonus_divisor"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The rule soul.willpower_bonus_divisor is \"pending\" at 2; its note says \"Per die is canon; the divisor is Claude's.\" Willpower bonus per die = ⌊Willpower ÷ 2⌋ as it stands. Do you lock 2, or pick another divisor?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -51,9 +65,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "canon-conflict"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "19148d22-fa09-406b-8735-7d9689d35e94",
     "ingested_at": null,
@@ -65,6 +83,7 @@
       "ca-ba66e1"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Abilities without an effect text, most-linked first: Crossbow Reload, Acid Spray, Crushing Claw, Digging Claw Grab, Matchlock Reload. What does each do?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -72,9 +91,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "1feacd19-94fa-412f-b2b0-bdfa3500657c",
     "ingested_at": null,
@@ -85,6 +108,7 @@
       "tree-channeler"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The Channeler energy trees Anima, Aether and Ichor, and the Channeler tree itself, have no description. A sentence each on what the energy is?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -92,9 +116,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "4639cb8a-cc6e-4303-a595-5394f2d1655a",
     "ingested_at": null,
@@ -107,6 +135,7 @@
       "arm-46e968"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Next armaments without a description: Buckler, Dagger, Mace, Warhammer, Javelin, Light Crossbow. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -114,9 +143,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "4e060ebb-bf72-41bb-b7f6-517ae999cc35",
     "ingested_at": null,
@@ -125,6 +158,7 @@
       "67"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Subspace exists twice in Locations. Row 66 is on the surface at hex 3038, node key \"center\", level 1, with the description \"so very kinky\". Row 67 is flagged is_meta with no hex. Which one is the real Subspace, and is the other a meta container to keep?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -132,9 +166,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "filing-decision"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "55547477-c464-43b9-a57f-9131a60821c7",
     "ingested_at": null,
@@ -142,6 +180,7 @@
       "rrt-21d7e6"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The retinue template \"Cackler Pack\" (side gm, hostility neutral) has no description. What is a Cackler pack, in a line?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -149,9 +188,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "55832605-62c3-4959-a56e-4138a2ffe6cc",
     "ingested_at": null,
@@ -164,6 +207,7 @@
       "equ-2d6f50"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Equipment without a description, most-linked first: Brigandine, Satchel, Full Plate, Belt, Cuirass, Expedition Pack. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -171,9 +215,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "55ab9b93-6f21-4ec3-9810-f5e7a35b98f5",
     "ingested_at": null,
@@ -183,6 +231,7 @@
       "trance-12"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The Cattlepos creature type (rt-8ad790) has body plan \"humanoid\", but Stinky's Cattlepos row (rt-7cf25d) is \"quadruped\" and the Cattlepos trance card's flavor reads \"A large beast of burden with tusks & a mace tail\". Is a Cattlepos humanoid or quadruped?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -190,9 +239,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "canon-conflict"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "5c4d21c0-c460-49e8-a035-3e13248c93d6",
     "ingested_at": null,
@@ -201,6 +254,7 @@
       "house-9418c3"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Verdant (house Gallia, Ranger, willpower 3, speed 6) has no description. Who is Verdant?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -208,9 +262,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "6b91e183-16a3-4f00-9a7f-9b45d95e6647",
     "ingested_at": null,
@@ -222,6 +280,7 @@
       "pc-933f24"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "\"the company\" (company-playtest) has no description. All four PCs belong to it: Semille, Bledger, Verdant, Korven. What is the company, in a sentence or two?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -229,9 +288,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "6d8c3610-8928-437b-a3bf-ec5d2dd38388",
     "ingested_at": null,
@@ -241,6 +304,7 @@
       "trance-09"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Korven (house Shawnanigans, Berserker, trance stage 2, active trance Warg) has no description. Who is Korven?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -248,9 +312,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "824a8a28-9a83-4977-bfd0-f3f45d72705e",
     "ingested_at": null,
@@ -259,6 +327,7 @@
       "brn-9b22f7"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Walker (Riftian, Tinkerer, role \"Guild master craftsman, cart designer, wheelchair-bound, only wilderness vehicle engineer in Rift Stone\", branch Trades) has no bio. Who is Walker, beyond the role line?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -266,9 +335,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "8c3bb7d6-8b62-48cb-95b2-70fa24e96a02",
     "ingested_at": null,
@@ -277,6 +350,7 @@
       "equ-kit-quiver"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Quiver exists twice in Equipment with different slot rules. equ-381924: slot \"Hip\", category \"Hip Mounted\", description \"Required for Bows & Crossbows\", completion \"Incomplete\". equ-kit-quiver: slots \"back\", \"hip_1\", \"hip_2\", no description. Which slots does a Quiver take, and do both rows stay?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -284,9 +358,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "canon-conflict"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "8ef33c73-15dd-461a-b6b3-1a7997301d0d",
     "ingested_at": null,
@@ -297,6 +375,7 @@
       "gear-soul-wand"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Four foci carry a slot count of 1 in the Foci table while their gear descriptions still say \"Slot count PENDING (1)\": Amulet (\"A worn foci\"), Glove (\"A worn foci\"), Staff (\"A held foci\"), Wand (\"A held foci\"). Spike (2) and Stave (5) are settled by the March kit. Is 1 slot final for these four?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -304,9 +383,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "canon-conflict"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "9a396cb8-e5da-4542-a24e-6c0db975bee7",
     "ingested_at": null,
@@ -316,6 +399,7 @@
       "46"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The shop \"The Ferry Walk Market\" has no location (location_id 0), while \"The Ferry Landing Market\" sits at Ferry Landing (location 46 / shop location 63). Where is The Ferry Walk Market, or is it the same market under an older name?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -323,9 +407,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "filing-decision"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "9c67eeab-9cb1-406b-b856-ced5ebf008a2",
     "ingested_at": null,
@@ -333,6 +421,7 @@
       "world.shear_m"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The rule world.shear_m has status \"canon\" with value 2, but its own note says \"the number is Claude's until Reece has seen a place shear\". Is 2 metres canon, or should the rule be marked pending until you have seen a location shear?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -340,9 +429,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "canon-conflict"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "a1ea207f-076c-42b8-a750-c01859c11579",
     "ingested_at": null,
@@ -352,6 +445,7 @@
       "pc-4b659c"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The vocation Ranger (energy kind \"reagents\") has no description; Semille and Verdant practise it. A sentence for the vocation?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -359,9 +453,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "a2eee291-8bf8-40c8-a28c-862977db8f0c",
     "ingested_at": null,
@@ -370,6 +468,7 @@
       "voc-ranger-2"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Moss, a Ranger 2.0 growth-habit specialization tree, is a hub (16 links) with no description. What is the Moss habit in a sentence?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -377,9 +476,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "a5baf047-6e24-4ebf-a33c-198be67485ed",
     "ingested_at": null,
@@ -388,6 +491,7 @@
       "21"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The creature \"[Inquisitor — Needs Name]\" (Riftian, status Alive, role \"Sensate investigator, commands husks, dispatched to Ironwood Hovel\") still has its placeholder name. What is this Inquisitor called?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -395,9 +499,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "filing-decision"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "a9f8b9bd-8a20-4e71-906d-215df3ebd12f",
     "ingested_at": null,
@@ -406,6 +514,7 @@
       "21"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Val (Riftian, Berserker, status Dead, role \"Goblinoid trance specialist, defector from Druidic Circle, killed at Ironwood Hovel\", branch Grafted) has no bio. Who was Val?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -413,9 +522,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "ae443999-438b-4ca9-9504-daaa22026790",
     "ingested_at": null,
@@ -426,6 +539,7 @@
       "17"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Four biomes have no description: highlands, amber shoreline, Wetland Shoreline, Eel Waters (the other seven have one). A sentence each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -433,9 +547,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "b426f22f-1009-4eec-a8e6-b291710389f5",
     "ingested_at": null,
@@ -445,6 +563,7 @@
       "pc-193c2a"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Stinky has two creature rows that disagree. One (rt-7cf25d) is species \"Goblinoid\", body plan \"quadruped\", size \"Huge\", owned by house Jarraxus, with the Cattlepos statline (might 8, endurance 30). The other (rt-b1bbd0) is species \"Calderan\", body plan \"humanoid\", size \"Big\", status \"Alive\", role \"Bledger's Cattlepos companion, 3/5 attunement stars\", no owner. Which row is Stinky, and does the other one go?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -452,9 +571,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "canon-conflict"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 3,
     "id": "b533d97f-1a0b-49d5-aff4-5b994aa027fe",
     "ingested_at": null,
@@ -468,6 +591,7 @@
       "rt-a6425d"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The companion kind \"beast\" (relationship \"Attunement\", points \"attunement point\") is bound to the vocation Berserker 2.0, whose description says \"Unreleased. Assign to nobody until Reece releases 2.0; the live Berserker is untouched.\" Yet four beasts are owned by houses today: Jimothy and Stinky (Jarraxus), Grackle (Shawnanigans), Phteve (Serenity), and Bledger and Korven practise the live Berserker. Does the beast bond belong to the live Berserker now, or do these four sit outside the companion system until 2.0 is released?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -475,9 +599,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "canon-conflict"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "b9b90f67-1c10-4012-a1c2-8a1db25eaa8b",
     "ingested_at": null,
@@ -487,6 +615,7 @@
       "trance-06"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Bledger (house Jarraxus, Berserker, trance stage 2, active trance Scuttle Bat, 500 salt) has no description. Who is Bledger?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -494,9 +623,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "bc813449-7f55-409a-b95b-2e844adf7c75",
     "ingested_at": null,
@@ -505,6 +638,7 @@
       "rt-ab319f"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Trapper exists twice as an unnamed creature type: rt-512fcf has a statline (endurance 10, prowess 2, intuition 2); rt-ab319f is a scratch row with no stats and, unlike the scratch rows for Zinther, Leanda, Galium and Wheeler, no named child. Keep both, or is the scratch Trapper a leftover?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -512,9 +646,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "filing-decision"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "bd32f40f-b667-493b-a4ea-cba972a54c1d",
     "ingested_at": null,
@@ -523,6 +661,7 @@
       "spirit"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The vocation Channeler (energy kind \"soul\") has no description; the companion kind \"spirit\" (\"Spirit weaving\") is bound to it. A sentence for the vocation?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -530,9 +669,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "c8d77b6d-2d60-421d-9886-f71d00d0565b",
     "ingested_at": null,
@@ -540,6 +683,7 @@
       "nr-7db0c5"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The retinue template \"The Party\" (side party, hostility neutral, 15 links) has no description. What is it, in a line?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -547,9 +691,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "c9a00a5a-f57e-49d9-bdce-8fcf78550d3e",
     "ingested_at": null,
@@ -559,6 +707,7 @@
       "pc-933f24"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The vocation Berserker (energy kind \"reagents\") has no description; Bledger and Korven practise it. A sentence for the vocation?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -566,9 +715,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "cac8f96b-16b5-4485-87c0-107defcf2ebd",
     "ingested_at": null,
@@ -581,6 +734,7 @@
       "arm-771b24"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Sixty-seven of the eighty-one armaments have no description. The six most-linked: Short Spear, Hand Crossbow, Arbalest, Tower, Long Bow, Pike. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -588,9 +742,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 3,
     "id": "cb769390-357b-4f7b-aa32-a95b3d01a9f7",
     "ingested_at": null,
@@ -600,6 +758,7 @@
       "fac-87ddfc"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The factions The Underworld, The Sensates and The Runites have only a name. The Guild asks \"How do we distribute wealth?\" and The Druidic Circle \"How do we adapt to the wilds?\", each with three branches. What is each of the other three factions' axis?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -607,9 +766,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "cb831a84-ca58-46d6-9add-730c037a4ab8",
     "ingested_at": null,
@@ -617,6 +780,7 @@
       "companion.death_penalty_points"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The rule companion.death_penalty_points is \"pending\" at 2; its note quotes you, \"subtract some points\", and says the amount is Claude's. How many points come off a bond's ledger when its companion dies?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -624,9 +788,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "canon-conflict"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "cd2f3eb7-7e46-458b-83f4-c042ecd068d8",
     "ingested_at": null,
@@ -634,6 +802,7 @@
       "rt-ork-base"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Ork (species Goblinoid, size Large, might 6, 6 links) has no tagline or bio. A tagline?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -641,9 +810,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "ce7626a1-4750-47e6-9cef-eccef27fd19e",
     "ingested_at": null,
@@ -652,6 +825,7 @@
       "house-56a7b0"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Semille (house Serenity, Ranger, intellect 3, prowess 3) has no description. Who is Semille?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -659,9 +833,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "dd8510a4-27d5-483a-9516-46493bb9b859",
     "ingested_at": null,
@@ -673,6 +851,7 @@
       "rt-batkin-vampiric-base"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The five base Batkin types have no tagline or bio: Fishing, Insectivore, Carni, Tent-maker, Vampiric Batkin (each with its armed variants under it). A tagline for each base type?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -680,9 +859,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 2,
     "id": "e067e1f9-3bc0-4646-981d-af6abc852e70",
     "ingested_at": null,
@@ -692,6 +875,7 @@
       "61"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Three landmarks have no description or notes: Rot Hornet Hive (level 4, unvisited), Sulfur vent field (level 4, visited), the circle's grove (level 4, unvisited). A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -699,9 +883,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "f016856b-524e-43d1-b8bb-1229dabb963f",
     "ingested_at": null,
@@ -712,6 +900,7 @@
       "gea-chitin"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Gear without a description, after Bone and Stones: Logs, Sticks, Verdant Vine, Chitin. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -719,9 +908,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 3,
     "id": "f34659d2-9037-4f4b-af27-c5085149cecd",
     "ingested_at": null,
@@ -738,6 +931,7 @@
       "rt-1e4f2d"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "Twenty-two creatures carry a vocation that is not in the Vocations table (which holds Ranger, Berserker, Channeler and the 2.0 pair): Inquisitor (Galedrial, Palen, the unnamed Inquisitor), Soldier (the Chapter and Ash Grove grunts), Mercenary (Red Band, Captain Mandy), Artificer (Leela, Captain Jack Black), Druid (Sennick), Revenant (Rathos), Arborist and Shaman (the Keethee), Sensate (Mordant), Delver (Oldin), Tinkerer (Walker), Scribe, Aeromancer and Geomancer \"(Elementalist)\" (Jeckil, Dalenar), Lector (Silfrena), and \"Inquisitor / Channeler\" (Eternal Chapter Sensate). Are these vocations to be added as rows, or NPC labels that stay as free text?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -745,9 +939,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "filing-decision"
   },
   {
+    "awaiting": null,
+    "choices_json": [],
+    "context": "",
     "difficulty": 1,
     "id": "fd485850-94a3-4581-bca5-72519344e4d6",
     "ingested_at": null,
@@ -756,6 +954,7 @@
       "gea-stone"
     ],
     "notes": "",
+    "proposed_answer": null,
     "question": "The gear items Bone (14 links) and Stones (10 links) are the most-linked items without a description. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
@@ -763,23 +962,7 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
+    "thread_json": [],
     "type": "needs-prose"
-  },
-  {
-    "difficulty": 2,
-    "id": "q-dac4562c23d59d42",
-    "ingested_at": 1791402480,
-    "links_json": [
-      "pc-193c2a"
-    ],
-    "notes": "",
-    "question": "Why?",
-    "raised_at": 1791398547,
-    "raised_by": "reece",
-    "rank": null,
-    "resolved_at": 1791398570,
-    "shuffle_count": 0,
-    "status": "resolved",
-    "type": "canon-conflict"
   }
 ]

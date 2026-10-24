@@ -1,7 +1,7 @@
 {
   "format": 1,
   "machine": "THERIEGLBOP",
-  "schema": 392,
+  "schema": 393,
   "skipped_blob_columns": [],
   "source": "hexicon",
   "tables": [
@@ -415,7 +415,7 @@
       "file": "questions.json",
       "group": "Brain",
       "label": "Questions",
-      "rows": 41,
+      "rows": 40,
       "table": "questions"
     }
   ],
