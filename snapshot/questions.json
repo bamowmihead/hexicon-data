@@ -349,7 +349,7 @@
       "equ-381924",
       "equ-kit-quiver"
     ],
-    "notes": "",
+    "notes": "yes they should be able to fit in either hip slot or on shoulder slots too. some items can be equipped in different locations.",
     "proposed_answer": null,
     "question": "Quiver exists twice in Equipment with different slot rules. equ-381924: slot \"Hip\", category \"Hip Mounted\", description \"Required for Bows & Crossbows\", completion \"Incomplete\". equ-kit-quiver: slots \"back\", \"hip_1\", \"hip_2\", no description. Which slots does a Quiver take, and do both rows stay?",
     "raised_at": 1791401812,
@@ -374,7 +374,7 @@
       "gear-soul-staff",
       "gear-soul-wand"
     ],
-    "notes": "",
+    "notes": "glove, amulet, spike, wand, is 1 there are 2 kinds of foci",
     "proposed_answer": null,
     "question": "Four foci carry a slot count of 1 in the Foci table while their gear descriptions still say \"Slot count PENDING (1)\": Amulet (\"A worn foci\"), Glove (\"A worn foci\"), Staff (\"A held foci\"), Wand (\"A held foci\"). Spike (2) and Stave (5) are settled by the March kit. Is 1 slot final for these four?",
     "raised_at": 1791401812,
