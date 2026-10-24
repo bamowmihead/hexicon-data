@@ -672,7 +672,7 @@
       "voc-channeler",
       "spirit"
     ],
-    "notes": "",
+    "notes": "Channeler's are part of the Riftstone Temple. They're taught by the Sensate to act as a Conduit for the forces of life and death. They ",
     "proposed_answer": null,
     "question": "The vocation Channeler (energy kind \"soul\") has no description; the companion kind \"spirit\" (\"Spirit weaving\") is bound to it. A sentence for the vocation?",
     "raised_at": 1791401812,
@@ -942,15 +942,15 @@
       "rt-e8eea7",
       "rt-1e4f2d"
     ],
-    "notes": "",
+    "notes": "We need to make NPCs of vocations much more simple for me to run. They will have their own tree for leveling up and they will level up when they survive a session with the PC's or when I choose to give them levels. this will be the same tree system all companions utilize. those vocations in this case are companion tables so they shouldn't be full hex vocations.",
     "proposed_answer": null,
     "question": "Twenty-two creatures carry a vocation that is not in the Vocations table (which holds Ranger, Berserker, Channeler and the 2.0 pair): Inquisitor (Galedrial, Palen, the unnamed Inquisitor), Soldier (the Chapter and Ash Grove grunts), Mercenary (Red Band, Captain Mandy), Artificer (Leela, Captain Jack Black), Druid (Sennick), Revenant (Rathos), Arborist and Shaman (the Keethee), Sensate (Mordant), Delver (Oldin), Tinkerer (Walker), Scribe, Aeromancer and Geomancer \"(Elementalist)\" (Jeckil, Dalenar), Lector (Silfrena), and \"Inquisitor / Channeler\" (Eternal Chapter Sensate). Are these vocations to be added as rows, or NPC labels that stay as free text?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 11.0,
-    "resolved_at": null,
+    "resolved_at": 1792865551,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "filing-decision"
   },
