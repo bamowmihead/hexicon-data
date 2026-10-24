@@ -34,20 +34,20 @@
       "ca-0df158",
       "ca-36a1ed"
     ],
-    "notes": "",
+    "notes": "These need to be done as separate questions",
     "proposed_answer": null,
     "question": "More abilities without an effect text: Flee, Heal, Tail Fan Slap. What does each do?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 37.0,
-    "resolved_at": null,
+    "resolved_at": 1792867109,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
   {
-    "awaiting": "claude",
+    "awaiting": null,
     "choices_json": [],
     "context": "",
     "difficulty": 2,
@@ -56,15 +56,15 @@
     "links_json": [
       "soul.willpower_bonus_divisor"
     ],
-    "notes": "This description gives me nothing to work with.",
+    "notes": "These descriptions need to be much more clear and well explained. try again",
     "proposed_answer": null,
     "question": "The rule soul.willpower_bonus_divisor is \"pending\" at 2; its note says \"Per die is canon; the divisor is Claude's.\" Willpower bonus per die = ⌊Willpower ÷ 2⌋ as it stands. Do you lock 2, or pick another divisor?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 5.0,
-    "resolved_at": null,
+    "resolved_at": 1792867158,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [
       {
         "at": 1792865085,
@@ -88,15 +88,15 @@
       "ca-eedd51",
       "ca-ba66e1"
     ],
-    "notes": "",
+    "notes": "These need to be done as separate questions",
     "proposed_answer": null,
     "question": "Abilities without an effect text, most-linked first: Crossbow Reload, Acid Spray, Crushing Claw, Digging Claw Grab, Matchlock Reload. What does each do?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 36.0,
-    "resolved_at": null,
+    "resolved_at": 1792867114,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -140,15 +140,15 @@
       "arm-5f5450",
       "arm-46e968"
     ],
-    "notes": "",
+    "notes": "These need to be done as separate questions",
     "proposed_answer": null,
     "question": "Next armaments without a description: Buckler, Dagger, Mace, Warhammer, Javelin, Light Crossbow. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 33.0,
-    "resolved_at": null,
+    "resolved_at": 1792867118,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -212,15 +212,15 @@
       "equ-35cff8",
       "equ-2d6f50"
     ],
-    "notes": "",
+    "notes": "These need to be done as separate questions",
     "proposed_answer": null,
     "question": "Equipment without a description, most-linked first: Brigandine, Satchel, Full Plate, Belt, Cuirass, Expedition Pack. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 38.0,
-    "resolved_at": null,
+    "resolved_at": 1792867108,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -332,15 +332,15 @@
       "rt-ba1f08",
       "brn-9b22f7"
     ],
-    "notes": "",
+    "notes": "Walker is a frail man in his 40s, he is bound to a wheelchair and is almost never seen without a large company of guards. He dresses in suit and tie and wears a black leather hat. Walker is the Master Craftsmen of a Trade Hall by the name of Wheeler's Hall.",
     "proposed_answer": null,
     "question": "Walker (Riftian, Tinkerer, role \"Guild master craftsman, cart designer, wheelchair-bound, only wilderness vehicle engineer in Rift Stone\", branch Trades) has no bio. Who is Walker, beyond the role line?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 28.0,
-    "resolved_at": null,
+    "resolved_at": 1792866867,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -417,7 +417,7 @@
     "type": "filing-decision"
   },
   {
-    "awaiting": "claude",
+    "awaiting": null,
     "choices_json": [],
     "context": "",
     "difficulty": 1,
@@ -426,15 +426,15 @@
     "links_json": [
       "world.shear_m"
     ],
-    "notes": "I'm not sure what that rule is and what it's for can you explain it?",
+    "notes": "These descriptions need to be much more clear and well explained. try again",
     "proposed_answer": null,
     "question": "The rule world.shear_m has status \"canon\" with value 2, but its own note says \"the number is Claude's until Reece has seen a place shear\". Is 2 metres canon, or should the rule be marked pending until you have seen a location shear?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 4.0,
-    "resolved_at": null,
+    "resolved_at": 1792867157,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [
       {
         "at": 1792860247,
@@ -531,10 +531,16 @@
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 30.0,
-    "resolved_at": null,
+    "resolved_at": 1792866933,
     "shuffle_count": 0,
-    "status": "open",
-    "thread_json": [],
+    "status": "resolved",
+    "thread_json": [
+      {
+        "at": 1792866929,
+        "text": "They're a Deceased NPC they are ripe for deletion",
+        "who": "reece"
+      }
+    ],
     "type": "needs-prose"
   },
   {
@@ -550,15 +556,15 @@
       "16",
       "17"
     ],
-    "notes": "",
+    "notes": "These need to be done as separate questions",
     "proposed_answer": null,
     "question": "Four biomes have no description: highlands, amber shoreline, Wetland Shoreline, Eel Waters (the other seven have one). A sentence each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 34.0,
-    "resolved_at": null,
+    "resolved_at": 1792867116,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -745,15 +751,15 @@
       "arm-7a1540",
       "arm-771b24"
     ],
-    "notes": "",
+    "notes": "These need to be done as separate questions",
     "proposed_answer": null,
     "question": "Sixty-seven of the eighty-one armaments have no description. The six most-linked: Short Spear, Hand Crossbow, Arbalest, Tower, Long Bow, Pike. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 32.0,
-    "resolved_at": null,
+    "resolved_at": 1792867120,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -769,15 +775,15 @@
       "fac-86861c",
       "fac-87ddfc"
     ],
-    "notes": "",
+    "notes": "This is not relevent it is only a design thought experiment not an element to be written as prose for the game",
     "proposed_answer": null,
     "question": "The factions The Underworld, The Sensates and The Runites have only a name. The Guild asks \"How do we distribute wealth?\" and The Druidic Circle \"How do we adapt to the wilds?\", each with three branches. What is each of the other three factions' axis?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 39.0,
-    "resolved_at": null,
+    "resolved_at": 1792867201,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -862,16 +868,22 @@
       "rt-batkin-tentmaker-base",
       "rt-batkin-vampiric-base"
     ],
-    "notes": "",
+    "notes": "These need to be done as separate questions",
     "proposed_answer": null,
     "question": "The five base Batkin types have no tagline or bio: Fishing, Insectivore, Carni, Tent-maker, Vampiric Batkin (each with its armed variants under it). A tagline for each base type?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 29.0,
-    "resolved_at": null,
+    "resolved_at": 1792867129,
     "shuffle_count": 0,
-    "status": "open",
-    "thread_json": [],
+    "status": "resolved",
+    "thread_json": [
+      {
+        "at": 1792866895,
+        "text": "This needs to be 5 questions not 1",
+        "who": "reece"
+      }
+    ],
     "type": "needs-prose"
   },
   {
@@ -886,15 +898,15 @@
       "50",
       "61"
     ],
-    "notes": "",
+    "notes": "These need to be done as separate questions",
     "proposed_answer": null,
     "question": "Three landmarks have no description or notes: Rot Hornet Hive (level 4, unvisited), Sulfur vent field (level 4, visited), the circle's grove (level 4, unvisited). A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 35.0,
-    "resolved_at": null,
+    "resolved_at": 1792867123,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -911,15 +923,15 @@
       "gea-2941b2",
       "gea-chitin"
     ],
-    "notes": "",
+    "notes": "Too many questions for one question this needs to be several questions",
     "proposed_answer": null,
     "question": "Gear without a description, after Bone and Stones: Logs, Sticks, Verdant Vine, Chitin. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 40.0,
-    "resolved_at": null,
+    "resolved_at": 1792867222,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -965,15 +977,15 @@
       "gea-bone",
       "gea-stone"
     ],
-    "notes": "",
+    "notes": "For bones: Nothing must go to waste. \n\nFor Stones: The Shattered flesh of a now dormant elemental. or maybe just a river rock.",
     "proposed_answer": null,
     "question": "The gear items Bone (14 links) and Stones (10 links) are the most-linked items without a description. A line each?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 31.0,
-    "resolved_at": null,
+    "resolved_at": 1792867077,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   }
