@@ -230,15 +230,15 @@
       "rt-7cf25d",
       "trance-12"
     ],
-    "notes": "",
+    "notes": "Quadruped",
     "proposed_answer": null,
     "question": "The Cattlepos creature type (rt-8ad790) has body plan \"humanoid\", but Stinky's Cattlepos row (rt-7cf25d) is \"quadruped\" and the Cattlepos trance card's flavor reads \"A large beast of burden with tusks & a mace tail\". Is a Cattlepos humanoid or quadruped?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 2.0,
-    "resolved_at": null,
+    "resolved_at": 1792858269,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "canon-conflict"
   },
