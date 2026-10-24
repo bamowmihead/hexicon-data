@@ -562,15 +562,15 @@
       "rt-b1bbd0",
       "pc-193c2a"
     ],
-    "notes": "",
+    "notes": "Stinky is the quadruped Cattlepos",
     "proposed_answer": null,
     "question": "Stinky has two creature rows that disagree. One (rt-7cf25d) is species \"Goblinoid\", body plan \"quadruped\", size \"Huge\", owned by house Jarraxus, with the Cattlepos statline (might 8, endurance 30). The other (rt-b1bbd0) is species \"Calderan\", body plan \"humanoid\", size \"Big\", status \"Alive\", role \"Bledger's Cattlepos companion, 3/5 attunement stars\", no owner. Which row is Stinky, and does the other one go?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 1.0,
-    "resolved_at": null,
+    "resolved_at": 1792858529,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "canon-conflict"
   },
