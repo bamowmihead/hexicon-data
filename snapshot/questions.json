@@ -785,7 +785,7 @@
     "links_json": [
       "companion.death_penalty_points"
     ],
-    "notes": "",
+    "notes": "I think this should depend on the companion. for instance some won't lose any and some will, ",
     "proposed_answer": null,
     "question": "The rule companion.death_penalty_points is \"pending\" at 2; its note quotes you, \"subtract some points\", and says the amount is Claude's. How many points come off a bond's ledger when its companion dies?",
     "raised_at": 1791401812,
