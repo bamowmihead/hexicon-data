@@ -56,7 +56,7 @@
     "links_json": [
       "soul.willpower_bonus_divisor"
     ],
-    "notes": "",
+    "notes": "This description gives me nothing to work with.",
     "proposed_answer": null,
     "question": "The rule soul.willpower_bonus_divisor is \"pending\" at 2; its note says \"Per die is canon; the divisor is Claude's.\" Willpower bonus per die = ⌊Willpower ÷ 2⌋ as it stands. Do you lock 2, or pick another divisor?",
     "raised_at": 1791401812,
