@@ -411,7 +411,7 @@
     "type": "filing-decision"
   },
   {
-    "awaiting": null,
+    "awaiting": "claude",
     "choices_json": [],
     "context": "",
     "difficulty": 1,
@@ -420,7 +420,7 @@
     "links_json": [
       "world.shear_m"
     ],
-    "notes": "",
+    "notes": "I'm not sure what that rule is and what it's for can you explain it?",
     "proposed_answer": null,
     "question": "The rule world.shear_m has status \"canon\" with value 2, but its own note says \"the number is Claude's until Reece has seen a place shear\". Is 2 metres canon, or should the rule be marked pending until you have seen a location shear?",
     "raised_at": 1791401812,
@@ -429,7 +429,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
-    "thread_json": [],
+    "thread_json": [
+      {
+        "at": 1792860247,
+        "text": "I'm not sure what that rule is and what it's for can you explain it?",
+        "who": "reece"
+      }
+    ],
     "type": "canon-conflict"
   },
   {
@@ -590,15 +596,15 @@
       "rt-93970c",
       "rt-a6425d"
     ],
-    "notes": "",
+    "notes": "well we are about to integrate the vocation hex system along with much of the magic logic for channelers.",
     "proposed_answer": null,
     "question": "The companion kind \"beast\" (relationship \"Attunement\", points \"attunement point\") is bound to the vocation Berserker 2.0, whose description says \"Unreleased. Assign to nobody until Reece releases 2.0; the live Berserker is untouched.\" Yet four beasts are owned by houses today: Jimothy and Stinky (Jarraxus), Grackle (Shawnanigans), Phteve (Serenity), and Bledger and Korven practise the live Berserker. Does the beast bond belong to the live Berserker now, or do these four sit outside the companion system until 2.0 is released?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 3.0,
-    "resolved_at": null,
+    "resolved_at": 1792860199,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "canon-conflict"
   },
