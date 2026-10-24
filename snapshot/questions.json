@@ -813,15 +813,15 @@
     "links_json": [
       "rt-ork-base"
     ],
-    "notes": "",
+    "notes": "Orks are large humanoid goblins. They wander around the forests eternally hunting, training, and protecting their Spawn.",
     "proposed_answer": null,
     "question": "Ork (species Goblinoid, size Large, might 6, 6 links) has no tagline or bio. A tagline?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 27.0,
-    "resolved_at": null,
+    "resolved_at": 1792866597,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
