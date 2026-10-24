@@ -47,7 +47,7 @@
     "type": "needs-prose"
   },
   {
-    "awaiting": null,
+    "awaiting": "claude",
     "choices_json": [],
     "context": "",
     "difficulty": 2,
@@ -65,7 +65,13 @@
     "resolved_at": null,
     "shuffle_count": 0,
     "status": "open",
-    "thread_json": [],
+    "thread_json": [
+      {
+        "at": 1792865085,
+        "text": "This description gives me nothing to work with.",
+        "who": "reece"
+      }
+    ],
     "type": "canon-conflict"
   },
   {
@@ -157,15 +163,15 @@
       "66",
       "67"
     ],
-    "notes": "",
+    "notes": "remove the meta version",
     "proposed_answer": null,
     "question": "Subspace exists twice in Locations. Row 66 is on the surface at hex 3038, node key \"center\", level 1, with the description \"so very kinky\". Row 67 is flagged is_meta with no hex. Which one is the real Subspace, and is the other a meta container to keep?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 9.0,
-    "resolved_at": null,
+    "resolved_at": 1792865294,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "filing-decision"
   },
@@ -349,15 +355,15 @@
       "equ-381924",
       "equ-kit-quiver"
     ],
-    "notes": "yes they should be able to fit in either hip slot or on shoulder slots too. some items can be equipped in different locations.",
+    "notes": "yes they should be able to fit in either hip slot or on shoulder slots too. some items can be equipped in multiple locations.",
     "proposed_answer": null,
     "question": "Quiver exists twice in Equipment with different slot rules. equ-381924: slot \"Hip\", category \"Hip Mounted\", description \"Required for Bows & Crossbows\", completion \"Incomplete\". equ-kit-quiver: slots \"back\", \"hip_1\", \"hip_2\", no description. Which slots does a Quiver take, and do both rows stay?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 7.0,
-    "resolved_at": null,
+    "resolved_at": 1792865105,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "canon-conflict"
   },
@@ -374,15 +380,15 @@
       "gear-soul-staff",
       "gear-soul-wand"
     ],
-    "notes": "glove, amulet, spike, wand, is 1 there are 2 kinds of foci",
+    "notes": "glove, amulet, spike, wand, is 1 staff and stave is 2 but that's for foci slots They also get sigil slots gloves 2, amulet 2, nail 1, spike 2, wand 3, staff and stave 5.",
     "proposed_answer": null,
     "question": "Four foci carry a slot count of 1 in the Foci table while their gear descriptions still say \"Slot count PENDING (1)\": Amulet (\"A worn foci\"), Glove (\"A worn foci\"), Staff (\"A held foci\"), Wand (\"A held foci\"). Spike (2) and Stave (5) are settled by the March kit. Is 1 slot final for these four?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 8.0,
-    "resolved_at": null,
+    "resolved_at": 1792865220,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "canon-conflict"
   },
@@ -398,15 +404,15 @@
       "shop-ii-18b748d6f530e8e8",
       "46"
     ],
-    "notes": "",
+    "notes": "the ferry walk market is the downtime shop which they can access when they're in a Riftstone settlement.",
     "proposed_answer": null,
     "question": "The shop \"The Ferry Walk Market\" has no location (location_id 0), while \"The Ferry Landing Market\" sits at Ferry Landing (location 46 / shop location 63). Where is The Ferry Walk Market, or is it the same market under an older name?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 10.0,
-    "resolved_at": null,
+    "resolved_at": 1792865341,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "filing-decision"
   },
@@ -456,9 +462,9 @@
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 15.0,
-    "resolved_at": null,
+    "resolved_at": 1792865062,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -712,15 +718,15 @@
       "pc-193c2a",
       "pc-933f24"
     ],
-    "notes": "Berserkers are creature specialists trained by the Druids of The Greater Circle. They're taught to perform Alchemy with ingredients from the hunt. They befriend Wild Creatures The Pact. They become one with them through Attunement and Trancing. ",
+    "notes": "Berserkers are creature specialists trained by the Druids of The Greater Circle. They're taught to perform Alchemy with ingredients from the hunt. They befriend and train with Wild Animals. They become one with them through Attunement and Trancing. ",
     "proposed_answer": null,
     "question": "The vocation Berserker (energy kind \"reagents\") has no description; Bledger and Korven practise it. A sentence for the vocation?",
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 16.0,
-    "resolved_at": null,
+    "resolved_at": 1792865066,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "needs-prose"
   },
@@ -791,9 +797,9 @@
     "raised_at": 1791401812,
     "raised_by": "claude",
     "rank": 6.0,
-    "resolved_at": null,
+    "resolved_at": 1792865091,
     "shuffle_count": 0,
-    "status": "open",
+    "status": "resolved",
     "thread_json": [],
     "type": "canon-conflict"
   },
